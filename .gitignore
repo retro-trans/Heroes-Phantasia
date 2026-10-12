@@ -27,6 +27,7 @@ incoming/
 *.dll
 *.ppst
 *.dmp
+*.lnk
 work/local/
 work/ui/**
 # Selected English layout/proof metadata is added explicitly.

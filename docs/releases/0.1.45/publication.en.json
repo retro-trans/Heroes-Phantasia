@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "repo": "retro-trans/Heroes-Phantasia",
+  "tag": "v0.1.45",
+  "release_url": "https://github.com/retro-trans/Heroes-Phantasia/releases/tag/v0.1.45",
+  "author": "binhlt0402",
+  "draft": false,
+  "source_commit": "fb555f19be706c6179e045bbcab9f11e89adfad5",
+  "public_source_commit_verified": true,
+  "tag_source_commit_verified": true,
+  "all_four_uploaded_asset_hashes_and_sizes_match": true,
+  "assets": [
+    {
+      "name": "BUILD-MANIFEST.json",
+      "bytes": 809,
+      "sha256": "6e032a02c35faa8f89bf088ef66de0393a00e53c200048348835a7b2c9e8a110",
+      "verification": "GitHub SHA256 asset digest",
+      "url": "https://github.com/retro-trans/Heroes-Phantasia/releases/download/v0.1.45/BUILD-MANIFEST.json"
+    },
+    {
+      "name": "Heroes-Phantasia-English-0.1.45.xdelta",
+      "bytes": 391699974,
+      "sha256": "06cbbb3dbe5b9a18d44db84fb128083c7b2f937c7791426397c45e06c7832899",
+      "verification": "GitHub SHA256 asset digest",
+      "url": "https://github.com/retro-trans/Heroes-Phantasia/releases/download/v0.1.45/Heroes-Phantasia-English-0.1.45.xdelta"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 276,
+      "sha256": "e649886f9717fab248c057739e6c7480893df107c479dbea89c9fb1ff1cf3ade",
+      "verification": "GitHub SHA256 asset digest",
+      "url": "https://github.com/retro-trans/Heroes-Phantasia/releases/download/v0.1.45/SHA256SUMS.txt"
+    },
+    {
+      "name": "VALIDATION.json",
+      "bytes": 328,
+      "sha256": "62890db0cb436e4572ea32a5fcfd0ffb85cb2e2725a7be4c40a8a776aaec44b1",
+      "verification": "GitHub SHA256 asset digest",
+      "url": "https://github.com/retro-trans/Heroes-Phantasia/releases/download/v0.1.45/VALIDATION.json"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "repo": "retro-trans/Heroes-Phantasia",
+  "tag": "v0.1.45",
+  "catalog": "public",
+  "catalog_sha256": "9baf00efe99c15fe2d86598b585734781e3a2a3f04dba6c4dba137f6830fd7a5",
+  "stable_game_id": "heroes-phantasia",
+  "platform": "PSP",
+  "original_to_latest_one_patch": true,
+  "explicit_version_route": true,
+  "current_version_no_op": true,
+  "unknown_hash_rejected": true,
+  "manifest_and_patch_identity_agree": true,
+  "source_commit": "fb555f19be706c6179e045bbcab9f11e89adfad5",
+  "gameplay_testing_verified": false
+}
