@@ -14,19 +14,19 @@ See the [release notes](https://github.com/retro-trans/Heroes-Phantasia/releases
 
 For manual patching:
 
-1. Dump your own Japanese disc to an ISO. The first release accepts this exact image:
+1. Dump your own Japanese disc to an ISO. The full patch accepts this exact image:
    - `Heroes Phantasia (Japan).iso`, **1,415,020,544 bytes**
    - SHA-256 `2c3583f377cdaa9132d349a0039d7f6ffe21cac093476c7746705e8af2b03b40`
-2. Download `Heroes-Phantasia-English-0.1.45.xdelta` from [Releases](https://github.com/retro-trans/Heroes-Phantasia/releases/latest).
+2. Download `Heroes-Phantasia-English-0.1.50.xdelta` from [Releases](https://github.com/retro-trans/Heroes-Phantasia/releases/latest).
 3. Apply it with xdelta3 or [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher):
 
    ```text
-   xdelta3 -d -s "Heroes Phantasia (Japan).iso" Heroes-Phantasia-English-0.1.45.xdelta "Heroes Phantasia English 0.1.45.iso"
+   xdelta3 -d -s "Heroes Phantasia (Japan).iso" Heroes-Phantasia-English-0.1.50.xdelta "Heroes Phantasia English 0.1.50.iso"
    ```
 
-4. Check the output against `BUILD-MANIFEST.json`, then boot it in PPSSPP. Version 0.1.45 produces **2,644,776,960 bytes**, SHA-256 `5a59a2c07b1de69cac94efcc0d1114d97b0a48c91c08de95d8a55460b6d4b4ac`.
+4. Check the output against `BUILD-MANIFEST.json`, then boot it in PPSSPP. Version 0.1.50 produces **2,647,455,744 bytes**, SHA-256 `fa420a494942817a7498615716b8b43bbc5ff4a817abb3cdb4354a90e89df8b8`.
 
-The larger output contains appended translation resources. This first public release provides a full patch from the original Japanese ISO. Previous local candidates are not supported upgrade inputs.
+The larger output contains appended translation resources. The release provides a full patch from the original Japanese ISO and `Heroes-Phantasia-English-0.1.45-to-0.1.50.xdelta` for the exact published 0.1.45 ISO. Retro Trans selects the matching route automatically. Both patches produce the same image; other local candidates are not supported upgrade inputs.
 
 ## Check the translation
 

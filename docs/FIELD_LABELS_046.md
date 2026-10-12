@@ -1,0 +1,15 @@
+# Quest, Camp, map and headquarters text
+
+**Rejected local test candidate:** 0.1.46 passed static and live loaded-string checks but remained on a black screen after system-data loading. The exact transition failure cause is unconfirmed. Use the replacement build described in [FIELD_LABELS_047.md](FIELD_LABELS_047.md).
+
+Local build 0.1.46 replaces the remaining Japanese reported in five player screenshots. The Quest menu now uses **Main Quests** and **Subquests**; Camp uses **Shop** and **Subquests**. The field-map controls use **Scroll**, **Switch Page**, **Reset** and **Help**. All 28 selected shared menu entries also include Shop purchase/sale labels, map legend names and related navigation commands.
+
+The headquarters messages read **The elevator seems to be out of service...** and **I need to head to the Data Room to get more information!** Both source-authored protagonist branches are covered. The same installation covers all 15 centered style-5 occurrences in `fld/event/d01.evt`: 12 unique notices, including party announcements, destination unlocks and other movement restrictions. This is headquarters coverage, not a claim that all event files throughout the game are translated.
+
+The native table0 pointers still use their existing typed R32 relocation records. Complete English strings have fresh storage beyond the inherited payload. Exact complete event payloads, including their NUL terminators, select English strings at the existing styled-parser entry. The new helper chains the previous Episode 1 helper; the event resource, its instruction boundaries, triggers, selectors and timing remain byte-identical. Only the long rank-bearing party announcement adds one layout line break; its complete wording and semantic controls remain intact.
+
+The installation adds 2,352 loaded bytes and 49 relocation records. Three independent load-base checks preserve all other loaded memory and execute 1,044 exact-match, mutation, truncated-input, null, empty and passthrough cases each. The dynamic given-name selector is retained and measured using the reviewed 17-character native limit. Font, default-name, speech-bubble and prior Episode 1 code remain byte-identical. The forecast leaves 16,348 bytes after the previously modeled allocations; actual contiguous gameplay heap availability remains unmeasured.
+
+Preparation is `tools/prepare_field_labels_046.py`, default dry-run with hash-guarded writes. `tools/build_field_labels_046.ps1` invokes the authoritative `tools/build_local.py` with the previous archive and English prologue. Translation source remains local in the ignored working queue; `tools/strip_jp.py` exports the 40 source-free English rows to `work/translation/en/field_labels_046.en.json`.
+
+Current-build startup, loaded-pointer checks and gameplay placement evidence are recorded separately under `work/ui/field_labels/0.1.46` and `work/ui/title/0.1.46`. Player screenshots are references with an unknown build version. Natural display of the reported Quest/Camp/map screens and event notices must be checked on the new build. No GitHub release is authorized for 0.1.46.

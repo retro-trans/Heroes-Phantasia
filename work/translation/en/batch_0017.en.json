@@ -22,9 +22,9 @@
       "byte_length": 101,
       "encoding": "cp932",
       "category": "story_dialogue",
-      "target": "{1C}Lina{0E}All right, descendant of the hero{0F}2hero{0F}!{11}Now that this beautiful genius sorceress is here,{11}your troubles are over!{12}{0E}",
+      "target": "{1C}Lina{0E}All right, descendant{11}of the hero{0F}2hero{0F}!{11}Now that this{11}beautiful genius{11}sorceress is here,{11}your troubles are over!{12}{0E}",
       "status": "draft",
-      "notes": "Draft; relocation and VWF rendering require in-game QA. Ruby reading translated while the original span argument remains unchanged; builder must verify display. Hero and Hideo readings are distinct.",
+      "notes": "Draft; relocation and VWF rendering require in-game QA. Ruby reading translated while the original span argument remains unchanged; builder must verify display. Hero and Hideo readings are distinct. 0.1.48: Four-line reflow installed in both protagonist variants; words, ruby and native portrait/bubble tracks preserved. Static and bounded-instruction checks pass; natural playback remains unverified. 0.1.49: Six-line reflow replaces the rejected four-line candidate. Native polygon, sloping interior, preserved tail ray/endpoint and repeat-draw tests pass in isolated preparation; natural scene playback remains unverified.",
       "context": "Lina addresses the protagonist as the hero's descendant and announces a rescue.",
       "decisions": "This ruby reading is hero, not Hideo. Preserved argument 2 and Lina's self-praise as a beautiful genius sorceress."
     },

@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "rows": [
+    {
+      "id": "command_048_59",
+      "category": "battle_command_ui",
+      "target": "Force a Breakthrough",
+      "status": "installed_static_verified",
+      "native_index": 59
+    },
+    {
+      "id": "command_048_57",
+      "category": "battle_command_ui",
+      "target": "Declare Victory",
+      "status": "installed_static_verified",
+      "native_index": 57
+    },
+    {
+      "id": "command_048_56",
+      "category": "battle_command_ui",
+      "target": "Breakthrough",
+      "status": "installed_static_verified",
+      "native_index": 56
+    },
+    {
+      "id": "command_048_55",
+      "category": "battle_command_ui",
+      "target": "Commands",
+      "status": "installed_static_verified",
+      "native_index": 55
+    },
+    {
+      "id": "command_048_58",
+      "category": "battle_command_ui",
+      "target": "End Turn",
+      "status": "installed_static_verified",
+      "native_index": 58
+    },
+    {
+      "id": "command_048_62",
+      "category": "battle_command_ui",
+      "target": "Enemies",
+      "status": "installed_static_verified",
+      "native_index": 62
+    },
+    {
+      "id": "command_048_61",
+      "category": "battle_command_ui",
+      "target": "Allies",
+      "status": "installed_static_verified",
+      "native_index": 61
+    },
+    {
+      "id": "command_048_60",
+      "category": "battle_command_ui",
+      "target": "Skip",
+      "status": "installed_static_verified",
+      "native_index": 60
+    }
+  ]
+}

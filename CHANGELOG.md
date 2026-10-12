@@ -1,5 +1,35 @@
 # Changelog
 
+## 0.1.50 — 2026-10-12 (HQ exit confirmation)
+
+- Repairs the blank "Go to the World Map?" question when leaving headquarters. Its translated string was intact, but the legacy question renderer discarded single-byte English glyphs. All 26 callers of that plain confirmation path now select the existing English VWF renderer for printable Latin text; Japanese and leading-control inputs retain their original path.
+- Updates 19 related centered question layouts to measure English advances, recognizing the original final 0E control. Preserves Yes/No choices, event commands, prior dialogue fixes, font and loaded memory extents. Validation and remaining gameplay limits are recorded in `docs/HQ_EXIT_050.md`. Creates a separate local test build with a 0.1.50 title stamp. Public release authorized on 2026-10-13, with full and published-0.1.45 upgrade patches packaged through Retro Trans Tools.
+- Installed native checks pass all eight width and five draw cases, reproducing the old blank and confirming every repaired question glyph and its VWF position. Startup and the reviewed title stamp pass; nested executable/title/event readbacks match, and 5,185 unselected archive rows remain exact relative to 0.1.49. A natural HQ exit playthrough remains unverified.
+
+## 0.1.49 — 2026-10-12 (native-tested Lina layout and battle commands)
+
+- Carries forward the eight English battle-command labels, widened cards and bounded Latin pronunciation handlers from 0.1.48. Replaces Lina's four-line candidate with six lines in both protagonist variants, retaining the complete sentence, ruby controls, all other dialogue and authored portrait/bubble tracks.
+- The isolated native preparation test confirms the six-line body fits its sloping interior and viewport, preserves the original tail endpoint/ray and outline, and draws repeatedly without drift. Carries forward the font, menu/notices, numeric command costs and English prologue. Final installed/startup checks and gameplay limits are recorded in `docs/DIALOGUE_COMMANDS_048.md`. No GitHub release requested or created for this build.
+- Final installed validation passes all 224 native bubble regression cases, 21 measurement cases, 10 bounded scanner cases, 36 loaded labels and 12 inherited notice keys/targets. Fresh isolated startup/title/menu and the displayed 0.1.49 stamp pass. Nested selected assets match; 5,183 unselected archive rows remain exact relative to 0.1.47. Natural Lina/command-menu display and battle effects remain unverified.
+
+## 0.1.48 — 2026-10-12 (Lina dialogue and battle commands)
+
+- Fixes the overflowing Lina introduction in both protagonist scenes. Accepts nonempty printable Latin pronunciation readings with the original span digit 2 in both bounded text measurement and bubble validation. Rewraps the complete sentence into four lines; preserves words, ruby controls, other dialogue, portrait animation and native tail anchors.
+- Translates all eight entries in the shared battle-command cluster: Commands, Breakthrough, Declare Victory, End Turn, Force a Breakthrough, Skip, Allies and Enemies. Widens the R Commands plate and the affected action cards for full English wording while retaining buttons, costs and gauge placement. Reuses only unconsumed audited retired text storage, with zero loaded-memory growth and unchanged relocation records.
+- Builds a separate local ISO through `tools/build_local.py` with the 0.1.48 title stamp and existing translations/prologue. Rejects the four-line Lina layout after native execution retains fallback geometry: its body cannot fit the authored anchor ray in the safe viewport. The six-line native-tested replacement is installed in 0.1.49. No GitHub release requested or created for this build.
+
+## 0.1.47 — 2026-10-12 (field text with no loaded-memory growth)
+
+- Reinstalls the 28 shared Quest/Camp/Shop/map labels and 12 unique headquarters notices across all 15 style-5 event occurrences, including both protagonist branches. The elevator and Data Room prompts use complete English; the rank-bearing party announcement wraps without dropping names or ranks.
+- Reuses audited retired original text storage and the original notification bank after proving its 14 consumers already select the installed replacement. Keeps the existing three loaded program extents, font, names, bubble helpers, prior Episode 1 helper and complete original event bytecode unchanged. Adds zero loaded bytes; the file grows only 432 bytes for 49 relocation records and their section header. Three independent load-base models execute 3,132 passing dispatch cases.
+- Builds a replacement local ISO through `tools/build_local.py` with the 0.1.47 title stamp, carrying forward the previous archive translations, all battle labels/location banners and English prologue. Fresh isolated startup, title/menu review, all 40 loaded strings and scoped nested-ISO/archive checks pass; 5,185 unselected archive rows remain exact. A separate current typed-reference audit confirms no other inventoried owner uses the retired storage. Natural Quest/Camp/map placement and notice display remain unverified. No GitHub release created for this build.
+
+## 0.1.46 — 2026-10-12 (quest, Camp, map and headquarters text)
+
+- Installs 28 shared menu labels, including Main Quests, Subquests, Shop, Scroll, Switch Page, Reset and Help. Covers related Shop actions, map legends and navigation labels; keeps existing native pointer owners and complete English wording.
+- Translates the elevator and Data Room movement notices in both protagonist branches, plus the other headquarters style-5 notices: 12 unique texts across 15 authored occurrences. Preserves event bytecode, triggers, timing and dynamic player-name selection. The full Giroro/Tamama/Hei party announcement receives one layout line break.
+- Chains the existing Episode 1 parser replacement and preserves the previous font, default names and speech-bubble code. Three load-base models and 3,132 emitted-instruction cases pass; adds 2,352 loaded bytes. Exports 40 English-only translation rows. Builds a separate local ISO with the 0.1.46 title stamp. Live pointers and complete notice keys/targets pass, but startup stays on a black screen after system-data loading. Rejects this candidate; the exact transition failure cause remains unconfirmed. No GitHub release created for this build.
+
 ## 0.1.45 — 2026-10-12 (shared battle bitmap readability)
 
 - Extends the readability treatment to the remaining twelve whole battle labels and three encounter headings. Uses Roboto Condensed Bold rasterized at 4x into solid white native pixels, enlarging lettering where the original slots permit. Narrow labels display OBS, HP MOD and Foe; full semantic terms remain in translation data. Preserves all eight improved stat badges from 0.1.44.

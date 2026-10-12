@@ -34,11 +34,11 @@ def audit():
         Japanese_names_and_UI_terms_allowed=True,index_entries=rows)
 
 def main():
-    p=argparse.ArgumentParser(description=__doc__);p.add_argument('--write',action='store_true');a=p.parse_args()
+    p=argparse.ArgumentParser(description=__doc__);p.add_argument('--write',action='store_true');p.add_argument('--output',type=Path,default=Path('docs/releases/0.1.45/public-source-audit.en.json'));a=p.parse_args()
     report=audit();print(json.dumps({k:v for k,v in report.items() if k!='index_entries'},indent=2))
     print('Sample staged paths:',[r['path'] for r in report['index_entries'][:8]])
     if a.write:
-        dest=Path('docs/releases/0.1.45/public-source-audit.en.json')
+        dest=a.output
         if dest.exists():raise ValueError('Fresh audit output required')
         dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(json.dumps(report,indent=2)+'\n',encoding='utf8')
     else:print('DRY RUN: no evidence writes.')

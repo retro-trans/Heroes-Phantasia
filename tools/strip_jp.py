@@ -8,7 +8,7 @@ import argparse, json, pathlib, re
 JP = re.compile(r'[\u3040-\u30ff\u3400-\u9fff\uf900-\ufaff\uff66-\uff9d]')
 SAFE_FIELDS = ('id', 'file', 'offset', 'byte_length', 'encoding', 'category',
                'speaker_id', 'target', 'status', 'notes', 'context', 'decisions',
-               'source_omission_preserved')
+               'source_omission_preserved', 'native_index')
 
 def export(data):
     rows = data if isinstance(data,list) else data['rows']
