@@ -1,0 +1,521 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "entries": [
+    {
+      "id": "voice_credit_001",
+      "category": "voice_actor_credit",
+      "ja": "渡辺久美子",
+      "en": "Kumiko Watanabe",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kumiko_Watanabe",
+        "https://sigma7.co.jp/actors/watanabe_kumiko/"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_002",
+      "category": "voice_actor_credit",
+      "ja": "小桜エツコ",
+      "en": "Etsuko Kozakura",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Etsuko_Kozakura"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_003",
+      "category": "voice_actor_credit",
+      "ja": "中田譲治",
+      "en": "Jouji Nakata",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jouji_Nakata",
+        "https://osawa-inc.co.jp/men/nakatajouji/"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_004",
+      "category": "voice_actor_credit",
+      "ja": "子安武人",
+      "en": "Takehito Koyasu",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Takehito_Koyasu",
+        "https://tsf-official.com/talent/takehito-koyasu/"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_005",
+      "category": "voice_actor_credit",
+      "ja": "草尾毅",
+      "en": "Takeshi Kusao",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Takeshi_Kusao",
+        "https://www.aoni.co.jp/search/kusao-takeshi.html"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_006",
+      "category": "voice_actor_credit",
+      "ja": "能登麻美子",
+      "en": "Mamiko Noto",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mamiko_Noto",
+        "https://osawa-inc.co.jp/women/notomamiko/"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_007",
+      "category": "voice_actor_credit",
+      "ja": "飛田展男",
+      "en": "Nobuo Tobita",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nobuo_Tobita"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_008",
+      "category": "voice_actor_credit",
+      "ja": "大塚明夫",
+      "en": "Akio Otsuka",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Akio_Otsuka"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_009",
+      "category": "voice_actor_credit",
+      "ja": "渡辺明乃",
+      "en": "Akeno Watanabe",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Akeno_Watanabe",
+        "https://osawa-inc.co.jp/women/watanabeakeno/"
+      ],
+      "confidence": "researched",
+      "notes": "Official agency gives Akeno Watanabe and the reading akeno; Akino is a different reading and is not accepted.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_010",
+      "category": "voice_actor_credit",
+      "ja": "矢尾一樹",
+      "en": "Kazuki Yao",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kazuki_Yao"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_011",
+      "category": "voice_actor_credit",
+      "ja": "保志総一朗",
+      "en": "Soichiro Hoshi",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Soichiro_Hoshi",
+        "https://www.kingrecords.co.jp/cs/artist/artist.aspx?artist=19260"
+      ],
+      "confidence": "researched",
+      "notes": "Official King Records spells Soichiro Hoshi; Wikipedia uses the equivalent macron form Sōichirō Hoshi.",
+      "aliases": [
+        "Sōichirō Hoshi",
+        "Souichirou Hoshi"
+      ],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_012",
+      "category": "voice_actor_credit",
+      "ja": "緑川光",
+      "en": "Hikaru Midorikawa",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hikaru_Midorikawa",
+        "https://www.aoni.co.jp/search/midorikawa-hikaru.html"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_013",
+      "category": "voice_actor_credit",
+      "ja": "津久井教生",
+      "en": "Kyousei Tsukui",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kyousei_Tsukui",
+        "https://www.81produce.co.jp/actor_search/index.php/item?cell003=%E3%81%9F%E8%A1%8C&id=80&label=1&name=%E6%B4%A5%E4%B9%85%E4%BA%95%E3%80%80%E6%95%99%E7%94%9F&page=2"
+      ],
+      "confidence": "researched",
+      "notes": "Official 81 Produce explicitly spells Kyousei Tsukui; retain this established ASCII spelling.",
+      "aliases": [
+        "Kyōsei Tsukui",
+        "Kyosei Tsukui"
+      ],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_014",
+      "category": "voice_actor_credit",
+      "ja": "田村ゆかり",
+      "en": "Yukari Tamura",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yukari_Tamura",
+        "https://www.tamurayukari.com/profile/"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_015",
+      "category": "voice_actor_credit",
+      "ja": "冬馬由美",
+      "en": "Yumi Touma",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yumi_T%C5%8Dma",
+        "https://www.allure-y.jp/Profile.html"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia explicitly lists Yumi Touma as an alternative to its macron headword; official site confirms the credit identity and reading.",
+      "aliases": [
+        "Yumi Tōma",
+        "Yumi Toma"
+      ],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_016",
+      "category": "voice_actor_credit",
+      "ja": "まるたまり",
+      "en": "Mari Maruta",
+      "sources": [
+        "https://www.artsvision.co.jp/talent/14260/"
+      ],
+      "confidence": "researched",
+      "notes": "Official Arts Vision profile explicitly gives MARI MARUTA; no English Wikipedia biography found. Tama is an incorrect proposed given name.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_017",
+      "category": "voice_actor_credit",
+      "ja": "大本眞基子",
+      "en": "Makiko Ohmoto",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Makiko_Ohmoto",
+        "https://ameblo.jp/makiko-ohmoto/"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia headword and official blog identity use Ohmoto. Omoto/Oomoto are romanization alternatives, but Ohmoto is proposed as the protected credit spelling.",
+      "aliases": [
+        "Makiko Ōmoto",
+        "Makiko Omoto",
+        "Makiko Oomoto"
+      ],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_018",
+      "category": "voice_actor_credit",
+      "ja": "岩永哲哉",
+      "en": "Tetsuya Iwanaga",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tetsuya_Iwanaga"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_019",
+      "category": "voice_actor_credit",
+      "ja": "高田裕司",
+      "en": "Yuji Takada",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Y%C5%ABji_Takada",
+        "https://osawa-inc.co.jp/men/takadayuji/"
+      ],
+      "confidence": "researched",
+      "notes": "Official Osawa profile explicitly spells Yuji Takada; do not confuse this actor with the wrestler of the same romanized name.",
+      "aliases": [
+        "Yūji Takada"
+      ],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_020",
+      "category": "voice_actor_credit",
+      "ja": "白鳥哲",
+      "en": "Tetsu Shiratori",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tetsu_Shiratori"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_021",
+      "category": "voice_actor_credit",
+      "ja": "中原麻衣",
+      "en": "Mai Nakahara",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mai_Nakahara",
+        "https://www.lantis.jp/en/artist/7bc8f5252880baf198e12152837e8b28/"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_022",
+      "category": "voice_actor_credit",
+      "ja": "千葉紗子",
+      "en": "Saeko Chiba",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saeko_Chiba"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_023",
+      "category": "voice_actor_credit",
+      "ja": "清水愛",
+      "en": "Ai Shimizu",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ai_Shimizu"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_024",
+      "category": "voice_actor_credit",
+      "ja": "進藤尚美",
+      "en": "Naomi Shindo",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Naomi_Shindo",
+        "https://www.aoni.co.jp/search/shindo-naomi.html"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added. The proposed ASCII form preserves the established romanization without display macrons.",
+      "aliases": [
+        "Naomi Shindō"
+      ],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_025",
+      "category": "voice_actor_credit",
+      "ja": "南里侑香",
+      "en": "Yuuka Nanri",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yuuka_Nanri",
+        "https://www.jvcmusic.co.jp/flyingdog/-/Artist/A019350.html"
+      ],
+      "confidence": "researched",
+      "notes": "Official FlyingDog artist page spells Yuuka Nanri; Wikipedia uses the equivalent macron form Yūka Nanri.",
+      "aliases": [
+        "Yūka Nanri",
+        "Yuka Nanri"
+      ],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_026",
+      "category": "voice_actor_credit",
+      "ja": "浅井清己",
+      "en": "Kiyomi Asai",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kiyomi_Asai"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_027",
+      "category": "voice_actor_credit",
+      "ja": "三浦理恵子",
+      "en": "Rieko Miura",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rieko_Miura"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_028",
+      "category": "voice_actor_credit",
+      "ja": "根谷美智子",
+      "en": "Michiko Neya",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Michiko_Neya"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_029",
+      "category": "voice_actor_credit",
+      "ja": "岩崎征実",
+      "en": "Masami Iwasaki",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Masami_Iwasaki",
+        "https://www.oginext.com/men/iwasaki/"
+      ],
+      "confidence": "researched",
+      "notes": "Official OgiPro gives the reading masami; English Wikipedia gives Masami Iwasaki. Narumi is an incorrect reading.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_030",
+      "category": "voice_actor_credit",
+      "ja": "大谷亮介",
+      "en": "Ryosuke Otani",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ryosuke_Otani"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added. The proposed ASCII form preserves the established romanization without display macrons.",
+      "aliases": [
+        "Ryōsuke Ōtani"
+      ],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_031",
+      "category": "voice_actor_credit",
+      "ja": "高橋広樹",
+      "en": "Hiroki Takahashi",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hiroki_Takahashi"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_032",
+      "category": "voice_actor_credit",
+      "ja": "林原めぐみ",
+      "en": "Megumi Hayashibara",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Megumi_Hayashibara"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_033",
+      "category": "voice_actor_credit",
+      "ja": "松本保典",
+      "en": "Yasunori Matsumoto",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yasunori_Matsumoto"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    },
+    {
+      "id": "voice_credit_034",
+      "category": "voice_actor_credit",
+      "ja": "鈴木真仁",
+      "en": "Masami Suzuki",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Masami_Suzuki"
+      ],
+      "confidence": "researched",
+      "notes": "English Wikipedia confirms this credit name. Use Western given-name/surname order; no biographical traits are being added.",
+      "aliases": [],
+      "franchise": "Voice credits",
+      "status": "root_approved_researched"
+    }
+  ]
+}

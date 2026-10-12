@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "version": "0.1.0",
+  "language": "en",
+  "status": "Initial corpus terminology; original place names provisional",
+  "entries": [
+    {
+      "id": "initial_001",
+      "category": "location",
+      "ja": "結束の森",
+      "en": "Forest of Unity",
+      "confidence": "provisional",
+      "sources": [
+        "work/source/cpk/menu/Gallery/qm/QmHelp000.bin",
+        "local:work/translation/en/batch_0097.json"
+      ],
+      "notes": " Current protagonist recalls reaching the Forest of Unity after Ryudock's repeated teleportation on the prior visit. Recalled past route; no current guaranteed shortcut, renamed forest or completed present journey."
+    },
+    {
+      "id": "initial_002",
+      "category": "location",
+      "ja": "出会いの森",
+      "en": "Forest of Encounters",
+      "confidence": "provisional",
+      "sources": [
+        "work/source/cpk/menu/Gallery/qs/QsHelp000.bin"
+      ]
+    },
+    {
+      "id": "initial_003",
+      "category": "location",
+      "ja": "ポイントデルタ・１２",
+      "en": "Point Delta-12",
+      "confidence": "provisional",
+      "sources": [
+        "work/source/cpk/menu/Gallery/qm/QmHelp000.bin",
+        "local:work/translation/en/batch_0076.json",
+        "local:work/translation/en/batch_0106.json"
+      ],
+      "aliases": [
+        "デルタ１２",
+        "Delta-12"
+      ],
+      "notes": "Point Delta-12 is established project form from original map/quests. Dialogue short Delta-12 stays short where source omits Point. Place is gate facility area, not automatically the exact gate aperture. No unrelated BLOOD+ Delta Project or D67 merge. Current briefing confirms gate connection from Point Delta-12 in Lost Ground to Crossing Forest in Adroas; two named points, not automatically all-world travel or exact aperture coordinates."
+    },
+    {
+      "id": "initial_004",
+      "category": "organization",
+      "ja": "フシガル王家",
+      "en": "Fushigar royal family",
+      "confidence": "provisional",
+      "sources": [
+        "work/source/cpk/menu/Gallery/kno/GkHelp000.bin"
+      ]
+    },
+    {
+      "id": "initial_005",
+      "category": "ui_term",
+      "ja": "魅力",
+      "en": "Charm",
+      "confidence": "provisional",
+      "sources": [
+        "work/source/cpk/menu/Gallery/spi/IsHelp.bin"
+      ]
+    },
+    {
+      "id": "initial_006",
+      "category": "ui_term",
+      "ja": "攻撃",
+      "en": "Attack",
+      "confidence": "draft",
+      "sources": [
+        "work/source/cpk/menu/Gallery/spi/IsHelp.bin"
+      ]
+    },
+    {
+      "id": "initial_007",
+      "category": "ui_term",
+      "ja": "連携",
+      "en": "Coordination",
+      "confidence": "provisional",
+      "sources": [
+        "work/source/cpk/menu/Gallery/spi/IsHelp.bin"
+      ]
+    },
+    {
+      "id": "initial_008",
+      "category": "ui_term",
+      "ja": "命中",
+      "en": "Accuracy",
+      "confidence": "draft",
+      "sources": [
+        "work/source/cpk/menu/Gallery/spi/IsHelp.bin"
+      ]
+    },
+    {
+      "id": "initial_009",
+      "category": "ui_term",
+      "ja": "オフェンスアクション",
+      "en": "Offense Action",
+      "confidence": "draft",
+      "sources": [
+        "work/source/cpk/btl/skit/"
+      ]
+    },
+    {
+      "id": "initial_010",
+      "category": "ui_term",
+      "ja": "アクションポイント",
+      "en": "Action Points",
+      "aliases": [
+        "AP"
+      ],
+      "confidence": "draft",
+      "sources": [
+        "work/source/cpk/btl/skit/"
+      ]
+    },
+    {
+      "id": "initial_011",
+      "category": "song_title",
+      "ja": "青空のナミダ",
+      "en": "Aozora no Namida",
+      "confidence": "provisional_romanization",
+      "sources": [
+        "work/source/cpk/menu/LimitedSoundList.bin"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "batch": "batch_0107",
+  "date": "2026-10-11",
+  "reviewer": "/root/unpack",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "medium",
+  "rows_reviewed": 80,
+  "new_counted_context_row_views": 247,
+  "new_counted_scope": "125 complete base rows,10 changed variant rows,112 queue/context rows. Identical pairs and rereads excluded.",
+  "previously_reviewed_scene_rows_reused": 92,
+  "reused_scope": "90 base rows and two changed variant rows from previous full p316080/81 review; excluded from new count.",
+  "full_context_views_available": 339,
+  "source_occurrences_verified": 163,
+  "scene_count": 6,
+  "paired_reference_rows": 430,
+  "required_meaning_corrections": [
+    {
+      "row_index": 72,
+      "id": "31039d9bf15e468ac48f",
+      "finding": "Add also to preserve joining offer of help; missing action remains unstated.",
+      "applied": true,
+      "followup_confirmed": true
+    }
+  ],
+  "ambiguity_preserving_edits": [
+    {
+      "row_index": 7,
+      "id": "21b68fc2e6d3144e2448",
+      "finding": "Question may refer to deception or fun assessment. Broadened to Was it like that? and reviewer confirmed both readings retained.",
+      "applied": true,
+      "followup_confirmed": true
+    }
+  ],
+  "focused_checks": {
+    "shared4and21": "Neutral assent/vocative fits all contexts.",
+    "duplicated30": "Consecutive duplicated source references retained.",
+    "cutoffs": "19/28-29/57/72/75 genuinely incomplete;75 remains unfinished after refusal.",
+    "direction": "Guided tour, rest/departure, household work and drink permission directions pass."
+  },
+  "final_followup": "No meaning issue remains in two edits; row75 remains appropriately unfinished. Source-view counts unchanged for rereads.",
+  "runtime_approval": false,
+  "files_changed_by_reviewer": false
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "rows": [
+    {
+      "id": "exe_00094ee8_cp932",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 610024,
+      "byte_length": 4,
+      "encoding": "cp932",
+      "category": "executable_gallery_ui",
+      "target": "People",
+      "status": "draft",
+      "context": "Observed knowledge category labels; nominal taxonomy labels, not dialogue.",
+      "decisions": "Translate literal category scope; no expanded lore. Preserve stable table/index and source bytes.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "exe_00094eed_cp932",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 610029,
+      "byte_length": 10,
+      "encoding": "cp932",
+      "category": "executable_gallery_ui",
+      "target": "Monsters",
+      "status": "draft",
+      "context": "Observed knowledge category labels; nominal taxonomy labels, not dialogue.",
+      "decisions": "Translate literal category scope; no expanded lore. Preserve stable table/index and source bytes.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "exe_00094ef8_cp932",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 610040,
+      "byte_length": 4,
+      "encoding": "cp932",
+      "category": "executable_gallery_ui",
+      "target": "Abilities",
+      "status": "draft",
+      "context": "Observed knowledge category labels; nominal taxonomy labels, not dialogue.",
+      "decisions": "Translate literal category scope; no expanded lore. Preserve stable table/index and source bytes.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "exe_00094efd_cp932",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 610045,
+      "byte_length": 10,
+      "encoding": "cp932",
+      "category": "executable_gallery_ui",
+      "target": "Culture & History",
+      "status": "draft",
+      "context": "Observed knowledge category labels; nominal taxonomy labels, not dialogue.",
+      "decisions": "Translate literal category scope; no expanded lore. Preserve stable table/index and source bytes.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "exe_00094f08_cp932",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 610056,
+      "byte_length": 4,
+      "encoding": "cp932",
+      "category": "executable_gallery_ui",
+      "target": "Organizations",
+      "status": "draft",
+      "context": "Observed knowledge category labels; nominal taxonomy labels, not dialogue.",
+      "decisions": "Translate literal category scope; no expanded lore. Preserve stable table/index and source bytes.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "exe_00094f0d_cp932",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 610061,
+      "byte_length": 4,
+      "encoding": "cp932",
+      "category": "executable_gallery_ui",
+      "target": "Events",
+      "status": "draft",
+      "context": "Observed knowledge category labels; nominal taxonomy labels, not dialogue.",
+      "decisions": "Translate literal category scope; no expanded lore. Preserve stable table/index and source bytes.",
+      "source_omission_preserved": false
+    }
+  ]
+}

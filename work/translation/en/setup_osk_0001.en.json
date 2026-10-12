@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "rows": [
+    {
+      "id": "exe_00470ab0_utf16le",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 4655792,
+      "byte_length": 34,
+      "encoding": "utf-16-le",
+      "category": "executable_setup_ui",
+      "target": "Enter the protagonist's surname.",
+      "status": "draft",
+      "context": "OSK description",
+      "decisions": "Description permits Latin by removing obsolete fullwidth-only restriction."
+    },
+    {
+      "id": "exe_00470bb0_utf16le",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 4656048,
+      "byte_length": 2,
+      "encoding": "utf-16-le",
+      "category": "executable_setup_ui",
+      "target": "Watari",
+      "status": "draft",
+      "context": "OSK fallback default",
+      "decisions": "Latin protagonist default; sixth unrelated record preserved."
+    },
+    {
+      "id": "exe_00470cb0_utf16le",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 4656304,
+      "byte_length": 34,
+      "encoding": "utf-16-le",
+      "category": "executable_setup_ui",
+      "target": "Enter the protagonist's given name.",
+      "status": "draft",
+      "context": "OSK description",
+      "decisions": "Description permits Latin by removing obsolete fullwidth-only restriction."
+    },
+    {
+      "id": "exe_00470db0_utf16le",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 4656560,
+      "byte_length": 4,
+      "encoding": "utf-16-le",
+      "category": "executable_setup_ui",
+      "target": "Eiji",
+      "status": "draft",
+      "context": "OSK fallback default",
+      "decisions": "Latin protagonist default; sixth unrelated record preserved."
+    },
+    {
+      "id": "exe_00470eb0_utf16le",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 4656816,
+      "byte_length": 34,
+      "encoding": "utf-16-le",
+      "category": "executable_setup_ui",
+      "target": "Enter the protagonist's surname.",
+      "status": "draft",
+      "context": "OSK description",
+      "decisions": "Description permits Latin by removing obsolete fullwidth-only restriction."
+    },
+    {
+      "id": "exe_00470fb0_utf16le",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 4657072,
+      "byte_length": 4,
+      "encoding": "utf-16-le",
+      "category": "executable_setup_ui",
+      "target": "Fudo",
+      "status": "draft",
+      "context": "OSK fallback default",
+      "decisions": "Latin protagonist default; sixth unrelated record preserved."
+    },
+    {
+      "id": "exe_004710b0_utf16le",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 4657328,
+      "byte_length": 34,
+      "encoding": "utf-16-le",
+      "category": "executable_setup_ui",
+      "target": "Enter the protagonist's given name.",
+      "status": "draft",
+      "context": "OSK description",
+      "decisions": "Description permits Latin by removing obsolete fullwidth-only restriction."
+    },
+    {
+      "id": "exe_004711b0_utf16le",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 4657584,
+      "byte_length": 2,
+      "encoding": "utf-16-le",
+      "category": "executable_setup_ui",
+      "target": "Shinobu",
+      "status": "draft",
+      "context": "OSK fallback default",
+      "decisions": "Latin protagonist default; sixth unrelated record preserved."
+    },
+    {
+      "id": "exe_004712b0_utf16le",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 4657840,
+      "byte_length": 34,
+      "encoding": "utf-16-le",
+      "category": "executable_setup_ui",
+      "target": "Enter the protagonist's title.",
+      "status": "draft",
+      "context": "OSK description",
+      "decisions": "Description permits Latin by removing obsolete fullwidth-only restriction."
+    },
+    {
+      "id": "exe_004713b0_utf16le",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 4658096,
+      "byte_length": 18,
+      "encoding": "utf-16-le",
+      "category": "executable_setup_ui",
+      "target": "S.I.R. Ace",
+      "status": "draft",
+      "context": "OSK fallback default",
+      "decisions": "Latin protagonist default; sixth unrelated record preserved."
+    }
+  ]
+}

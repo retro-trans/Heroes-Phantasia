@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "reviewer": "root",
+  "scope": "Independent source-target pair review of all CPL queues. Full resource context views belong to translating agents, not this review.",
+  "rows_examined": 429,
+  "rows_in_scope": 429,
+  "raw_occurrences": 1616,
+  "material_corrections": 0,
+  "uncertainties": [
+    "Normal, Special and Change preserve shorthand without claiming proved battle mechanics.",
+    "Parenthetic numbers, actor initials and directional codes remain literal.",
+    "True Sword remains provisional; source may distinguish a live blade or serious use.",
+    "350 later action-label routes are not yet proved for installation."
+  ],
+  "queues": [
+    {
+      "path": "work\\translation\\en\\cpl_0001.json",
+      "sha256": "5d2dc75cb9137f9822c1d06bfa29974b0b58e29dbf77e1beb8cbdf7cccfb12a5",
+      "rows": 80
+    },
+    {
+      "path": "work\\translation\\en\\cpl_0002.json",
+      "sha256": "f0f3e9b35667dab77073757c29ba53f27da6ab05c7ed5af82272c11eff5f020b",
+      "rows": 80
+    },
+    {
+      "path": "work\\translation\\en\\cpl_0003.json",
+      "sha256": "90cc106bd2c63ec6d94b8c214a5d1cb3e515c19bff74244fc4fbbc98c423520c",
+      "rows": 80
+    },
+    {
+      "path": "work\\translation\\en\\cpl_0004.json",
+      "sha256": "6d390b4a5f459e89d408c38453f7aa21deae5dfd90b622ad1b4535bbf05c6661",
+      "rows": 80
+    },
+    {
+      "path": "work\\translation\\en\\cpl_0005.json",
+      "sha256": "a77acd24840e9ee28b925f6e4b23b1455633d8b9df3229d40574b57a03486e85",
+      "rows": 80
+    },
+    {
+      "path": "work\\translation\\en\\cpl_0006.json",
+      "sha256": "494e724dac92ea9178eb337ec48a8c14fbc8aa0327ff55b7cf2f5a1053c3b283",
+      "rows": 29
+    }
+  ],
+  "source_omission_preserved_rows_zero_based": [
+    184,
+    185,
+    415
+  ],
+  "metadata_refresh": "One Japanese critical-qualifier note changed to English after initial review; all429 source/target pairs preserved. Root read revised decision."
+}

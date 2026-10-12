@@ -1,0 +1,1305 @@
+{
+  "schema_version": 1,
+  "status": "meaning_reviewed_drafts_runtime_pending",
+  "language": "en",
+  "batches": {
+    "0110": {
+      "owned_rows": 80,
+      "translator_human_views": 222,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [
+        {
+          "id": "fd879bfba1562dc30dbe",
+          "reason": "Restore full question subject/predicate."
+        },
+        {
+          "id": "41c57fee3dbff0386d8c",
+          "reason": "Restore explicit subject/copula."
+        },
+        {
+          "id": "979e87a2822126cc980e",
+          "reason": "Retain transcendent-being description."
+        },
+        {
+          "id": "7b27e4370e1ae401dcac",
+          "reason": "Retain all-powerful magic without inventing limitless extent."
+        }
+      ],
+      "uncertainties": [
+        "Ge3520 percentage does not identify assay/purity.",
+        "Rain fault and dream claims remain hypotheses/speaker claims.",
+        "Ruby base associations and voice delivery remain unverified."
+      ]
+    },
+    "0111": {
+      "owned_rows": 80,
+      "translator_human_views": 554,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [
+        {
+          "id": "4b07a487a4b86048cf5b",
+          "reason": "Restore grammatical denial rather than mislabel it an unfinished fragment."
+        }
+      ],
+      "omission_flags": [
+        3,
+        7,
+        8,
+        19,
+        25,
+        34,
+        36,
+        40,
+        48,
+        53,
+        56,
+        60,
+        67,
+        71,
+        73
+      ],
+      "uncertainties": [
+        "Unnamed requested object remains one of those.",
+        "Row70 source typo interpreted from entourage complaint; no invented school ownership.",
+        "Full runtime-name/ruby/line layout pending."
+      ]
+    },
+    "0112": {
+      "owned_rows": 80,
+      "translator_human_views": 520,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "uncertainties": [
+        "Short Greer surname retained in student context.",
+        "Reported hospital admission and doctor cover are not narrator-certified medical outcomes.",
+        "Vocal delivery and screen layout pending."
+      ]
+    },
+    "0203": {
+      "owned_rows": 80,
+      "drafted": 80,
+      "root_source_context_views": 190,
+      "independent_agent_human_views": 196,
+      "shared_source_occurrences_verified": 186,
+      "material_changes": [
+        {
+          "id": "16f8f5e8a7c0bb1468b7",
+          "reason": "Keep unfinished thought before a predicate."
+        },
+        {
+          "id": "7d3881fedba7ea460876",
+          "reason": "Remove incorrect omission flag from full insult."
+        }
+      ],
+      "uncertainties": [
+        "ganmou is provisional source-backed ruby romanization; English semantic equivalent unverified.",
+        "shukuchaku retained as established fictional term; taunt is a character claim.",
+        "First battle native control argument2 misdraw traced separately; not a translation value2100."
+      ]
+    },
+    "0003": {
+      "owned_rows": 80,
+      "translator_new_human_views": 1874,
+      "translator_reused_human_views": 112,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "uncertainties": [
+        "Unspecified target/addressee and chiropteran headcount remain bounded.",
+        "HOLD self/group-directed search cannot be settled by short resource.",
+        "Greeting/irony/voice and malformed source75 interpreted without inventing events."
+      ]
+    },
+    "0004": {
+      "owned_rows": 80,
+      "independent_agent_new_human_views": 458,
+      "independent_agent_reused_human_views": 182,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [
+        {
+          "id": "2322f886671ded760c5c",
+          "reason": "Restore complete forest hero existence predicate."
+        }
+      ],
+      "uncertainties": [
+        "Unknown forest entrant remains unspecified.",
+        "Name normalization protects Hagi; voice/layout remain pending."
+      ],
+      "omission_flags": [
+        1,
+        2,
+        7,
+        8,
+        17,
+        26,
+        27,
+        29,
+        32,
+        37,
+        38,
+        43,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        67,
+        75,
+        76
+      ]
+    },
+    "0005": {
+      "owned_rows": 80,
+      "independent_agent_new_human_views": 1038,
+      "independent_agent_reused_human_views": 131,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "uncertainties": [
+        "Referents remain scene-scoped; voice/layout unverified."
+      ],
+      "omission_flags": [
+        3,
+        12,
+        13,
+        16,
+        19,
+        21,
+        24,
+        27,
+        31,
+        33,
+        36,
+        46,
+        50,
+        55,
+        57,
+        60,
+        69,
+        73,
+        79
+      ]
+    },
+    "0006": {
+      "owned_rows": 80,
+      "translator_human_views": 194,
+      "raw_owned_occurrences": 82,
+      "raw_occurrence_files": 28,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "uncertainties": [
+        "Sagisawa identity/role sourced; worker and visitor referents stay neutral.",
+        "Absence interpretation uses adjacent hospital context; source typo resolved as deciding to try."
+      ],
+      "omission_flags": [
+        21,
+        23,
+        33,
+        41,
+        43,
+        66,
+        67,
+        73,
+        76
+      ]
+    },
+    "0007": {
+      "owned_rows": 80,
+      "translator_human_views": 279,
+      "raw_owned_occurrences": 88,
+      "raw_complete_resource_references": 240,
+      "raw_occurrence_files": 41,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "uncertainties": [
+        "Source alternate name spelling mapped to existing Miyu identity only in settled context.",
+        "Comrades lament remains unfinished; photograph mentioned without invented intimacy."
+      ],
+      "omission_flags": [
+        0,
+        18,
+        20,
+        25,
+        29,
+        35,
+        46,
+        51,
+        58,
+        60,
+        77
+      ]
+    },
+    "0197": {
+      "owned_rows": 80,
+      "translator_new_human_views": 117,
+      "translator_reused_human_views": 0,
+      "raw_owned_occurrences": 94,
+      "raw_occurrence_files": 12,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [
+        {
+          "id": "df520ec9d7a8ebe88d24",
+          "reason": "Restore full question subject."
+        },
+        {
+          "id": "814e3a3b1c4fb205c8d2",
+          "reason": "Reject this fight without implying a different desired fight."
+        }
+      ],
+      "uncertainties": [
+        "Battle triggers/unnamed opponents and voiced delivery unobserved.",
+        "Runtime layout and complete ruby behavior pending."
+      ],
+      "omission_flags": [
+        4,
+        8,
+        15,
+        45,
+        46,
+        47,
+        49,
+        50,
+        51,
+        52,
+        58,
+        63
+      ]
+    },
+    "0198": {
+      "owned_rows": 80,
+      "translator_new_human_views": 81,
+      "translator_reused_human_views": 35,
+      "raw_owned_occurrences": 95,
+      "raw_occurrence_files": 10,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [
+        {
+          "id": "16dddac5e6fe75561872",
+          "reason": "Restore impersonal subject."
+        }
+      ],
+      "uncertainties": [
+        "Battle triggers/unnamed opponents and voiced delivery unobserved.",
+        "Runtime layout and complete ruby behavior pending."
+      ],
+      "omission_flags": [
+        42,
+        43,
+        44,
+        46,
+        49
+      ]
+    },
+    "0199": {
+      "owned_rows": 80,
+      "translator_new_human_views": 80,
+      "translator_reused_human_views": 32,
+      "raw_owned_occurrences": 101,
+      "raw_occurrence_files": 8,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [
+        {
+          "id": "f081f19e2460cc36a6f1",
+          "reason": "Restore full English question or grammatical subject."
+        },
+        {
+          "id": "d6eb504dbd43ea2a9cea",
+          "reason": "Restore full English question or grammatical subject."
+        },
+        {
+          "id": "967e5a5da6121b06b189",
+          "reason": "Restore full English question or grammatical subject."
+        },
+        {
+          "id": "4e76b1fffc3b0c74a507",
+          "reason": "Restore full English question or grammatical subject."
+        }
+      ],
+      "uncertainties": [
+        "Battle triggers/unnamed opponents and voiced delivery unobserved.",
+        "Runtime layout and complete ruby behavior pending."
+      ],
+      "omission_flags": [
+        58,
+        65,
+        68
+      ]
+    },
+    "0200": {
+      "owned_rows": 80,
+      "translator_new_human_views": 80,
+      "translator_reused_human_views": 33,
+      "raw_owned_occurrences": 108,
+      "raw_occurrence_files": 8,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "uncertainties": [
+        "Battle triggers/unnamed opponents and voiced delivery unobserved.",
+        "Runtime layout and complete ruby behavior pending."
+      ],
+      "omission_flags": []
+    },
+    "0201": {
+      "owned_rows": 80,
+      "translator_new_human_views": 67,
+      "translator_reused_human_views": 46,
+      "raw_owned_occurrences": 107,
+      "raw_occurrence_files": 11,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [
+        {
+          "id": "ffb9e000d68a7f1d34bf",
+          "reason": "Restore impersonal subject."
+        }
+      ],
+      "uncertainties": [
+        "Battle triggers/unnamed opponents and voiced delivery unobserved.",
+        "Runtime layout and complete ruby behavior pending."
+      ],
+      "omission_flags": [
+        1,
+        17,
+        20,
+        21,
+        22,
+        53,
+        63,
+        66
+      ]
+    },
+    "0202": {
+      "owned_rows": 80,
+      "translator_new_human_views": 80,
+      "translator_reused_human_views": 32,
+      "raw_owned_occurrences": 105,
+      "raw_occurrence_files": 10,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [
+        {
+          "id": "aa9ada2f4fa9b58ba08a",
+          "reason": "Keep ongoing sinking progression."
+        },
+        {
+          "id": "da837ec5301bf2c80dbd",
+          "reason": "Restore impersonal subject."
+        },
+        {
+          "id": "a0e7eae624a0294e4663",
+          "reason": "Retain concessive regret and deliberate unfinished boundary."
+        },
+        {
+          "id": "4ba8c9a109c7ed1b7899",
+          "reason": "Restore impersonal subject."
+        }
+      ],
+      "uncertainties": [
+        "Battle triggers/unnamed opponents and voiced delivery unobserved.",
+        "Runtime layout and complete ruby behavior pending.",
+        "Fatality referent unresolved: impersonal construction retained.",
+        "Rain failed-version concept and came-to-be-defeated motive remain uncertain.",
+        "touha is provisional source-backed romanization."
+      ],
+      "omission_flags": [
+        25,
+        33,
+        35,
+        43,
+        61
+      ]
+    },
+    "0113": {
+      "owned_rows": 80,
+      "translator_human_views": 265,
+      "translator_reused_full_file_views": 0,
+      "raw_owned_occurrences": 164,
+      "raw_occurrence_files": 4,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [
+        {
+          "id": "5f96c3cfc8977a4fd233",
+          "reason": "Causative interrupted disclosure, not an instruction to fight."
+        }
+      ],
+      "uncertainties": [
+        "Scene claims are speaker claims; actual voices, name expansion and rendering unverified."
+      ],
+      "omission_flags": [
+        1,
+        7,
+        9,
+        15,
+        17,
+        20,
+        24,
+        26,
+        35,
+        44,
+        49,
+        58,
+        60,
+        68,
+        69,
+        70,
+        72
+      ]
+    },
+    "0114": {
+      "owned_rows": 80,
+      "translator_human_views": 451,
+      "translator_reused_full_file_views": 0,
+      "raw_owned_occurrences": 162,
+      "raw_occurrence_files": 10,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "uncertainties": [
+        "Scene claims are speaker claims; actual voices, name expansion and rendering unverified."
+      ],
+      "omission_flags": [
+        11,
+        15,
+        19,
+        24,
+        32,
+        35,
+        40,
+        44,
+        50,
+        51,
+        57,
+        61,
+        63,
+        65,
+        68,
+        72,
+        77
+      ]
+    },
+    "0115": {
+      "owned_rows": 80,
+      "translator_human_views": 415,
+      "translator_reused_full_file_views": 173,
+      "raw_owned_occurrences": 162,
+      "raw_occurrence_files": 8,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "uncertainties": [
+        "Scene claims are speaker claims; actual voices, name expansion and rendering unverified."
+      ],
+      "omission_flags": [
+        4,
+        11,
+        13,
+        14,
+        16,
+        19,
+        23,
+        29,
+        30,
+        35,
+        37,
+        40,
+        42,
+        47,
+        48,
+        49,
+        51,
+        56,
+        58,
+        61,
+        62,
+        63,
+        65,
+        71,
+        72,
+        77,
+        78
+      ]
+    },
+    "0116": {
+      "owned_rows": 80,
+      "translator_human_views": 292,
+      "translator_reused_full_file_views": 99,
+      "raw_owned_occurrences": 164,
+      "raw_occurrence_files": 6,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "uncertainties": [
+        "Scene claims are speaker claims; actual voices, name expansion and rendering unverified."
+      ],
+      "omission_flags": [
+        0,
+        4,
+        9,
+        10,
+        13,
+        14,
+        18,
+        20,
+        21,
+        27,
+        35,
+        38,
+        39,
+        40,
+        41,
+        42,
+        45,
+        46,
+        47,
+        48,
+        50,
+        51,
+        52,
+        53,
+        55,
+        64,
+        72,
+        74,
+        78
+      ]
+    },
+    "0117": {
+      "owned_rows": 80,
+      "translator_human_views": 675,
+      "translator_reused_full_file_views": 140,
+      "raw_owned_occurrences": 167,
+      "raw_occurrence_files": 14,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "uncertainties": [
+        "Scene claims are speaker claims; actual voices, name expansion and rendering unverified."
+      ],
+      "omission_flags": [
+        0,
+        4,
+        9,
+        17,
+        42,
+        43,
+        48,
+        50,
+        73,
+        78
+      ]
+    },
+    "0118": {
+      "owned_rows": 80,
+      "translator_human_views": 416,
+      "translator_reused_full_file_views": 75,
+      "raw_owned_occurrences": 156,
+      "raw_occurrence_files": 9,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "uncertainties": [
+        "Scene claims are speaker claims; actual voices, name expansion and rendering unverified."
+      ],
+      "omission_flags": [
+        14,
+        26,
+        29,
+        30,
+        36,
+        41,
+        56,
+        57,
+        61,
+        64,
+        69,
+        76
+      ]
+    },
+    "0204": {
+      "owned_rows": 34,
+      "root_source_context_views": 94,
+      "independent_agent_new_source_views": 51,
+      "independent_agent_reused_source_views": 6,
+      "independent_owned_source_target_pairs": 34,
+      "raw_owned_occurrences": 66,
+      "raw_complete_resource_references": 86,
+      "raw_occurrence_files": 8,
+      "material_changes": [
+        {
+          "id": "599b8aaf621f137d8bf2",
+          "reason": "Retain generic ongoing status changes rather than assume stat-only effects."
+        }
+      ],
+      "uncertainties": [
+        "Command labels partly provisional existing table terms.",
+        "Threshold/full-HP/two-turn invincibility retained, actual effect display pending."
+      ],
+      "omission_flags": [
+        0,
+        2,
+        4,
+        6,
+        19,
+        24,
+        28,
+        31
+      ]
+    },
+    "0008": {
+      "owned_rows": 80,
+      "translator_human_views": 294,
+      "original_scene_raw_references": 430,
+      "independent_owned_source_target_pairs": 80,
+      "independent_scope": "Root read all eighty owned source/target pairs; translator read full original scene closures and adjacent queue context. Raw scene references are not claimed as human views.",
+      "omission_flags": [
+        0,
+        4,
+        25,
+        29,
+        38,
+        41,
+        46,
+        47,
+        54
+      ],
+      "runtime_verified": false,
+      "uncertainties": [
+        "Voice delivery, runtime substitutions, ruby and final layout remain unverified.",
+        "Search scenes do not name the sought object; neutral it retained."
+      ],
+      "material_changes": [
+        {
+          "id": "2b64caa4d6913477b63a",
+          "reason": "Restore causal agency in Bordeaux tragedy description."
+        },
+        {
+          "id": "f9079412febed7f72aa1",
+          "reason": "Preserve unfinished concession."
+        }
+      ]
+    },
+    "0119": {
+      "owned_rows": 80,
+      "translator_human_views": 388,
+      "original_scene_raw_references": 534,
+      "independent_owned_source_target_pairs": 80,
+      "independent_scope": "Root read all eighty owned source/target pairs; translator read full original scene closures and adjacent queue context. Raw scene references are not claimed as human views.",
+      "omission_flags": [
+        9,
+        14,
+        16,
+        18,
+        34,
+        35,
+        46,
+        47,
+        49,
+        55,
+        59
+      ],
+      "runtime_verified": false,
+      "uncertainties": [
+        "Voice delivery, runtime substitutions, ruby and final layout remain unverified."
+      ],
+      "material_changes": [
+        {
+          "id": "0564c17ca0c66df81c71",
+          "reason": "Restore complete causal question."
+        },
+        {
+          "id": "87e0037e20a5a2161280",
+          "reason": "Restore explicit causal answer."
+        }
+      ]
+    },
+    "0120": {
+      "owned_rows": 80,
+      "translator_human_views": 253,
+      "original_scene_raw_references": 274,
+      "independent_owned_source_target_pairs": 80,
+      "independent_scope": "Root read all eighty owned source/target pairs; translator read full original scene closures and adjacent queue context. Raw scene references are not claimed as human views.",
+      "omission_flags": [
+        8,
+        11,
+        13,
+        15,
+        17,
+        26,
+        34,
+        36,
+        37,
+        45,
+        49,
+        55,
+        65,
+        72,
+        74,
+        76
+      ],
+      "runtime_verified": false,
+      "uncertainties": [
+        "Voice delivery, runtime substitutions, ruby and final layout remain unverified.",
+        "Lovely is Shizume mistaken identity; not narrator confirmation. Bai topic cutoff continues with sister-search predicate."
+      ],
+      "material_changes": [
+        {
+          "id": "d9b4f925f86b55de0eaf",
+          "reason": "Restore explicit It looks like predicate."
+        }
+      ]
+    },
+    "0121": {
+      "owned_rows": 80,
+      "translator_human_views": 239,
+      "original_scene_raw_references": 248,
+      "independent_owned_source_target_pairs": 80,
+      "independent_scope": "Root read all eighty owned source/target pairs; translator read full original scene closures and adjacent queue context. Raw scene references are not claimed as human views.",
+      "omission_flags": [
+        1,
+        13,
+        17,
+        25,
+        35,
+        37,
+        51,
+        52,
+        57,
+        58,
+        75,
+        79
+      ],
+      "runtime_verified": false,
+      "uncertainties": [
+        "Voice delivery, runtime substitutions, ruby and final layout remain unverified.",
+        "Two-year difference without direction or dates. Nao mother diagnosis or death not asserted."
+      ],
+      "material_changes": [
+        {
+          "id": "69a58136d012291f7c89",
+          "reason": "Restore explicit It looks like predicate."
+        }
+      ]
+    },
+    "0122": {
+      "owned_rows": 80,
+      "translator_human_views": 197,
+      "original_scene_raw_references": 166,
+      "independent_owned_source_target_pairs": 80,
+      "independent_scope": "Root read all eighty owned source/target pairs; translator read full original scene closures and adjacent queue context. Raw scene references are not claimed as human views.",
+      "omission_flags": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        9,
+        13,
+        20,
+        25,
+        27,
+        31,
+        44,
+        46,
+        49,
+        56,
+        61,
+        63,
+        66,
+        76,
+        78
+      ],
+      "runtime_verified": false,
+      "uncertainties": [
+        "Voice delivery, runtime substitutions, ruby and final layout remain unverified.",
+        "DNA extraction is an attempt; revival motive remains conditional."
+      ],
+      "material_changes": []
+    },
+    "0123": {
+      "owned_rows": 80,
+      "translator_human_views": 492,
+      "original_scene_raw_references": 677,
+      "independent_owned_source_target_pairs": 80,
+      "independent_scope": "Root read all eighty owned source/target pairs; translator read full original scene closures and adjacent queue context. Raw scene references are not claimed as human views.",
+      "omission_flags": [
+        0,
+        1,
+        24,
+        36,
+        38,
+        43,
+        48,
+        50,
+        54,
+        56,
+        58
+      ],
+      "runtime_verified": false,
+      "uncertainties": [
+        "Voice delivery, runtime substitutions, ruby and final layout remain unverified.",
+        "Sanzo Mara allusion rendered as plural demons of temptation; no new named enemy. Unknown cause of gate closure."
+      ],
+      "material_changes": []
+    },
+    "0124": {
+      "owned_rows": 80,
+      "translator_human_views": 342,
+      "original_scene_raw_references": 440,
+      "independent_owned_source_target_pairs": 80,
+      "independent_scope": "Root read all eighty owned source/target pairs; translator read full original scene closures and adjacent queue context. Raw scene references are not claimed as human views.",
+      "omission_flags": [
+        13,
+        16,
+        20,
+        35,
+        37,
+        42,
+        43,
+        48,
+        53,
+        55,
+        66,
+        67,
+        74
+      ],
+      "runtime_verified": false,
+      "uncertainties": [
+        "Voice delivery, runtime substitutions, ruby and final layout remain unverified.",
+        "Dark Race is the glossary prey class, not all forest monsters."
+      ],
+      "material_changes": []
+    },
+    "0012": {
+      "owned_rows": 80,
+      "independent_reviewer": "unpack",
+      "independent_owned_source_target_pairs": 80,
+      "translator_or_reviewer_human_views": 127,
+      "reviewer_new_human_views": 95,
+      "reviewer_reused_human_views": 32,
+      "original_scene_raw_references": 132,
+      "reviewer_original_text_records": 109,
+      "root_reviewed_proposal_source_target_pairs": 23,
+      "material_changes": [
+        "Two meaning fixes: forced transformation of Karl; exact template variables retained.",
+        "Twenty-one ordinary profile predicate restorations, including one accidental doubled period."
+      ],
+      "runtime_verified": false,
+      "uncertainties": [
+        "Voice and age fields remain labels; not mistaken for omitted ordinary prose predicates.",
+        "Template symbols and expanded gallery layout require runtime checking."
+      ]
+    },
+    "0125": {
+      "owned_rows": 80,
+      "translator_human_views": 326,
+      "translator_reused_scene_views": 214,
+      "raw_resource_references": 420,
+      "owned_original_occurrences": 159,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "omission_flags": [
+        1,
+        10,
+        12,
+        15,
+        17,
+        18,
+        21,
+        25,
+        26,
+        29,
+        33,
+        34,
+        35,
+        41,
+        64,
+        65,
+        66,
+        74,
+        75
+      ],
+      "uncertainties": [
+        "Native voice delivery and ruby/name/layout behavior require runtime QA.",
+        "Observer-spirit removal remains hypothesis. Decoy leads quarry to party; Drake suggested as commander, not decoy."
+      ],
+      "runtime_verified": false
+    },
+    "0126": {
+      "owned_rows": 80,
+      "translator_human_views": 269,
+      "translator_reused_scene_views": 124,
+      "raw_resource_references": 306,
+      "owned_original_occurrences": 155,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "omission_flags": [
+        1,
+        8,
+        9,
+        10,
+        11,
+        12,
+        16,
+        20,
+        23,
+        29,
+        31,
+        32,
+        33,
+        34,
+        39,
+        43,
+        49,
+        51,
+        53,
+        54,
+        55,
+        60,
+        62,
+        63,
+        64,
+        72,
+        73,
+        74,
+        77
+      ],
+      "uncertainties": [
+        "Native voice delivery and ruby/name/layout behavior require runtime QA.",
+        "Garuru attack remains inferred; monster spits Merrill out. Unknown Renard gender kept neutral."
+      ],
+      "runtime_verified": false,
+      "translator_new_scene_views": 33
+    },
+    "0127": {
+      "owned_rows": 80,
+      "translator_human_views": 249,
+      "translator_reused_scene_views": 137,
+      "raw_resource_references": 266,
+      "owned_original_occurrences": 158,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "omission_flags": [
+        1,
+        7,
+        11,
+        15,
+        19,
+        28,
+        31,
+        33,
+        41,
+        45,
+        46,
+        78,
+        79
+      ],
+      "uncertainties": [
+        "Native voice delivery and ruby/name/layout behavior require runtime QA.",
+        "Portrait names source-derived provisional. Soon Baraban III and Balan III differing source forms retained; artist gender unknown. Half then eighty percent reflect bargaining."
+      ],
+      "runtime_verified": false
+    },
+    "0011": {
+      "owned_rows": 80,
+      "translator_human_views": 112,
+      "translator_new_owned_rows": 79,
+      "translator_reused_views": 33,
+      "raw_resource_references": 80,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "uncertainties": [
+        "Character profile label phrasing intentional; no inferred plot events or age changes. Jii identity provisional; Geromon nickname conflicts documented. Voice credits glossary-normalized; full gallery wrapping/scrolling runtime pending."
+      ],
+      "runtime_verified": false
+    },
+    "0128": {
+      "owned_rows": 80,
+      "translator_human_views": 406,
+      "translator_reused_scene_views": 77,
+      "raw_resource_references": 578,
+      "owned_original_occurrences": 161,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "omission_flags": [
+        1,
+        6,
+        9,
+        15,
+        21,
+        23,
+        29,
+        33,
+        37,
+        39,
+        51,
+        57,
+        59,
+        63,
+        69
+      ],
+      "uncertainties": [
+        "Gift physical/mental-energy cost retained; Mujo Foreign-Alter theory remains hypothesis. Conditional capture instruction split retained. Unkei ruby2 pendingledger.",
+        "Runtime glyph/name/ruby/layout QA pending."
+      ],
+      "runtime_verified": false
+    },
+    "0129": {
+      "owned_rows": 80,
+      "translator_human_views": 319,
+      "translator_reused_scene_views": 74,
+      "raw_resource_references": 402,
+      "owned_original_occurrences": 159,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "omission_flags": [
+        1,
+        4,
+        6,
+        10,
+        16,
+        28,
+        30,
+        33,
+        35,
+        37,
+        38,
+        40,
+        41,
+        43,
+        44,
+        54,
+        58,
+        59,
+        62,
+        65,
+        66,
+        74,
+        75,
+        76,
+        78
+      ],
+      "uncertainties": [
+        "Diorama fragments retain row boundaries; Volkan fixed after meaning review. Great Uprising threat is not a verified skill mechanic.",
+        "Runtime glyph/name/ruby/layout QA pending."
+      ],
+      "runtime_verified": false
+    },
+    "0130": {
+      "owned_rows": 80,
+      "translator_human_views": 220,
+      "translator_reused_scene_views": 54,
+      "raw_resource_references": 210,
+      "owned_original_occurrences": 155,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [
+        {
+          "id": "6902cf41bdbbeddecf70",
+          "reason": "Restore complete affirmativepredicate: That's true."
+        }
+      ],
+      "omission_flags": [
+        1,
+        5,
+        8,
+        9,
+        13,
+        17,
+        21,
+        26,
+        27,
+        32,
+        38,
+        39,
+        40,
+        41,
+        42,
+        50,
+        52,
+        55,
+        56,
+        61,
+        62,
+        65,
+        66,
+        70,
+        75,
+        77
+      ],
+      "uncertainties": [
+        "Hostage-trio distinctfromtargettrio; July intentionally contradicts captor allgirls claim. Safety promise conditional/unproven. Row71 affirmativepredicate corrected byagent.",
+        "Runtime glyph/name/ruby/layout QA pending."
+      ],
+      "runtime_verified": false
+    },
+    "0131": {
+      "owned_rows": 80,
+      "translator_human_views": 278,
+      "translator_reused_scene_views": 79,
+      "raw_resource_references": 320,
+      "owned_original_occurrences": 156,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "omission_flags": [
+        2,
+        4,
+        6,
+        10,
+        15,
+        16,
+        17,
+        20,
+        21,
+        22,
+        23,
+        26,
+        29,
+        35,
+        36,
+        40,
+        41,
+        46,
+        47,
+        48,
+        52,
+        53,
+        54,
+        59,
+        60,
+        62,
+        64,
+        65,
+        66,
+        67,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76
+      ],
+      "uncertainties": [
+        "Urizane release inferred fromfullscene withoutmechanism. Kigetsuki realwomen contempt retained. Kazuya mistakenaddress intentional.",
+        "Runtime glyph/name/ruby/layout QA pending."
+      ],
+      "runtime_verified": false
+    },
+    "0132": {
+      "owned_rows": 80,
+      "translator_human_views": 232,
+      "translator_reused_scene_views": 87,
+      "raw_resource_references": 228,
+      "owned_original_occurrences": 153,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "omission_flags": [
+        2,
+        4,
+        12,
+        13,
+        18,
+        24,
+        28,
+        37,
+        48,
+        54,
+        61,
+        62,
+        65,
+        66,
+        67,
+        68,
+        71,
+        73,
+        78
+      ],
+      "uncertainties": [
+        "Scheris sigh wearyincontext, acknowledgment possiblewithoutvoice. Allybetrayal/powerseeking remain conjectures/reports. Care/notification/forgiveness directions preserved.",
+        "Runtime glyph/name/ruby/layout QA pending."
+      ],
+      "runtime_verified": false
+    },
+    "0133": {
+      "owned_rows": 80,
+      "translator_human_views": 250,
+      "translator_reused_scene_views": 33,
+      "raw_resource_references": 272,
+      "owned_original_occurrences": 157,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "omission_flags": [
+        0,
+        2,
+        10,
+        12,
+        13,
+        14,
+        15,
+        21,
+        22,
+        23,
+        24,
+        29,
+        30,
+        35,
+        39,
+        41,
+        45,
+        52,
+        57,
+        58,
+        59,
+        65,
+        66,
+        68,
+        71
+      ],
+      "uncertainties": [
+        "Three-speaker chant fragments preserve semantic rowbounds; concatenatedEnglish awkward; voice/layout reviewneeded. Source differing selfrejection directions preserved. Unusual hiwaku sourcecirculating inferredcontext.",
+        "Runtime glyph/name/ruby/layout QA pending."
+      ],
+      "runtime_verified": false
+    },
+    "0134": {
+      "owned_rows": 80,
+      "translator_human_views": 321,
+      "translator_reused_scene_views": 58,
+      "raw_resource_references": 418,
+      "owned_original_occurrences": 166,
+      "independent_owned_source_target_pairs": 80,
+      "material_changes": [],
+      "omission_flags": [
+        1,
+        6,
+        13,
+        15,
+        21,
+        22,
+        26,
+        31,
+        33,
+        34,
+        37,
+        40,
+        41,
+        42,
+        45,
+        51,
+        58,
+        62,
+        70,
+        75,
+        79
+      ],
+      "uncertainties": [
+        "Rough deploymentestimate; hypotheticalallysiding retainsunknownprotagonistgender. Assassinationcontractrequest notaccepteduntilsubsequentrows. Entirepayment afterjob andpreciousmetal retained.",
+        "Runtime glyph/name/ruby/layout QA pending."
+      ],
+      "runtime_verified": false
+    }
+  },
+  "runtime_verified": false,
+  "full_game_translation_complete": false
+}

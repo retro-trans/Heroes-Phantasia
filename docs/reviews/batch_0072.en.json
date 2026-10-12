@@ -1,0 +1,534 @@
+{
+  "version": "0.1.7",
+  "date": "2026-10-11",
+  "language": "en",
+  "batch": "batch_0072",
+  "translator": "primary agent",
+  "rows_in_slice": 80,
+  "rows_drafted": 80,
+  "minimum_counted_context_row_views": 514,
+  "counted_view_scope": "387 complete base-scene rows, 15 changed paired-variant rows and 112 queue views (80 slice, 8 preceding, 24 following). Identical paired rows and rereads excluded.",
+  "full_scene_reference_rows_byte_compared": 774,
+  "byte_comparison_scope": "All fourteen occurrence scenes were read via complete base scenes and every changed paired protagonist variant; all 774 decoded references were byte-compared.",
+  "occurrence_scene_count": 14,
+  "context_scene_count": 14,
+  "adjacent_queue_rows_before": 8,
+  "adjacent_queue_rows_after": 24,
+  "source_occurrences_verified": 165,
+  "original_scene_snapshot": [
+    {
+      "file": "phase/bin/p211050.bin",
+      "row_count": 52,
+      "sha256": "34988868ae9fd694139a52b6545661064fa719615e88c789e0d284c1eaf6fe82",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211051.bin",
+      "row_count": 52,
+      "sha256": "34988868ae9fd694139a52b6545661064fa719615e88c789e0d284c1eaf6fe82",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211060.bin",
+      "row_count": 32,
+      "sha256": "6a4300a758153c4975d53e3d6cb7970c9b41e058bcb06884a246d7d530f7951b",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211061.bin",
+      "row_count": 32,
+      "sha256": "0ef00eccf1a56a5113790bd4e64c0c661a4fe987c7c4c039ad04415ea92da84c",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211070.bin",
+      "row_count": 62,
+      "sha256": "63ac081e49aa86ae68f6b891693b397a9b2051aee95e7c957b2768a78f8bb7c8",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211071.bin",
+      "row_count": 62,
+      "sha256": "b9a1c1920e73a15f01514869d3253e5442933e2647fc412d7738d564757b120f",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p316050.bin",
+      "row_count": 97,
+      "sha256": "eb91e4375b4966fe93049b8b942033d0610fc59f37d2aa1eccea6d91c83cb2c4",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p316051.bin",
+      "row_count": 97,
+      "sha256": "8b8b972f94623e32eb7599f6c45c3b2d942fdda3337cd164849b7be71eccbb6f",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p318040.bin",
+      "row_count": 63,
+      "sha256": "cddf8543335630bcb8500774e28dc4c25f273ff32b7b103fa9531a71386cb222",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p318041.bin",
+      "row_count": 63,
+      "sha256": "65807fd0e1d258ab0a7806e37a81f34f9a16726bd00e7815d1063cffc3843368",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p319020.bin",
+      "row_count": 60,
+      "sha256": "b386f8999c012376c4dec2594aab259fa81d55f9fc50b13034b3da51273fef1b",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p319021.bin",
+      "row_count": 60,
+      "sha256": "2a818c7690603c6210b82c544ed550b45d102625316da3086b7c62ced8f8979f",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p323040.bin",
+      "row_count": 21,
+      "sha256": "058052618580098a940a83082034f89a24d5fda2733e5f43ec69450b010674b8",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p323041.bin",
+      "row_count": 21,
+      "sha256": "3ed15659bccfa280da2b151c8e5d335c92b0a62eab6392a5b69d207fb9cd58a3",
+      "scope": "original occurrence scene"
+    }
+  ],
+  "original_batch_snapshot_sha256": "92c909911021e7dc7fce21814adf42fef3bc7114e02ab0988aaf5b778a5bb5ac",
+  "independent_agent_meaning_review": "pending; no additional agent work launched",
+  "controls_numeric_arguments_percent_placeholders_passed": true,
+  "original_source_metadata_unchanged": true,
+  "filled_file_exports_verified": 76,
+  "english_only_export": "work/translation/en/batch_0072.en.json",
+  "glossary_entries_added": [
+    "Jack Simon",
+    "Hell's Gate"
+  ],
+  "glossary_profiles_enriched": [
+    "November 11"
+  ],
+  "glossary_entries": 300,
+  "glossary_source_records": 306,
+  "glossary_sources": [
+    "https://www.aniplex.co.jp/lineup/darker/",
+    "https://darkerthanblack.fandom.com/wiki/Hell%27s_Gate",
+    "https://darkerthanblack.fandom.com/wiki/November_11",
+    "https://en.wikipedia.org/wiki/List_of_Darker_than_Black_characters",
+    "local:work/translation/en/batch_0072.json"
+  ],
+  "glossary_evidence_scope": "Official Japanese introduction supports Gate naming; franchise-wiki search result supplies English spelling. Character sources confirm Jack Simon as November 11 civilian alias, male identity and MI6 field-leader role. Anime calm/witty manner and scene-limited polite evasiveness are separated. Search evidence is not claimed as a successfully retrieved direct wiki page or official English lettering. Exact age, later death/affiliations, Gate mechanisms and native-world code ownership are not imported.",
+  "unresolved": [
+    {
+      "category": "local_gate_referent",
+      "row_indices": [
+        7,
+        8,
+        12,
+        13,
+        18,
+        19,
+        20,
+        24
+      ],
+      "translation_ids": [
+        "d3abf4f226be834d199f",
+        "753d2f2c61d9fc435636",
+        "d755db3a450bcb8d436a",
+        "f0edfbe9a111a02fc4c9",
+        "26df97b8100a27f6e25b",
+        "ad69672559cdd585332e",
+        "9a91d015279de9dafd1c",
+        "f560fae43ac0db459852"
+      ],
+      "note": "Hell's Gate differs from Mitch's generic local gate. Keep unfamiliarity and Mao's tentative past/other-world conjecture, not confirmed equivalence or world identity. Independent referent review pending."
+    },
+    {
+      "category": "survey_count",
+      "row_indices": [
+        15,
+        16
+      ],
+      "translation_ids": [
+        "758af71068b5bfdda9a7",
+        "efab0a80f42ab50f0833"
+      ],
+      "note": "Mao reports Mitch is his twentieth respondent and lists young/old, men/women, soldiers/housewives. Review ordinal/addressee/count scope; keep reported claim rather than certify a census."
+    },
+    {
+      "category": "shared_assent_and_leadin",
+      "row_indices": [
+        9,
+        54
+      ],
+      "translation_ids": [
+        "c8768a55e01c1ccd1871",
+        "aff955c0d0368460bc99"
+      ],
+      "note": "Hei assent appears eight times across Gate/world/awakening/Rain contexts; Kazuma Besides appears four times including Ryuho recognition. Every original occurrence checked and neutral wording preserved."
+    },
+    {
+      "category": "ruby",
+      "row_indices": [
+        17
+      ],
+      "translation_ids": [
+        "1f72dfc4db585f449f38"
+      ],
+      "note": "Mao reading/base uses original numeric argument 1 while English base has three letters. Preserve source argument for integrity; explicit span rebuilding and measured layout required before installation."
+    },
+    {
+      "category": "runtime_names",
+      "row_indices": [
+        28,
+        31,
+        40
+      ],
+      "translation_ids": [
+        "1108618a588ddc897ac1",
+        "74729d038f541edb1cea",
+        "9748202c724186e0f47b"
+      ],
+      "note": "Preserve runtime name arguments and full-name 0/1 concatenation. English name order, expansion, spacing and proportional width require both-protagonist QA."
+    },
+    {
+      "category": "link_color",
+      "row_indices": [
+        7
+      ],
+      "translation_ids": [
+        "d3abf4f226be834d199f"
+      ],
+      "note": "Keep Hell's Gate glossary-link ID 023 and color arguments 03/01; measure highlight/link text in game."
+    },
+    {
+      "category": "identity_claims_and_obsolete_code",
+      "row_indices": [
+        34,
+        37,
+        38,
+        39,
+        43,
+        44,
+        46,
+        47,
+        67,
+        68,
+        70,
+        76,
+        77,
+        78,
+        79
+      ],
+      "translation_ids": [
+        "2dba102af0616cb20762",
+        "18bec38b7727bb6c5d3a",
+        "6e6eff52c637699a0bb9",
+        "0dbb0efa73a3beb2e4cc",
+        "27a3258df0eaf7ef4ef8",
+        "9a78f162e081cb090530",
+        "3cdb6e426ae54f6b30fe",
+        "2f65322a5ecfab879d86",
+        "af6b22921177622f296c",
+        "2784f647a21b0ab2d261",
+        "28cb6f3a218cbc136915",
+        "416014dcc5a3300ef0ff",
+        "c1fc73d333e1f11cd88a",
+        "344f0832e8e1420a8653",
+        "e32ac478ac3e7bc95e90"
+      ],
+      "note": "Jack Simon is an established alias, but protagonist sender identification and November 11 headquarters inference are character beliefs. Mitch reports S.I.R. received MI6 information about a code belonging to an agent dead thirty years ago; unknown dead-agent gender stays neutral. Do not turn the discrepancy into settled impersonation or assert November 11 died. Source spoken code orders number before letters; BK-201 canonical presentation needs independent voice/meaning review."
+    },
+    {
+      "category": "requests_and_departure",
+      "row_indices": [
+        2,
+        4,
+        6,
+        26,
+        28,
+        47,
+        48,
+        49,
+        51,
+        62,
+        63,
+        64,
+        65,
+        66
+      ],
+      "translation_ids": [
+        "d846a56c6473b014c7a5",
+        "dcd1b5eb1773c9b5f983",
+        "da44b7fe1e08a1f269d8",
+        "707ac98e8740c4a10604",
+        "1108618a588ddc897ac1",
+        "2f65322a5ecfab879d86",
+        "d6a4be089ac769c1d2f0",
+        "2488d290b880cb15b7a2",
+        "ceedf1eb90ee9fe4045a",
+        "fe3875d25e4bc34f03a9",
+        "b5d5cef26af0a92f2e80",
+        "ccfa61b5bac03def7650",
+        "9809c28d38a2b5fa53d2",
+        "3c71d16733260aab7791"
+      ],
+      "note": "Questioner, recipient and rescuer thanks remain explicit. Leave together, return to mainland, then contact MI6 are proposed future actions. Mitch knows her rescuers without a presumed established friendship; no completed evacuation or call."
+    },
+    {
+      "category": "rough_voice_and_money_opportunity",
+      "row_indices": [
+        40,
+        49,
+        51,
+        52,
+        53,
+        56,
+        57,
+        58,
+        75
+      ],
+      "translation_ids": [
+        "9748202c724186e0f47b",
+        "2488d290b880cb15b7a2",
+        "ceedf1eb90ee9fe4045a",
+        "0d49bc4b18ba36544d9c",
+        "62818597c8e439cfdc07",
+        "f28c166cdde904c458dd",
+        "c61b21b8b2de1658c458",
+        "b259690916b45a17b4b1",
+        "01bf27008f82de2fec59"
+      ],
+      "note": "Kimishima thinks work finished and senses potential money. Kazuma dismisses the pitch, calls the stranger a bastard and enjoys growing conflict. Preserve impressions, roughness and opportunity rather than an agreed fee or invented attack."
+    },
+    {
+      "category": "intentional_fragment_or_echo",
+      "row_indices": [
+        8,
+        19,
+        21,
+        22,
+        23,
+        25,
+        27,
+        32,
+        35,
+        38,
+        44,
+        50,
+        54,
+        55,
+        59,
+        60,
+        67,
+        68,
+        71,
+        73,
+        74
+      ],
+      "translation_ids": [
+        "753d2f2c61d9fc435636",
+        "ad69672559cdd585332e",
+        "6f3f35343d55799c8ad7",
+        "076624c7dc955b81f295",
+        "8d503de9a2eb225e7f88",
+        "dd5a0a2812a0fac1579e",
+        "82e86d2178465d735401",
+        "7862bc0658ee9412bfdd",
+        "d016350219e46fb80996",
+        "6e6eff52c637699a0bb9",
+        "9a78f162e081cb090530",
+        "41e469b874f4fd2a15f4",
+        "aff955c0d0368460bc99",
+        "78ca63efccecc9213fc6",
+        "9a21e02123819e5911ca",
+        "a6ec386bfeaea8e61e61",
+        "af6b22921177622f296c",
+        "2784f647a21b0ab2d261",
+        "4d0dbf45af10a520370b",
+        "9fac663be7a37bdbc84b",
+        "22cc194abf8f97ee1c46"
+      ],
+      "note": "Name/term calls, unfinished lead-ins/refusal, laughter, silence and surprised interjections deliberately preserved. Row decisions identify retained omissions; ordinary pro-drop subjects and verbs restored."
+    },
+    {
+      "category": "voice_and_layout",
+      "row_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79
+      ],
+      "translation_ids": [
+        "e9bcba4691213809cafd",
+        "8021ddfc7523d1655bd7",
+        "d846a56c6473b014c7a5",
+        "e7c7305cdd4c924ec7e6",
+        "dcd1b5eb1773c9b5f983",
+        "e6c87c9aedf122fc17a9",
+        "da44b7fe1e08a1f269d8",
+        "d3abf4f226be834d199f",
+        "753d2f2c61d9fc435636",
+        "c8768a55e01c1ccd1871",
+        "43d3d4130e22e0c7f076",
+        "2cdc51756e86f425f72b",
+        "d755db3a450bcb8d436a",
+        "f0edfbe9a111a02fc4c9",
+        "dd44e5096133b9c5077f",
+        "758af71068b5bfdda9a7",
+        "efab0a80f42ab50f0833",
+        "1f72dfc4db585f449f38",
+        "26df97b8100a27f6e25b",
+        "ad69672559cdd585332e",
+        "9a91d015279de9dafd1c",
+        "6f3f35343d55799c8ad7",
+        "076624c7dc955b81f295",
+        "8d503de9a2eb225e7f88",
+        "f560fae43ac0db459852",
+        "dd5a0a2812a0fac1579e",
+        "707ac98e8740c4a10604",
+        "82e86d2178465d735401",
+        "1108618a588ddc897ac1",
+        "a3e4289c4ff6588d82b6",
+        "b7a5f3040593bc287273",
+        "74729d038f541edb1cea",
+        "7862bc0658ee9412bfdd",
+        "39927b5c2dd43764091d",
+        "2dba102af0616cb20762",
+        "d016350219e46fb80996",
+        "d611426aad9df0622fb8",
+        "18bec38b7727bb6c5d3a",
+        "6e6eff52c637699a0bb9",
+        "0dbb0efa73a3beb2e4cc",
+        "9748202c724186e0f47b",
+        "37af744cf074728a572e",
+        "cf2e0bce6ac983c4fcc5",
+        "27a3258df0eaf7ef4ef8",
+        "9a78f162e081cb090530",
+        "feb250f92d8c8366d559",
+        "3cdb6e426ae54f6b30fe",
+        "2f65322a5ecfab879d86",
+        "d6a4be089ac769c1d2f0",
+        "2488d290b880cb15b7a2",
+        "41e469b874f4fd2a15f4",
+        "ceedf1eb90ee9fe4045a",
+        "0d49bc4b18ba36544d9c",
+        "62818597c8e439cfdc07",
+        "aff955c0d0368460bc99",
+        "78ca63efccecc9213fc6",
+        "f28c166cdde904c458dd",
+        "c61b21b8b2de1658c458",
+        "b259690916b45a17b4b1",
+        "9a21e02123819e5911ca",
+        "a6ec386bfeaea8e61e61",
+        "4016db2450f4f8d66800",
+        "fe3875d25e4bc34f03a9",
+        "b5d5cef26af0a92f2e80",
+        "ccfa61b5bac03def7650",
+        "9809c28d38a2b5fa53d2",
+        "3c71d16733260aab7791",
+        "af6b22921177622f296c",
+        "2784f647a21b0ab2d261",
+        "b30d9e9049e037e0e88b",
+        "28cb6f3a218cbc136915",
+        "4d0dbf45af10a520370b",
+        "9ac7bc88882269ac95b5",
+        "9fac663be7a37bdbc84b",
+        "22cc194abf8f97ee1c46",
+        "01bf27008f82de2fec59",
+        "416014dcc5a3300ef0ff",
+        "c1fc73d333e1f11cd88a",
+        "344f0832e8e1420a8653",
+        "e32ac478ac3e7bc95e90"
+      ],
+      "note": "All rows need independent voice/meaning review and measured runtime QA, including stammers, long lines, paired protagonist variants, source breaks, dynamic names and ruby. Full English drafted without a source-byte budget; these drafts are not yet installed in a new build."
+    }
+  ],
+  "runtime_newly_verified_rows": 0,
+  "new_build_created": false,
+  "complete_game_translation": false,
+  "drafted_total": 5289,
+  "unfilled_total": 11931
+}

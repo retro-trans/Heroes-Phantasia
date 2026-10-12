@@ -1,0 +1,551 @@
+{
+  "schema_version": 1,
+  "version": "0.1.0",
+  "language": "en",
+  "entries": [
+    {
+      "id": "cpl_term_001",
+      "ja": "Ｄホールド隊員",
+      "en": "D-HOLD soldier",
+      "category": "enemy_label",
+      "franchise": "s-CRY-ed",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0101.bin",
+        "https://en.wikipedia.org/wiki/List_of_S-CRY-ed_characters"
+      ],
+      "confidence": "source_preserving_compound",
+      "notes": "Source-sized enemy label; no gender, personality, headcount or military hierarchy beyond the literal label inferred. D is an unexplained source marker; preserve it without assuming dead/debug variants. HOLD is distinct from HOLY."
+    },
+    {
+      "id": "cpl_term_002",
+      "ja": "Ｄダース",
+      "en": "D-Dars",
+      "category": "enemy_label",
+      "franchise": "s-CRY-ed",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0102.bin"
+      ],
+      "confidence": "source_preserving_compound",
+      "notes": "Source-sized enemy label; no gender, personality, headcount or military hierarchy beyond the literal label inferred. D is an unexplained source marker; preserve it without assuming dead/debug variants."
+    },
+    {
+      "id": "cpl_term_003",
+      "ja": "Ｄホールド隊",
+      "en": "D-HOLD unit",
+      "category": "enemy_label",
+      "franchise": "s-CRY-ed",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0103.bin",
+        "https://en.wikipedia.org/wiki/List_of_S-CRY-ed_characters"
+      ],
+      "confidence": "source_preserving_compound",
+      "notes": "Source-sized enemy label; no gender, personality, headcount or military hierarchy beyond the literal label inferred. D is an unexplained source marker; preserve it without assuming dead/debug variants. HOLD is distinct from HOLY."
+    },
+    {
+      "id": "cpl_term_004",
+      "ja": "Ｄダース隊",
+      "en": "D-Dars unit",
+      "category": "enemy_label",
+      "franchise": "s-CRY-ed",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0104.bin"
+      ],
+      "confidence": "source_preserving_compound",
+      "notes": "Source-sized enemy label; no gender, personality, headcount or military hierarchy beyond the literal label inferred. D is an unexplained source marker; preserve it without assuming dead/debug variants."
+    },
+    {
+      "id": "cpl_term_005",
+      "ja": "ホールド隊",
+      "en": "HOLD unit",
+      "category": "enemy_label",
+      "franchise": "s-CRY-ed",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0105.bin",
+        "https://en.wikipedia.org/wiki/List_of_S-CRY-ed_characters"
+      ],
+      "confidence": "source_preserving_compound",
+      "notes": "Source-sized enemy label; no gender, personality, headcount or military hierarchy beyond the literal label inferred. HOLD is distinct from HOLY."
+    },
+    {
+      "id": "cpl_term_006",
+      "ja": "ホールド小隊",
+      "en": "HOLD platoon",
+      "category": "enemy_label",
+      "franchise": "s-CRY-ed",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0191.bin",
+        "https://en.wikipedia.org/wiki/List_of_S-CRY-ed_characters"
+      ],
+      "confidence": "source_preserving_compound",
+      "notes": "Source-sized enemy label; no gender, personality, headcount or military hierarchy beyond the literal label inferred. HOLD is distinct from HOLY."
+    },
+    {
+      "id": "cpl_term_007",
+      "ja": "ホールド隊員",
+      "en": "HOLD soldier",
+      "category": "enemy_label",
+      "franchise": "s-CRY-ed",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0890.bin",
+        "https://en.wikipedia.org/wiki/List_of_S-CRY-ed_characters"
+      ],
+      "confidence": "source_preserving_compound",
+      "notes": "Source-sized enemy label; no gender, personality, headcount or military hierarchy beyond the literal label inferred. HOLD is distinct from HOLY."
+    },
+    {
+      "id": "cpl_term_008",
+      "ja": "魔導騎士団員",
+      "en": "Magic Knight Order member",
+      "category": "enemy_label",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl1680.bin"
+      ],
+      "confidence": "source_preserving_compound",
+      "notes": "Source-sized enemy label; no gender, personality, headcount or military hierarchy beyond the literal label inferred. Member label derived from established project Magic Knight Order; institutional English remains provisional."
+    },
+    {
+      "id": "cpl_term_009",
+      "ja": "エイリアス",
+      "en": "Alias",
+      "category": "alter_short_name",
+      "franchise": "s-CRY-ed",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl9260.bin",
+        "https://scryed.fandom.com/wiki/Martin_Zigmarl"
+      ],
+      "confidence": "wiki_backed_source_short_form",
+      "notes": "Source-sized enemy label; no gender, personality, headcount or military hierarchy beyond the literal label inferred. Short form of established Alter Alias; source pressure attacks confirm the entity. Do not expand source-short label."
+    },
+    {
+      "id": "cpl_term_010",
+      "ja": "ナゴキアス",
+      "en": "Nagokias",
+      "category": "weapon_action",
+      "franchise": "Sgt. Frog",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0003.bin",
+        "local:work/source/cpk/btl/cpl/cpl9100.bin"
+      ],
+      "confidence": "provisional_source_romanization",
+      "notes": "Exact native CP932 label repeats in Viper action blocks. No authoritative English weapon name found in exact searches; protected project romanization, not a claimed official spelling. Do not replace with a guessed Cobra/Psychogun reference."
+    },
+    {
+      "id": "cpl_term_011",
+      "ja": "サイコガン",
+      "en": "Psychogun",
+      "category": "battle_action",
+      "franchise": "Sgt. Frog",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0392.bin"
+      ],
+      "confidence": "provisional_source_transliteration",
+      "notes": "CPL player-facing action label. No additional mechanics, gender, personality or lore inferred. Exact English technique name not independently established; bounded project translation of this source label. Viper source label, not an identification of a Cobra character; distinct from Nagokias."
+    },
+    {
+      "id": "cpl_term_012",
+      "ja": "タルルジェノサイド",
+      "en": "Taruru Genocide",
+      "category": "battle_action",
+      "franchise": "Sgt. Frog",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0491.bin",
+        "https://keroro.fandom.com/wiki/Taruru_Genocide"
+      ],
+      "confidence": "wiki_confirmed",
+      "notes": "CPL player-facing action label. No additional mechanics, gender, personality or lore inferred."
+    },
+    {
+      "id": "cpl_term_013",
+      "ja": "魔眼",
+      "en": "Evil Eye",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0591.bin"
+      ],
+      "confidence": "provisional_descriptive_translation",
+      "notes": "CPL player-facing action label. No additional mechanics, gender, personality or lore inferred. Exact English technique name not independently established; bounded project translation of this source label. Complete cpl0591 source block names Rain as owner; not a Slayers/Zuuma attribution."
+    },
+    {
+      "id": "cpl_term_014",
+      "ja": "アサルト",
+      "en": "Assault",
+      "category": "battle_action",
+      "franchise": "My-HiME",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0690.bin"
+      ],
+      "confidence": "provisional_source_transliteration",
+      "notes": "CPL player-facing action label. No additional mechanics, gender, personality or lore inferred. Exact English technique name not independently established; bounded project translation of this source label. Complete cpl0690 source block names Searrs Foundation soldier as owner; not Rain."
+    },
+    {
+      "id": "cpl_term_015",
+      "ja": "妖火",
+      "en": "Bewitching Flame",
+      "category": "battle_action",
+      "franchise": "Read or Die",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0693.bin",
+        "https://readordie.fandom.com/wiki/OVA_Episode_2"
+      ],
+      "confidence": "provisional_descriptive_translation",
+      "notes": "CPL player-facing action label. No additional mechanics, gender, personality or lore inferred. Exact English technique name not independently established; bounded project translation of this source label. Genjo Sanzo belongs to Read or Die here, not Saiyuki. Wiki corroborates fire breath, not this exact English technique title."
+    },
+    {
+      "id": "cpl_term_016",
+      "ja": "ロードクロームＣ",
+      "en": "Load Chrome C",
+      "category": "battle_action",
+      "franchise": "My-HiME",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0790.bin",
+        "https://mai.fandom.com/wiki/Duran",
+        "https://mai.fandom.com/wiki/Dance_of_Flames/Star%27s_Oath"
+      ],
+      "confidence": "source_short_compound",
+      "notes": "CPL player-facing action label. No additional mechanics, gender, personality or lore inferred. Preserve literal source abbreviation C; cartridge terminology is corroborated, but do not expand this short label."
+    },
+    {
+      "id": "cpl_term_017",
+      "ja": "ロードシルバーＣ",
+      "en": "Load Silver C",
+      "category": "battle_action",
+      "franchise": "My-HiME",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0790.bin",
+        "https://mai.fandom.com/wiki/Duran"
+      ],
+      "confidence": "source_short_compound",
+      "notes": "CPL player-facing action label. No additional mechanics, gender, personality or lore inferred. Preserve literal source abbreviation C; cartridge terminology is corroborated, but do not expand this short label."
+    },
+    {
+      "id": "cpl_term_018",
+      "ja": "ロードフラッシュＣ",
+      "en": "Load Flash C",
+      "category": "battle_action",
+      "franchise": "My-HiME",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0790.bin",
+        "https://mai.fandom.com/wiki/Duran"
+      ],
+      "confidence": "source_short_compound",
+      "notes": "CPL player-facing action label. No additional mechanics, gender, personality or lore inferred. Preserve literal source abbreviation C; cartridge terminology is corroborated, but do not expand this short label."
+    },
+    {
+      "id": "cpl_term_019",
+      "ja": "ワイヤーネイル",
+      "en": "Wire Nail",
+      "category": "battle_action",
+      "franchise": "My-HiME",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0791.bin",
+        "https://mai.fandom.com/wiki/Julia"
+      ],
+      "confidence": "provisional_source_transliteration",
+      "notes": "CPL player-facing action label. No additional mechanics, gender, personality or lore inferred. Exact English technique name not independently established; bounded project translation of this source label. Wiki corroborates claws and wires, not this exact English heading."
+    },
+    {
+      "id": "cpl_term_020",
+      "ja": "青い薔薇",
+      "en": "Blue Rose",
+      "category": "battle_action",
+      "franchise": "Blood+",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl0891.bin"
+      ],
+      "confidence": "provisional_descriptive_translation",
+      "notes": "CPL player-facing action label. No additional mechanics, gender, personality or lore inferred. Exact English technique name not independently established; bounded project translation of this source label."
+    },
+    {
+      "id": "cpl_term_021",
+      "ja": "クワガタ",
+      "en": "Stag Beetle",
+      "category": "battle_action",
+      "franchise": "Read or Die",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl1090.bin"
+      ],
+      "confidence": "provisional_descriptive_translation",
+      "notes": "CPL player-facing action label. No additional mechanics, gender, personality or lore inferred. Exact English technique name not independently established; bounded project translation of this source label."
+    },
+    {
+      "id": "cpl_term_022",
+      "ja": "エレキテルソード",
+      "en": "Elekiter Sword",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl1091.bin",
+        "https://readordie.fandom.com/wiki/Gennai_Hiraga"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred. Wiki supports Elekiter device and electric swords, not this exact technique heading."
+    },
+    {
+      "id": "cpl_term_023",
+      "ja": "アサシネイト",
+      "en": "Assassinate",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl1590.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_024",
+      "ja": "浪漫砲",
+      "en": "Romantic Cannon",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl1680.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_025",
+      "ja": "ヴェスパー",
+      "en": "Vesper",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl1690.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_026",
+      "ja": "フォース",
+      "en": "Force",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl2091.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_027",
+      "ja": "バトルソング",
+      "en": "Battle Song",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl2290.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_028",
+      "ja": "スタッブ",
+      "en": "Stab",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl2291.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_029",
+      "ja": "剛なる拳　伏龍・臥龍",
+      "en": "Vigorous Fists: Crouching Dragon & Bowing Dragon",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl1292.bin",
+        "https://scryed.fandom.com/wiki/Zetsuei_(Alter)"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred. Combined label reuses protected component names without adding left/right qualifiers."
+    },
+    {
+      "id": "cpl_term_030",
+      "ja": "アイスエイジ",
+      "en": "Ice Age",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl2590.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_031",
+      "ja": "ダブルプレッシャー",
+      "en": "Double Pressure",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl2990.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_032",
+      "ja": "Ｗトリック",
+      "en": "W Trick",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl2993.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred. Literal W/B source abbreviation retained, not expanded."
+    },
+    {
+      "id": "cpl_term_033",
+      "ja": "Ｂジョーカー",
+      "en": "B Joker",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl2993.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred. Literal W/B source abbreviation retained, not expanded."
+    },
+    {
+      "id": "cpl_term_034",
+      "ja": "始の舞",
+      "en": "Dance of Beginning",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl3090.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_035",
+      "ja": "終の舞",
+      "en": "Dance of End",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl3090.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_036",
+      "ja": "生命砲",
+      "en": "Life Cannon",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl3091.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_037",
+      "ja": "虚眼",
+      "en": "Empty Eye",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl3092.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_038",
+      "ja": "円月斬",
+      "en": "Full-Moon Slash",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl3093.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_039",
+      "ja": "双月斬",
+      "en": "Twin-Moon Slash",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl3093.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_040",
+      "ja": "紅月斬",
+      "en": "Crimson-Moon Slash",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl3093.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_041",
+      "ja": "双頭龍撃砲",
+      "en": "Twin-Headed Dragon Cannon",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl3093.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_042",
+      "ja": "紫苑の衣",
+      "en": "Aster Robe",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl3093.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_043",
+      "ja": "新月斬",
+      "en": "New-Moon Slash",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl3093.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    },
+    {
+      "id": "cpl_term_044",
+      "ja": "紅の雨",
+      "en": "Crimson Rain",
+      "category": "battle_action",
+      "franchise": "Heroes Phantasia",
+      "sources": [
+        "local:work/source/cpk/btl/cpl/cpl3093.bin"
+      ],
+      "confidence": "provisional_source_derived_label",
+      "notes": "Source-visible CPL action stem; qualifiers and counts remain separately translated. Bounded project translation/transliteration; exact English technique title not independently established. No mechanics, gender, personality or additional lore inferred."
+    }
+  ]
+}

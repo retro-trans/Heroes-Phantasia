@@ -1,0 +1,24 @@
+{
+  "batch": "batch_0105",
+  "date": "2026-10-11",
+  "reviewer": "/root/unpack",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "medium",
+  "rows_reviewed": 80,
+  "counted_context_row_views": 578,
+  "counted_scope": "458 complete base scene rows, eight changed paired rows,112 queue views. Identical pairs and rereads excluded.",
+  "source_occurrences_verified": 164,
+  "scene_count": 12,
+  "paired_reference_rows": 916,
+  "required_meaning_corrections": [],
+  "focused_checks": {
+    "2": "Genuinely interrupted sacred-tree action; unfinished wording justified.",
+    "45": "Location inference supported by surrounding search.",
+    "60": "Our world follows preceding crossing discussion.",
+    "62": "Unresolved transport versus animation ambiguity; move its corpse favors transport in English, but source does not settle mechanism. No forced correction.",
+    "63-79": "Accusations, motive denial and evasive arrival answers do not establish guilt or innocence.",
+    "shared49and75": "Assent and silence fit every occurrence."
+  },
+  "runtime_approval": false,
+  "files_changed_by_reviewer": false
+}

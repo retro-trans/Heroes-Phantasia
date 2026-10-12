@@ -1,0 +1,744 @@
+{
+  "version": "0.1.7",
+  "date": "2026-10-11",
+  "language": "en",
+  "batch": "batch_0071",
+  "translator": "primary agent",
+  "rows_in_slice": 80,
+  "rows_drafted": 80,
+  "minimum_counted_context_row_views": 453,
+  "counted_view_scope": "150 complete main-base-scene rows and 178 distinct distant silence-window rows, plus 13 changed paired-context rows and 112 queue views (80 slice, 8 preceding, 24 following). Identical paired rows and rereads are excluded.",
+  "full_scene_reference_rows_byte_compared": 4018,
+  "byte_comparison_scope": "All 4,018 decoded references across 32 paired scene groups were byte-compared. This is source-integrity coverage, not a claim all 4,018 rows were read for meaning. Four main scene pairs were fully read via base text plus changed variants; every distant shared Yin silence was read with up to two adjacent rows on each side and changed matching-variant rows.",
+  "main_complete_context_scene_count": 8,
+  "distant_silence_context_scene_count": 56,
+  "occurrence_scene_count": 64,
+  "context_scene_count": 64,
+  "adjacent_queue_rows_before": 8,
+  "adjacent_queue_rows_after": 24,
+  "source_occurrences_verified": 230,
+  "shared_silence_occurrences_verified": 84,
+  "original_scene_snapshot": [
+    {
+      "file": "phase/bin/p211020.bin",
+      "row_count": 54,
+      "sha256": "4aa1a1f80223178e546d8d3acf04e36b9b992363f5b2aff42070253c471dd147",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211021.bin",
+      "row_count": 54,
+      "sha256": "a72bf5d64f8e86d467626ac8b47e363d009d91c57347b1a6c542d51f318937e4",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211030.bin",
+      "row_count": 28,
+      "sha256": "35085d958ed57546f3317cbee77a055d930150944166f73dac90fff90438867f",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211031.bin",
+      "row_count": 28,
+      "sha256": "b602fab544cda744b81f1c7487b880d51f37f2ff1c9b759e0b2e0f2a6a952809",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211040.bin",
+      "row_count": 16,
+      "sha256": "4d92ae02bd80a0f61fed2659b299a0966567dbf2bcf90be06c49623e7af5717e",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211041.bin",
+      "row_count": 16,
+      "sha256": "9ff21aa5f2de719f99bda76cf1db3a86a4df77f0b0baa8fa73f9235845cec8ca",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211050.bin",
+      "row_count": 52,
+      "sha256": "34988868ae9fd694139a52b6545661064fa719615e88c789e0d284c1eaf6fe82",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211051.bin",
+      "row_count": 52,
+      "sha256": "34988868ae9fd694139a52b6545661064fa719615e88c789e0d284c1eaf6fe82",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211070.bin",
+      "row_count": 62,
+      "sha256": "63ac081e49aa86ae68f6b891693b397a9b2051aee95e7c957b2768a78f8bb7c8",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211071.bin",
+      "row_count": 62,
+      "sha256": "b9a1c1920e73a15f01514869d3253e5442933e2647fc412d7738d564757b120f",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211080.bin",
+      "row_count": 42,
+      "sha256": "efe52825ea2fed86f2004ef8c08390adbb998d76504abdf2d8ae1688a5e0fb48",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211081.bin",
+      "row_count": 42,
+      "sha256": "e965a268d2d38f3b10c0be77b4169b911585612720eea2a867c516660d9d198a",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211090.bin",
+      "row_count": 19,
+      "sha256": "cfc23cb797cf32468db62e26b51a26b6a7af8f0ad171233043cc66696dc0352f",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211091.bin",
+      "row_count": 19,
+      "sha256": "6bdc5ac91fe75fe2e59f7c752ebac4dcb51950872c59a42fe848c7210b3ec593",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p212010.bin",
+      "row_count": 103,
+      "sha256": "718ccbb0d2540a841800cdb4b3937a4f3a5bc9bae86943ba31943548f677935e",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p212011.bin",
+      "row_count": 103,
+      "sha256": "484475a9fae58ce61cc0a279b0d7dab99d706570dcfbb5531e57a4e72fb872bd",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p212020.bin",
+      "row_count": 68,
+      "sha256": "5ab2d8a7e41b6d0bf5fe43b52622a3b3f2f87bc1ca5c599839fe25f26354e6ab",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p212021.bin",
+      "row_count": 68,
+      "sha256": "232fd143e5e0bbf02e99c431f4ae2598d11294c2ab29040aacc6c7f368b81c89",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p212030.bin",
+      "row_count": 28,
+      "sha256": "fdf975b706768f5988fd77cab105f84280e07c538ac4d5ec73df29ddf840998b",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p212031.bin",
+      "row_count": 28,
+      "sha256": "539a349db7f9d3f42f5c5d93dc67d4fe619773a6b4a28878936d4c3e2d2a2a3f",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p212040.bin",
+      "row_count": 61,
+      "sha256": "92da384f18abe75f571b7bd01bbc615ed6037512901c999ec778de5bb21a7f6f",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p212041.bin",
+      "row_count": 61,
+      "sha256": "88404b4c932892cf9e3646eab23130ed4e65c94cb7e26a60db59b8ff54049547",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p212050.bin",
+      "row_count": 44,
+      "sha256": "e3a6608d5898bdac209a2dba318b991adfdb2f95fea11940208635dd13b7891e",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p212051.bin",
+      "row_count": 44,
+      "sha256": "405cca0059b9031f6d8d2c4c3fc4dfde8a99202e0f7c4d33ad3fbb5f0b31ccbc",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p212060.bin",
+      "row_count": 69,
+      "sha256": "144f10fa5e3f6919bda436711bc3d988988acfc2e18ccbc52ee8d1090a9c3282",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p212061.bin",
+      "row_count": 69,
+      "sha256": "73b97ac9c08f382282a3f0ab3da4b64cc3b9d8ff87b75da76ae616a5e6de4c51",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p314030.bin",
+      "row_count": 77,
+      "sha256": "2958d9e14742bf9f4736af0d45838df546a26949d741afda1d94ac9c2c809b54",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p314031.bin",
+      "row_count": 77,
+      "sha256": "2958d9e14742bf9f4736af0d45838df546a26949d741afda1d94ac9c2c809b54",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p314080.bin",
+      "row_count": 61,
+      "sha256": "129ece100453777dc502b5ed9f69833759c669978b93feb4c0fec48e36d1b8d7",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p314081.bin",
+      "row_count": 61,
+      "sha256": "129ece100453777dc502b5ed9f69833759c669978b93feb4c0fec48e36d1b8d7",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p314090.bin",
+      "row_count": 72,
+      "sha256": "2229e8e0846067bdbf9842b8422d4d1af5e9f1905cdfdf44d1d1d92b7c395a2e",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p314091.bin",
+      "row_count": 72,
+      "sha256": "a6243c5bf87cc2148ed94fe353f396b06afe7eee51ad6ef2d9a818a7e4c78c56",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p315010.bin",
+      "row_count": 115,
+      "sha256": "903fa9f5715a4de705bbe35923d058520e95adc94c2379b7d3d0b5c80bbc5342",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p315011.bin",
+      "row_count": 115,
+      "sha256": "ee39edd624b982a55e07a92fad436b50dfc006e69d839851e603da2caa0330e8",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p315020.bin",
+      "row_count": 61,
+      "sha256": "518d1936c662c5dba41695919b95b61ee946b8bedcdca4fefae23e12fe16718d",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p315021.bin",
+      "row_count": 61,
+      "sha256": "724dc071aba5bd0c9e7e1e0833a26a572996dbf9ee77807e82aeaed092f894b0",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p316010.bin",
+      "row_count": 51,
+      "sha256": "7406e3d5359a8a729a1b7d20800b0f7168d10a9d13cf26b403903de9b7c16c85",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p316011.bin",
+      "row_count": 51,
+      "sha256": "7406e3d5359a8a729a1b7d20800b0f7168d10a9d13cf26b403903de9b7c16c85",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p316050.bin",
+      "row_count": 97,
+      "sha256": "eb91e4375b4966fe93049b8b942033d0610fc59f37d2aa1eccea6d91c83cb2c4",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p316051.bin",
+      "row_count": 97,
+      "sha256": "8b8b972f94623e32eb7599f6c45c3b2d942fdda3337cd164849b7be71eccbb6f",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p316070.bin",
+      "row_count": 84,
+      "sha256": "7b39796b07b72e75eefa674a047ddf42f38dc38b60a3dc81846372b5b62575a3",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p316071.bin",
+      "row_count": 84,
+      "sha256": "d4bcf4424efdade596d44b0fc9b6ff0fa08b116df50eed666ef2efdf6041e84e",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p316080.bin",
+      "row_count": 90,
+      "sha256": "e0d88687c1bb329f89e6c8ad1763957db0f07dc1d0d9e7598b86ed40ee5eb269",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p316081.bin",
+      "row_count": 90,
+      "sha256": "715f77b524c12140e69bd619652994603b8a036cc8ffc49b6355fb1e68603bd5",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p317030.bin",
+      "row_count": 112,
+      "sha256": "85774873f214924526747da26c74b4e4ef5caf660a547c90bef13d824b7b05ca",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p317031.bin",
+      "row_count": 112,
+      "sha256": "650bc93e3ad575a25acdb0cc8b17bdf182039ca868b1c00690ed35675bf496f1",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p319020.bin",
+      "row_count": 60,
+      "sha256": "b386f8999c012376c4dec2594aab259fa81d55f9fc50b13034b3da51273fef1b",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p319021.bin",
+      "row_count": 60,
+      "sha256": "2a818c7690603c6210b82c544ed550b45d102625316da3086b7c62ced8f8979f",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p319070.bin",
+      "row_count": 48,
+      "sha256": "87fa4a7322da0279024816664181ea9c6e684ee24400574fab5096e4450e67be",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p319071.bin",
+      "row_count": 48,
+      "sha256": "7fdcf4cd27054fa68d477b1b9715e9461ba89dce444bf1a880f22517bdfd4192",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p320010.bin",
+      "row_count": 43,
+      "sha256": "110ec12b46e137293e8fd4857a4ceec4b4dc33ea041440a8e22cce176d42e1a9",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p320011.bin",
+      "row_count": 43,
+      "sha256": "9ef8044ae0bfd494b9354989a1cb8bb31e0eb52bab9c3db4ae837a48bf9fc39a",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p320030.bin",
+      "row_count": 64,
+      "sha256": "1074a878a8db528c991bc3c00695f64412481c3b8129390cfd560b17a9030525",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p320031.bin",
+      "row_count": 64,
+      "sha256": "42b13a64c9eeeca698705e08e4d4e39c6ab4771ec0eb4730269cbf8b9d5ee083",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p321040.bin",
+      "row_count": 51,
+      "sha256": "0a2af8be83faae75a4e92cb4812c8199c6ffb1f4ae7e7d4f3a758c32f4500193",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p321041.bin",
+      "row_count": 51,
+      "sha256": "ccc28a4e615982c241d26ad7138f9ec21a2a34b0a4ec3ad64893ea7025824153",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p323020.bin",
+      "row_count": 73,
+      "sha256": "fe5a9eb3d6b31bba13f940aa16123285d71dcf518412154eb04a9f1fe046f3c1",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p323021.bin",
+      "row_count": 73,
+      "sha256": "034c6b9f26547481a8cafa2303d984df865e3c105e51c24d0b95b08f9521ff78",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p326010.bin",
+      "row_count": 98,
+      "sha256": "43a15176e72ac1102f847bb5aad615b55334a1a54e694937954f67eb3fa782fa",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p326011.bin",
+      "row_count": 98,
+      "sha256": "4d1e1621dea1a7ffe6220dc79519c198678fb5248bd1314a228325575e0db0d8",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p329100.bin",
+      "row_count": 54,
+      "sha256": "e7e112a4a8328dace135c00f0e5f0e9ce188f973e00083f5819eb54a9b683f89",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p329101.bin",
+      "row_count": 54,
+      "sha256": "e471596fef86a66d9915b8436a74a13323686f5be4d991ee7d5f3c635c27df35",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p330020.bin",
+      "row_count": 52,
+      "sha256": "7e585857cc95372b598fbe25b382cf0af53b041de97e8cba5468f0b2b7c3e7e4",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p330021.bin",
+      "row_count": 52,
+      "sha256": "6fccc1664c2f74f4782f03afde2e8186e7b1dfdd919cd58600159367b3ebddc9",
+      "scope": "original occurrence scene"
+    }
+  ],
+  "original_batch_snapshot_sha256": "ec68a56d240c75568edffd6c51308f118a94c24b16556538555567b3062f6814",
+  "independent_agent_meaning_review": "pending; no additional agent work launched",
+  "controls_numeric_arguments_percent_placeholders_passed": true,
+  "original_source_metadata_unchanged": true,
+  "filled_file_exports_verified": 75,
+  "english_only_export": "work/translation/en/batch_0071.en.json",
+  "glossary_entries_added": [
+    "Eternity Eight"
+  ],
+  "glossary_profiles_enriched": [
+    "Asuka Tachibana",
+    "Martin Zigmarl"
+  ],
+  "glossary_entries": 298,
+  "glossary_source_records": 304,
+  "glossary_sources": [
+    "https://en.wikipedia.org/wiki/List_of_S-CRY-ed_characters",
+    "https://www.absoluteanime.com/s-cry-ed/asuka",
+    "https://scryed.fandom.com/wiki/Martin_Zigmarl",
+    "local:work/translation/en/batch_0071.json"
+  ],
+  "glossary_evidence_scope": "Asuka secondary anime profile explicitly confirms male identity, HOLY hunter role and Eternity Eight. Game dialogue supports his narrowly stated pride/determination. Zigmarl wiki search profile confirms male and anime-specific convictions; direct wiki retrieval failed. Existing English names remain unchanged; exact ages, manga traits, later careers/romance and battle outcomes are excluded.",
+  "unresolved": [
+    {
+      "category": "mission_and_request_direction",
+      "row_indices": [
+        0,
+        1,
+        2,
+        4,
+        6,
+        8,
+        18,
+        20,
+        26,
+        44,
+        59,
+        60,
+        62,
+        75
+      ],
+      "translation_ids": [
+        "4617eeb4e37c2e6219fc",
+        "302f127548b5d3581691",
+        "f17a837998c2761763be",
+        "e531abf29aaa9c39aebb",
+        "e6fc9e2758d7cfb1f3e5",
+        "d6cf18de0b5afa08dfcf",
+        "9741f3a35c4b0f61d5b2",
+        "209fa9fe62363f11e0ce",
+        "e46aa7b1291b4e9b261a",
+        "fe14223e620d6e03bbb4",
+        "9c3b2fd7076930e234d4",
+        "8aa9fc71af63b7c546ca",
+        "9d438a1bda62df9f5e1a",
+        "eb9047b81f3b5942f5e7"
+      ],
+      "note": "Sawada says the signal should be impossible and calls for cancellation, not proof of a ghost. Mitch volunteers to travel, conditional helicopter catch-up and postponed paperwork; no completed booking or warning delivery. Asuka demands accompaniment, the protagonist asks to be let go and then to relay the self-defense explanation; keep actors/recipients."
+    },
+    {
+      "category": "runtime_names",
+      "row_indices": [
+        2,
+        10,
+        17,
+        29
+      ],
+      "translation_ids": [
+        "f17a837998c2761763be",
+        "62f30947acc0f6ca1a32",
+        "191063145630e8f99ef8",
+        "36ab05ddbe01599776aa"
+      ],
+      "note": "Preserve exact fields 0 and 1, including full-name concatenation. Verify both protagonist expansions, English name order and proportional width before installation."
+    },
+    {
+      "category": "ruby",
+      "row_indices": [
+        68,
+        75
+      ],
+      "translation_ids": [
+        "89e4fb973751bec9f93a",
+        "eb9047b81f3b5942f5e7"
+      ],
+      "note": "Canonical Yin and Mao names/readings preserved across each original paired ruby control. Argument 1 remains unchanged for integrity; English base spans are longer and require explicit rebuilding and measured reading/base layout before installation."
+    },
+    {
+      "category": "link_and_repeated_controls",
+      "row_indices": [
+        22,
+        44
+      ],
+      "translation_ids": [
+        "8f0547528aa9c79f526a",
+        "fe14223e620d6e03bbb4"
+      ],
+      "note": "Eternity Eight link ID 056 and color arguments 03/01 remain exact. Female request has an extra 12/0E pair in source; retained rather than treating it as accidental duplication. Runtime behavior and layout require QA."
+    },
+    {
+      "category": "punishment_and_accusation",
+      "row_indices": [
+        17,
+        19,
+        21,
+        22,
+        23,
+        24,
+        28,
+        40,
+        41,
+        42
+      ],
+      "translation_ids": [
+        "191063145630e8f99ef8",
+        "1a1890ff3a07758b209e",
+        "2bbac08da0ca7f20bb4c",
+        "8f0547528aa9c79f526a",
+        "c15296f6dd133060d2c0",
+        "d3810c591e2be25a0625",
+        "89428f8272e1d64e0ef0",
+        "556bd7a9c16f39c800e4",
+        "d4b6fb0a7d67b6ebacb7",
+        "8d18cba15dc75544639e"
+      ],
+      "note": "Asuka combines Native Alter hunting, revenge and formal punishment under Commander Martin Zigmarl. NP3228 remains the same player-facing designation. Independent meaning review should check judicial-threat strength and self-introduction delivery; no specific execution method or institutional outcome inserted. Kazuma's crude dismissal remains strong."
+    },
+    {
+      "category": "paired_third_attempt_proverbs",
+      "row_indices": [
+        30,
+        31,
+        32,
+        37,
+        38,
+        39,
+        45
+      ],
+      "translation_ids": [
+        "101a7f9a56b1f3d5b5d2",
+        "57162358d8d53f2d5605",
+        "e454edd8412f9f1cfba9",
+        "1851315d557edc35a532",
+        "733e4a2d7a01b810b58d",
+        "e02c3f1c8c19e271a091",
+        "555abfec95f3bbd594ba"
+      ],
+      "note": "Two prior fights and wins motivate third-time's-the-charm versus what happens twice will happen a third time. Kimishima predicts a likely third straight loss. Review the paired proverb joke and hesitant confirmation; do not turn the prediction into a completed third loss before battle."
+    },
+    {
+      "category": "pride_identity_and_omitted_predicates",
+      "row_indices": [
+        36,
+        47,
+        48,
+        49,
+        51,
+        54,
+        55,
+        56
+      ],
+      "translation_ids": [
+        "c7562121529cf7286b44",
+        "c225ee7286e18a488b39",
+        "db179e69b007b260052c",
+        "53d14260f08d3ac1812e",
+        "711f7cf314a0705295d7",
+        "cf59410202ec18364ce2",
+        "dfe622a521f03e5b134f",
+        "1e49254c9601b3182d35"
+      ],
+      "note": "Three freedom/transformability/invincibility claims remain Asuka's boast. HOLY enhancement and subsequent loss have explicit English predicates, rather than accidental fragments. Kazuma judges weak will and distinguishes belonging to HOLY from being himself. Asuka's identity-focused question needs independent naturalness/meaning review."
+    },
+    {
+      "category": "shared_silence",
+      "row_indices": [
+        69
+      ],
+      "translation_ids": [
+        "72ec49a301b2a4436549"
+      ],
+      "note": "All 84 original Yin silence occurrences match source and were checked with immediate context in 32 paired scene groups. Six ASCII periods remain silence, without inferred assent, refusal or emotion; performance/timing review pending. Distant whole scenes were byte-compared but only silence windows were read for meaning."
+    },
+    {
+      "category": "earlier_cave_debt_and_talking_cat",
+      "row_indices": [
+        67,
+        71,
+        73,
+        76,
+        77,
+        78,
+        79
+      ],
+      "translation_ids": [
+        "96bc55735473688793ba",
+        "9026da6b38ea5ae092af",
+        "a9b26459f65f131d69f8",
+        "bef6cc2c7a57cd5332bc",
+        "a788b98d94a8fb14b239",
+        "8d93f37c1bf39aca830c",
+        "02b28ce7bf4a5871bb46"
+      ],
+      "note": "Mitch observes a wire strike bringing down a chiropteran, not an explicitly permanent kill or a specified electrical mechanism. Mao previously saw her in a cave and caused trouble by fleeing; rescue repays the debt. Her self-address uses Michie, and anxious frog-alien/talking-cat repetition remains complete."
+    },
+    {
+      "category": "voice_and_layout",
+      "row_indices": [
+        2,
+        5,
+        7,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        29,
+        32,
+        34,
+        36,
+        37,
+        39,
+        40,
+        42,
+        43,
+        44,
+        47,
+        48,
+        51,
+        52,
+        54,
+        55,
+        57,
+        61,
+        64,
+        66,
+        67,
+        68,
+        72,
+        74,
+        75,
+        78,
+        79
+      ],
+      "translation_ids": [
+        "f17a837998c2761763be",
+        "ad08bf59d266a82ecac3",
+        "1bae22008f695b355193",
+        "191063145630e8f99ef8",
+        "9741f3a35c4b0f61d5b2",
+        "1a1890ff3a07758b209e",
+        "2bbac08da0ca7f20bb4c",
+        "8f0547528aa9c79f526a",
+        "c15296f6dd133060d2c0",
+        "d3810c591e2be25a0625",
+        "36ab05ddbe01599776aa",
+        "e454edd8412f9f1cfba9",
+        "38a4e24ca45779c8e497",
+        "c7562121529cf7286b44",
+        "1851315d557edc35a532",
+        "e02c3f1c8c19e271a091",
+        "556bd7a9c16f39c800e4",
+        "8d18cba15dc75544639e",
+        "d0df95c71f939fe10cbd",
+        "fe14223e620d6e03bbb4",
+        "c225ee7286e18a488b39",
+        "db179e69b007b260052c",
+        "711f7cf314a0705295d7",
+        "0b477cbc0a141cec3c5f",
+        "cf59410202ec18364ce2",
+        "dfe622a521f03e5b134f",
+        "3291b31f9ae233b15b26",
+        "643aa272e4175bbdeb7f",
+        "1ab7bbf1475cd1756476",
+        "7cfb0292acea5d0935d9",
+        "96bc55735473688793ba",
+        "89e4fb973751bec9f93a",
+        "ab9faf525f3650a4a5d2",
+        "d845708500a15cbb7f4e",
+        "eb9047b81f3b5942f5e7",
+        "8d93f37c1bf39aca830c",
+        "02b28ce7bf4a5871bb46"
+      ],
+      "note": "Full meaning drafted without a source-byte budget. Stammers, rough challenges, frustrated groans, monster roars, both variants, long lines, official names, link/color highlighting, runtime names and ruby need voice and measured runtime layout QA."
+    },
+    {
+      "category": "intentional_fragment_or_echo",
+      "row_indices": [
+        5,
+        7,
+        21,
+        23,
+        27,
+        33,
+        37,
+        46,
+        51,
+        53,
+        54,
+        57,
+        58,
+        61,
+        64,
+        66,
+        69,
+        74
+      ],
+      "translation_ids": [
+        "ad08bf59d266a82ecac3",
+        "1bae22008f695b355193",
+        "2bbac08da0ca7f20bb4c",
+        "c15296f6dd133060d2c0",
+        "5d4eb50ec0f8e77d7ad9",
+        "9b2dcdc0ac0316997469",
+        "1851315d557edc35a532",
+        "ecf00d3f4386a38e50bd",
+        "711f7cf314a0705295d7",
+        "71f386562e8bed689017",
+        "cf59410202ec18364ce2",
+        "3291b31f9ae233b15b26",
+        "a29a2f30bdf8a7ef6cd2",
+        "643aa272e4175bbdeb7f",
+        "1ab7bbf1475cd1756476",
+        "7cfb0292acea5d0935d9",
+        "72ec49a301b2a4436549",
+        "d845708500a15cbb7f4e"
+      ],
+      "note": "Deliberate calls, interrupted objection, accusation vocative, rhetorical echoes, laugh/groans/roars, silence, emphatic modifying afterthoughts and unfinished proverb setup retained. Row decisions identify source omissions; ordinary pro-drop subjects and predicates restored."
+    }
+  ],
+  "runtime_newly_verified_rows": 0,
+  "new_build_created": false,
+  "complete_game_translation": false,
+  "drafted_total": 5209,
+  "unfilled_total": 12011
+}

@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "terms": [
+    {"id": "world_map_hold_hq", "ja": "ホールド本部", "en": "HOLD Headquarters", "category": "location", "sources": ["local:PSP_GAME/SYSDIR/EBOOT.decrypted.elf:0x96bfc", "local:fld/dngn/d01.bin"], "notes": "HOLD capitalization follows term_007; complete location label used in both map and bitmap banner."},
+    {"id": "world_map_camp_menu", "ja": "キャンプメニュー", "en": "Camp Menu", "category": "ui", "sources": ["local:PSP_GAME/SYSDIR/EBOOT.decrypted.elf:0x9539f"]},
+    {"id": "world_map_zoom", "ja": "拡大", "en": "Zoom", "category": "ui", "sources": ["local:PSP_GAME/SYSDIR/EBOOT.decrypted.elf:0x95288"], "notes": "Footer label for zooming in. Zoom In measures52 native pixels and exceeds the reviewed49-pixel region; Zoom measures36 pixels."}
+  ]
+}

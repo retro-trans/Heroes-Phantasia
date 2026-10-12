@@ -1,0 +1,117 @@
+{
+  "language": "en",
+  "version": "0.1.15",
+  "purpose": "Canonical spellings protected from stale reviewer edits. Apply meaning fixes before the name normalizer; retain these spellings during meaning review unless new source evidence is escalated.",
+  "normalizer": "tools/normalize_glossary_names.py",
+  "locks": [
+    {
+      "canonical": "Adloaz",
+      "scope": "Game-original world: original HPMOVE01 title card explicitly says THE WORLD OF ADLOAZ. Supersedes provisional Adroas; retain Adloaz Oak and Adloaz Construction in corresponding compounds. Japanese wiki source establishes the place identity without an English spelling."
+    },
+    {
+      "canonical": "Cinq Fl\u00e8ches Pharmaceutical",
+      "scope": "BLOOD+ company name; shortened Cinq Fl\u00e8ches remains valid in context"
+    },
+    {
+      "canonical": "Space Deputy",
+      "scope": "Kogoro's title"
+    },
+    {
+      "canonical": "NP3228",
+      "scope": "player-facing prisoner designation; preserve identifier value and control arguments"
+    },
+    {
+      "canonical": "MI6",
+      "scope": "English agency name; earlier mI6 typo corrected across all working targets"
+    },
+    {
+      "canonical": "BK-201",
+      "scope": "Hei's player-facing Messier Code; speech order remains flagged for performance/meaning review"
+    },
+    {
+      "canonical": "dwarf / dwarves",
+      "scope": "Orphen race: singular dwarf, plural dwarves, attributive dwarf/dwarven. Replaces chijin transliteration; linked115 spans only race label, brothers outside. Do not reintroduce earlier transliteration during meaning review."
+    },
+    {
+      "canonical": "Fuuka",
+      "scope": "Fuuka Academy and source-matched district/palace names; retain the franchise-wiki spelling."
+    },
+    {
+      "canonical": "Merrill",
+      "scope": "Rune Soldier character; do not restore Mirelle."
+    },
+    {
+      "canonical": "Mikoto",
+      "scope": "My-HiME speaker explicitly identified by its speaker control; do not substitute Inochi."
+    },
+    {
+      "canonical": "Angolans",
+      "scope": "Members of the Angol people; preserve possessive grammar."
+    },
+    {
+      "canonical": "The Crystal",
+      "scope": "s-CRY-ed Alter crystallized entity; avoid adding another the."
+    },
+    {
+      "canonical": "Amulet",
+      "scope": "Item label and plural Amulets; Charm remains the separate charisma statistic."
+    },
+    {
+      "canonical": "Mad Sprict",
+      "scope": "Specific researched s-CRY-ed Alter name, not Mad Script."
+    },
+    {
+      "canonical": "Dra-mata",
+      "scope": "Researched Lina epithet; do not replace with Dragon Spooker."
+    },
+    {
+      "canonical": "Robbers' Killer",
+      "scope": "Specific Lina epithet."
+    },
+    {
+      "canonical": "Magicians' Guild",
+      "scope": "Exact organization label."
+    },
+    {
+      "canonical": "CIA's Warrior Monk",
+      "scope": "Exact Kogoro epithet label."
+    },
+    {
+      "canonical": "Dark Race",
+      "scope": "Orphen race term."
+    },
+    {
+      "canonical": "Hagi",
+      "scope": "BLOOD+ character, not Haji."
+    },
+    {
+      "canonical": "Volkan",
+      "scope": "Orphen character, not Vulcan."
+    },
+    {
+      "canonical": "Highly-advanced Materializing Equipment",
+      "scope": "Project franchise-wiki expansion; retain Materializing."
+    },
+    {
+      "canonical": "First Bullet / Second Bullet",
+      "scope": "Short source attack labels stay short; do not expand them to full attack names."
+    },
+    {
+      "canonical": "Orphan",
+      "scope": "My-HiME enemy term, distinct from Orphen the character."
+    },
+    {
+      "canonical": "Hero",
+      "scope": "Role label in the Slayers context."
+    },
+    {
+      "canonical": "Wendy",
+      "scope": "Context-specific researched character label; do not expand absent source names."
+    },
+    {
+      "canonical": "Heroic Score",
+      "scope": "Exact game statistic label."
+    }
+  ],
+  "updated": "2026-10-11"
+}

@@ -1,0 +1,43 @@
+{
+  "batch": "batch_0106",
+  "date": "2026-10-11",
+  "reviewer": "/root/unpack",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "medium",
+  "rows_reviewed": 80,
+  "new_counted_context_row_views": 392,
+  "new_counted_scope": "271 complete base rows, nine changed variant rows,112 queue/context rows. Identical paired rows and rereads excluded.",
+  "previously_reviewed_scene_rows_reused": 85,
+  "reused_scope": "84 base rows and one changed variant row from prior full paired-scene review; excluded from new view count.",
+  "full_context_views_available": 477,
+  "source_occurrences_verified": 168,
+  "scene_count": 10,
+  "paired_reference_rows": 710,
+  "required_meaning_corrections": [],
+  "focused_checks": {
+    "24": {
+      "id": "ecfef89de57ab123ef20",
+      "finding": "Neutral they fits Xellos and Alisa."
+    },
+    "50": {
+      "id": "6b2d097e2dcdc716014b",
+      "finding": "Dismissive prince question retains rude meaning."
+    },
+    "55": {
+      "id": "61b6781e7816a60b7fa2",
+      "finding": "Serish I supported by following responsibility statement."
+    },
+    "65": {
+      "id": "37c06627c657d7047b62",
+      "finding": "Genuinely unfinished reunion thought; missing action unstated."
+    },
+    "74-79": "Travel remains between two named points, with concealed passage.",
+    "resemblance": "Xellos/Nagi comparison, not identity."
+  },
+  "unresolved": [
+    "Exact delivery requires voice/runtime review.",
+    "Crossing Forest remains provisional project rendering."
+  ],
+  "runtime_approval": false,
+  "files_changed_by_reviewer": false
+}

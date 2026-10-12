@@ -1,0 +1,472 @@
+{
+  "schema_version": 1,
+  "version": "0.1.0",
+  "language": "en",
+  "entries": [
+    {
+      "id": "credits_actor_001",
+      "ja": "森久保祥太郎",
+      "en": "Showtaro Morikubo",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "male",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Showtaro_Morikubo",
+        "https://morikuboshowtaro.lantis.jp/profile/"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Artist profile identity and branded URL; Latin headword from wiki. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        0
+      ]
+    },
+    {
+      "id": "credits_actor_002",
+      "ja": "飯塚雅弓",
+      "en": "Mayumi Iizuka",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "female",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mayumi_Iizuka",
+        "https://www.lantis.jp/en/artist/b7456e26ea242344cf9c71ba59910917/"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Explicit Latin name on agency or label page. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        1
+      ]
+    },
+    {
+      "id": "credits_actor_003",
+      "ja": "南央美",
+      "en": "Omi Minami",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "female",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Omi_Minami"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Wiki spelling and identity; no independent primary Latin spelling established in this review. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        2
+      ]
+    },
+    {
+      "id": "credits_actor_004",
+      "ja": "小西克幸",
+      "en": "Katsuyuki Konishi",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "male",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Katsuyuki_Konishi"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Wiki spelling and identity; no independent primary Latin spelling established in this review. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        4,
+        46
+      ]
+    },
+    {
+      "id": "credits_actor_005",
+      "ja": "松岡由貴",
+      "en": "Yuki Matsuoka",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "female",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yuki_Matsuoka"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Wiki spelling and identity; no independent primary Latin spelling established in this review. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        5
+      ]
+    },
+    {
+      "id": "credits_actor_006",
+      "ja": "高山みなみ",
+      "en": "Minami Takayama",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "female",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Minami_Takayama"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Wiki spelling and identity; no independent primary Latin spelling established in this review. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        6
+      ]
+    },
+    {
+      "id": "credits_actor_007",
+      "ja": "井上喜久子",
+      "en": "Kikuko Inoue",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "female",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kikuko_Inoue"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Wiki spelling and identity; no independent primary Latin spelling established in this review. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        7
+      ]
+    },
+    {
+      "id": "credits_actor_008",
+      "ja": "三木眞一郎",
+      "en": "Shin-ichiro Miki",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "male",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shin-ichiro_Miki",
+        "https://www.81produce.co.jp/actor_search/index.php/item?id=118"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Explicit Latin name on agency or label page. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        8
+      ]
+    },
+    {
+      "id": "credits_actor_009",
+      "ja": "笠原留美",
+      "en": "Rumi Kasahara",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "female",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rumi_Kasahara",
+        "https://www.aoni.co.jp/search/kasahara-rumi.html"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Explicit Latin name on agency or label page. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        9
+      ]
+    },
+    {
+      "id": "credits_actor_010",
+      "ja": "平松晶子",
+      "en": "Akiko Hiramatsu",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "female",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Akiko_Hiramatsu"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Wiki spelling and identity; no independent primary Latin spelling established in this review. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        10
+      ]
+    },
+    {
+      "id": "credits_actor_011",
+      "ja": "西村知道",
+      "en": "Tomomichi Nishimura",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "male",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tomomichi_Nishimura",
+        "https://www.artsvision.co.jp/talent/14334/"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Explicit Latin name on agency or label page. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        11
+      ]
+    },
+    {
+      "id": "credits_actor_012",
+      "ja": "喜多村英梨",
+      "en": "Eri Kitamura",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "female",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eri_Kitamura"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Wiki spelling and identity; no independent primary Latin spelling established in this review. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        45
+      ]
+    },
+    {
+      "id": "credits_actor_013",
+      "ja": "佐々木望",
+      "en": "Nozomu Sasaki",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "male",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nozomu_Sasaki"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Wiki spelling and identity; no independent primary Latin spelling established in this review. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        48
+      ]
+    },
+    {
+      "id": "credits_actor_014",
+      "ja": "木内秀信",
+      "en": "Hidenobu Kiuchi",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "male",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hidenobu_Kiuchi"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Wiki spelling and identity; no independent primary Latin spelling established in this review. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        49
+      ]
+    },
+    {
+      "id": "credits_actor_015",
+      "ja": "井上和彦",
+      "en": "Kazuhiko Inoue",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "male",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kazuhiko_Inoue",
+        "https://www.wikidata.org/wiki/Q225654"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Wiki spelling and identity; no independent primary Latin spelling established in this review. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        50
+      ]
+    },
+    {
+      "id": "credits_actor_016",
+      "ja": "花澤香菜",
+      "en": "Kana Hanazawa",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "female",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kana_Hanazawa"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Wiki spelling and identity; no independent primary Latin spelling established in this review. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        51
+      ]
+    },
+    {
+      "id": "credits_actor_017",
+      "ja": "三宅健太",
+      "en": "Kenta Miyake",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "male",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kenta_Miyake",
+        "https://www.81produce.co.jp/actor_search/index.php/item?id=120"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Explicit Latin name on agency or label page. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        53
+      ]
+    },
+    {
+      "id": "credits_actor_018",
+      "ja": "細谷佳正",
+      "en": "Yoshimasa Hosoya",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "male",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yoshimasa_Hosoya"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Wiki spelling and identity; no independent primary Latin spelling established in this review. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        59
+      ]
+    },
+    {
+      "id": "credits_actor_019",
+      "ja": "日笠陽子",
+      "en": "Yoko Hikasa",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "female",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yoko_Hikasa"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Wiki spelling and identity; no independent primary Latin spelling established in this review. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        60
+      ]
+    },
+    {
+      "id": "credits_actor_020",
+      "ja": "遠藤綾",
+      "en": "Aya Endō",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "female",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aya_Endo"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Wiki spelling and identity; no independent primary Latin spelling established in this review. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        61
+      ]
+    },
+    {
+      "id": "credits_actor_021",
+      "ja": "金元寿子",
+      "en": "Hisako Kanemoto",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "female",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hisako_Kanemoto"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Wiki spelling and identity; no independent primary Latin spelling established in this review. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        62
+      ]
+    },
+    {
+      "id": "credits_actor_022",
+      "ja": "浪川大輔",
+      "en": "Daisuke Namikawa",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "male",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Daisuke_Namikawa"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Wiki spelling and identity; no independent primary Latin spelling established in this review. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        63
+      ]
+    },
+    {
+      "id": "credits_actor_023",
+      "ja": "沢城みゆき",
+      "en": "Miyuki Sawashiro",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "female",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Miyuki_Sawashiro"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Wiki spelling and identity; no independent primary Latin spelling established in this review. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        64
+      ]
+    },
+    {
+      "id": "credits_actor_024",
+      "ja": "宮本充",
+      "en": "Mitsuru Miyamoto",
+      "category": "voice_actor",
+      "franchise": "Real-world credits",
+      "gender": "male",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Japanese voice actor credited in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mitsuru_Miyamoto",
+        "https://www.theatercompany-subaru.com/member/male/008_miyamotomitsuru.html"
+      ],
+      "confidence": "published_spelling",
+      "notes": "Explicit Latin name on agency or label page. Actor identity and gender do not establish character traits. Keep the credited name; do not substitute similarly written people.",
+      "source_credit_position_indices": [
+        65
+      ]
+    }
+  ]
+}

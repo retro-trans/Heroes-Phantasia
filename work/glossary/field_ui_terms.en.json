@@ -1,0 +1,481 @@
+{
+  "schema_version": 1,
+  "version": "0.1.28",
+  "language": "en",
+  "entries": [
+    {
+      "id": "field_ui_field_table0_003",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "ステータス",
+      "en": "Status",
+      "ui_display": "Status",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_005",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "ギャラリー",
+      "en": "Gallery",
+      "ui_display": "Gallery",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_011",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "ＯＮ　",
+      "en": "ON",
+      "ui_display": "ON",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_012",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "ＯＦＦ",
+      "en": "OFF",
+      "ui_display": "OFF",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_020",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "おまもり",
+      "en": "Amulet",
+      "ui_display": "Amulets",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_049",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "アクセサリ",
+      "en": "Accessories",
+      "ui_display": "Accessories",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_050",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "クエスト",
+      "en": "Quests",
+      "ui_display": "Quests",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_051",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "カタログ",
+      "en": "Catalog",
+      "ui_display": "Catalog",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_052",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "オプション",
+      "en": "Options",
+      "ui_display": "Options",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_053",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "チュートリアル",
+      "en": "Tutorial",
+      "ui_display": "Tutorial",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_066",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "ＢＧＭボリューム",
+      "en": "BGM Volume",
+      "ui_display": "BGM Volume",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_067",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "ＳＥ・ボイスボリューム",
+      "en": "Sound Effect / Voice Volume",
+      "ui_display": "SFX/Voice Volume",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_068",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "カスタムサウンドトラック",
+      "en": "Custom Soundtrack",
+      "ui_display": "Custom Soundtrack",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_069",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "バトルＢＧＭ設定",
+      "en": "Battle BGM Settings",
+      "ui_display": "Battle BGM Settings",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_070",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "バトルカメラ初期設定",
+      "en": "Default Battle Camera",
+      "ui_display": "Default Battle Camera",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_071",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "ディフェンスターン初期設定",
+      "en": "Default Defense Turn Settings",
+      "ui_display": "Default Defense Turn",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_072",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "ルートコンダクター表示",
+      "en": "Show Route Conductor",
+      "ui_display": "Show Route Conductor",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_073",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "データインストール",
+      "en": "Data Install",
+      "ui_display": "Data Install",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_074",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "ＭＩＮ",
+      "en": "MIN",
+      "ui_display": "MIN",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_075",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "ＭＡＸ",
+      "en": "MAX",
+      "ui_display": "MAX",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_076",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "デフォルト",
+      "en": "Default",
+      "ui_display": "Default",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_077",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "味方注視",
+      "en": "Focus on Allies",
+      "ui_display": "Allies",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_078",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "敵注視",
+      "en": "Focus on Enemies",
+      "ui_display": "Enemies",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_079",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "遠景",
+      "en": "Distant View",
+      "ui_display": "Distant",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_080",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "マニュアル",
+      "en": "Manual",
+      "ui_display": "Manual",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_081",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "オート",
+      "en": "Auto",
+      "ui_display": "Auto",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_109",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "バトル",
+      "en": "Battle",
+      "ui_display": "Battle",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_110",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "フィールド",
+      "en": "Field",
+      "ui_display": "Field",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_111",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "メニュー",
+      "en": "Menu",
+      "ui_display": "Menu",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_125",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "スピリット",
+      "en": "Spirit",
+      "ui_display": "Spirit",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_166",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "音量",
+      "en": "Volume",
+      "ui_display": "Volume",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_194",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "ウェイト",
+      "en": "Wait",
+      "ui_display": "Wait",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table0_228",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "アクティブ",
+      "en": "Active",
+      "ui_display": "Active",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table6_000",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "ジャンプ",
+      "en": "Jump",
+      "ui_display": "Jump",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table6_001",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "しらべる",
+      "en": "Inspect",
+      "ui_display": "Inspect",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table6_002",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "はなす",
+      "en": "Talk",
+      "ui_display": "Talk",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table6_003",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "おす",
+      "en": "Push",
+      "ui_display": "Push",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_field_table6_004",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "ワープ",
+      "en": "Warp",
+      "ui_display": "Warp",
+      "context": "Field menus, options and contextual action labels.",
+      "sources": [
+        "work/translation/en/executable_field_ui_0001.en.json"
+      ]
+    },
+    {
+      "id": "field_ui_episode_header",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "エピソード",
+      "en": "Episode",
+      "context": "Chapter headings; retain the episode number.",
+      "sources": ["work/translation/en/executable_field_ui_0001.en.json"]
+    },
+    {
+      "id": "field_ui_episode_1_title",
+      "category": "ui",
+      "franchise": "Heroes Phantasia",
+      "ja": "始まりの調査依頼",
+      "en": "The First Investigation Request",
+      "context": "Episode 1 heading.",
+      "sources": ["work/translation/en/executable_field_ui_0001.en.json"]
+    }
+  ]
+}

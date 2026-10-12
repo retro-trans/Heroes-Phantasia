@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "version": "0.1.45",
+  "status": "startup_title_menu_visually_reviewed",
+  "iso_sha256": "5a59a2c07b1de69cac94efcc0d1114d97b0a48c91c08de95d8a55460b6d4b4ac",
+  "executable_sha256": "aca51ffd5358cdb594d70c25bc2e1ce34a25094616a06a826c32ea7ad2a6a621",
+  "captures": [
+    {
+      "file": "work\\ui\\title\\0.1.45\\startup.png",
+      "sha256": "275b92bba9273d1b561dd9815e34193dfc8fbeeadbad1873a3df0e647ea1f1d7",
+      "visually_reviewed": true
+    },
+    {
+      "file": "work\\ui\\title\\0.1.45\\startup_after_load.png",
+      "sha256": "134676ebabf9a9455109ee7b53f2c9a92714af13031b1f9088e012697b672494",
+      "visually_reviewed": true
+    },
+    {
+      "file": "work\\ui\\title\\0.1.45\\title_actual.png",
+      "sha256": "252b182f878e737df4ede69dca459dc5b1b2b41190370759b1407c8340bdd589",
+      "visually_reviewed": true
+    },
+    {
+      "file": "work\\ui\\title\\0.1.45\\main_menu.png",
+      "sha256": "dc0b96a3305272f7e3ce03159bfa6e13b724ee58595b261c09515fb10a00f9c8",
+      "visually_reviewed": true
+    }
+  ],
+  "native_battle_display_verified": false,
+  "scope": "Fresh isolated startup/title/menu with v0.1.45 stamp. Battle labels reviewed as assets, not natural battle captures."
+}

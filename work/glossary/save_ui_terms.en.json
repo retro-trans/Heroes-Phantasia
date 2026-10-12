@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "entries": [
+    {"id":"save_ui_save","ja":"セーブ","en":"Save","category":"ui","sources":["Native table0/index126; player save-point screenshot"]},
+    {"id":"save_ui_delete_data","ja":"データ削除","en":"Delete Data","category":"ui","sources":["Native table0/index127; player save-point screenshot"]},
+    {"id":"save_ui_cancel","ja":"キャンセル","en":"Cancel","category":"ui","sources":["Native table0/index16; player save-point screenshot"]},
+    {"id":"save_ui_field_tutorial","ja":"フィールドチュートリアル","en":"Field Tutorial","category":"ui","sources":["Native composed heading: table0/index110 plus index53"]},
+    {"id":"save_ui_system_save_data","ja":"システムセーブデータ","en":"System Save Data","category":"ui","sources":["Native system-data notice: table1/index44"]}
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "version": "0.1.43",
+  "language": "en",
+  "entries": [
+    {
+      "id": "map_banner_d12",
+      "category": "location",
+      "ja": "風華学園周辺の森",
+      "en": "Forest Around Fuuka Academy",
+      "sources": [
+        "local:fld/dngn/d12.bin",
+        "https://w.atwiki.jp/heroes_phantasia/pages/41.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/42.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/43.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/49.html"
+      ],
+      "confidence": "project_translation_original_bitmap_and_game_wiki",
+      "notes": "Complete bitmap label. Compound organization/franchise spelling follows the existing glossary; no official English game localization verified."
+    },
+    {
+      "id": "map_banner_d13",
+      "category": "location",
+      "ja": "次元の亀裂観測施設",
+      "en": "Dimensional Rift Observation Facility",
+      "sources": [
+        "local:fld/dngn/d13.bin",
+        "https://w.atwiki.jp/heroes_phantasia/pages/41.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/42.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/43.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/49.html"
+      ],
+      "confidence": "project_translation_original_bitmap_and_game_wiki",
+      "notes": "Complete bitmap label. Compound organization/franchise spelling follows the existing glossary; no official English game localization verified."
+    },
+    {
+      "id": "map_banner_d14",
+      "category": "location",
+      "ja": "サンクフレシュ社施設",
+      "en": "Cinq Flèches Company Facility",
+      "sources": [
+        "local:fld/dngn/d14.bin",
+        "https://w.atwiki.jp/heroes_phantasia/pages/41.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/42.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/43.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/49.html"
+      ],
+      "confidence": "project_translation_original_bitmap_and_game_wiki",
+      "notes": "Complete bitmap label. Compound organization/franchise spelling follows the existing glossary; no official English game localization verified."
+    },
+    {
+      "id": "map_banner_d15",
+      "category": "location",
+      "ja": "廃棄施設",
+      "en": "Abandoned Facility",
+      "sources": [
+        "local:fld/dngn/d15.bin",
+        "https://w.atwiki.jp/heroes_phantasia/pages/41.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/42.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/43.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/49.html"
+      ],
+      "confidence": "project_translation_original_bitmap_and_game_wiki",
+      "notes": "Complete bitmap label. Compound organization/franchise spelling follows the existing glossary; no official English game localization verified."
+    },
+    {
+      "id": "map_banner_d16",
+      "category": "location",
+      "ja": "シアーズ財団研究施設",
+      "en": "Searrs Foundation Research Facility",
+      "sources": [
+        "local:fld/dngn/d16.bin",
+        "https://w.atwiki.jp/heroes_phantasia/pages/41.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/42.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/43.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/49.html"
+      ],
+      "confidence": "project_translation_original_bitmap_and_game_wiki",
+      "notes": "Complete bitmap label. Compound organization/franchise spelling follows the existing glossary; no official English game localization verified."
+    },
+    {
+      "id": "map_banner_d17",
+      "category": "location",
+      "ja": "サンクフレシュ廃棄工場",
+      "en": "Abandoned Cinq Flèches Factory",
+      "sources": [
+        "local:fld/dngn/d17.bin",
+        "https://w.atwiki.jp/heroes_phantasia/pages/41.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/42.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/43.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/49.html"
+      ],
+      "confidence": "project_translation_original_bitmap_and_game_wiki",
+      "notes": "Complete bitmap label. Compound organization/franchise spelling follows the existing glossary; no official English game localization verified."
+    },
+    {
+      "id": "map_banner_d18",
+      "category": "location",
+      "ja": "偉人の拠点",
+      "en": "I-Jin Base",
+      "sources": [
+        "local:fld/dngn/d18.bin",
+        "https://w.atwiki.jp/heroes_phantasia/pages/41.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/42.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/43.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/49.html"
+      ],
+      "confidence": "project_translation_original_bitmap_and_game_wiki",
+      "notes": "Complete bitmap label. Compound organization/franchise spelling follows the existing glossary; no official English game localization verified."
+    },
+    {
+      "id": "map_banner_d19",
+      "category": "location",
+      "ja": "シアーズ財団重要研究施設",
+      "en": "Searrs Foundation Important Research Facility",
+      "sources": [
+        "local:fld/dngn/d19.bin",
+        "https://w.atwiki.jp/heroes_phantasia/pages/41.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/42.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/43.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/49.html"
+      ],
+      "confidence": "project_translation_original_bitmap_and_game_wiki",
+      "notes": "Complete bitmap label. Compound organization/franchise spelling follows the existing glossary; no official English game localization verified."
+    },
+    {
+      "id": "map_banner_d21",
+      "category": "location",
+      "ja": "採掘現場",
+      "en": "Mining Site",
+      "sources": [
+        "local:fld/dngn/d21.bin",
+        "https://w.atwiki.jp/heroes_phantasia/pages/41.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/42.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/43.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/49.html"
+      ],
+      "confidence": "project_translation_original_bitmap_and_game_wiki",
+      "notes": "Complete bitmap label. Compound organization/franchise spelling follows the existing glossary; no official English game localization verified."
+    },
+    {
+      "id": "map_banner_d28",
+      "category": "location",
+      "ja": "輝きの谷",
+      "en": "Shining Valley",
+      "sources": [
+        "local:fld/dngn/d28.bin",
+        "https://w.atwiki.jp/heroes_phantasia/pages/41.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/42.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/43.html",
+        "https://w.atwiki.jp/heroes_phantasia/pages/49.html"
+      ],
+      "confidence": "project_translation_original_bitmap_and_game_wiki",
+      "notes": "Complete bitmap label. Compound organization/franchise spelling follows the existing glossary; no official English game localization verified."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "rows": [
+    {
+      "id": "exe_00095021_cp932",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 610337,
+      "byte_length": 4,
+      "encoding": "cp932",
+      "category": "executable_setup_ui",
+      "target": "Yes",
+      "status": "draft",
+      "context": "Setup screen strings and both initial/reset protagonist defaults reviewed against their pointer/caller references. Full executable batch (80 rows), raw adjacent defaults and complete first cave scene examined; name readings sourced from publisher-supplied Dengeki profiles.",
+      "decisions": "Player-readable text relocated with the original pointer/format construction preserved. Fields retain surname/given-name/title semantics; original names become project Latin romanizations. S.I.R. Ace is a descriptive title, personal nicknames remain unknown. Runtime display and editor checks are recorded separately for this build."
+    },
+    {
+      "id": "exe_00095026_cp932",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 610342,
+      "byte_length": 6,
+      "encoding": "cp932",
+      "category": "executable_setup_ui",
+      "target": "No",
+      "status": "draft",
+      "context": "Setup screen strings and both initial/reset protagonist defaults reviewed against their pointer/caller references. Full executable batch (80 rows), raw adjacent defaults and complete first cave scene examined; name readings sourced from publisher-supplied Dengeki profiles.",
+      "decisions": "Player-readable text relocated with the original pointer/format construction preserved. Fields retain surname/given-name/title semantics; original names become project Latin romanizations. S.I.R. Ace is a descriptive title, personal nicknames remain unknown. Runtime display and editor checks are recorded separately for this build."
+    },
+    {
+      "id": "exe_002ea868_cp932",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 3057768,
+      "byte_length": 38,
+      "encoding": "cp932",
+      "category": "executable_setup_ui",
+      "target": "Heroes Phantasia",
+      "status": "draft",
+      "context": "Setup screen strings and both initial/reset protagonist defaults reviewed against their pointer/caller references. Full executable batch (80 rows), raw adjacent defaults and complete first cave scene examined; name readings sourced from publisher-supplied Dengeki profiles.",
+      "decisions": "Player-readable text relocated with the original pointer/format construction preserved. Fields retain surname/given-name/title semantics; original names become project Latin romanizations. S.I.R. Ace is a descriptive title, personal nicknames remain unknown. Runtime display and editor checks are recorded separately for this build."
+    },
+    {
+      "id": "exe_002eaafc_cp932",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 3058428,
+      "byte_length": 2,
+      "encoding": "cp932",
+      "category": "executable_setup_ui",
+      "target": "Watari",
+      "status": "draft",
+      "context": "Setup screen strings and both initial/reset protagonist defaults reviewed against their pointer/caller references. Full executable batch (80 rows), raw adjacent defaults and complete first cave scene examined; name readings sourced from publisher-supplied Dengeki profiles.",
+      "decisions": "Player-readable text relocated with the original pointer/format construction preserved. Fields retain surname/given-name/title semantics; original names become project Latin romanizations. S.I.R. Ace is a descriptive title, personal nicknames remain unknown. Runtime display and editor checks are recorded separately for this build."
+    },
+    {
+      "id": "exe_002eab3c_cp932",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 3058492,
+      "byte_length": 2,
+      "encoding": "cp932",
+      "category": "executable_setup_ui",
+      "target": "Shinobu",
+      "status": "draft",
+      "context": "Setup screen strings and both initial/reset protagonist defaults reviewed against their pointer/caller references. Full executable batch (80 rows), raw adjacent defaults and complete first cave scene examined; name readings sourced from publisher-supplied Dengeki profiles.",
+      "decisions": "Player-readable text relocated with the original pointer/format construction preserved. Fields retain surname/given-name/title semantics; original names become project Latin romanizations. S.I.R. Ace is a descriptive title, personal nicknames remain unknown. Runtime display and editor checks are recorded separately for this build."
+    },
+    {
+      "id": "exe_002eb348_cp932",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 3060552,
+      "byte_length": 2,
+      "encoding": "cp932",
+      "category": "executable_setup_ui",
+      "target": "Watari",
+      "status": "draft",
+      "context": "Setup screen strings and both initial/reset protagonist defaults reviewed against their pointer/caller references. Full executable batch (80 rows), raw adjacent defaults and complete first cave scene examined; name readings sourced from publisher-supplied Dengeki profiles.",
+      "decisions": "Player-readable text relocated with the original pointer/format construction preserved. Fields retain surname/given-name/title semantics; original names become project Latin romanizations. S.I.R. Ace is a descriptive title, personal nicknames remain unknown. Runtime display and editor checks are recorded separately for this build."
+    },
+    {
+      "id": "exe_002eb3a4_cp932",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 3060644,
+      "byte_length": 2,
+      "encoding": "cp932",
+      "category": "executable_setup_ui",
+      "target": "Shinobu",
+      "status": "draft",
+      "context": "Setup screen strings and both initial/reset protagonist defaults reviewed against their pointer/caller references. Full executable batch (80 rows), raw adjacent defaults and complete first cave scene examined; name readings sourced from publisher-supplied Dengeki profiles.",
+      "decisions": "Player-readable text relocated with the original pointer/format construction preserved. Fields retain surname/given-name/title semantics; original names become project Latin romanizations. S.I.R. Ace is a descriptive title, personal nicknames remain unknown. Runtime display and editor checks are recorded separately for this build."
+    }
+  ]
+}

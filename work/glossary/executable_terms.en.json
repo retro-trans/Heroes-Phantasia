@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "project": "Heroes Phantasia",
+  "language": "en",
+  "version": "0.1.0",
+  "researched_on": "2026-10-10",
+  "status": "Executable UI additions; trait gaps explicit",
+  "entries": [
+    {
+      "id": "executable_character_048",
+      "category": "character",
+      "franchise": "BLOOD+",
+      "ja": "ヴァン・アルジャーノ",
+      "en": "Van Argiano",
+      "aliases": [
+        "アルジャーノ"
+      ],
+      "nickname": "Argiano (surname address)",
+      "gender": "male",
+      "personality": "unknown",
+      "role": "Cinq Flèches head scientist",
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_Blood%2B_characters",
+        "https://bloodplusanime.fandom.com/wiki/Van_Argiano"
+      ],
+      "confidence": {
+        "name": "researched",
+        "gender": "researched",
+        "personality": "incomplete",
+        "role": "researched"
+      },
+      "notes": "Use Argiano for the short speaker label and Van Argiano for the full name. Name and scientist role are source-backed; preserve game-scene knowledge rather than importing later career changes."
+    },
+    {
+      "id": "executable_character_050",
+      "category": "character",
+      "franchise": "BLOOD+",
+      "ja": "ルイス",
+      "en": "Lewis",
+      "aliases": [],
+      "nickname": "Sammy",
+      "gender": "male",
+      "personality": "cheerful, witty; helps keep team morale up",
+      "role": "Red Shield intelligence member",
+      "sources": [
+        "https://www.production-ig.com/contents/works_sp/20_/s04_/000399.html",
+        "https://bloodplusanime.fandom.com/wiki/Lewis"
+      ],
+      "confidence": {
+        "name": "researched",
+        "gender": "researched",
+        "personality": "researched",
+        "role": "researched"
+      },
+      "notes": "Official Production I.G supplies name, role and disposition; Blood+ Wiki supplies gender and former CIA alias."
+    },
+    {
+      "id": "executable_character_051",
+      "category": "character",
+      "franchise": "BLOOD+",
+      "ja": "ジュリア・シルヴァスタイン",
+      "en": "Julia Silverstein",
+      "aliases": [],
+      "nickname": "unknown",
+      "gender": "female",
+      "personality": "professional; strongly committed to research",
+      "role": "Red Shield doctor and scientist",
+      "sources": [
+        "https://bloodplusanime.fandom.com/wiki/Julia_Silverstein"
+      ],
+      "confidence": {
+        "name": "researched",
+        "gender": "researched",
+        "personality": "researched",
+        "role": "researched"
+      },
+      "notes": "Extends character_089 to full surname display; main glossary remains unchanged. Do not import later anime events into game dialogue."
+    },
+    {
+      "id": "executable_character_053",
+      "category": "character",
+      "franchise": "BLOOD+",
+      "ja": "ソロモン・ゴールドスミス",
+      "en": "Solomon Goldsmith",
+      "aliases": [],
+      "nickname": "unknown",
+      "gender": "male",
+      "personality": "polite, friendly, calm; avoids unnecessary fighting",
+      "role": "Cinq Flèches CEO and Diva chevalier",
+      "sources": [
+        "https://bloodplusanime.fandom.com/wiki/Solomon_Goldsmith"
+      ],
+      "confidence": {
+        "name": "researched",
+        "gender": "researched",
+        "personality": "researched",
+        "role": "researched"
+      },
+      "notes": "Anime personality; manga characterization differs. Game timeline/role changes must be checked in scene."
+    },
+    {
+      "id": "executable_character_054",
+      "category": "character",
+      "franchise": "BLOOD+",
+      "ja": "ネイサン・マーラー",
+      "en": "Nathan Mahler",
+      "aliases": [],
+      "nickname": "unknown",
+      "gender": "male",
+      "personality": "friendly, flamboyant; generally avoids fighting",
+      "role": "Diva chevalier; music producer",
+      "sources": [
+        "https://bloodplusanime.fandom.com/wiki/Nathan_Mahler"
+      ],
+      "confidence": {
+        "name": "researched",
+        "gender": "researched",
+        "personality": "researched",
+        "role": "researched"
+      },
+      "notes": "True origin is unresolved; do not promote fan theories to glossary facts."
+    }
+  ]
+}

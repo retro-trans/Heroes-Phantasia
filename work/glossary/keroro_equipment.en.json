@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "version": "0.1.0",
+  "language": "en",
+  "entries": [
+    {
+      "id": "keroro_equipment_001",
+      "category": "item",
+      "franchise": "Sgt. Frog",
+      "ja": "アンチバリア",
+      "en": "Anti-Barrier",
+      "aliases": [
+        "アンチ・バリア"
+      ],
+      "sources": [
+        "https://keroro.fandom.com/wiki/Anti-Barrier",
+        "local:work/translation/en/batch_0096.json",
+        "local:work/translation/en/batch_0097.json",
+        "local:work/translation/en/batch_0098.json",
+        "local:work/translation/en/batch_0107.json"
+      ],
+      "confidence": "researched",
+      "notes": "Keronian invisibility technology. Original scene explicitly lets user select who cannot see wearer and extends effect to allies. Narrow franchise-wiki search extra-feature description corroborates selective visibility; direct restricted page unavailable. Prior ten source records/two targets checked same Anti-Barrier name. No badge, battery, audio/heat effect, distance limit or universal immunity imported beyond current source. Elian detection remains possible concern, not proven failure. Elian detects the concealed party crossing despite ordinary guards not noticing, while Cougar initially assumes he was not assigned surveillance. Current successful detection does not define a universal detection rule or extra physical limit. Kai's hope of free travel remains an assumption because HOLY still controls the gate. Garuru says his unit used Anti-Barrier to cross the gate long before this encounter. Tororo's separate hacking supplied the gate's exact location. Do not give the device hacking powers or merge it with the beacon/communicator. Current Keroro boasts selectable stealth for repeated two-point travel, not universal detector immunity. Prior Elian exception remains; do not invent heat/audio range, hacking ability or new hardware."
+    }
+  ]
+}

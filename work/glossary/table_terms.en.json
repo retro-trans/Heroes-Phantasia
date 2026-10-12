@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "project": "Heroes Phantasia",
+  "language": "en",
+  "version": "0.1.0",
+  "researched_on": "2026-10-10",
+  "entries": [
+    {
+      "id": "table_alyssa",
+      "category": "character",
+      "franchise": "Mai-HiME",
+      "ja": "アリッサ・シアーズ",
+      "en": "Alyssa Searrs",
+      "aliases": [
+        "アリッサ"
+      ],
+      "nickname": "Golden Angel",
+      "gender": "female",
+      "personality": "shy around people",
+      "role": "Searrs Foundation chairman's daughter; artificial HiME and choir singer",
+      "status": "researched",
+      "sources": [
+        "https://sunrise.fandom.com/ja/wiki/舞-HiMEの登場人物",
+        "https://www.absoluteanime.com/mai-hime/alyssa",
+        "https://en.wikipedia.org/wiki/My-HiME",
+        "https://www.sunrise-inc.co.jp/my-hime/web/character/chara/miyu.html"
+      ],
+      "notes": " Miyu respectful Lady Alyssa address in current game; honorific choice not a royal title. Official Miyu interview names Alyssa as person served; do not substitute My-Otome Alyssa Kruger."
+    },
+    {
+      "id": "table_searrs",
+      "category": "organization",
+      "franchise": "Mai-HiME",
+      "ja": "シアーズ財団",
+      "en": "Searrs Foundation",
+      "status": "researched",
+      "sources": [
+        "https://mai.fandom.com/wiki/Searrs_Foundation",
+        "local:work/translation/en/batch_0109.json"
+      ],
+      "notes": " Current Natsuki concerned about activities; no completed attack, newly approved mission or My-Otome organization."
+    },
+    {
+      "id": "table_fuka",
+      "category": "location",
+      "franchise": "Mai-HiME",
+      "ja": "風華学園",
+      "en": "Fuuka Academy",
+      "status": "project canonical franchise-wiki spelling; official streaming uses Fuka Academy",
+      "sources": [
+        "https://www.absoluteanime.com/mai-hime/alyssa",
+        "https://mai.fandom.com/wiki/Fuuka_Academy",
+        "https://tv.apple.com/us/show/my-hime/umc.cmc.99m5z80bzp8qkk8g2cnk7uey"
+      ],
+      "confidence": "franchise_wiki_project_policy",
+      "notes": "Project BASE_RULES selects franchise-wiki spelling when nomenclature differs. Official streaming synopsis uses Fuka Academy; record that alternate rather than claiming Fuuka is the official licensed spelling."
+    },
+    {
+      "id": "table_orphan",
+      "category": "enemy_type",
+      "franchise": "Mai-HiME",
+      "ja": "オーファン",
+      "en": "Orphan",
+      "status": "researched; distinct from Orphen",
+      "sources": [
+        "https://en.wikipedia.org/wiki/My-HiME"
+      ]
+    },
+    {
+      "id": "table_naddgoa",
+      "category": "enemy",
+      "franchise": "unknown",
+      "ja": "ナッドゴア",
+      "en": "Naddgoa",
+      "status": "provisional romanization; English source not found",
+      "sources": [],
+      "evidence": "menu/LimitedBattle.bin row 34"
+    },
+    {
+      "id": "table_robusterity",
+      "category": "location",
+      "franchise": "Heroes Phantasia",
+      "ja": "ロブステアリティ城",
+      "en": "Robusterity Castle",
+      "status": "provisional romanization; Japanese place name verified",
+      "sources": [
+        "https://w.atwiki.jp/heroes_phantasia/pages/49.html"
+      ]
+    },
+    {
+      "id": "table_obsidian",
+      "category": "location",
+      "franchise": "Heroes Phantasia",
+      "ja": "黒曜宮",
+      "en": "Obsidian Palace",
+      "status": "provisional literal localization",
+      "sources": [],
+      "evidence": "menu/LimitedBattle.bin map-name list row 21"
+    },
+    {
+      "id": "table_bondstone",
+      "category": "item_term",
+      "ja": "絆石",
+      "en": "Bondstone",
+      "status": "provisional terminology",
+      "sources": [],
+      "evidence": "menu/Gallery/acc/IaHelp.bin descriptions"
+    },
+    {
+      "id": "table_magic_orb",
+      "category": "item_term",
+      "ja": "魔玉",
+      "en": "Magic Orb",
+      "status": "provisional terminology",
+      "sources": [],
+      "evidence": "menu/Gallery/acc/IaHelp.bin"
+    },
+    {
+      "id": "table_crest_stone",
+      "category": "item_term",
+      "ja": "紋章石",
+      "en": "Crest Stone",
+      "status": "provisional terminology",
+      "sources": [],
+      "evidence": "menu/Gallery/acc/IaHelp.bin"
+    },
+    {
+      "id": "table_gate_matter",
+      "category": "world_term",
+      "ja": "ゲート物質",
+      "en": "Gate matter",
+      "status": "provisional terminology",
+      "sources": [],
+      "evidence": "menu/Gallery/crm/IoHelpD.bin row 1"
+    },
+    {
+      "id": "table_tsubochan",
+      "category": "item_name",
+      "ja": "壷ちゃん４号",
+      "en": "Tsubo-chan No. 4",
+      "status": "provisional retained nickname; official English equivalent unknown",
+      "sources": [
+        "local:work/translation/en/batch_0109.json",
+        "local:work/translation/en/batch_0034.json"
+      ],
+      "evidence": "menu/Gallery/crm/IoHelpD.bin row 13",
+      "notes": " Current separate source nickname No.3 must remain distinct from this UI No.4. Original source four-number variation corroborated by batch0034:21/22; generic Tsubo-chan echo does not add number. Do not globally change existing No.4 or imply jar sentience.",
+      "context_required": true,
+      "aliases": [
+        "壷ちゃん四号"
+      ]
+    },
+    {
+      "id": "table_first_strike",
+      "category": "battle_term",
+      "ja": "速攻態勢",
+      "en": "First Strike Formation",
+      "status": "project canonical descriptive mechanic label; no published English spelling verified",
+      "sources": [
+        "local:menu/Gallery/tb/TbHelp017.bin:0",
+        "local:menu/Gallery/crm/IoHelpE.bin",
+        "local:executable_0007.json:exe_002ed438_cp932"
+      ],
+      "evidence": "menu/Gallery/crm/IoHelpE.bin",
+      "confidence": "original_game_tutorial_context",
+      "notes": "Named probabilistic opening bonus when acting first, distinct from the ordinary acting-first turn order. Original tutorial states that this and Ambush increase first-turn AP replenishment to 1.5 times normal. Project English label retains existing table terminology; no official English localization or independently attested English name found."
+    },
+    {
+      "id": "table_breakthrough",
+      "category": "battle_term",
+      "ja": "敵陣突破",
+      "en": "Breakthrough",
+      "status": "provisional command label",
+      "sources": [],
+      "evidence": "menu/Gallery/crm/IoHelpE.bin"
+    },
+    {
+      "id": "table_victory_declaration",
+      "category": "battle_term",
+      "ja": "勝利宣言",
+      "en": "Victory Declaration",
+      "status": "provisional command label",
+      "sources": [],
+      "evidence": "menu/Gallery/crm/IoHelpE.bin"
+    },
+    {
+      "id": "table_ambush",
+      "category": "battle_term",
+      "franchise": "Heroes Phantasia",
+      "ja": "不意討ち",
+      "en": "Ambush",
+      "status": "project canonical descriptive mechanic label; no published English spelling verified",
+      "confidence": "original_game_tutorial_context",
+      "sources": [
+        "local:menu/Gallery/tb/TbHelp017.bin:0",
+        "local:menu/Gallery/crm/IoHelpE.bin",
+        "local:executable_0007.json:exe_002ed438_cp932"
+      ],
+      "notes": "Named probabilistic opening bonus when acting second. The original tutorial specifies first-turn AP replenishment at 1.5 times normal. Distinguish the named bonus from ordinary narrative ambushes and from turn-order descriptions; do not invent an extra attack. Project English, not a published English title."
+    }
+  ]
+}

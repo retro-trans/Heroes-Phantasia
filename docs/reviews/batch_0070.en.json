@@ -1,0 +1,359 @@
+{
+  "version": "0.1.7",
+  "date": "2026-10-11",
+  "language": "en",
+  "batch": "batch_0070",
+  "translator": "primary agent",
+  "rows_in_slice": 80,
+  "rows_drafted": 80,
+  "minimum_counted_context_row_views": 227,
+  "counted_view_scope": "104 base-scene rows and 11 changed paired-variant rows read for meaning, plus 80 slice rows and 32 adjacent queue rows; rereads excluded. Every paired-variant row was byte-compared; identical rows were not added to the view count.",
+  "full_scene_reference_rows_covered": 208,
+  "occurrence_scene_count": 4,
+  "context_scene_count": 4,
+  "adjacent_queue_rows_before": 8,
+  "adjacent_queue_rows_after": 24,
+  "source_occurrences_verified": 145,
+  "original_scene_snapshot": [
+    {
+      "file": "phase/bin/p211010.bin",
+      "row_count": 50,
+      "sha256": "fa64b5a936a18f9b3b24a907819b72cd2538ae957909fb73dd8914805167a18a",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211011.bin",
+      "row_count": 50,
+      "sha256": "7ede039546c143ce179ea33d20b384c535c9876e8b1b9ea6b45598d14da91517",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211020.bin",
+      "row_count": 54,
+      "sha256": "4aa1a1f80223178e546d8d3acf04e36b9b992363f5b2aff42070253c471dd147",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211021.bin",
+      "row_count": 54,
+      "sha256": "a72bf5d64f8e86d467626ac8b47e363d009d91c57347b1a6c542d51f318937e4",
+      "scope": "original occurrence scene"
+    }
+  ],
+  "original_batch_snapshot_sha256": "9fbcc84f473e5b0744fb391724fdef910d099cebc2a3baa26ac8156430fc5ec0",
+  "independent_agent_meaning_review": "pending; no additional agent work launched",
+  "controls_numeric_arguments_percent_placeholders_passed": true,
+  "original_source_metadata_unchanged": true,
+  "filled_file_exports_verified": 74,
+  "english_only_export": "work/translation/en/batch_0070.en.json",
+  "glossary_entries_added": [
+    "Alter Forest"
+  ],
+  "glossary_entries": 297,
+  "glossary_source_records": 303,
+  "glossary_sources": [
+    "https://scryed.fandom.com/wiki/Alter_Forest",
+    "https://tv.apple.com/us/episode/episode-9/umc.cmc.20p031kxk5l57ipq6oyew4vxh?showId=umc.cmc.6ap4jsbuk8i9yafphv0emujfn",
+    "local:work/translation/en/batch_0070.json"
+  ],
+  "glossary_evidence_scope": "Licensed streaming episode description directly verifies Alter Forest English wording and powered wildlife. Wiki search extract agrees but direct retrieval failed. Existing tables_0002 English map label already uses Alter Forest. The rumored source remains uncertain in the game; later anime outcomes are not imported.",
+  "unresolved": [
+    {
+      "category": "reported_conditions_and_inference",
+      "row_indices": [
+        4,
+        6,
+        7,
+        12,
+        13,
+        14,
+        46,
+        50,
+        53,
+        54,
+        55,
+        72
+      ],
+      "translation_ids": [
+        "d9221e472c4706ec65d1",
+        "dc9f80ed89c1c044fa68",
+        "8aaad7a38c65b2e6d5e7",
+        "59c32eee57c1703bdc37",
+        "bd3421794dd20be0305c",
+        "c3b488ef5bdebb93e6f0",
+        "dccb4ee93eab28d22039",
+        "9475c3dcdd0532707702",
+        "e3a53d5fa983f469f835",
+        "73f0d79f20ba55cc6634",
+        "0eb1ea5b41789c2ad008",
+        "fcb8b67886a4cbe811b0"
+      ],
+      "note": "Wild animals have Alter powers; Orphans are separate invaders. Recent reduced danger, missing operative and a source of powers are reported or inferred, not confirmed. Preserve the emergency signal interception, later cessation and task of locating its source."
+    },
+    {
+      "category": "public_deployment_ambiguity",
+      "row_indices": [
+        15
+      ],
+      "translation_ids": [
+        "55adfe577d43072f9428"
+      ],
+      "note": "Draft gives no public acknowledgement plus Sawada's doubt. Independent meaning review must check whether the public-position phrasing more narrowly states that officially no agent was sent; avoid silently resolving it as a confirmed covert deployment."
+    },
+    {
+      "category": "runtime_substitutions",
+      "row_indices": [
+        28,
+        29,
+        34,
+        36,
+        77
+      ],
+      "translation_ids": [
+        "da80a755c5a1812c6a5b",
+        "eedcf7823eb7802cd00f",
+        "cc6b37bc955c4f54def1",
+        "0deef1fef5b2f3268821",
+        "323c0c4e325511540a74"
+      ],
+      "note": "Exact runtime fields and order retained. Field 2 in both boast variants has not been expanded here; fields 0/1 remain concatenated in the introduction. Measure real expansions and verify English name order rather than invent field meanings or fixed names."
+    },
+    {
+      "category": "request_direction_and_documents",
+      "row_indices": [
+        16,
+        17,
+        18,
+        20,
+        21,
+        23,
+        25,
+        26,
+        28,
+        39
+      ],
+      "translation_ids": [
+        "6e549d6762cacc1c703c",
+        "e178e4753060334e206f",
+        "29c6ef236605c0433bd8",
+        "8c266f574d331085b2ef",
+        "63ebd52bf841453f16a1",
+        "da2f5d330182d612df87",
+        "cac1ee6bbe22ba4f0d6c",
+        "ef99eef361352647140f",
+        "da80a755c5a1812c6a5b",
+        "4e17a7f9c3c4b3a632d2"
+      ],
+      "note": "Sawada delegates field work to the protagonist and rare-book ownership documentation to Michie. The British Library division is the additional client; ownership changes are the report topic, not an instruction to transfer ownership. Preserve requester/listener and separate assignments."
+    },
+    {
+      "category": "coercion_and_group_scope",
+      "row_indices": [
+        41,
+        43,
+        44,
+        62,
+        65,
+        66,
+        68,
+        70
+      ],
+      "translation_ids": [
+        "b317f83303f94c842638",
+        "87422d64bb58fbc5df4b",
+        "1d9a76ae5c39278b7fab",
+        "8450425127a5eae856dc",
+        "53bba7b04ec6bac37795",
+        "74de4d611f678a37178c",
+        "87ee89984bcf0ff6f46a",
+        "8a5479e980255a76b392"
+      ],
+      "note": "HOLY forcibly captures the referenced local group, and their families separately disappear. Do not weaken the hunts or turn every disappearance into confirmed death. Kazuma pressures action and Kimishima proposes shutting HOLY up; no invented kill order."
+    },
+    {
+      "category": "deliberately_impossible_boast",
+      "row_indices": [
+        73
+      ],
+      "translation_ids": [
+        "731c1ca1828f27669aa5"
+      ],
+      "note": "Both clauses promise finding the Alter source even if absent or nonexistent. Retain Kazuma's source contradiction and full predicates; independent meaning/voice review pending. Do not silently change finding into creating."
+    },
+    {
+      "category": "signal_terminology_and_identity",
+      "row_indices": [
+        75,
+        77,
+        78,
+        79
+      ],
+      "translation_ids": [
+        "899a3152b8846a575024",
+        "323c0c4e325511540a74",
+        "1bc501b9af5b310477d7",
+        "5a9ed7479cc57c1ca0e7"
+      ],
+      "note": "Signal call is drafted as call sign, an identifying code. Review this term independently. The code is linked by MI6 analysis to an unnamed operative dead for thirty years; no gender, living sender or supernatural cause is established."
+    },
+    {
+      "category": "voice_and_protagonist_variants",
+      "row_indices": [
+        5,
+        11,
+        19,
+        27,
+        29,
+        31,
+        32,
+        33,
+        34,
+        48,
+        52,
+        56,
+        57,
+        58,
+        59,
+        61,
+        63,
+        68,
+        76
+      ],
+      "translation_ids": [
+        "463adb1513b4fabb287c",
+        "c4be58174cc33ed866ca",
+        "ea38a2b6d6c978b43d32",
+        "2316b88dcd2d04e52db7",
+        "eedcf7823eb7802cd00f",
+        "ddb61fd71e1f14e590c9",
+        "130d1163a662f4b16523",
+        "bb37ca829d126366bed3",
+        "cc6b37bc955c4f54def1",
+        "83b84e1db4ff51861d3c",
+        "475ed4b2cb5a3d089770",
+        "063484a281f1478923e0",
+        "2bc16621b62596cb1384",
+        "dea228b2aab79c5da48a",
+        "693a529295b948f17b08",
+        "265f75c386480eec83ed",
+        "82e381f47baa826cf55b",
+        "87ee89984bcf0ff6f46a",
+        "f1481f99ba2b5c1a009b"
+      ],
+      "note": "Stammers, the voiced sigh, interruptions, boast differences and Kazuma's rough dismissal need performance review. Female personal-disclosure variant preserves the matching earlier male meaning without completing the thought."
+    },
+    {
+      "category": "layout",
+      "row_indices": [
+        0,
+        4,
+        7,
+        9,
+        12,
+        13,
+        23,
+        25,
+        28,
+        29,
+        34,
+        36,
+        41,
+        43,
+        45,
+        46,
+        50,
+        52,
+        54,
+        62,
+        65,
+        66,
+        68,
+        70,
+        73,
+        74,
+        75,
+        77,
+        78
+      ],
+      "translation_ids": [
+        "be0dcf0fd6c639eb1380",
+        "d9221e472c4706ec65d1",
+        "8aaad7a38c65b2e6d5e7",
+        "69d5753f2c60e3a10a3a",
+        "59c32eee57c1703bdc37",
+        "bd3421794dd20be0305c",
+        "da2f5d330182d612df87",
+        "cac1ee6bbe22ba4f0d6c",
+        "da80a755c5a1812c6a5b",
+        "eedcf7823eb7802cd00f",
+        "cc6b37bc955c4f54def1",
+        "0deef1fef5b2f3268821",
+        "b317f83303f94c842638",
+        "87422d64bb58fbc5df4b",
+        "ec2c640351068e695824",
+        "dccb4ee93eab28d22039",
+        "9475c3dcdd0532707702",
+        "475ed4b2cb5a3d089770",
+        "73f0d79f20ba55cc6634",
+        "8450425127a5eae856dc",
+        "53bba7b04ec6bac37795",
+        "74de4d611f678a37178c",
+        "87ee89984bcf0ff6f46a",
+        "8a5479e980255a76b392",
+        "731c1ca1828f27669aa5",
+        "23083cca04da4abf9320",
+        "899a3152b8846a575024",
+        "323c0c4e325511540a74",
+        "1bc501b9af5b310477d7"
+      ],
+      "note": "Drafts retain full meaning without a source-byte budget. Long lines, the full official organization name, location card, runtime names and proportional widths require measured wrapping and page capacity checks. No new rendering behavior or build was tested."
+    },
+    {
+      "category": "intentional_fragment_or_echo",
+      "row_indices": [
+        9,
+        11,
+        19,
+        24,
+        27,
+        31,
+        33,
+        42,
+        51,
+        52,
+        56,
+        61,
+        64,
+        68,
+        74,
+        77,
+        79
+      ],
+      "translation_ids": [
+        "69d5753f2c60e3a10a3a",
+        "c4be58174cc33ed866ca",
+        "ea38a2b6d6c978b43d32",
+        "94a2cc6c1cd5c8a10f8d",
+        "2316b88dcd2d04e52db7",
+        "ddb61fd71e1f14e590c9",
+        "bb37ca829d126366bed3",
+        "4e773aa931be61253375",
+        "627b1e98b9155a0ef691",
+        "475ed4b2cb5a3d089770",
+        "063484a281f1478923e0",
+        "265f75c386480eec83ed",
+        "bd2786b5c4fd884b0de3",
+        "87ee89984bcf0ff6f46a",
+        "23083cca04da4abf9320",
+        "323c0c4e325511540a74",
+        "5a9ed7479cc57c1ca0e7"
+      ],
+      "note": "Deliberate echoes, conventional encouragement/assent, voiced sigh and contempt, unfinished rationale, disclosure and cross-row lead-ins, and location-card phrases remain. Row decisions identify retained omissions; ordinary pro-drop subjects/predicates restored."
+    }
+  ],
+  "runtime_newly_verified_rows": 0,
+  "new_build_created": false,
+  "complete_game_translation": false,
+  "drafted_total": 5129,
+  "unfilled_total": 12091
+}

@@ -1,0 +1,305 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "reviewed_on": "2026-10-11T13:43:35",
+  "scope": "Independent meaning review of original eight executable slices. Supplementary drafts received translator self-review, not a second external review. No ELF or runtime display certification.",
+  "counts": {
+    "original_positions": 640,
+    "initial_drafts": 528,
+    "initial_pending": 33,
+    "verified_exclusions": 79,
+    "adjacent_neighborhood_positions_already_within_original640": 224,
+    "additional_unique_adjacent_positions": 0,
+    "pool_raw_NUL_candidates": 1283,
+    "pool_decodable_candidates": 1187,
+    "human_read_printable_pool_positions": 760,
+    "human_read_additional_Japanese_looking_nonprintable_positions": 82,
+    "distinct_human_read_pool_positions": 842,
+    "pool_positions_overlapping_original_owned": 561,
+    "additional_pool_positions": 281,
+    "distinct_original_owned_plus_pool_positions": 921,
+    "supplemental_positions": 75,
+    "supplemental_positions_already_in_pool_count": 75,
+    "supplemental_source_target_recheck_positions": 75,
+    "supplemental_drafts": 74,
+    "supplemental_pending": 1,
+    "supplemental_human_reviewed_positions": 75,
+    "supplemental_live_unique_positions": 70,
+    "supplemental_live_drafts": 69,
+    "supplemental_setup_duplicate_positions_removed_from_live_only": 5
+  },
+  "count_notes": [
+    "Raw refs, paths and accidental binary decodings are not human dialogue rows.",
+    "The281 extra pool positions include paths and binary tails, not281 new translations.",
+    "Original batch0001 was reviewed earlier; remaining560 original source-target positions first reviewed here.",
+    "Repeated previews and the75 supplemental pair checks are not fresh unique source/context positions.",
+    "Five supplemental reviewed records already belong to authoritative installed setup_defaults. They remain in the75-row local archive/discovery but were removed only from the live supplemental queue. Human75 review count is unchanged;69drafts plus1pending are70 unique live records."
+  ],
+  "pool_ranges": [
+    {
+      "start": "0x2ea250",
+      "end_exclusive": "0x2ed810",
+      "encoding": "cp932",
+      "raw": 1200,
+      "decodable": 1105,
+      "printable_read": 690
+    },
+    {
+      "start": "0x2f3180",
+      "end_exclusive": "0x2f37c0",
+      "encoding": "utf-8",
+      "raw": 53,
+      "decodable": 52,
+      "printable_read": 50
+    },
+    {
+      "start": "0x305e80",
+      "end_exclusive": "0x306400",
+      "encoding": "cp932",
+      "raw": 30,
+      "decodable": 30,
+      "printable_read": 20
+    }
+  ],
+  "exclusion_evidence": {
+    "independently_verified_R_MIPS_32_pointer_words": 78,
+    "float_tail_mixed_candidate": 1,
+    "mixed_id": "exe_002eb5b2_cp932",
+    "actual_Yes_offset": "0x2eb5b4",
+    "decision": "Exclude mixed binary/text candidate; real Yes starts two bytes later and is separately player-readable."
+  },
+  "owner_applied_meaning_fixes": [
+    {
+      "id": "exe_002ea844_cp932",
+      "target": "KB), both of which must fit in",
+      "reason": "Unfinished two-file capacity requirement; final runtime assembly unverified."
+    },
+    {
+      "id": "exe_002ea8f0_cp932",
+      "target": "Gallery, Options, and other settings cannot be saved, but",
+      "reason": "Restore adversative continuation and omission flag."
+    },
+    {
+      "id": "exe_002ea950_cp932",
+      "target": "Gallery, Options, and other saved data will not take effect, but",
+      "reason": "Restore adversative continuation and omission flag."
+    },
+    {
+      "id": "exe_002ecf60_cp932",
+      "target": "Utterly Evil Sorcerer",
+      "reason": "Retain extreme moral qualifier."
+    }
+  ],
+  "metadata_changes": [
+    "Two adapted Latin-name validation notes no longer falsely require only fullwidth characters. Targets unchanged.",
+    "Save-space note no longer says leave empty; source boundary remains flagged."
+  ],
+  "protected_distinctions": [
+    "HiME Orphan is not Ohfun kingdom.",
+    "Generic Hero epithet is not automatically the father Hideo.",
+    "Wendy remains source-short Wendy.",
+    "Mad Sprict and Dra-mata existing locks retained.",
+    "Full-name list resolves father Hideo; native02 args0000/0004 remain ordered and exact."
+  ],
+  "researched_terms": [
+    {
+      "id": "continuation_463",
+      "en": "Astral Vine",
+      "sources": [
+        "https://kanzaka.fandom.com/wiki/Astral_Vine"
+      ],
+      "confidence": "researched_wiki_spelling",
+      "notes": "Wiki directly maps the Japanese semantic spelling and reading to Astral Vine. Retain named spell; do not duplicate the kanji semantic translation or add effects absent from game text."
+    },
+    {
+      "id": "continuation_464",
+      "en": "Fireball",
+      "sources": [
+        "https://kanzaka.fandom.com/wiki/Fireball"
+      ],
+      "confidence": "researched_wiki_primary_headword",
+      "notes": "Wiki primary article title Fireball; explicitly documented alias Fire Ball. Game katakana spelling differs slightly from wiki Japanese spelling, but semantic name and reading match. Use Fireball under wiki naming policy."
+    },
+    {
+      "id": "continuation_465",
+      "en": "Muraji Special Economic District",
+      "sources": [
+        "https://ja.wikipedia.org/wiki/スクライド",
+        "https://akurasu.net/wiki/S-CRY-ed",
+        "https://www.blu-ray.com/dvd/S-CRY-ed-Volume-1-The-Lost-Ground-DVD/177139/"
+      ],
+      "confidence": "wiki_reading_and_English_name; licensed_DVD_synopsis_reproduction_corrobates",
+      "notes": "Japanese franchise article explicitly supplies Muraji reading for the first kanji. English wiki and reproduced Bandai DVD synopsis supply full English district name, another designation for Lost Ground. No missing UN prefix is restored. Publisher site did not independently supply the English spelling during this review."
+    },
+    {
+      "id": "continuation_466",
+      "en": "Vigorous Right Fist: Crouching Dragon",
+      "sources": [
+        "https://scryed.fandom.com/wiki/Zetsuei_(Alter)",
+        "https://ja.wikipedia.org/wiki/スクライド"
+      ],
+      "confidence": "researched_wiki_English_attack_name",
+      "notes": "Zetsuei wiki attack list directly supplies this English title. Japanese franchise article corroborates original compound. Do not import manga-specific rocket-punch mechanics into the game label."
+    },
+    {
+      "id": "continuation_467",
+      "en": "Vigorous Left Fist: Bowing Dragon",
+      "sources": [
+        "https://scryed.fandom.com/wiki/Zetsuei_(Alter)",
+        "https://ja.wikipedia.org/wiki/スクライド"
+      ],
+      "confidence": "researched_wiki_English_attack_name",
+      "notes": "Zetsuei wiki attack list directly supplies this English title. Keep left/right attack distinction; source reading variants in unverified subtitles do not override wiki naming."
+    },
+    {
+      "id": "continuation_468",
+      "en": "Soft Fist: Raitsujin",
+      "sources": [
+        "https://scryed.fandom.com/wiki/Zetsuei_(Alter)",
+        "https://ja.wikipedia.org/wiki/スクライド"
+      ],
+      "confidence": "wiki_Raitsujin_component; provisional_literal_prefix_and_full_title",
+      "notes": "English Zetsuei wiki uses Raitsujin. Japanese franchise article corroborates the full original compound. Soft Fist is a literal project prefix; the combined English title is not independently verified official English. Do not silently replace Raitsujin with unverified subtitle readings Retsujin or Resshin."
+    }
+  ],
+  "pending": [
+    {
+      "id": "exe_002eb740_cp932",
+      "target_empty": true,
+      "source_reference_rva": "0x3073f8",
+      "reason": "Paired0F source lacks field ruby base-span digit. No digit invented; executable-specific formatter route unresolved.",
+      "read_only_native_observation": "F0CB4 consumes the next byte and subtracts0x30. Mao source following byte is CP9320x83. This is incompatible with field ruby grammar if routed here, but that route is not established."
+    }
+  ],
+  "validation": {
+    "all715_source_records_match_original_bytes": "Passed at75-row discovery-review stage; final live queue removes5setup duplicates without changing retained sources.",
+    "all635_filled_targets_controls_printf_args_pass": "Passed at75-row discovery-review stage; final original640 plus live70 has630filled targets,79exclusions,1pending.",
+    "source_metadata_and_boundaries_guarded": true,
+    "runtime_expansion_width_verified": false,
+    "runtime_display_verified": false
+  },
+  "limitations": [
+    "Direct relocated data-reference RVAs are clues, not established code callers.",
+    "Soft Fist full English title is provisional; only Raitsujin component is wiki naming. Other provisional labels retain their scoped confidence.",
+    "Input34/35 are adapted to implemented Latin setup behavior, rather than literal original fullwidth-only instructions.",
+    "Supplemental75 requires root independent review before export or integration.",
+    "Current hashes captured at report time; subsequent root normalization can change them.",
+    "Read-only sampled font/texture audit and existing title-background/Latin-atlas PNGs do not establish complete baked Japanese graphic coverage.",
+    "Report original executable file hashes predate any subsequent root normalization; duplicate removal updated only the live supplemental hash."
+  ],
+  "files": [
+    {
+      "path": "work/translation/en/executable_0001.json",
+      "sha256": "cbb6f698f0225f480524b440b329157d3d65531a95fa1d878c6af1b083a69684",
+      "positions": 80,
+      "statuses": {
+        "draft": 79,
+        "excluded_binary": 1
+      },
+      "omission_true_ids": [
+        "exe_002ea844_cp932",
+        "exe_002ea8f0_cp932",
+        "exe_002ea950_cp932"
+      ]
+    },
+    {
+      "path": "work/translation/en/executable_0002.json",
+      "sha256": "3f48d0b614a6528bf00f2b78879166be160b0724238602dc583afce5aca1730a",
+      "positions": 80,
+      "statuses": {
+        "draft": 80
+      },
+      "omission_true_ids": []
+    },
+    {
+      "path": "work/translation/en/executable_0003.json",
+      "sha256": "f4c18403790b65927746d0312b4f68022bbce03b89affdf5b7390c9e7b8408a1",
+      "positions": 80,
+      "statuses": {
+        "draft": 80
+      },
+      "omission_true_ids": []
+    },
+    {
+      "path": "work/translation/en/executable_0004.json",
+      "sha256": "37d0d1633b17dc465d2d95b391dacaf4998cb2c2d3014aac5360ea603814d63c",
+      "positions": 80,
+      "statuses": {
+        "draft": 80
+      },
+      "omission_true_ids": []
+    },
+    {
+      "path": "work/translation/en/executable_0005.json",
+      "sha256": "9cc7dc6af1abffbb0864b737c82446fb173e6202d7f143481950edf728e54593",
+      "positions": 80,
+      "statuses": {
+        "draft": 80
+      },
+      "omission_true_ids": []
+    },
+    {
+      "path": "work/translation/en/executable_0006.json",
+      "sha256": "42b175e82aa0ffe1c159666040bde639da9a236298b416dc5d9b88e61116b88d",
+      "positions": 80,
+      "statuses": {
+        "draft": 80
+      },
+      "omission_true_ids": [
+        "exe_002ed044_cp932"
+      ]
+    },
+    {
+      "path": "work/translation/en/executable_0007.json",
+      "sha256": "fed229e6fd1222d6c74df13b2681a7bc2088b8ba9bd77f485964b2cf5e76c1c2",
+      "positions": 80,
+      "statuses": {
+        "draft": 45,
+        "excluded_binary": 35
+      },
+      "omission_true_ids": []
+    },
+    {
+      "path": "work/translation/en/executable_0008.json",
+      "sha256": "3050f438d5a0a115f2438871cdcd0ee12e9b8e0578c8b4a014d4e5e38fae5695",
+      "positions": 80,
+      "statuses": {
+        "excluded_binary": 43,
+        "draft": 37
+      },
+      "omission_true_ids": [
+        "exe_002f3478_utf-8",
+        "exe_00306188_cp932"
+      ]
+    },
+    {
+      "path": "work/translation/en/executable_supplement_0001.json",
+      "sha256": "df55431a13c51f949a0247a6e673cb0116e2a729783cb1b63648edc4c1962c16",
+      "positions": 70,
+      "statuses": {
+        "draft": 69,
+        "needs_context": 1
+      },
+      "omission_true_ids": [
+        "exe_002eac90_cp932"
+      ]
+    }
+  ],
+  "glossary_snapshot": {
+    "path": "work/glossary/glossary.en.json",
+    "sha256": "f2dcf3bb80d0e21ad06898e085eb2f9dde5da9cf5ed0df4ccc1d5073b652bfe4",
+    "canonical_entries": 683,
+    "source_records": 690
+  },
+  "setup_authority": {
+    "removed_duplicate_ids": [
+      "exe_002ea868_cp932",
+      "exe_002eaafc_cp932",
+      "exe_002eab3c_cp932",
+      "exe_002eb348_cp932",
+      "exe_002eb3a4_cp932"
+    ],
+    "setup_defaults_unchanged": true,
+    "full_title_override": "Installed setup title prompt intentionally supersedes the uninstalled possessive-prefix draft; no overwrite was made."
+  }
+}

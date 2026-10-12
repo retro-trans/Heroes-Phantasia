@@ -1,0 +1,392 @@
+{
+  "version": "0.1.7",
+  "date": "2026-10-11",
+  "language": "en",
+  "batch": "batch_0069",
+  "translator": "primary agent",
+  "rows_in_slice": 80,
+  "rows_drafted": 80,
+  "minimum_counted_context_row_views": 598,
+  "counted_view_scope": "454 base-scene rows and 32 changed paired-variant rows read for meaning, plus 80 slice rows and 32 adjacent queue rows; rereads excluded. Every paired-variant row was byte-compared, with identical rows not added to the view count.",
+  "full_scene_reference_rows_covered": 908,
+  "occurrence_scene_count": 15,
+  "context_scene_count": 16,
+  "adjacent_queue_rows_before": 8,
+  "adjacent_queue_rows_after": 24,
+  "source_occurrences_verified": 162,
+  "original_scene_snapshot": [
+    {
+      "file": "phase/bin/p210130.bin",
+      "row_count": 22,
+      "sha256": "aa0d3722083f86bb9b70295ffeeb468d2a831aca931a10a5854289226d15b60d",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p210131.bin",
+      "row_count": 22,
+      "sha256": "e0653d90e723f3b8d6cce215a08350cbdbcba90d637d8071eaac93e2b7280173",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p210140.bin",
+      "row_count": 54,
+      "sha256": "3d0c11c828721f487e08e56ec3b8a4af38230bc03f06bd26a8a124b7557a8e94",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p210141.bin",
+      "row_count": 54,
+      "sha256": "7982043141ef2ba4db8eedc107f690d42b0231211f4498c7108523d4bdbeb237",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p210150.bin",
+      "row_count": 6,
+      "sha256": "3126a06641860c3412025d64150f415415ded9c65592ee5216e21226cde1782f",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p210151.bin",
+      "row_count": 6,
+      "sha256": "3126a06641860c3412025d64150f415415ded9c65592ee5216e21226cde1782f",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211010.bin",
+      "row_count": 50,
+      "sha256": "fa64b5a936a18f9b3b24a907819b72cd2538ae957909fb73dd8914805167a18a",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p211011.bin",
+      "row_count": 50,
+      "sha256": "7ede039546c143ce179ea33d20b384c535c9876e8b1b9ea6b45598d14da91517",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p212010.bin",
+      "row_count": 103,
+      "sha256": "718ccbb0d2540a841800cdb4b3937a4f3a5bc9bae86943ba31943548f677935e",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p212011.bin",
+      "row_count": 103,
+      "sha256": "484475a9fae58ce61cc0a279b0d7dab99d706570dcfbb5531e57a4e72fb872bd",
+      "scope": "matched protagonist scene"
+    },
+    {
+      "file": "phase/bin/p317060.bin",
+      "row_count": 72,
+      "sha256": "8e504b1f5eb9be96fa6c3268d1cd10d37c0e9463f2ea0240177a246113af1e9f",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p317061.bin",
+      "row_count": 72,
+      "sha256": "e7039e9380dcc0907811cdf44f0cd285a1a5d2f6b6928cf764c64c83b402a9e6",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p317080.bin",
+      "row_count": 97,
+      "sha256": "57ed7580a06c8fdedaa27547bab8d054f0b64212d8a46fcf34befa03d8d8f765",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p317081.bin",
+      "row_count": 97,
+      "sha256": "b2f14545271dd305f38309c5f8b8547ec228ee2923501bc5963e260ae29c86a3",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p325040.bin",
+      "row_count": 50,
+      "sha256": "ac5b2053a1e37abe98faee3b5ba2ec00d9aa66d6b935706b176c4d16d3b5f0e4",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p325041.bin",
+      "row_count": 50,
+      "sha256": "a4ec2b919638331ac6234b19d54595de1d8365611ef39f4e10587deb9cd68841",
+      "scope": "original occurrence scene"
+    }
+  ],
+  "original_batch_snapshot_sha256": "a5aecbe42a633d1163be0da8c25db713c8b3bf213cf215bb41502b0885ab9878",
+  "independent_agent_meaning_review": "pending; no additional agent work launched",
+  "controls_numeric_arguments_percent_placeholders_passed": true,
+  "original_source_metadata_unchanged": true,
+  "filled_file_exports_verified": 73,
+  "english_only_export": "work/translation/en/batch_0069.en.json",
+  "glossary_entries_added": [
+    "MI6",
+    "BK-201",
+    "Los-Gro"
+  ],
+  "glossary_entries": 296,
+  "glossary_source_records": 302,
+  "glossary_sources": [
+    "https://www.gov.uk/government/organisations/secret-intelligence-service/about",
+    "https://darkerthanblack.fandom.com/wiki/Hei",
+    "local:work/glossary/heroes_phantasia.en.json#character_018",
+    "local:work/translation/en/batch_0069.json"
+  ],
+  "glossary_evidence_scope": "Official government page confirms MI6 as the commonly used SIS name. Franchise-wiki search evidence and the existing Hei profile support BK-201; direct wiki retrieval failed, and no primary official code spelling was claimed. Los-Gro is a provisional localized abbreviation supported only by the paired game joke. Existing character profiles were not changed.",
+  "unresolved": [
+    {
+      "category": "qualified_treatment_recollection",
+      "row_indices": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "translation_ids": [
+        "caafe6702101a77df272",
+        "d1baec220d8f503e2ac8",
+        "aef75d32e9188ce3a729",
+        "bbc4b80e2b46caacef09",
+        "a1974609402a0e9f3e96"
+      ],
+      "note": "Yukino only denies anything notable since waking. This does not prove no drug was ever administered. Julia is the BLOOD+ Red Shield researcher, distinct from Nao's Child. Saya will request an examination; none has occurred in these rows."
+    },
+    {
+      "category": "research_concepts_and_inference",
+      "row_indices": [
+        29,
+        30,
+        31,
+        32,
+        34,
+        36
+      ],
+      "translation_ids": [
+        "ac4c679da668168f2d88",
+        "69db5cb53ecd94bc0517",
+        "b48fbd134e5710058669",
+        "37a7d94ac841a94ef80c",
+        "a3c4b564e5d5d0c676ed",
+        "4bf6c78fc75c91e8af92"
+      ],
+      "note": "Keep the official Highly-advanced Materialising Equipment expansion and HiME Carnival as concepts, not invented literal book titles. Nancy asks about intended research, Yomiko qualifies it and infers flight. Rendering the facility unusable has no invented destruction method."
+    },
+    {
+      "category": "code_order",
+      "row_indices": [
+        64,
+        65
+      ],
+      "translation_ids": [
+        "13c9ab220d432a488e1e",
+        "788e6389edf7f1167034"
+      ],
+      "note": "Where is he refers to Hei, identified by the following spoken code. Source speech orders 201-BK, whereas the established canonical alias is BK-201; independent meaning and voice review must check this deliberate ordering decision. It is not a game-read asset ID."
+    },
+    {
+      "category": "localized_abbreviation_wordplay",
+      "row_indices": [
+        76,
+        77
+      ],
+      "translation_ids": [
+        "d85b10c83e28ff0f4a77",
+        "0851d22115bcacf24fc8"
+      ],
+      "note": "Los-Gro is a provisional shortening of Lost Ground that keeps Sawada's objection meaningful. No official English shorthand was verified. Review the paired joke and performance before installation; do not normalize the shortening away."
+    },
+    {
+      "category": "shared_occurrences",
+      "row_indices": [
+        7,
+        9,
+        33,
+        49
+      ],
+      "translation_ids": [
+        "fc3456314d6f9d7c0883",
+        "560b2e9ac2851f78a37f",
+        "436c23a431705b430108",
+        "c6ae20fd20d36bf4e295"
+      ],
+      "note": "Calls to Yukino and Kikukawa, Hagi's Yes and the protagonist's unfinished as-for-me thought were checked in all original scenes. Keep them neutral rather than expand them with a rescue-only explanation."
+    },
+    {
+      "category": "request_direction",
+      "row_indices": [
+        2,
+        4,
+        15,
+        35,
+        37,
+        40,
+        42,
+        43,
+        51,
+        57,
+        72,
+        74,
+        78
+      ],
+      "translation_ids": [
+        "cc0266877bdf40fbf2e7",
+        "a622e4818493b97527cf",
+        "a1974609402a0e9f3e96",
+        "60941f5fb8b40ce974e7",
+        "41fbdae5e5bd5e84aba2",
+        "576a64a03330e61e5eb0",
+        "6bc88c3514bb53dff45c",
+        "41d5a911f6be6fc384e9",
+        "a3ab9d5f884137884b19",
+        "694402993108ce0d8844",
+        "63787712140c448bd3a6",
+        "a6b1eb4f738642f524b6",
+        "d7d8d0e539d611a0253f"
+      ],
+      "note": "The party rescues Yukino, Saya asks Julia and contacts David/Joel, Yomiko asks Joker, and MI6 commissions the forest investigation. Preserve each requester and recipient; cooperation and disclosure are proposals rather than completed approvals."
+    },
+    {
+      "category": "voice_and_cover_roles",
+      "row_indices": [
+        3,
+        10,
+        17,
+        18,
+        23,
+        47,
+        48,
+        52,
+        56,
+        60,
+        69,
+        71
+      ],
+      "translation_ids": [
+        "139c298e939b04049907",
+        "9a10722a59bcdc0041ec",
+        "4155ce7f6190233d053f",
+        "a478ae0eeea01c608546",
+        "9dbceb65f006f8adea27",
+        "21280efc18b5dd8b85b5",
+        "4e91dc83ffe5b0e8c953",
+        "334363c015fd7d105a9f",
+        "eb1689797c37e17a0b1b",
+        "e7de984311df1f7f240c",
+        "44e31da72b19528bfcf3",
+        "f7d84d8d98cb16f61666"
+      ],
+      "note": "Gennai's patronizing address, interrupted identity recognitions, cover jobs, Yomiko's excited cry, tentative superior suggestions and protagonist hesitation need voice review. Row 17 restores both recognition copulas while leaving the first thought interrupted."
+    },
+    {
+      "category": "layout",
+      "row_indices": [
+        0,
+        3,
+        11,
+        17,
+        28,
+        29,
+        30,
+        36,
+        38,
+        53,
+        56,
+        57,
+        59,
+        60,
+        62,
+        65,
+        74,
+        76,
+        78
+      ],
+      "translation_ids": [
+        "1d76651cf08699bb88ec",
+        "139c298e939b04049907",
+        "caafe6702101a77df272",
+        "4155ce7f6190233d053f",
+        "f1eaeba25f6541124672",
+        "ac4c679da668168f2d88",
+        "69db5cb53ecd94bc0517",
+        "4bf6c78fc75c91e8af92",
+        "ea6649620d8abd177537",
+        "20c3854240c398897e34",
+        "eb1689797c37e17a0b1b",
+        "694402993108ce0d8844",
+        "2ef9a0a85b38c2d62f6e",
+        "e7de984311df1f7f240c",
+        "9c39b5628659bd8e55d5",
+        "788e6389edf7f1167034",
+        "a6b1eb4f738642f524b6",
+        "d85b10c83e28ff0f4a77",
+        "d7d8d0e539d611a0253f"
+      ],
+      "note": "Full meaning is drafted without a source-byte budget. Long lines, proportional widths, speaker labels, concepts, code and abbreviation need measured wrapping and in-game page capacity checks. No new font/rendering behavior was tested in this continuation."
+    },
+    {
+      "category": "intentional_fragment_or_echo",
+      "row_indices": [
+        3,
+        7,
+        8,
+        9,
+        10,
+        12,
+        14,
+        17,
+        18,
+        21,
+        23,
+        29,
+        31,
+        33,
+        44,
+        45,
+        47,
+        48,
+        49,
+        52,
+        56,
+        63,
+        65,
+        69,
+        71,
+        73
+      ],
+      "translation_ids": [
+        "139c298e939b04049907",
+        "fc3456314d6f9d7c0883",
+        "f209e65554ce5ff229aa",
+        "560b2e9ac2851f78a37f",
+        "9a10722a59bcdc0041ec",
+        "d1baec220d8f503e2ac8",
+        "bbc4b80e2b46caacef09",
+        "4155ce7f6190233d053f",
+        "a478ae0eeea01c608546",
+        "efc77a1ed4d910c9b6b1",
+        "9dbceb65f006f8adea27",
+        "ac4c679da668168f2d88",
+        "b48fbd134e5710058669",
+        "436c23a431705b430108",
+        "c6cc830e9785c93eb17e",
+        "55266cb37acd7d79bcaf",
+        "21280efc18b5dd8b85b5",
+        "4e91dc83ffe5b0e8c953",
+        "c6ae20fd20d36bf4e295",
+        "334363c015fd7d105a9f",
+        "eb1689797c37e17a0b1b",
+        "668ddd04cb7fb3c934a7",
+        "788e6389edf7f1167034",
+        "44e31da72b19528bfcf3",
+        "f7d84d8d98cb16f61666",
+        "c7b2480b974fd827013b"
+      ],
+      "note": "Deliberate calls, interrupted recognitions, unfinished recollection, concepts/name/code lists, echoes, vocal hesitations and cross-row lead-ins remain. Row decisions explain retained omissions; ordinary pro-drop subjects and predicates are restored."
+    }
+  ],
+  "runtime_newly_verified_rows": 0,
+  "new_build_created": false,
+  "complete_game_translation": false,
+  "drafted_total": 5049,
+  "unfilled_total": 12171
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "rows": [
+    {
+      "id": "exe_00094d92_cp932",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 609682,
+      "byte_length": 6,
+      "encoding": "cp932",
+      "category": "executable_battle_hud_ui",
+      "target": "Special",
+      "status": "installed_static_checked_native_display_pending",
+      "notes": "Supplemental embedded code-pool label, counted separately from the structured-text headline. The existing full-term entry at original offset0x2ed390 belongs to a different pointer and remains unchanged.",
+      "context": "Square-button special-move label beside the battle AP gauge. Typed table0/index54 is passed directly to the generic text renderer.",
+      "decisions": "Canonical glossary term: Special Move. Display Special in this compact HUD: actual inherited ASCII advances measure the full term at 86px and the abbreviation at 47px, within a 55px region. Preserve controls, widget geometry, font and caller instructions.",
+      "source_omission_preserved": false
+    }
+  ]
+}

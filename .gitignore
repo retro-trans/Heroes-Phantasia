@@ -1,0 +1,34 @@
+*.iso
+*.cso
+*.pbp
+work/source/
+work/translation/**/*.json
+!work/translation/**/*.en.json
+work/output/
+__pycache__/
+*.pyc
+incoming/
+# Game assets, screenshots, dumps and local publication inputs stay private.
+*.cpk
+*.CPK
+*.bin
+*.BIN
+*.elf
+*.pmf
+*.PMF
+*.png
+*.jpg
+*.jpeg
+*.ttf
+*.otf
+*.zip
+*.xdelta
+*.exe
+*.dll
+*.ppst
+*.dmp
+work/local/
+work/ui/**
+# Selected English layout/proof metadata is added explicitly.
+BASE_RULES.md
+.venv/

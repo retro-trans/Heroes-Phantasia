@@ -1,0 +1,42 @@
+{
+  "batch": "batch_0109",
+  "date": "2026-10-11",
+  "reviewer": "/root/unpack",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "medium",
+  "rows_reviewed": 80,
+  "new_counted_context_row_views": 265,
+  "new_counted_scope": "147 complete-scene base rows, six changed counterparts and 112 queue/context views. Identical pairs/rereads excluded.",
+  "previously_reviewed_scene_rows_reused": 57,
+  "reused_scope": "55 base rows and two changed counterparts from p316110/111 previously reviewed; excluded from new count.",
+  "full_context_views_available": 322,
+  "source_occurrences_verified": 153,
+  "scene_count": 7,
+  "paired_reference_rows": 350,
+  "unpaired_scene": "p331070 read completely; p331071 does not exist.",
+  "required_meaning_corrections": [],
+  "metadata_observations": [
+    {
+      "row_index": 30,
+      "id": "b4d30a3a53c8fa740397",
+      "finding": "Someone under my command is defensible singular indefinite wording with unspecified gender. Source headcount is unstated; decision note must not claim exact number ambiguity is preserved.",
+      "applied": true,
+      "target_changed": false
+    }
+  ],
+  "focused_checks": {
+    "uncertain_reports": "Possible HOLY membership and witches identity remain unconfirmed.",
+    "shared_rows": "Ryuho grunt 28 and Louie assent 63 fit every occurrence.",
+    "direction_and_cutoffs": "Interrupted rows remain unfinished. Compensation request and future reward agreement retain direction.",
+    "referents": "Director comparisons address Kazuma. Jar damage remains hypothetical; Orphen interference remains unspecified.",
+    "controls": "All 153 occurrences match decoded source. Controls and recognized numeric arguments match exactly."
+  },
+  "final_assessment": "No required target meaning corrections across all 80 drafts. One decision-note clarification applied; targets unchanged.",
+  "runtime_approval": false,
+  "unresolved": [
+    "Provisional terminology",
+    "Voice delivery",
+    "Runtime text/ruby layout"
+  ],
+  "files_changed_by_reviewer": false
+}

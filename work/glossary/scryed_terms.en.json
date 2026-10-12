@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "version": "0.1.0",
+  "language": "en",
+  "entries": [
+    {
+      "id": "scryed_001",
+      "category": "character",
+      "franchise": "s-CRY-ed",
+      "ja": "シェリス・アジャーニ",
+      "en": "Scheris Adjani",
+      "aliases": [
+        "シェリス",
+        "Scheris"
+      ],
+      "nickname": "Scheris (short address)",
+      "gender": "female",
+      "personality": "Energetic; emotionally devoted to Ryuho",
+      "role": "Former HOLY member in the current game; former Native Alter user",
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_S-CRY-ed_characters",
+        "https://scryed.fandom.com/wiki/Scheris_Adjani",
+        "local:work/translation/en/batch_0094.json",
+        "local:work/translation/en/batch_0100.json",
+        "local:work/translation/en/batch_0102.json",
+        "local:work/translation/en/batch_0104.json"
+      ],
+      "confidence": "researched",
+      "notes": "Use short Scheris in speaker labels; anime continuity. Current game says she and Cougar have left HOLY, reports all chiropteran data erased in Inner facilities and headquarters, wants see Ryuho again and questions Cougar quick temporary joint-action choice. Shared yes across role/crystal enemy identification stays neutral, silence across current pair stays silence. Direct character-list confirms energetic/devoted profile, not imported power, age, later revival/death or manga fate. Current reunion expresses surprise and concern around Ryuho's apparent amnesia; tentative partial recognition does not establish complete memory recovery or a new romantic relationship. Name-plus-ellipsis vocative has twelve occurrences in six complete pairs, spanning reunion, party joining, invasion realization, Kazuma truce, HOLY doubts and remote emergency; loud name call also occurs after later healing. Both stay neutral. Later heal/rescue scene was read solely to verify shared call, not imported as current outcome. Existing female identity and energetic/devoted personality remain researched. Current conditionally interprets Arvin invasion actions and asks whether calmness is Contractor trait; questions/hypotheses not confirmed facts. Ryuho joining to assess HOLY allegations does not establish her new romantic status. Current surprised Kazuma/Cougar know each other and urges Ryuho not to compete in stubborn pride now. Immediate feud paused, no new romance, official reinstatement or completed investigation."
+    },
+    {
+      "id": "scryed_002",
+      "category": "location",
+      "franchise": "s-CRY-ed",
+      "ja": "ロストグラウンド",
+      "en": "Lost Ground",
+      "aliases": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/S-CRY-ed"
+      ],
+      "confidence": "researched"
+    },
+    {
+      "id": "scryed_003",
+      "category": "term",
+      "franchise": "s-CRY-ed",
+      "ja": "ネイティブアルター",
+      "en": "Native Alter",
+      "aliases": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/S-CRY-ed"
+      ],
+      "confidence": "researched",
+      "notes": "Use plural Native Alters when describing the group."
+    },
+    {
+      "id": "scryed_004",
+      "category": "location",
+      "franchise": "s-CRY-ed",
+      "ja": "セントラルピラー",
+      "en": "Central Pillar",
+      "aliases": [],
+      "sources": [
+        "local:work/translation/en/batch_0015.json"
+      ],
+      "confidence": "provisional_literal",
+      "notes": "Term's exact site/function requires scene or series confirmation."
+    },
+    {
+      "id": "scryed_005",
+      "category": "term",
+      "franchise": "s-CRY-ed",
+      "ja": "インナー",
+      "en": "Inner",
+      "aliases": [],
+      "sources": [
+        "https://manga.fandom.com/wiki/List_of_s-CRY-ed_characters",
+        "local:work/translation/en/batch_0015.json",
+        "local:work/translation/en/batch_0094.json"
+      ],
+      "confidence": "provisional_context",
+      "notes": "Local district/resident term; preserve source context rather than assuming Mainland meaning. Current scene reports chiropteran research data erased in facilities in the Inner and headquarters too. All eight source records/four prior targets checked retain the Inner. Do not substitute Mainland, assume entire district destroyed or expand all-world research scope."
+    },
+    {
+      "id": "scryed_006",
+      "category": "organization",
+      "franchise": "s-CRY-ed",
+      "ja": "ダース部隊",
+      "en": "Dars unit",
+      "aliases": [
+        "ダース",
+        "Dars",
+        "ダース隊"
+      ],
+      "sources": [
+        "https://manga.fandom.com/wiki/List_of_s-CRY-ed_characters",
+        "https://tv.apple.com/ca/episode/tokonatsu-three-sisters/umc.cmc.5h6fqoptzesjfcc3tm1yeaf2z",
+        "local:work/source/cpk/btl/cpl/cpl0106.bin"
+      ],
+      "confidence": "researched",
+      "notes": "HOLY soldiers. Dars spelling confirmed; unit is the source's group descriptor."
+    }
+  ]
+}

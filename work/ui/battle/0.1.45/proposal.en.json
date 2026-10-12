@@ -1,0 +1,579 @@
+{
+  "schema_version": 1,
+  "version": "0.1.45",
+  "resource": "btl/sys_all.bin",
+  "base_version": "0.1.44",
+  "base_resource_sha256": "4c0a57060aad0fd9d6d3ab70d58ee011fc0b420acca89744110af40b32e37a59",
+  "candidate_sha256": "53b15bd1ead7cf5803ff8112b4ee2cfeae9ecb3c155b3f91cfb725577cdae458",
+  "bytes": 1070288,
+  "entries": [
+    {
+      "id": "sys_all_28d0_label_08",
+      "target": "Observe",
+      "displayed_text": "OBS",
+      "original_crop_rect": [
+        0,
+        241,
+        32,
+        14
+      ],
+      "texture_rect": [
+        0,
+        241,
+        32,
+        14
+      ],
+      "font_native_pixels": 16,
+      "previous_font_native_pixels": 8,
+      "text_boxes": [
+        {
+          "text": "OBS",
+          "box": [
+            2,
+            1,
+            28,
+            12
+          ],
+          "ink_height": 12
+        }
+      ],
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_09",
+      "target": "Dodge",
+      "displayed_text": "Dodge",
+      "original_crop_rect": [
+        32,
+        241,
+        32,
+        14
+      ],
+      "texture_rect": [
+        32,
+        241,
+        32,
+        14
+      ],
+      "font_native_pixels": 11,
+      "previous_font_native_pixels": 10,
+      "text_boxes": [
+        {
+          "text": "Dodge",
+          "box": [
+            2,
+            1,
+            28,
+            11
+          ],
+          "ink_height": 11
+        }
+      ],
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_10",
+      "target": "Turn",
+      "displayed_text": "Turn",
+      "original_crop_rect": [
+        200,
+        257,
+        33,
+        15
+      ],
+      "texture_rect": [
+        200,
+        257,
+        33,
+        15
+      ],
+      "font_native_pixels": 15,
+      "previous_font_native_pixels": 12,
+      "text_boxes": [
+        {
+          "text": "Turn",
+          "box": [
+            2,
+            2,
+            29,
+            11
+          ],
+          "ink_height": 11
+        }
+      ],
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_11",
+      "target": "None",
+      "displayed_text": "None",
+      "original_crop_rect": [
+        200,
+        274,
+        32,
+        15
+      ],
+      "texture_rect": [
+        200,
+        274,
+        32,
+        15
+      ],
+      "font_native_pixels": 13,
+      "previous_font_native_pixels": 12,
+      "text_boxes": [
+        {
+          "text": "None",
+          "box": [
+            2,
+            2,
+            28,
+            10
+          ],
+          "ink_height": 9
+        }
+      ],
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_12",
+      "target": "Overcharge",
+      "displayed_text": "Overcharge",
+      "original_crop_rect": [
+        0,
+        313,
+        106,
+        15
+      ],
+      "texture_rect": [
+        0,
+        313,
+        104,
+        15
+      ],
+      "font_native_pixels": 13,
+      "previous_font_native_pixels": 12,
+      "text_boxes": [
+        {
+          "text": "Overcharge",
+          "box": [
+            22,
+            1,
+            60,
+            13
+          ],
+          "ink_height": 13
+        }
+      ],
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_13",
+      "target": "PP Cost",
+      "displayed_text": "PP Cost",
+      "original_crop_rect": [
+        104,
+        313,
+        41,
+        15
+      ],
+      "texture_rect": [
+        104,
+        313,
+        40,
+        15
+      ],
+      "font_native_pixels": 11,
+      "previous_font_native_pixels": 11,
+      "text_boxes": [
+        {
+          "text": "PP Cost",
+          "box": [
+            2,
+            3,
+            36,
+            8
+          ],
+          "ink_height": 8
+        }
+      ],
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_14",
+      "target": "Assist Effect",
+      "displayed_text": "Assist Effect",
+      "original_crop_rect": [
+        144,
+        313,
+        65,
+        15
+      ],
+      "texture_rect": [
+        144,
+        313,
+        64,
+        15
+      ],
+      "font_native_pixels": 11,
+      "previous_font_native_pixels": 11,
+      "text_boxes": [
+        {
+          "text": "Assist Effect",
+          "box": [
+            3,
+            3,
+            57,
+            9
+          ],
+          "ink_height": 8
+        }
+      ],
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_15",
+      "target": "HP Modifier",
+      "displayed_text": "HP MOD",
+      "original_crop_rect": [
+        208,
+        313,
+        44,
+        15
+      ],
+      "texture_rect": [
+        208,
+        313,
+        44,
+        15
+      ],
+      "font_native_pixels": 12,
+      "previous_font_native_pixels": 8,
+      "text_boxes": [
+        {
+          "text": "HP MOD",
+          "box": [
+            2,
+            3,
+            40,
+            9
+          ],
+          "ink_height": 9
+        }
+      ],
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_16",
+      "target": "Max Chain",
+      "displayed_text": "Max Chain",
+      "original_crop_rect": [
+        0,
+        328,
+        74,
+        15
+      ],
+      "texture_rect": [
+        0,
+        328,
+        74,
+        15
+      ],
+      "font_native_pixels": 16,
+      "previous_font_native_pixels": 12,
+      "text_boxes": [
+        {
+          "text": "Max Chain",
+          "box": [
+            3,
+            1,
+            68,
+            13
+          ],
+          "ink_height": 12
+        }
+      ],
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_17",
+      "target": "Enemy Side",
+      "displayed_text": "Foe",
+      "original_crop_rect": [
+        120,
+        328,
+        25,
+        15
+      ],
+      "texture_rect": [
+        120,
+        328,
+        25,
+        15
+      ],
+      "font_native_pixels": 14,
+      "previous_font_native_pixels": 7,
+      "text_boxes": [
+        {
+          "text": "Foe",
+          "box": [
+            2,
+            2,
+            21,
+            11
+          ],
+          "ink_height": 10
+        }
+      ],
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_18",
+      "target": "Ally Side",
+      "displayed_text": "Ally",
+      "original_crop_rect": [
+        145,
+        328,
+        25,
+        15
+      ],
+      "texture_rect": [
+        145,
+        328,
+        24,
+        15
+      ],
+      "font_native_pixels": 13,
+      "previous_font_native_pixels": 12,
+      "text_boxes": [
+        {
+          "text": "Ally",
+          "box": [
+            2,
+            1,
+            20,
+            13
+          ],
+          "ink_height": 13
+        }
+      ],
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_19",
+      "target": "Field Effect",
+      "displayed_text": "Field Effect",
+      "original_crop_rect": [
+        169,
+        328,
+        65,
+        15
+      ],
+      "texture_rect": [
+        169,
+        328,
+        65,
+        15
+      ],
+      "font_native_pixels": 13,
+      "previous_font_native_pixels": 12,
+      "text_boxes": [
+        {
+          "text": "Field Effect",
+          "box": [
+            2,
+            2,
+            60,
+            11
+          ],
+          "ink_height": 10
+        }
+      ],
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "group_id": 5,
+      "target": "Failed",
+      "displayed_text": "FAILED",
+      "font_native_pixels": 20,
+      "text_boxes": [
+        {
+          "text": "FAILED",
+          "box": [
+            2,
+            4,
+            58,
+            15
+          ],
+          "ink_height": 14
+        }
+      ],
+      "source_destination_bounds": [
+        -32,
+        -12,
+        32,
+        12
+      ],
+      "part_indices": [
+        43
+      ],
+      "native_uv_corners": [
+        [
+          0,
+          96,
+          64,
+          120
+        ]
+      ],
+      "partition_geometry_retained": true,
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "group_id": 6,
+      "target": "First Strike Formation",
+      "displayed_text": "FIRST STRIKE / FORMATION",
+      "font_native_pixels": 13,
+      "text_boxes": [
+        {
+          "text": "FIRST STRIKE",
+          "box": [
+            25,
+            1,
+            73,
+            10
+          ],
+          "ink_height": 10
+        },
+        {
+          "text": "FORMATION",
+          "box": [
+            29,
+            12,
+            65,
+            10
+          ],
+          "ink_height": 10
+        }
+      ],
+      "source_destination_bounds": [
+        -62,
+        -12,
+        62,
+        12
+      ],
+      "part_indices": [
+        44,
+        45
+      ],
+      "native_uv_corners": [
+        [
+          0,
+          48,
+          64,
+          72
+        ],
+        [
+          0,
+          72,
+          64,
+          96
+        ]
+      ],
+      "partition_geometry_retained": true,
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "group_id": 8,
+      "target": "Ambush",
+      "displayed_text": "AMBUSH",
+      "font_native_pixels": 28,
+      "text_boxes": [
+        {
+          "text": "AMBUSH",
+          "box": [
+            9,
+            1,
+            102,
+            21
+          ],
+          "ink_height": 21
+        }
+      ],
+      "source_destination_bounds": [
+        -61,
+        -12,
+        61,
+        12
+      ],
+      "part_indices": [
+        48,
+        49,
+        50,
+        51
+      ],
+      "native_uv_corners": [
+        [
+          64,
+          48,
+          96,
+          72
+        ],
+        [
+          64,
+          72,
+          96,
+          96
+        ],
+        [
+          64,
+          96,
+          96,
+          120
+        ],
+        [
+          32,
+          24,
+          64,
+          48
+        ]
+      ],
+      "partition_geometry_retained": true,
+      "complete_semantic_label_preserved": true
+    }
+  ],
+  "changed_labels": 15,
+  "total_category_labels": 23,
+  "previously_fixed_stat_badges_preserved": 8,
+  "font": "work\\source\\ppsspp\\assets\\Roboto_Condensed-Bold.ttf",
+  "font_sha256": "da69d6f3193e279c892451c17f7e4926aecd4aeaf7300171ddb44c70551260ca",
+  "raster_scale": 4,
+  "allocations": [
+    {
+      "header_index": 3,
+      "pixel_offset": 11600,
+      "pixel_bytes": 90112,
+      "dimensions": [
+        256,
+        352
+      ],
+      "changed_pixels": 3491,
+      "unselected_pixels_exact": true
+    },
+    {
+      "header_index": 72,
+      "pixel_offset": 366784,
+      "pixel_bytes": 16384,
+      "dimensions": [
+        128,
+        128
+      ],
+      "changed_pixels": 3704,
+      "unselected_pixels_exact": true
+    }
+  ],
+  "all_nonpixel_bytes_exact": true,
+  "all_other_atlas_pixels_exact": true,
+  "native_geometry_palette_and_arrows_preserved": true,
+  "fragment_models_roundtrip_exact": true,
+  "native_battle_display_verified": false
+}

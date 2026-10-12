@@ -1,0 +1,8 @@
+{
+  "schema_version":1,"version":"0.1.0","language":"en",
+  "entries":[
+    {"id":"organization_001","category":"organization","franchise":"BLOOD+","ja":"サンクフレシュ製薬","en":"Cinq Flèches Pharmaceutical","aliases":["サンクフレシュ","Cinq Flèches"],"sources":["https://en.wikipedia.org/wiki/List_of_Blood%2B_characters","https://www.productionig.com/contents/works_sp/20_/s02_/000797.html"],"confidence":"researched","notes":"Wiki accented spelling wins. Official episode synopsis confirms Pharmaceutical descriptor; abbreviated Les prefix omitted to match game form."},
+    {"id":"organization_002","category":"location","franchise":"BLOOD+","ja":"ヤンバル自然環境保護センター","en":"Yanbaru Nature Conservation Center","aliases":["ヤンバル","Yanbaru"],"sources":["https://www.imdb.com/title/tt0942950/plotsummary/","https://www.imdb.com/title/tt0942947/plotsummary/","local:work/translation/en/batch_0014.json"],"confidence":"partially_researched","notes":"Yanbaru spelling and conservation facility context confirmed; full English descriptor remains a literal game translation."},
+    {"id":"organization_003","category":"organization","franchise":"Heroes Phantasia","ja":"デーロス建設","en":"Delos Construction","aliases":[],"sources":["local:work/translation/en/batch_0014.json"],"confidence":"provisional_transliteration","notes":"No relevant series source found; do not conflate with real-world companies of similar name."}
+  ]
+}

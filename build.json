@@ -1,0 +1,13 @@
+{
+  "version": "0.1.45",
+  "english_title_logo": true,
+  "title_credit": "github.com/retro-trans",
+  "title_stamp": {
+    "right_margin_px": 8,
+    "bottom_margin_px": 8,
+    "font_size_px": 9,
+    "line_gap_px": 3,
+    "raster_scale": 4
+  },
+  "english_psp_metadata": true
+}

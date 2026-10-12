@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "rows": [
+    {
+      "id": "title_bitmap_phonetic_heroes_phantasia",
+      "file": "menu/TitleMenu_Data.bin",
+      "encoding": "baked_ci8_raster",
+      "category": "title_bitmap_label",
+      "target": "HEROES PHANTASIA",
+      "status": "draft",
+      "context": "Japanese phonetic line between native English HEROES and PHANTASIA lettering. Repeated in the large logo and menu miniature.",
+      "decisions": "Official native Latin title retained exactly in uppercase. Source nominal title remains a nominal label. Root approved bounded static raster proposal; UV ownership and runtime visibility remain unverified.",
+      "source_omission_preserved": true
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "version": "0.1.7",
+  "date": "2026-10-11",
+  "language": "en",
+  "batch": "batch_0067",
+  "translator": "primary agent",
+  "rows_in_slice": 80,
+  "rows_drafted": 80,
+  "minimum_counted_context_row_views": 660,
+  "counted_view_scope": "518 base-scene rows and 30 changed paired-variant rows read for meaning, plus 80 slice rows and 32 adjacent queue rows; rereads excluded. Every paired-variant row was byte-compared, with identical rows not added to the view count.",
+  "full_scene_reference_rows_covered": 1036,
+  "adjacent_queue_rows_before": 8,
+  "adjacent_queue_rows_after": 24,
+  "source_occurrences_verified": 168,
+  "original_scene_snapshot": [
+    {
+      "file": "phase/bin/p210090.bin",
+      "row_count": 20,
+      "sha256": "39a9cf48dbecc5e8a1416907c959959679a1f33a35d866f9b17888b98a7231e8"
+    },
+    {
+      "file": "phase/bin/p210091.bin",
+      "row_count": 20,
+      "sha256": "41431331bcc380d2c31f80b34e93575b71385837224cd82830132bae5a152ac1"
+    },
+    {
+      "file": "phase/bin/p210100.bin",
+      "row_count": 63,
+      "sha256": "02c97085189dcf3c4175fb9d7e7de153fcfa28d1392d3848ae0c496d62f773c4"
+    },
+    {
+      "file": "phase/bin/p210101.bin",
+      "row_count": 63,
+      "sha256": "302c41d9ae5d8f7b7b5434a39b5ca5f97046287e9fdbbcb62c0fec73ea597105"
+    },
+    {
+      "file": "phase/bin/p314010.bin",
+      "row_count": 76,
+      "sha256": "eca989ebffe38701839a1086a101519f8b55e63cb08389304b207192ebf39586"
+    },
+    {
+      "file": "phase/bin/p314011.bin",
+      "row_count": 76,
+      "sha256": "fa85264c389d7e30b583c61f6bc9aa404bdd9f195a63a9179dddd7dfddee4020"
+    },
+    {
+      "file": "phase/bin/p314040.bin",
+      "row_count": 80,
+      "sha256": "5a26922341b7e28720ad15b32aa27d77fdd6e028a768d0559fb84667261dc6e9"
+    },
+    {
+      "file": "phase/bin/p314041.bin",
+      "row_count": 80,
+      "sha256": "35a5badb6be25dc02e4946dd763301e1d83bd21926ae43f6f2bc1e5ccff76e65"
+    },
+    {
+      "file": "phase/bin/p317030.bin",
+      "row_count": 112,
+      "sha256": "85774873f214924526747da26c74b4e4ef5caf660a547c90bef13d824b7b05ca"
+    },
+    {
+      "file": "phase/bin/p317031.bin",
+      "row_count": 112,
+      "sha256": "650bc93e3ad575a25acdb0cc8b17bdf182039ca868b1c00690ed35675bf496f1"
+    },
+    {
+      "file": "phase/bin/p324060.bin",
+      "row_count": 69,
+      "sha256": "417d81f993b73aa2bc093188c578f70a96bd38d3167ff9c183da1437390c6c0b"
+    },
+    {
+      "file": "phase/bin/p324061.bin",
+      "row_count": 69,
+      "sha256": "aa88d3b11b83a9062882010a8da1f9e563878f6eb125754634991dcf11a7d9cf"
+    },
+    {
+      "file": "phase/bin/p326010.bin",
+      "row_count": 98,
+      "sha256": "43a15176e72ac1102f847bb5aad615b55334a1a54e694937954f67eb3fa782fa"
+    },
+    {
+      "file": "phase/bin/p326011.bin",
+      "row_count": 98,
+      "sha256": "4d1e1621dea1a7ffe6220dc79519c198678fb5248bd1314a228325575e0db0d8"
+    }
+  ],
+  "original_batch_snapshot_sha256": "c5c11a799e617df713f5a253718bca542c7a41db361bdf6542b77ccca540248b",
+  "independent_agent_meaning_review": "pending; no additional agent work launched",
+  "controls_numeric_arguments_percent_placeholders_passed": true,
+  "original_source_metadata_unchanged": true,
+  "filled_file_exports_verified": 71,
+  "english_only_export": "work/translation/en/batch_0067.en.json",
+  "glossary_terms_added": [
+    "Masashi Takeda",
+    "Lilienthal"
+  ],
+  "glossary_entries": 293,
+  "glossary_source_records": 299,
+  "glossary_sources": [
+    "https://www.tv-tokyo.co.jp/anime/maihime/character02.html",
+    "https://manga.fandom.com/wiki/Masashi_Takeda",
+    "https://mai.fandom.com/wiki/Category%3ACharacters",
+    "https://manga.fandom.com/wiki/Read_or_Die_%28OVA%29"
+  ],
+  "glossary_evidence_scope": "Takeda Japanese name, honest/straightforward manner and kendo captain role use the official broadcaster page; English name and male identity use anime-continuity wiki evidence and source pronouns. Lilienthal is the fictional OVA I-Jin, whose short name, full name and role are attested by the franchise-wiki OVA description; personality remains unknown.",
+  "unresolved": [
+    {
+      "category": "voice",
+      "row_indices": [
+        0,
+        8,
+        10,
+        12,
+        16,
+        25,
+        33,
+        44,
+        53,
+        73,
+        77,
+        79
+      ],
+      "translation_ids": [
+        "33af15dad9c1bdf191ca",
+        "270cd0feb4ba717f295d",
+        "a9213428b22f75f804e7",
+        "902df3d10d17e7fc2b9b",
+        "02c18502a123d5408473",
+        "c69f0a485d1bbefe2f91",
+        "67957a49c54d996b8f8b",
+        "344bd250bafd61873dec",
+        "c7f5f0e2d1e5c1fe173f",
+        "4ac4d9b8d52147180eee",
+        "e37377a13c7cd813e45d",
+        "85e9780f8518499d8cc7"
+      ],
+      "note": "Stammers, unfinished responses, Shizuru's composed Kyoto delivery, Nagi's slip and skeptical age/justice jokes require performance review. Do not invent a regional English caricature or an age number."
+    },
+    {
+      "category": "historical_figure_wording",
+      "row_indices": [
+        29,
+        30,
+        32
+      ],
+      "translation_ids": [
+        "29582c518bd01d235de1",
+        "84a6b5e3e63ac32d104b",
+        "8f04d962151f4fb9ea0d"
+      ],
+      "note": "Great figures/great people preserves Saya's simple misunderstanding; independent meaning and voice review remains pending. Master Sanzo retains the existing provisional title; full names and clone mechanisms must not be added."
+    },
+    {
+      "category": "evidence_and_claims",
+      "row_indices": [
+        5,
+        6,
+        7,
+        13,
+        23,
+        26,
+        40,
+        42,
+        47,
+        54
+      ],
+      "translation_ids": [
+        "e1c9c9fa73a4b7cbc3ac",
+        "42e9c7dc81319729b758",
+        "3119c2f357ceba00afa8",
+        "cd3d7d761c11e74703b4",
+        "8545dd01e56e6eba9e6c",
+        "d414c95826298cd792ab",
+        "51d66df39fcd063341e6",
+        "acaee5b62ac0d4226335",
+        "1f8b482e73be4409704a",
+        "f31f26174e02b520fcd3"
+      ],
+      "note": "Keep Haruka's reported sighting and allegation, Hagi's sensed signs, Nancy's likely inference and Nagi's later assertions distinct. The combined rescue/investigation conclusion stays conditional on believing Nagi."
+    },
+    {
+      "category": "unspecified_actor",
+      "row_indices": [
+        38,
+        40
+      ],
+      "translation_ids": [
+        "468189fb9d9dce7b45d9",
+        "51d66df39fcd063341e6"
+      ],
+      "note": "Passive revival leaves the reviver unidentified. The I-Jin perpetrator number remains unspecified. Independent comparison must preserve that scope."
+    },
+    {
+      "category": "request_direction",
+      "row_indices": [
+        9,
+        14,
+        47,
+        48,
+        50,
+        51,
+        55,
+        59,
+        69,
+        70,
+        72,
+        75
+      ],
+      "translation_ids": [
+        "04d19656d22d1836bdf2",
+        "5ed1d21a9a0e6c371627",
+        "1f8b482e73be4409704a",
+        "9993acb9cb54dbf9b121",
+        "e16ed3dbf6c3cfce822c",
+        "6a19ce460e130546e51e",
+        "0326ee9a3bc4b1c4f526",
+        "9882a160dba159e6c916",
+        "5618342731d9d1ecade0",
+        "9535a8dd60c3a1fa33a9",
+        "48936d917d3e9d8b2050",
+        "9d0400bb9b7d94b0dc19"
+      ],
+      "note": "Reito asks Haruka to stop; Nagi requests the party's help and predicts their compliance. Saya offers to handle chiropterans with Hagi; Yomiko promises adult support to Saya, not the reverse."
+    },
+    {
+      "category": "layout",
+      "row_indices": [
+        5,
+        6,
+        7,
+        11,
+        26,
+        29,
+        38,
+        42,
+        45,
+        47,
+        54,
+        56,
+        67,
+        74,
+        75
+      ],
+      "translation_ids": [
+        "e1c9c9fa73a4b7cbc3ac",
+        "42e9c7dc81319729b758",
+        "3119c2f357ceba00afa8",
+        "7c7f24ae8e05d1250385",
+        "d414c95826298cd792ab",
+        "29582c518bd01d235de1",
+        "468189fb9d9dce7b45d9",
+        "acaee5b62ac0d4226335",
+        "8b9e994ea0a8f41361ab",
+        "1f8b482e73be4409704a",
+        "f31f26174e02b520fcd3",
+        "479d0cec7c3d9ef2eb21",
+        "d214d7dcd97064fefdcc",
+        "29d3f4356a367dea334a",
+        "9d0400bb9b7d94b0dc19"
+      ],
+      "note": "Full meaning is drafted without a source-byte budget. Long lines, both protagonist variants, proportional width and bubble/page capacity need measured wrapping and runtime QA."
+    },
+    {
+      "category": "intentional_fragment_or_echo",
+      "row_indices": [
+        0,
+        1,
+        3,
+        4,
+        8,
+        10,
+        12,
+        20,
+        21,
+        25,
+        27,
+        28,
+        30,
+        31,
+        33,
+        35,
+        39,
+        41,
+        43,
+        44,
+        49,
+        53,
+        55,
+        56,
+        58,
+        60,
+        64,
+        69,
+        71,
+        73,
+        74,
+        76,
+        77,
+        78,
+        79
+      ],
+      "translation_ids": [
+        "33af15dad9c1bdf191ca",
+        "c0227efec9e5b0320d80",
+        "46e605fa49c408152c7e",
+        "dc40aa75c796331790df",
+        "270cd0feb4ba717f295d",
+        "a9213428b22f75f804e7",
+        "902df3d10d17e7fc2b9b",
+        "ce8ba74dca888833d115",
+        "24e89c81d403f153242e",
+        "c69f0a485d1bbefe2f91",
+        "751628f73b8561b3a048",
+        "1bc6e67327e9f87e7aa4",
+        "84a6b5e3e63ac32d104b",
+        "b38d8906fe1445a393c0",
+        "67957a49c54d996b8f8b",
+        "5e74db69f349f0d538e8",
+        "49fd335bd8b06ffb0b00",
+        "96c33ceaec5a52d1475c",
+        "9653739983a611af5182",
+        "344bd250bafd61873dec",
+        "e26959996a76852120f6",
+        "c7f5f0e2d1e5c1fe173f",
+        "0326ee9a3bc4b1c4f526",
+        "479d0cec7c3d9ef2eb21",
+        "1e306d8cb6cb3f0dc64b",
+        "9db6ab385438b13dbd3d",
+        "b05a64a4ace60e3c4931",
+        "5618342731d9d1ecade0",
+        "ffb6d6ee966ee79569c9",
+        "4ac4d9b8d52147180eee",
+        "29d3f4356a367dea334a",
+        "b770db018ca2acf015c0",
+        "e37377a13c7cd813e45d",
+        "7b955eb2d81757e5332f",
+        "85e9780f8518499d8cc7"
+      ],
+      "note": "Retained deliberate calls, echoes, formulaic greetings/answers, reactions, unfinished thoughts, boundary fragments or conditional questions. Row decisions explain each retained omission. Do not mistake these for uncorrected grammatical pro-drop."
+    },
+    {
+      "category": "shared_occurrences",
+      "row_indices": [
+        31,
+        41,
+        52,
+        58,
+        64
+      ],
+      "translation_ids": [
+        "b38d8906fe1445a393c0",
+        "96c33ceaec5a52d1475c",
+        "7d8c713352df9a13531a",
+        "1e306d8cb6cb3f0dc64b",
+        "b05a64a4ace60e3c4931"
+      ],
+      "note": "Neutral Yes, That's right, He's gone, You're right and Mitch address were checked in every original repeated scene. Independent review should retain the shared-target scope."
+    }
+  ],
+  "runtime_newly_verified_rows": 0,
+  "new_build_created": false,
+  "complete_game_translation": false,
+  "drafted_total": 4889,
+  "unfilled_total": 12331
+}

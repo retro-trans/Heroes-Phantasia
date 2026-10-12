@@ -1,0 +1,270 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "rows": [
+    {
+      "id": "movie09cast_c07a454fa59783dd3fe6",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Shizuru Fujino\nNaomi Shindo",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_597d56d330adbb0349f4",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Nao Yuuki\nYuuka Nanri",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_1d93656f6e2f18bb8c10",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Miyu Greer\nKiyomi Asai",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_1e1e7d808498acd1b8e6",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Saya Otonashi\nEri Kitamura",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_3f2d294a8d219ec24738",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Hagi\nKatsuyuki Konishi",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_0abc08c8f59a60bc3d2d",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Amshel Goldsmith\nJouji Nakata",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_010894e4c3a8c4357705",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Karl Fei-Ong\nNozomu Sasaki",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_138080c088eaa15ac82e",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Hei\nHidenobu Kiuchi",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_f9cdb4b5a4b2d2995ac1",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "November 11\nKazuhiko Inoue",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_cd5b617177a142b458aa",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Suou Pavlichenko\nKana Hanazawa",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_a02b72fc4f638f065d20",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "July\nKiyomi Asai",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_78c5a079f27144b3469d",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Genma Shizume\nKenta Miyake",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_8cb7da9c551d943b6a0a",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Lina Inverse\nMegumi Hayashibara",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_2a4930bb410c627d674f",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Gourry Gabriev\nYasunori Matsumoto",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_a5effd9905ed67b029de",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Zelgadis Graywords\nHikaru Midorikawa",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_bb31f29f1cdeb441094b",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Amelia Wil Tesla Saillune\nMasami Suzuki",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_81afbc4a863ae8f2b850",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Zuma\nNobuo Tobita",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_ea84892a16caee1ea0ec",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Eiji Watari\nYoshimasa Hosoya",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_83e9d39e42ddbd2786e5",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Shinobu Fudo\nYoko Hikasa",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_cc459a09077862652b6d",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Soon Serish\nAya Endō",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_02b961271a0652438e83",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Michie Sawada\nHisako Kanemoto",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_e23f7f2de66b82790d2d",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Red Hugh Organti\nDaisuke Namikawa",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_db4a95ca0c9a8b5c3657",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Aptrio\nMiyuki Sawashiro",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Canonical glossary character and actor spellings; source credit pair order preserved.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09cast_ccca005a094663141cd4",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_cast_credit",
+      "target": "Arvin Mayso\nMitsuru Miyamoto",
+      "status": "draft",
+      "context": "Original cast credit, grouped under its franchise heading; character and actor remain separate lines.",
+      "decisions": "Original printed character-name orthographic alias mapped to the protected canonical name; no role or identity added.",
+      "source_omission_preserved": true
+    }
+  ]
+}

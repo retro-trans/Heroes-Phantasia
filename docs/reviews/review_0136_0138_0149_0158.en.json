@@ -1,0 +1,379 @@
+{
+  "review": "Independent meaning review of batches 0136-0138 and 0149-0158",
+  "reviewer": "glossary agent; not original translator of these slices",
+  "translation_data_edits_by_reviewer": false,
+  "counts": {
+    "owned_pairs_read": 1040,
+    "adjacent_source_views": 416,
+    "complete_unique_resource_files": 53,
+    "unique_raw_records": 2865,
+    "raw_resource_references_across_slices": 4877,
+    "source_occurrences": 2034,
+    "full_context_coverage": 2552,
+    "first_full_context_views_this_review_pass": 1509,
+    "reused_full_context_views_earlier_in_this_pass": 1043
+  },
+  "counting_notes": [
+    "All1040 source/target pairs were human-read; eight preceding and24followingqueue sources read per slice.",
+    "Complete resources were decoded including non-Japanese records. Every base row and changed counterpart row was read. Identical counterparts were checked for equality, not counted as fresh human reading.",
+    "First/reused refers to this independent review pass, not lifetime first-ever reading. Reused coverage is not additional fresh reading.",
+    "Adjacent views overlap owned and scene-context views; these are not unique corpus totals. Exact source occurrence sum is2034; earlier informal2037 was incorrect."
+  ],
+  "batches": [
+    {
+      "batch": "0136",
+      "owned_pairs_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 163,
+      "resource_files": 10,
+      "raw_resource_references": 700,
+      "full_context_coverage": 363,
+      "first_context_views_this_review_pass": 363,
+      "reused_context_views_earlier_in_this_pass": 0,
+      "current_omission_flags": 19,
+      "audited_batch_sha256": "57aefb9e6a6d60a1769c2112fd9be4037d2208d230f4fab1f6a561f3aa05aadf"
+    },
+    {
+      "batch": "0137",
+      "owned_pairs_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 161,
+      "resource_files": 4,
+      "raw_resource_references": 334,
+      "full_context_coverage": 173,
+      "first_context_views_this_review_pass": 58,
+      "reused_context_views_earlier_in_this_pass": 115,
+      "current_omission_flags": 17,
+      "audited_batch_sha256": "63dd2135f090bc4459fc7176a7a2efb684798aa4e51c0204f78d042ffbb2919c"
+    },
+    {
+      "batch": "0138",
+      "owned_pairs_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 147,
+      "resource_files": 8,
+      "raw_resource_references": 616,
+      "full_context_coverage": 328,
+      "first_context_views_this_review_pass": 102,
+      "reused_context_views_earlier_in_this_pass": 226,
+      "current_omission_flags": 11,
+      "audited_batch_sha256": "75effc0a96a679d4f66180e6145d12b131d657207aeda86ec9b67713c71c3a12"
+    },
+    {
+      "batch": "0149",
+      "owned_pairs_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 159,
+      "resource_files": 5,
+      "raw_resource_references": 251,
+      "full_context_coverage": 152,
+      "first_context_views_this_review_pass": 152,
+      "reused_context_views_earlier_in_this_pass": 0,
+      "current_omission_flags": 19,
+      "audited_batch_sha256": "27123d650bcf4144c56d2cecfbc1c28507556ea358eec3075eda12300b0cf79b"
+    },
+    {
+      "batch": "0150",
+      "owned_pairs_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 155,
+      "resource_files": 6,
+      "raw_resource_references": 274,
+      "full_context_coverage": 141,
+      "first_context_views_this_review_pass": 83,
+      "reused_context_views_earlier_in_this_pass": 58,
+      "current_omission_flags": 19,
+      "audited_batch_sha256": "194af7dfb82e65eb285a47d760ede9b5203ac392111a48c39b347f97c7898476"
+    },
+    {
+      "batch": "0151",
+      "owned_pairs_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 157,
+      "resource_files": 8,
+      "raw_resource_references": 350,
+      "full_context_coverage": 180,
+      "first_context_views_this_review_pass": 133,
+      "reused_context_views_earlier_in_this_pass": 47,
+      "current_omission_flags": 6,
+      "audited_batch_sha256": "fdacff7beea3c4dd79bfe6c8815267a38b51b1090d1c7ac992d2cebf8d323a45"
+    },
+    {
+      "batch": "0152",
+      "owned_pairs_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 155,
+      "resource_files": 6,
+      "raw_resource_references": 356,
+      "full_context_coverage": 187,
+      "first_context_views_this_review_pass": 128,
+      "reused_context_views_earlier_in_this_pass": 59,
+      "current_omission_flags": 10,
+      "audited_batch_sha256": "8882942f76b68059c06d345c12c76414c8e2730f1ca76b8be077cc05f2d13ed6"
+    },
+    {
+      "batch": "0153",
+      "owned_pairs_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 152,
+      "resource_files": 6,
+      "raw_resource_references": 276,
+      "full_context_coverage": 145,
+      "first_context_views_this_review_pass": 32,
+      "reused_context_views_earlier_in_this_pass": 113,
+      "current_omission_flags": 11,
+      "audited_batch_sha256": "166c65628c3b3bca8e6b158fe3de93e56e63e2cd492f167f9cb41e8efc138a3e"
+    },
+    {
+      "batch": "0154",
+      "owned_pairs_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 156,
+      "resource_files": 10,
+      "raw_resource_references": 356,
+      "full_context_coverage": 185,
+      "first_context_views_this_review_pass": 122,
+      "reused_context_views_earlier_in_this_pass": 63,
+      "current_omission_flags": 6,
+      "audited_batch_sha256": "0c3198c41c61fdbef1d02debfb058995999a681dda25e172105176bb3874f0ab"
+    },
+    {
+      "batch": "0155",
+      "owned_pairs_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 158,
+      "resource_files": 6,
+      "raw_resource_references": 330,
+      "full_context_coverage": 169,
+      "first_context_views_this_review_pass": 139,
+      "reused_context_views_earlier_in_this_pass": 30,
+      "current_omission_flags": 8,
+      "audited_batch_sha256": "857dd2c8d9674c9e55873d6a7df90b39451188f2c59696d7641d8095d8adb7e9"
+    },
+    {
+      "batch": "0156",
+      "owned_pairs_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 157,
+      "resource_files": 6,
+      "raw_resource_references": 444,
+      "full_context_coverage": 228,
+      "first_context_views_this_review_pass": 127,
+      "reused_context_views_earlier_in_this_pass": 101,
+      "current_omission_flags": 11,
+      "audited_batch_sha256": "a6e3d7d2f7839e32e5d482dab6781f3b7e8b25b21c0f2c8e9b899c835aca10e9"
+    },
+    {
+      "batch": "0157",
+      "owned_pairs_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 157,
+      "resource_files": 4,
+      "raw_resource_references": 248,
+      "full_context_coverage": 127,
+      "first_context_views_this_review_pass": 0,
+      "reused_context_views_earlier_in_this_pass": 127,
+      "current_omission_flags": 17,
+      "audited_batch_sha256": "212e66fb3bc481d72604fad542a55a03921122e5aa1e910cf8569d308b2051d9"
+    },
+    {
+      "batch": "0158",
+      "owned_pairs_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 157,
+      "resource_files": 4,
+      "raw_resource_references": 342,
+      "full_context_coverage": 174,
+      "first_context_views_this_review_pass": 70,
+      "reused_context_views_earlier_in_this_pass": 104,
+      "current_omission_flags": 14,
+      "audited_batch_sha256": "54be19c467b8f827dc33b39744b363b75955ac112ff07afb9e86d267e0df4f3c"
+    }
+  ],
+  "validation": {
+    "source_occurrence_mismatches": 0,
+    "control_and_recognized_argument_mismatches": 0,
+    "all_pairs_and_occurrences_checked": true
+  },
+  "meaning_proposals": [
+    {
+      "batch": "0136",
+      "zero_based_row": 18,
+      "id": "6f265c899959befc4b66",
+      "current_target": "{1C}Suou{0E}How disgusting was it?{12}{0E}",
+      "proposed_target": "{1C}Suou{0E}How disgusting was it?{12}{0E}",
+      "reason": "Suou asks degree of the monster Saya described. Restore settled ordinary predicate, not interrupted thought; clear omission flag.",
+      "state": "owner_applied_after_root_approval",
+      "canonical_normalization_after_meaning_review": true,
+      "audited_target_sha256": "b995f52bca15e50a9f6020e36c6b4b66d24fb83937e036c38bbada3f0362dea9"
+    },
+    {
+      "batch": "0137",
+      "zero_based_row": 37,
+      "id": "7fe304853743e37b6044",
+      "current_target": "{1C}Xellos{0E}Oh...{11}But how does{11}everyone else feel?{12}{0E}",
+      "proposed_target": "{1C}Xellos{0E}Oh...{11}But how does{11}everyone else feel?{12}{0E}",
+      "reason": "Xellos solicits others views on returning home. Following answers settle predicate.",
+      "state": "owner_applied_after_root_approval",
+      "canonical_normalization_after_meaning_review": true,
+      "audited_target_sha256": "51903d4910cd2e1aac5efac177556e6635848e415c330d30d57e062d8685141f"
+    },
+    {
+      "batch": "0153",
+      "zero_based_row": 63,
+      "id": "f97d281df1d95638b755",
+      "current_target": "{1C}November 11{0E}I work for the other world's Archmage, to be precise.{11}I'm here on temporary assignment today.{12}{0E}",
+      "proposed_target": "{1C}November 11{0E}I work for the other world's Archmage, to be precise.{11}I'm here on temporary assignment today.{12}{0E}",
+      "reason": "Ordinary finite statement correcting whose service November 11 entered. Restore settled subject and verb; retain temporary secondment.",
+      "state": "owner_applied_after_root_approval",
+      "canonical_normalization_after_meaning_review": true,
+      "audited_target_sha256": "094e3d97507a04dc2d6742eafc0e59b7ba7dbf1faea90add99a84e4827aa503a"
+    },
+    {
+      "batch": "0154",
+      "zero_based_row": 6,
+      "id": "bc116cb8170b376b4b5c",
+      "current_target": "{1C}November 11{0E}That's frightening.{12}{0E}",
+      "proposed_target": "{1C}November 11{0E}That's frightening.{12}{0E}",
+      "reason": "Source explicitly identifies the threat as frightening; preserve subject and predicate, not unfinished reaction.",
+      "state": "owner_applied_after_root_approval",
+      "canonical_normalization_after_meaning_review": true,
+      "audited_target_sha256": "7136977ba2b76d6ae8d47ad1b656cec71b44b87d5d06e23c0ad2013628876a03"
+    },
+    {
+      "batch": "0155",
+      "zero_based_row": 54,
+      "id": "7290c634ca179c67b58f",
+      "current_target": "{1C}Ikkyu{0E}Before that, what do you think?{11}You {05}004{16}03chevaliers{16}01...{12}{0E}",
+      "proposed_target": "{1C}Ikkyu{0E}Before that, what do you think?{11}You {05}004{16}03chevaliers{16}01...{12}{0E}",
+      "reason": "Ikkyu asks chevaliers stance about his withdrawal; reply respects wishes. Restore ordinary question, not assume their withdrawal.",
+      "state": "owner_applied_after_root_approval",
+      "canonical_normalization_after_meaning_review": true,
+      "audited_target_sha256": "9589d24acb5f7eebdf7c3a0485c46fd79de5baa9302175f3a06d6269b44e29b3"
+    },
+    {
+      "batch": "0156",
+      "zero_based_row": 17,
+      "id": "97704c441641ec919288",
+      "current_target": "{1C}Nagi{0E}Come on. You three, fight each other now.{12}{0E}",
+      "proposed_target": "{1C}Nagi{0E}Come on. You three, fight each other now.{12}{0E}",
+      "reason": "Direct command to the three allied HiME to fight one another. Preserve imperative force and mutual direction.",
+      "state": "owner_applied_after_root_approval",
+      "canonical_normalization_after_meaning_review": true,
+      "audited_target_sha256": "79c126da7ea417a226236ac1b8c4a80f3a111d4b268726c521b0472b74de16d2"
+    },
+    {
+      "batch": "0157",
+      "zero_based_row": 11,
+      "id": "635cf59d64cedca7cd96",
+      "current_target": "{1C}Yomiko{0E}I wonder how the student council{11}and the Executive Committee are doing.{12}{0E}",
+      "proposed_target": "{1C}Yomiko{0E}I wonder how the student council{11}and the Executive Committee are doing.{12}{0E}",
+      "reason": "Source executive body is named alongside the student council; members changes body to individual role. Existing committee member/chair glossary distinguishes Haruka leadership from Shizuru presidency.",
+      "state": "owner_applied_after_root_approval",
+      "canonical_normalization_after_meaning_review": true,
+      "audited_target_sha256": "f8b1b161050daff27ca7e5b5e93f52ff5cee9c0996ac1b56e71f2a7a32ebe200"
+    }
+  ],
+  "metadata_proposals": [
+    {
+      "batch": "0137",
+      "zero_based_row": 55,
+      "id": "480ce8719ec735c61157",
+      "current_flag": null,
+      "proposed_source_omission_preserved": false,
+      "target_unchanged": true,
+      "reason": "Complete identity question; hesitation alone not omitted clause.",
+      "state": "owner_applied_after_root_approval",
+      "current_flag_present": false,
+      "audited_target_sha256": "aab00433f86f74ab0fd8985b5a5179a26524388ff4202ceabc49be3670f883d5"
+    },
+    {
+      "batch": "0149",
+      "zero_based_row": 13,
+      "id": "f2ff3f87390d344efc78",
+      "current_flag": null,
+      "proposed_source_omission_preserved": false,
+      "target_unchanged": true,
+      "reason": "Complete identification copula; shocked pause not omitted predicate.",
+      "state": "owner_applied_after_root_approval",
+      "current_flag_present": false,
+      "audited_target_sha256": "69cb4d83ba5768ac083eb43aa921fed934905d71bbd603ea51952edd17e3300b"
+    },
+    {
+      "batch": "0149",
+      "zero_based_row": 27,
+      "id": "bd4588cf8c7277bc9762",
+      "current_flag": null,
+      "proposed_source_omission_preserved": false,
+      "target_unchanged": true,
+      "reason": "Complete what-is-going-on question; pause does not omit subject or predicate.",
+      "state": "owner_applied_after_root_approval",
+      "current_flag_present": false,
+      "audited_target_sha256": "b1bf6dd9cd5efac7a544b86b5d370773678e1b8d675287a20e98a090ac63634f"
+    },
+    {
+      "batch": "0150",
+      "zero_based_row": 37,
+      "id": "c57cfa72ef58f8063787",
+      "current_flag": null,
+      "proposed_source_omission_preserved": false,
+      "target_unchanged": true,
+      "reason": "Complete English interference assertion; trailing intonation not unfinished clause.",
+      "state": "owner_applied_after_root_approval",
+      "current_flag_present": false,
+      "audited_target_sha256": "83465014d9240826683ac6dcef96245610bd6a31e2a99c01c6019efb76653761"
+    }
+  ],
+  "uncertainties": [
+    {
+      "batch": "0136",
+      "rows": [
+        21,
+        22,
+        23
+      ],
+      "issue": "Unnamed Suou referents likely Hei/Yin but not explicitly named in full scene. Existing neutral singular they and that kid remain; no gender substitution."
+    },
+    {
+      "batch": "0149",
+      "rows": [
+        29,
+        31
+      ],
+      "issue": "Rain echoes falling/extraction cries without naming implicit subject/object. First-person victim reading plausible, not established. No justified replacement."
+    },
+    {
+      "batch": "0154",
+      "rows": [
+        45
+      ],
+      "issue": "Dark-character persona/meta joke; voice unverified, no racial interpretation."
+    },
+    {
+      "batch": "0156",
+      "rows": [
+        57
+      ],
+      "issue": "Psychological inability to recover reported by Natsuki. Full subsequent hospital discussion permits recovery with time; no irreversible diagnosis inserted. Existing has not been able to recover remains viable."
+    },
+    {
+      "batch": "0158",
+      "rows": [
+        10
+      ],
+      "issue": "Written sigh plausible; actual voiced delivery unverified."
+    },
+    {
+      "scope": "all",
+      "issue": "Runtime widths, ruby body-span rebuilding, name expansions and voiced/visual delivery unverified by text review."
+    }
+  ],
+  "omission_flag_notes": [
+    "Owner added flags concurrently during review; counts reflect fresh saved files at creation. Earlier absent-flag observations superseded.",
+    "Ordinary grammatical pro-drop restored into a complete English clause is not intentional omission. Four metadata-only proposals identify complete clauses incorrectly flagged for pauses.",
+    "Genuine addresses, interjections, interrupted thoughts, unfinished conditions, echoed labels and intentional lists were evaluated in full scenes. No target edits by reviewer."
+  ],
+  "protected_names_unchanged": true,
+  "exports_or_build_changes": false,
+  "audit_note": "Fresh saved targets equal all seven approved proposals; all four metadata-only false flags are cleared (absence is recorded separately from explicit false). Translation files were not changed by this reviewer."
+}

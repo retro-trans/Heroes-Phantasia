@@ -1,0 +1,192 @@
+{
+  "version": "0.1.7",
+  "date": "2026-10-11",
+  "language": "en",
+  "batch": "batch_0065",
+  "translator": "primary agent",
+  "rows_in_slice": 80,
+  "rows_drafted": 80,
+  "minimum_counted_context_row_views": 716,
+  "counted_view_scope": "604 original-scene reference rows plus 80 slice rows and 32 adjacent queue rows; rereads excluded",
+  "adjacent_queue_rows_before": 8,
+  "adjacent_queue_rows_after": 24,
+  "source_occurrences_verified": 150,
+  "original_scene_snapshot": [
+    {
+      "file": "phase/bin/p210060.bin",
+      "row_count": 42,
+      "sha256": "5112cbad176345a78fccb1bef5022e9300f72232ffb4cfd397cf9365b704f189"
+    },
+    {
+      "file": "phase/bin/p210061.bin",
+      "row_count": 42,
+      "sha256": "74e9fe5af66ba9f4dad6aaed0c0062d9b497f49d7c8ed3ff60395b3d2a7e8664"
+    },
+    {
+      "file": "phase/bin/p210070.bin",
+      "row_count": 56,
+      "sha256": "dfcc807283e657a46ef7c2ef08291d7c2401f595632c2fd0bd36806918d9f2b5"
+    },
+    {
+      "file": "phase/bin/p210071.bin",
+      "row_count": 56,
+      "sha256": "5cd3c40a586b220977bd2408746c80a0568ec8b554a7d9663922a276666aba62"
+    },
+    {
+      "file": "phase/bin/p210080.bin",
+      "row_count": 84,
+      "sha256": "c5079996d27d0654b43215b1323a788ce1d90f65880b9f0baf0863cb0bafa56c"
+    },
+    {
+      "file": "phase/bin/p210081.bin",
+      "row_count": 84,
+      "sha256": "fd4af39607895829aefe39458f95e01a0a4f6220edc75dce8b7b2afe076c9f94"
+    },
+    {
+      "file": "phase/bin/p314040.bin",
+      "row_count": 80,
+      "sha256": "5a26922341b7e28720ad15b32aa27d77fdd6e028a768d0559fb84667261dc6e9"
+    },
+    {
+      "file": "phase/bin/p314041.bin",
+      "row_count": 80,
+      "sha256": "35a5badb6be25dc02e4946dd763301e1d83bd21926ae43f6f2bc1e5ccff76e65"
+    },
+    {
+      "file": "phase/bin/p326130.bin",
+      "row_count": 40,
+      "sha256": "6dc1cea1a38fac2395695e059987fcc2460fe729507319c2f121c68a8d67b15d"
+    },
+    {
+      "file": "phase/bin/p326131.bin",
+      "row_count": 40,
+      "sha256": "023553244ed9d73bb5b5a316e072ea23d4e4b28df9ccc8bdafd13635c016b0cc"
+    }
+  ],
+  "independent_agent_meaning_review": "pending; no additional agent work launched",
+  "controls_numeric_arguments_percent_placeholders_passed": true,
+  "original_source_metadata_unchanged": true,
+  "filled_file_exports_verified": 69,
+  "english_only_export": "work/translation/en/batch_0065.en.json",
+  "glossary_profile_enriched": "Yukino Kikukawa",
+  "glossary_entries": 290,
+  "glossary_source_records": 296,
+  "glossary_sources": [
+    "https://www.sunrise-inc.co.jp/my-hime/web/character/chara/yukino.html",
+    "https://www.sunrise-inc.co.jp/my-hime/web/art/yougo.html"
+  ],
+  "unresolved": [
+    {
+      "category": "wordplay",
+      "row_indices": [
+        49,
+        51
+      ],
+      "translation_ids": [
+        "7b866be04d44872849d6",
+        "846b7c0a77d6823a45aa"
+      ],
+      "note": "Provisional willy-nelly/willy-nilly pair; independent meaning and voice review needed. Intentional mistaken spelling must not be normalized."
+    },
+    {
+      "category": "ruby",
+      "row_indices": [
+        44
+      ],
+      "translation_ids": [
+        "ff52783c523dd2b86250"
+      ],
+      "note": "Suzushiro surname/reading and original numeric span 3 preserved; rebuild the English ruby base span before runtime installation."
+    },
+    {
+      "category": "runtime_name",
+      "row_indices": [
+        64
+      ],
+      "translation_ids": [
+        "94a930fa35e5c6a473bc"
+      ],
+      "note": "Runtime name 01 argument 0 unchanged; expanded width and both protagonist variants need runtime QA."
+    },
+    {
+      "category": "technical_layout",
+      "row_indices": [
+        0
+      ],
+      "translation_ids": [
+        "1604a514c43715444737"
+      ],
+      "note": "Official full HiME expansion and every detail retained; long explanation needs measured page/bubble layout."
+    },
+    {
+      "category": "eyes_description",
+      "row_indices": [
+        7
+      ],
+      "translation_ids": [
+        "287b846480ea2fc2d383"
+      ],
+      "note": "Coordinated beautiful/strong eye description chosen; Saya identity is established by the next scene. Voice/visual nuance remains provisional."
+    },
+    {
+      "category": "hall_privacy",
+      "row_indices": [
+        66,
+        77
+      ],
+      "translation_ids": [
+        "929d05043ae958497abf",
+        "06c5bdf421d47c1406aa"
+      ],
+      "note": "Hesitant reason remains unfinished; best-place wording follows the library proposal without inventing explicit surveillance."
+    },
+    {
+      "category": "location_consistency",
+      "row_indices": [
+        22
+      ],
+      "translation_ids": [
+        "84c9afe4156542bbb1be"
+      ],
+      "note": "Disposal-facility callback retained; earlier drafts use waste/disposal and abandoned for the same source term. Meaning review must settle the site before corpus edits."
+    },
+    {
+      "category": "shared_reactions",
+      "row_indices": [
+        6,
+        21
+      ],
+      "translation_ids": [
+        "9629b71eda380119e20f",
+        "4e2c1e8587c414a230fa"
+      ],
+      "note": "All repeated original occurrences checked; neutral Yes/Oh drafts retained rather than importing the main slice scene into later occurrences."
+    }
+  ],
+  "deliberate_fragments_or_nonverbal_rows": [
+    10,
+    12,
+    21,
+    22,
+    23,
+    28,
+    30,
+    32,
+    43,
+    50,
+    52,
+    55,
+    56,
+    57,
+    59,
+    64,
+    66,
+    68,
+    76,
+    77
+  ],
+  "dropped_grammatical_subject_or_predicate_accepted_as_finished_sentence": false,
+  "runtime_verified_new_rows": 0,
+  "full_game_verified": false,
+  "new_build_created": false
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "rows": [
+    {
+      "id": "world_map_prompt",
+      "file": "PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 612393,
+      "byte_length": 27,
+      "encoding": "cp932",
+      "category": "ui",
+      "target": "Go to the World Map?{0E}",
+      "status": "translated",
+      "context": "User-reported world-map prompt, location and footer labels.",
+      "decisions": "Complete target relocated into proof-backed storage; source controls and native typed pointer retained. HOLD follows the glossary."
+    },
+    {
+      "id": "world_map_headquarters",
+      "file": "PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 617468,
+      "byte_length": 12,
+      "encoding": "cp932",
+      "category": "ui",
+      "target": "HOLD Headquarters",
+      "status": "translated",
+      "context": "User-reported world-map prompt, location and footer labels.",
+      "decisions": "Complete target relocated into proof-backed storage; source controls and native typed pointer retained. HOLD follows the glossary."
+    },
+    {
+      "id": "world_map_zoom",
+      "file": "PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 610952,
+      "byte_length": 4,
+      "encoding": "cp932",
+      "category": "ui",
+      "target": "Zoom",
+      "status": "translated",
+      "context": "User-reported world-map prompt, location and footer labels.",
+      "decisions": "Complete target relocated into proof-backed storage; source controls and native typed pointer retained. HOLD follows the glossary."
+    },
+    {
+      "id": "world_map_camp_menu",
+      "file": "PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 611231,
+      "byte_length": 16,
+      "encoding": "cp932",
+      "category": "ui",
+      "target": "Camp Menu",
+      "status": "translated",
+      "context": "User-reported world-map prompt, location and footer labels.",
+      "decisions": "Complete target relocated into proof-backed storage; source controls and native typed pointer retained. HOLD follows the glossary."
+    }
+  ]
+}

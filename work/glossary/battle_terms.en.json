@@ -1,0 +1,11 @@
+{
+  "schema_version":1,"version":"0.1.0","language":"en",
+  "entries":[
+    {"id":"battle_term_001","category":"enemy","ja":"ダース","en":"Dars","sources":["https://manga.fandom.com/wiki/List_of_s-CRY-ed_characters"],"confidence":"researched","notes":"Standalone troop name; Dars unit adds a group descriptor."},
+    {"id":"battle_term_002","category":"enemy","ja":"ファーブル","en":"Fabre","sources":["local:work/translation/en/tables_0002.json"],"confidence":"provisional_transliteration"},
+    {"id":"battle_term_003","category":"enemy","ja":"人喰いサウペニー","en":"Man-Eater Saupenny","aliases":["人喰いサウベニー"],"sources":["https://w.atwiki.jp/heroes_phantasia/pages/49.html"],"confidence":"provisional_romanization","notes":"Wiki source spelling wins over the native table variant; English romanization has no verified official form."},
+    {"id":"battle_term_004","category":"enemy","ja":"賢獣クロウリー","en":"Wise Beast Crowley","sources":["https://w.atwiki.jp/heroes_phantasia/pages/49.html"],"confidence":"provisional_romanization"},
+    {"id":"battle_term_005","category":"enemy","ja":"怪鳥ミンガス","en":"Strange Bird Mingus","sources":["https://w.atwiki.jp/heroes_phantasia/pages/49.html"],"confidence":"provisional_romanization"},
+    {"id":"battle_term_006","category":"enemy","ja":"暴龍ナッドゴア","en":"Rampaging Dragon Naddgoa","sources":["https://w.atwiki.jp/heroes_phantasia/pages/49.html","local:work/glossary/table_terms.en.json"],"confidence":"provisional_romanization"}
+  ]
+}

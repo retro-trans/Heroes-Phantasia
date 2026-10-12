@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "rows": [
+    {
+      "id": "exe_002eb1d8_cp932",
+      "file": "work/source/PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 3060184,
+      "byte_length": 12,
+      "encoding": "cp932",
+      "category": "executable_ui",
+      "target": "%s No. %s",
+      "status": "draft",
+      "context": "Native notification switch kind8 at81168..81270: entity name and number label. The surrounding whole function preserves terminal controls after formatting.",
+      "decisions": "Normalize ideographic separator and fullwidth Latin No. to ordinary English spacing and ASCII No.; both %s placeholders preserved in order. No additional noun, receipt predicate, name expansion or lore inserted. This is Latin presentation normalization, not an additional Japanese-script headline record.",
+      "source_omission_preserved": false
+    }
+  ]
+}

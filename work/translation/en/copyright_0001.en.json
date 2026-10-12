@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "rows": [
+    {
+      "id": "copylogo_1_00",
+      "file": "menu/CopyLogo_Data.bin",
+      "category": "bitmap_copyright_ui",
+      "target": "Caution",
+      "status": "draft",
+      "context": "Complete historical warning paragraph.",
+      "decisions": "Preserve the historical article, paragraph and date. Physical source wrapping is bitmap layout, not dialogue record boundaries.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "copylogo_1_01",
+      "file": "menu/CopyLogo_Data.bin",
+      "category": "bitmap_copyright_ui",
+      "target": "Distributing game software over the Internet without the rights holder's permission is illegal under Article 113, paragraph 1 of the Copyright Act.",
+      "status": "draft",
+      "context": "Complete historical warning paragraph.",
+      "decisions": "Preserve the historical article, paragraph and date. Physical source wrapping is bitmap layout, not dialogue record boundaries.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "copylogo_1_02",
+      "file": "menu/CopyLogo_Data.bin",
+      "category": "bitmap_copyright_ui",
+      "target": "Under amendments to the Copyright Act effective January 2010, knowingly downloading illegal Internet distributions is also unlawful and is not treated as copying for private use.",
+      "status": "draft",
+      "context": "Complete historical warning paragraph.",
+      "decisions": "Preserve the historical article, paragraph and date. Physical source wrapping is bitmap layout, not dialogue record boundaries.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "copylogo_1_03",
+      "file": "menu/CopyLogo_Data.bin",
+      "category": "bitmap_copyright_ui",
+      "target": "Thank you for your understanding and cooperation.",
+      "status": "draft",
+      "context": "Complete historical warning paragraph.",
+      "decisions": "Preserve the historical article, paragraph and date. Physical source wrapping is bitmap layout, not dialogue record boundaries.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "copylogo_6_00",
+      "file": "menu/CopyLogo_Data.bin",
+      "category": "bitmap_copyright_ui",
+      "target": "©Yoshinobu Akita · Yuuya Kusaka / Kadokawa Shoten · TBS",
+      "status": "draft",
+      "context": "One complete copyright owner line, in original order.",
+      "decisions": "Preserve every named owner, year, separator and abbreviation; production committee English is descriptive. Do not substitute present-day owner branding.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "copylogo_6_01",
+      "file": "menu/CopyLogo_Data.bin",
+      "category": "bitmap_copyright_ui",
+      "target": "©Hajime Kanzaka · Rui Araizumi / Fujimi Shobo / Slayers R Production Committee",
+      "status": "draft",
+      "context": "One complete copyright owner line, in original order.",
+      "decisions": "Preserve every named owner, year, separator and abbreviation; production committee English is descriptive. Do not substitute present-day owner branding.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "copylogo_6_02",
+      "file": "menu/CopyLogo_Data.bin",
+      "category": "bitmap_copyright_ui",
+      "target": "©Sunrise",
+      "status": "draft",
+      "context": "One complete copyright owner line, in original order.",
+      "decisions": "Preserve every named owner, year, separator and abbreviation; production committee English is descriptive. Do not substitute present-day owner branding.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "copylogo_6_03",
+      "file": "menu/CopyLogo_Data.bin",
+      "category": "bitmap_copyright_ui",
+      "target": "©BONES · Tensai Okamura / DTB Production Committee · MBS",
+      "status": "draft",
+      "context": "One complete copyright owner line, in original order.",
+      "decisions": "Preserve every named owner, year, separator and abbreviation; production committee English is descriptive. Do not substitute present-day owner branding.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "copylogo_6_04",
+      "file": "menu/CopyLogo_Data.bin",
+      "category": "bitmap_copyright_ui",
+      "target": "©BONES · Tensai Okamura / DTBG Production Committee · MBS",
+      "status": "draft",
+      "context": "One complete copyright owner line, in original order.",
+      "decisions": "Preserve every named owner, year, separator and abbreviation; production committee English is descriptive. Do not substitute present-day owner branding.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "copylogo_6_05",
+      "file": "menu/CopyLogo_Data.bin",
+      "category": "bitmap_copyright_ui",
+      "target": "©Ryo Mizuno · Mamoru Yokota / Rune Soldier Production Committee",
+      "status": "draft",
+      "context": "One complete copyright owner line, in original order.",
+      "decisions": "Preserve every named owner, year, separator and abbreviation; production committee English is descriptive. Do not substitute present-day owner branding.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "copylogo_6_06",
+      "file": "menu/CopyLogo_Data.bin",
+      "category": "bitmap_copyright_ui",
+      "target": "©Mine Yoshizaki / Kadokawa Shoten · Sunrise · TV Tokyo · NAS · BV",
+      "status": "draft",
+      "context": "One complete copyright owner line, in original order.",
+      "decisions": "Preserve every named owner, year, separator and abbreviation; production committee English is descriptive. Do not substitute present-day owner branding.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "copylogo_6_07",
+      "file": "menu/CopyLogo_Data.bin",
+      "category": "bitmap_copyright_ui",
+      "target": "©2001,2002 Studio Orphee / Aniplex",
+      "status": "draft",
+      "context": "One complete copyright owner line, in original order.",
+      "decisions": "Preserve every named owner, year, separator and abbreviation; production committee English is descriptive. Do not substitute present-day owner branding.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "copylogo_6_08",
+      "file": "menu/CopyLogo_Data.bin",
+      "category": "bitmap_copyright_ui",
+      "target": "©2005 Production I.G · Aniplex · MBS · HAKUHODO",
+      "status": "draft",
+      "context": "One complete copyright owner line, in original order.",
+      "decisions": "Preserve every named owner, year, separator and abbreviation; production committee English is descriptive. Do not substitute present-day owner branding.",
+      "source_omission_preserved": false
+    },
+    {
+      "id": "copylogo_6_09",
+      "file": "menu/CopyLogo_Data.bin",
+      "category": "bitmap_copyright_ui",
+      "target": "©2012 NBGI",
+      "status": "draft",
+      "context": "One complete copyright owner line, in original order.",
+      "decisions": "Preserve every named owner, year, separator and abbreviation; production committee English is descriptive. Do not substitute present-day owner branding.",
+      "source_omission_preserved": false
+    }
+  ]
+}

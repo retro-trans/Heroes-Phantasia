@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "rows": [
+    {
+      "id": "save_table0_126",
+      "file": "PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 610420,
+      "byte_length": 6,
+      "encoding": "cp932",
+      "category": "ui",
+      "target": "Save",
+      "status": "translated",
+      "context": "Player-reported save-point menu/system notice.",
+      "decisions": "Complete meaning and original control order retained; typed pointer relocated."
+    },
+    {
+      "id": "save_table0_127",
+      "file": "PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 610427,
+      "byte_length": 10,
+      "encoding": "cp932",
+      "category": "ui",
+      "target": "Delete Data",
+      "status": "translated",
+      "context": "Player-reported save-point menu/system notice.",
+      "decisions": "Complete meaning and original control order retained; typed pointer relocated."
+    },
+    {
+      "id": "save_table0_016",
+      "file": "PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 609360,
+      "byte_length": 10,
+      "encoding": "cp932",
+      "category": "ui",
+      "target": "Cancel",
+      "status": "translated",
+      "context": "Player-reported save-point menu/system notice.",
+      "decisions": "Complete meaning and original control order retained; typed pointer relocated."
+    },
+    {
+      "id": "save_table1_044",
+      "file": "PSP_GAME/SYSDIR/EBOOT.decrypted.elf",
+      "offset": 613137,
+      "byte_length": 186,
+      "encoding": "cp932",
+      "category": "ui",
+      "target": "Next, system save data will be updated.{11}System data includes Gallery unlocks.{11}If you do not save, newly unlocked Gallery{11}content will not be saved.{0E}",
+      "status": "translated",
+      "context": "Player-reported save-point menu/system notice.",
+      "decisions": "Complete meaning and original control order retained; typed pointer relocated."
+    }
+  ]
+}

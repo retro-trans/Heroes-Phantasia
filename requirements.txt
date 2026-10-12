@@ -1,0 +1,3 @@
+Pillow>=10
+capstone>=5
+websocket-client>=1.8

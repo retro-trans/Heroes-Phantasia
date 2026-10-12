@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "version": "0.1.44",
+  "resource": "btl/sys_all.bin",
+  "base_version": "0.1.43",
+  "base_resource_sha256": "9a8abe108472aba62e9e52f7e0866b86c72ad346e7567e1297f58b411a2e1dad",
+  "candidate_sha256": "4c0a57060aad0fd9d6d3ab70d58ee011fc0b420acca89744110af40b32e37a59",
+  "bytes": 1070288,
+  "texture_offset": 10448,
+  "pixel_offset": 11600,
+  "pixel_bytes": 90112,
+  "dimensions": [
+    256,
+    352
+  ],
+  "font": "work\\source\\ppsspp\\assets\\Roboto_Condensed-Bold.ttf",
+  "font_sha256": "da69d6f3193e279c892451c17f7e4926aecd4aeaf7300171ddb44c70551260ca",
+  "entries": [
+    {
+      "id": "sys_all_28d0_label_00",
+      "target": "Attack",
+      "displayed_text": "ATK",
+      "displayed_abbreviation": "ATK",
+      "texture_rect": [
+        0,
+        34,
+        32,
+        14
+      ],
+      "text_box": [
+        2,
+        35,
+        28,
+        12
+      ],
+      "ink_height": 12,
+      "font_native_pixels": 16,
+      "previous_font_native_pixels": 10,
+      "previous_ink_height": 8,
+      "raster_scale": 4,
+      "palette_alpha_levels": [
+        0,
+        255
+      ],
+      "minimum_margin_pixels": 1,
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_01",
+      "target": "Defense",
+      "displayed_text": "DEF",
+      "displayed_abbreviation": "DEF",
+      "texture_rect": [
+        32,
+        34,
+        32,
+        14
+      ],
+      "text_box": [
+        35,
+        35,
+        25,
+        12
+      ],
+      "ink_height": 12,
+      "font_native_pixels": 16,
+      "previous_font_native_pixels": 8,
+      "previous_ink_height": 6,
+      "raster_scale": 4,
+      "palette_alpha_levels": [
+        0,
+        255
+      ],
+      "minimum_margin_pixels": 1,
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_02",
+      "target": "Charm",
+      "displayed_text": "CHA",
+      "displayed_abbreviation": "CHA",
+      "texture_rect": [
+        64,
+        34,
+        32,
+        14
+      ],
+      "text_box": [
+        66,
+        35,
+        27,
+        12
+      ],
+      "ink_height": 11,
+      "font_native_pixels": 15,
+      "previous_font_native_pixels": 10,
+      "previous_ink_height": 8,
+      "raster_scale": 4,
+      "palette_alpha_levels": [
+        0,
+        255
+      ],
+      "minimum_margin_pixels": 1,
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_03",
+      "target": "Teamwork",
+      "displayed_text": "TEAM",
+      "displayed_abbreviation": "TEAM",
+      "texture_rect": [
+        96,
+        34,
+        32,
+        14
+      ],
+      "text_box": [
+        98,
+        37,
+        27,
+        8
+      ],
+      "ink_height": 8,
+      "font_native_pixels": 11,
+      "previous_font_native_pixels": 6,
+      "previous_ink_height": 5,
+      "raster_scale": 4,
+      "palette_alpha_levels": [
+        0,
+        255
+      ],
+      "minimum_margin_pixels": 1,
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_04",
+      "target": "Power",
+      "displayed_text": "PWR",
+      "displayed_abbreviation": "PWR",
+      "texture_rect": [
+        128,
+        34,
+        32,
+        14
+      ],
+      "text_box": [
+        130,
+        35,
+        28,
+        11
+      ],
+      "ink_height": 11,
+      "font_native_pixels": 15,
+      "previous_font_native_pixels": 10,
+      "previous_ink_height": 7,
+      "raster_scale": 4,
+      "palette_alpha_levels": [
+        0,
+        255
+      ],
+      "minimum_margin_pixels": 1,
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_05",
+      "target": "Accuracy",
+      "displayed_text": "ACC",
+      "displayed_abbreviation": "ACC",
+      "texture_rect": [
+        160,
+        34,
+        32,
+        14
+      ],
+      "text_box": [
+        162,
+        35,
+        28,
+        12
+      ],
+      "ink_height": 12,
+      "font_native_pixels": 16,
+      "previous_font_native_pixels": 7,
+      "previous_ink_height": 7,
+      "raster_scale": 4,
+      "palette_alpha_levels": [
+        0,
+        255
+      ],
+      "minimum_margin_pixels": 1,
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_06",
+      "target": "Hits",
+      "displayed_text": "HITS",
+      "displayed_abbreviation": "HITS",
+      "texture_rect": [
+        192,
+        34,
+        32,
+        14
+      ],
+      "text_box": [
+        194,
+        35,
+        28,
+        11
+      ],
+      "ink_height": 10,
+      "font_native_pixels": 14,
+      "previous_font_native_pixels": 12,
+      "previous_ink_height": 9,
+      "raster_scale": 4,
+      "palette_alpha_levels": [
+        0,
+        255
+      ],
+      "minimum_margin_pixels": 1,
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_07",
+      "target": "Critical",
+      "displayed_text": "CRIT",
+      "displayed_abbreviation": "CRIT",
+      "texture_rect": [
+        224,
+        34,
+        32,
+        14
+      ],
+      "text_box": [
+        226,
+        35,
+        27,
+        11
+      ],
+      "ink_height": 10,
+      "font_native_pixels": 14,
+      "previous_font_native_pixels": 9,
+      "previous_ink_height": 7,
+      "raster_scale": 4,
+      "palette_alpha_levels": [
+        0,
+        255
+      ],
+      "minimum_margin_pixels": 1,
+      "complete_semantic_label_preserved": true
+    }
+  ],
+  "unselected_atlas_pixels_exact": true,
+  "all_other_texture_allocations_exact": true,
+  "all_headers_palettes_nonpixel_bytes_exact": true,
+  "native_UV_dimensions_and_arrow_graphics_unchanged": true,
+  "swizzle_roundtrip": true,
+  "native_battle_display_verified": false,
+  "scope": "Eight shared 32x14 battle-stat labels; full semantic terms remain in translation data. Uppercase abbreviations rendered bold, crisp and opaque inside original rectangles."
+}

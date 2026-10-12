@@ -1,0 +1,338 @@
+{
+  "review": "Root meaning review of batches 0187-0196",
+  "reviewer": "root",
+  "status": "complete_owned_pairs_and_full_original_resource_contexts_human_read",
+  "review_scope": "Each owned source/target pair, previous eight and next 24 source rows, and complete original shared resources. Read before applying glossary normalization.",
+  "counts": {
+    "owned_pairs_human_read": 800,
+    "adjacent_source_views": 320
+  },
+  "batches": [
+    {
+      "batch": "0187",
+      "owned_pairs_human_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 82,
+      "complete_resource_files": [
+        "phase/bin/p331010.bin",
+        "phase/bin/p331020.bin"
+      ],
+      "audited_batch_sha256": "0d092fcc2aca133112405e3d481d584600787ea17a758029ffa2078bc86836a3",
+      "omission_true": 5
+    },
+    {
+      "batch": "0188",
+      "owned_pairs_human_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 80,
+      "complete_resource_files": [
+        "phase/bin/p331030.bin",
+        "phase/bin/p331040.bin"
+      ],
+      "audited_batch_sha256": "08480e4f754fc374037caf55963003cd57ad4182e786eee95404013a387f405b",
+      "omission_true": 9
+    },
+    {
+      "batch": "0189",
+      "owned_pairs_human_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 80,
+      "complete_resource_files": [
+        "phase/bin/p331040.bin",
+        "phase/bin/p331050.bin",
+        "phase/bin/p331060.bin"
+      ],
+      "audited_batch_sha256": "e74069271a10ef7442eaf1fa8b349a9680657b72fb082e07b32b12607b4971ef",
+      "omission_true": 7
+    },
+    {
+      "batch": "0190",
+      "owned_pairs_human_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 80,
+      "complete_resource_files": [
+        "phase/bin/p331060.bin",
+        "phase/bin/p331070.bin",
+        "phase/bin/p331080.bin"
+      ],
+      "audited_batch_sha256": "cde5f2d44035dedf27417a75f172270277cd1d634910fd76767cb8af5ae11eb3",
+      "omission_true": 10
+    },
+    {
+      "batch": "0191",
+      "owned_pairs_human_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 80,
+      "complete_resource_files": [
+        "phase/bin/p331080.bin",
+        "phase/bin/p331090.bin",
+        "phase/bin/p331100.bin"
+      ],
+      "audited_batch_sha256": "f4dc2ee2bf4d0d45d34b95b15a5fbe34bea7bbd18f8ec98efc6aa655c6872138",
+      "omission_true": 9
+    },
+    {
+      "batch": "0192",
+      "owned_pairs_human_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 81,
+      "complete_resource_files": [
+        "phase/bin/p331100.bin",
+        "phase/bin/p331110.bin",
+        "phase/bin/p331120.bin"
+      ],
+      "audited_batch_sha256": "74511028510598d4c61db39dfff8a762b0266507e5d6efc671d026b7dc94f582",
+      "omission_true": 20
+    },
+    {
+      "batch": "0193",
+      "owned_pairs_human_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 80,
+      "complete_resource_files": [
+        "phase/bin/p331120.bin",
+        "phase/bin/p331130.bin"
+      ],
+      "audited_batch_sha256": "e14d4990e00f535aa3c50a2a72ca1edc081ed092463d84cda1dcc9b73ba76174",
+      "omission_true": 21
+    },
+    {
+      "batch": "0194",
+      "owned_pairs_human_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 80,
+      "complete_resource_files": [
+        "menu/Gallery/qm/QmHelp000.bin",
+        "menu/Gallery/qm/QmHelp001.bin",
+        "menu/Gallery/qm/QmHelp002.bin",
+        "menu/Gallery/qm/QmHelp003.bin",
+        "menu/Gallery/qm/QmHelp004.bin",
+        "menu/Gallery/qm/QmHelp005.bin",
+        "menu/Gallery/qm/QmHelp006.bin",
+        "menu/Gallery/qm/QmHelp007.bin",
+        "menu/Gallery/qm/QmHelp008.bin",
+        "menu/Gallery/qm/QmHelp009.bin",
+        "menu/Gallery/qm/QmHelp010.bin",
+        "menu/Gallery/qm/QmHelp011.bin",
+        "menu/Gallery/qm/QmHelp012.bin",
+        "menu/Gallery/qm/QmHelp013.bin",
+        "menu/Gallery/qm/QmHelp014.bin",
+        "menu/Gallery/qm/QmHelp015.bin",
+        "menu/Gallery/qm/QmHelp016.bin",
+        "menu/Gallery/qm/QmHelp017.bin",
+        "menu/Gallery/qm/QmHelp018.bin",
+        "menu/Gallery/qm/QmHelp019.bin",
+        "menu/Gallery/qm/QmHelp020.bin",
+        "menu/Gallery/qm/QmHelp021.bin",
+        "menu/Gallery/qm/QmHelp022.bin",
+        "menu/Gallery/qm/QmHelp023.bin",
+        "menu/Gallery/qm/QmHelp024.bin",
+        "menu/Gallery/qm/QmHelp025.bin",
+        "menu/Gallery/qm/QmHelp026.bin",
+        "menu/Gallery/qm/QmHelp027.bin",
+        "menu/Gallery/qm/QmHelp028.bin",
+        "menu/Gallery/qm/QmHelp029.bin",
+        "menu/Gallery/qs/QsHelp000.bin",
+        "menu/Gallery/qs/QsHelp001.bin",
+        "menu/Gallery/qs/QsHelp002.bin",
+        "menu/Gallery/qs/QsHelp003.bin",
+        "menu/Gallery/qs/QsHelp004.bin",
+        "menu/Gallery/qs/QsHelp005.bin",
+        "menu/Gallery/qs/QsHelp006.bin",
+        "menu/Gallery/qs/QsHelp007.bin",
+        "menu/Gallery/qs/QsHelp008.bin",
+        "menu/Gallery/qs/QsHelp009.bin",
+        "menu/Gallery/qs/QsHelp010.bin",
+        "menu/Gallery/qs/QsHelp011.bin",
+        "menu/Gallery/qs/QsHelp012.bin",
+        "menu/Gallery/qs/QsHelp013.bin",
+        "menu/Gallery/qs/QsHelp014.bin",
+        "menu/Gallery/qs/QsHelp015.bin",
+        "menu/Gallery/tf/TfHelp000.bin",
+        "menu/Gallery/tf/TfHelp001.bin",
+        "phase/bin/p331130.bin"
+      ],
+      "audited_batch_sha256": "d9383e425050fbb2272ba1a4b8752047ffca6f8be474f840e8d5dee6e8290de8",
+      "omission_true": 16
+    },
+    {
+      "batch": "0195",
+      "owned_pairs_human_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 93,
+      "complete_resource_files": [
+        "btl/res/r01001.bin",
+        "btl/res/r01002.bin",
+        "btl/res/r01003.bin",
+        "btl/res/r01004.bin",
+        "menu/Gallery/tf/TfHelp002.bin",
+        "menu/Gallery/tf/TfHelp003.bin",
+        "menu/Gallery/tf/TfHelp004.bin",
+        "menu/Gallery/tf/TfHelp005.bin",
+        "menu/Gallery/tf/TfHelp006.bin",
+        "menu/Gallery/tf/TfHelp007.bin",
+        "menu/Gallery/tf/TfHelp008.bin",
+        "menu/Gallery/tf/TfHelp009.bin",
+        "menu/Gallery/tf/TfHelp010.bin",
+        "menu/Gallery/tf/TfHelp011.bin",
+        "menu/Gallery/tf/TfHelp012.bin",
+        "menu/Gallery/tm/TmHelp000.bin",
+        "menu/Gallery/tm/TmHelp001.bin",
+        "menu/Gallery/tm/TmHelp002.bin",
+        "menu/Gallery/tm/TmHelp003.bin",
+        "menu/Gallery/tm/TmHelp004.bin",
+        "menu/Gallery/tm/TmHelp005.bin",
+        "menu/Gallery/tm/TmHelp006.bin",
+        "menu/Gallery/tm/TmHelp007.bin",
+        "menu/Gallery/tm/TmHelp008.bin",
+        "menu/Gallery/tm/TmHelp009.bin",
+        "menu/Gallery/tm/TmHelp010.bin",
+        "menu/Gallery/tm/TmHelp011.bin",
+        "menu/Gallery/tm/TmHelp012.bin",
+        "menu/Gallery/tm/TmHelp013.bin",
+        "menu/Gallery/tm/TmHelp014.bin",
+        "menu/Gallery/tm/TmHelp015.bin",
+        "menu/Gallery/tm/TmHelp016.bin",
+        "menu/Gallery/tm/TmHelp017.bin",
+        "menu/Gallery/tm/TmHelp018.bin",
+        "menu/Gallery/tm/TmHelp019.bin",
+        "menu/Gallery/tm/TmHelp020.bin",
+        "menu/Gallery/tm/TmHelp021.bin"
+      ],
+      "audited_batch_sha256": "cf4322b86e93d84a0bea6a3d4db18a2d624a793f27451eec1c35aec9c820a05d",
+      "omission_true": 14
+    },
+    {
+      "batch": "0196",
+      "owned_pairs_human_read": 80,
+      "adjacent_source_views": 32,
+      "source_occurrences": 96,
+      "complete_resource_files": [
+        "btl/res/r01004.bin",
+        "btl/res/r01005.bin",
+        "btl/res/r01200.bin",
+        "btl/res/r01900.bin",
+        "btl/res/r01901.bin",
+        "btl/res/r01902.bin",
+        "btl/res/r01904.bin",
+        "btl/res/r01905.bin",
+        "btl/res/r02001.bin",
+        "btl/res/r02002.bin"
+      ],
+      "audited_batch_sha256": "94c5a5cd4b83ed45a814435c8b9895bb25c79c9cd8c5f46b34922c745c1491c1",
+      "omission_true": 39
+    }
+  ],
+  "counting_notes": [
+    "Counts are human views, not additional unique source strings. Reused shared positions are not presented as new human reading.",
+    "Resource names are derived from occurrence metadata; exact human context counts below are preserved from the review ledger, separately from machine occurrence counts.",
+    "The hashes record the current state after accepted meaning fixes and subsequent glossary-only normalization; normalization does not imply another full meaning read."
+  ],
+  "runtime_verified": false,
+  "context_position_ledger": [
+    {
+      "batches": [
+        "0187",
+        "0188"
+      ],
+      "full_position_views": 182,
+      "new_this_review": 131,
+      "reused": 51
+    },
+    {
+      "batches": [
+        "0189",
+        "0190"
+      ],
+      "full_position_views": 233,
+      "new_this_review": 196,
+      "reused": 37
+    },
+    {
+      "batches": [
+        "0191"
+      ],
+      "full_position_views": 109
+    },
+    {
+      "batches": [
+        "0192"
+      ],
+      "full_position_views": 158,
+      "reused_from_0191": 40
+    },
+    {
+      "batches": [
+        "0193"
+      ],
+      "full_position_views": 120,
+      "reused_from_0192": 55
+    },
+    {
+      "batches": [
+        "0194"
+      ],
+      "full_position_views": 113,
+      "reused_from_0193": 65
+    },
+    {
+      "batches": [
+        "0195"
+      ],
+      "full_position_views": 105,
+      "complete_resource_files": 37
+    },
+    {
+      "batches": [
+        "0196"
+      ],
+      "full_position_views": 105,
+      "complete_resource_files": 10,
+      "reused_from_0195": 18
+    }
+  ],
+  "accepted_meaning_fixes": [
+    "0187:67",
+    "0187:68",
+    "0187:78",
+    "0188:52",
+    "0188:73",
+    "0189:02",
+    "0189:57",
+    "0189:77",
+    "0190:22",
+    "0190:67",
+    "0190:76",
+    "0190:77",
+    "0191:72",
+    "0192:34",
+    "0193:39",
+    "0193:49",
+    "0195:34",
+    "0195:38",
+    "0195:46",
+    "0195:77",
+    "0196:05",
+    "0196:07",
+    "0196:41",
+    "0196:58",
+    "0196:66"
+  ],
+  "preserved_existing_targets": [
+    "0194:32",
+    "0194:62",
+    "0194:78",
+    "0195:11"
+  ],
+  "existing_target_review_exception": "0196:05 was corrected after explicit root review: most terrible invasion weapon, rather than ultimate weapon; existing chuckle omission flag retained.",
+  "uncertainties": [
+    "0192:34 unfinished possessive address remains unfinished; no romantic relationship inferred.",
+    "0193:49 abandonment of family is an unbearable hypothetical; no future promise added.",
+    "0193:77 stature is figurative maturity in context, not physical height.",
+    "0196:37 Taruru addresses Senior; the unidentified recipient is not silently changed to Tamama.",
+    "0196:41 identifies a challenging encounter without inventing a confirmed blow.",
+    "0196:50 strong profanity retains the source anger.",
+    "0196:57 literal native terminator is preserved; no page command invented.",
+    "0196:66 has a restored English predicate; the original surprise is not a grammatical pro-drop exception."
+  ]
+}

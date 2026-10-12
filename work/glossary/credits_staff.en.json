@@ -1,0 +1,2937 @@
+{
+  "schema_version": 1,
+  "version": "0.1.0",
+  "language": "en",
+  "entries": [
+    {
+      "id": "credits_staff_001",
+      "ja": "遠藤正二朗",
+      "en": "Shojiro Endo",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Direction and script in Heroes Phantasia",
+      "sources": [
+        "https://ja.wikipedia.org/wiki/遠藤正二朗",
+        "https://note.com/beep21/n/na4e649d31d82",
+        "https://gdri.smspower.org/wiki/index.php/Witchcraft"
+      ],
+      "confidence": "wiki_reading_and_published_ascii",
+      "notes": "Japanese Wikipedia and authored Beep biography explicitly give Shojiro kana; developer-research wiki uses ASCII spelling. Secondary MobyGames uses Shōjirō Endō. Do not substitute unrelated Kyoto designer Endo with different final kanji. Gender and personality not researched; no inference from kanji or role.",
+      "source_credit_position_indices": [
+        0
+      ]
+    },
+    {
+      "id": "credits_staff_002",
+      "ja": "宮内信子",
+      "en": "Nobuko Miyauchi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Music in Heroes Phantasia",
+      "sources": [
+        "https://w.atwiki.jp/gmcomposer/pages/46.html"
+      ],
+      "confidence": "wiki_spelling",
+      "notes": "Game-composer wiki explicitly pairs kana and Latin name; not inferred from common name reading. Gender and personality not researched; no inference from kanji or role.",
+      "source_credit_position_indices": [
+        1,
+        28
+      ]
+    },
+    {
+      "id": "credits_staff_003",
+      "ja": "福田康文",
+      "en": "Yasufumi Fukuda",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original theme arrangements in Heroes Phantasia",
+      "sources": [
+        "https://music.apple.com/id/album/幻影都市全曲集/1801876942"
+      ],
+      "confidence": "licensed_recording_latin",
+      "notes": "Licensed POLYSTAR/P-VINE recording page pairs composer identity with Yasufumi. Yasunori is not supported. Gender and personality not researched; no inference from kanji or role.",
+      "source_credit_position_indices": [
+        2
+      ]
+    },
+    {
+      "id": "credits_staff_004",
+      "ja": "上田メタヲ",
+      "en": "Metawo Ueda",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original character design in Heroes Phantasia",
+      "sources": [
+        "https://www.mobygames.com/person/1210079/metawo-ueda/",
+        "https://bangumi.tv/person/18467"
+      ],
+      "confidence": "provisional_secondary_spelling",
+      "notes": "MobyGames alias and linked personal handle support this spelling; personal website unavailable. Exact authoritative Latin display pending. Gender and personality not researched; no inference from kanji or role.",
+      "source_credit_position_indices": [
+        3
+      ]
+    },
+    {
+      "id": "credits_staff_005",
+      "ja": "金子彰史",
+      "en": "Akifumi Kaneko",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Line production in Heroes Phantasia",
+      "sources": [
+        "https://www.ariamusic.co.jp/creators/kaneko.php"
+      ],
+      "confidence": "official_latin",
+      "notes": "ARIA creator profile explicitly pairs Japanese and Latin names. Gender and personality not researched; no inference from kanji or role.",
+      "source_credit_position_indices": [
+        19
+      ]
+    },
+    {
+      "id": "credits_staff_006",
+      "ja": "菊田大介",
+      "en": "Daisuke Kikuta",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Insert-song arrangement and production in Heroes Phantasia",
+      "sources": [
+        "https://www.ariamusic.co.jp/creators/kikuta.php"
+      ],
+      "confidence": "official_latin",
+      "notes": "ARIA creator profile explicitly pairs Japanese and Latin names. Gender and personality not researched; no inference from kanji or role.",
+      "source_credit_position_indices": [
+        29,
+        32,
+        34
+      ]
+    },
+    {
+      "id": "credits_staff_007",
+      "ja": "桜川めぐ",
+      "en": "Megu Sakuragawa",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Insert-song vocals in Heroes Phantasia",
+      "sources": [
+        "https://www.s-inc.jp/megu-sakuragawa",
+        "https://es.wikipedia.org/wiki/Megu_Sakuragawa"
+      ],
+      "confidence": "official_latin_source_alias",
+      "notes": "Official profile displays Latin name and current orthography 櫻川めぐ; source uses earlier 桜川 spelling. Gender and personality not researched; no inference from kanji or role.",
+      "source_credit_position_indices": [
+        30
+      ]
+    },
+    {
+      "id": "credits_staff_008",
+      "ja": "加納望",
+      "en": "Nozomu Kanow",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Insert-song guitars in Heroes Phantasia",
+      "sources": [
+        "https://no3guitar.com/",
+        "https://note.com/kanownozomu/n/n98b92ccadca3"
+      ],
+      "confidence": "official_self_published_latin",
+      "notes": "Original frame171 confirms 加納, not transcription 加藤. Official school and self-authored page explicitly display name; unusual Kanow spelling is preserved. Gender and personality not researched; no inference from kanji or role.",
+      "source_credit_position_indices": [
+        31
+      ]
+    },
+    {
+      "id": "credits_staff_009",
+      "ja": "近藤久芳",
+      "en": "Hisayoshi Kondō",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Insert-song mixing in Heroes Phantasia",
+      "sources": [
+        "https://symphogear.fandom.com/wiki/Guest_Artists"
+      ],
+      "confidence": "wiki_spelling",
+      "notes": "Wiki heading uses Kondō; secondary soundtrack/game credit sources use Kondo/Kondoh. Root approved wiki spelling on 2026-10-11. Gender and personality not researched; no inference from kanji or role.",
+      "source_credit_position_indices": [
+        33
+      ]
+    },
+    {
+      "id": "credits_staff_010",
+      "ja": "吹田亜沙美",
+      "en": "Asami Suita",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Music production management in Heroes Phantasia",
+      "sources": [
+        "https://www.ariamusic.co.jp/en/company/",
+        "https://www.ariamusic.co.jp/company/"
+      ],
+      "confidence": "official_latin",
+      "notes": "Parallel official company profiles match executive name in both languages. Gender and personality not researched; no inference from kanji or role.",
+      "source_credit_position_indices": [
+        37
+      ]
+    },
+    {
+      "id": "credits_staff_011",
+      "ja": "渡部高志",
+      "en": "Takashi Watanabe",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Opening-animation storyboard and direction in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Takashi_Watanabe"
+      ],
+      "confidence": "wiki_spelling",
+      "notes": "Wiki director identity matches native opening-animation role; no alternate Watanabe kanji assumed. Gender and personality not researched; no inference from kanji or role.",
+      "source_credit_position_indices": [
+        64
+      ]
+    },
+    {
+      "id": "credits_staff_012",
+      "ja": "石浜真史",
+      "en": "Masashi Ishihama",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Opening-animation drawing in Heroes Phantasia",
+      "sources": [
+        "https://es.wikipedia.org/wiki/Masashi_Ishihama"
+      ],
+      "confidence": "wiki_and_published_artbook",
+      "notes": "Wiki headword and referenced published animation artbook title give exact Latin name. Gender and personality not researched; no inference from kanji or role.",
+      "source_credit_position_indices": [
+        67
+      ]
+    },
+    {
+      "id": "credits_staff_013",
+      "ja": "久行宏和",
+      "en": "Hirokazu Hisayuki",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Opening-animation drawing in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hirokazu_Hisayuki"
+      ],
+      "confidence": "wiki_spelling",
+      "notes": "Wiki native name and My-HiME character-design credits match identity. Gender and personality not researched; no inference from kanji or role.",
+      "source_credit_position_indices": [
+        70
+      ]
+    },
+    {
+      "id": "credits_staff_014",
+      "ja": "中嶋聡彦",
+      "en": "Toshihiko Nakajima",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Voice-recording direction in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Toshihiko_Nakajima",
+        "https://www.detectiveconanworld.com/wiki/Toshihiko_Nakajima"
+      ],
+      "confidence": "wiki_spelling",
+      "notes": "Wiki identity explicitly includes native name and sound-director work. Gender and personality not researched; no inference from kanji or role.",
+      "source_credit_position_indices": [
+        51
+      ]
+    },
+    {
+      "id": "credits_staff_015",
+      "ja": "岩倉和憲",
+      "en": "Kazunori Iwakura",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Opening animation drawing in Heroes Phantasia",
+      "sources": [
+        "https://www.mobygames.com/game/47280/slayers-royal/credits/playstation/",
+        "https://www.planete-jeunesse.com/staff-12902-kazunori-iwakura.html"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Explicit Slayers character designer identity. Same-kanji chemist search results must not establish animator identity. Root approved exact spelling on2026-10-11; no gender/personality inference. Provisional authority remains pending where flagged.",
+      "source_credit_position_indices": [
+        65,
+        66,
+        73,
+        74
+      ]
+    },
+    {
+      "id": "credits_staff_016",
+      "ja": "しんぼたくろう",
+      "en": "Takurō Shinbo",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Opening animation direction in Heroes Phantasia",
+      "sources": [
+        "https://pokemon.fandom.com/wiki/PO003:_File_3_-_Giovanni"
+      ],
+      "confidence": "franchise_wiki",
+      "authority_pending": false,
+      "notes": "Wiki native staff name gives macron spelling. Other wiki and animation references use Takuro; exact display approval needed. Root approved exact spelling on2026-10-11; no gender/personality inference. Provisional authority remains pending where flagged.",
+      "source_credit_position_indices": [
+        68
+      ]
+    },
+    {
+      "id": "credits_staff_017",
+      "ja": "小森高博",
+      "en": "Takahiro Komori",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Opening animation direction in Heroes Phantasia",
+      "sources": [
+        "https://bangumi.tv/person/520"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Database explicitly pairs native name and Latin form; Darker than Black role matches. Secondary profile biographies are not used for traits. Root approved exact spelling on2026-10-11; no gender/personality inference. Provisional authority remains pending where flagged.",
+      "source_credit_position_indices": [
+        72
+      ]
+    },
+    {
+      "id": "credits_staff_018",
+      "ja": "糸島雅彦",
+      "en": "Masahiko Itojima",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Opening animation drawing in Heroes Phantasia",
+      "sources": [
+        "https://www.detectiveconanworld.com/wiki/Masahiko_Itojima"
+      ],
+      "confidence": "franchise_wiki",
+      "authority_pending": false,
+      "notes": "English wiki explicitly pairs native name and animator identity; alternative database Itozima not selected. Root approved exact spelling on2026-10-11; no gender/personality inference. Provisional authority remains pending where flagged.",
+      "source_credit_position_indices": [
+        69
+      ]
+    },
+    {
+      "id": "credits_staff_019",
+      "ja": "石井明治",
+      "en": "Akiharu Ishii",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Opening animation drawing in Heroes Phantasia",
+      "sources": [
+        "https://w.atwiki.jp/sakuga/pages/1726.html",
+        "https://www.mobygames.com/person/85222/akiharu-ishii/",
+        "https://production-ig.co.jp/works/blood-plus/index.html"
+      ],
+      "confidence": "wiki_reading_and_credit_latin",
+      "authority_pending": false,
+      "notes": "Animator wiki supplies Akiharu kana; publisher verifies BLOOD+ role, matching English credit database. Unrelated same-kanji doctor excluded. Root approved exact spelling on2026-10-11; no gender/personality inference. Provisional authority remains pending where flagged.",
+      "source_credit_position_indices": [
+        71
+      ]
+    },
+    {
+      "id": "credits_staff_020",
+      "ja": "坪根健太郎",
+      "en": "Kentaro Tsubone",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Opening animation editing in Heroes Phantasia",
+      "sources": [
+        "https://shadow-garden.jp/1st/staffcast/"
+      ],
+      "confidence": "official_latin",
+      "authority_pending": false,
+      "notes": "Official anime staff page explicitly pairs Japanese and Latin editor name. Root approved exact spelling on2026-10-11; no gender/personality inference. Provisional authority remains pending where flagged.",
+      "source_credit_position_indices": [
+        77
+      ]
+    },
+    {
+      "id": "credits_staff_021",
+      "ja": "李凡善",
+      "en": "Bumsun Lee",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Opening animation background art in Heroes Phantasia",
+      "sources": [
+        "https://shadow-garden.jp/1st/staffcast/"
+      ],
+      "confidence": "official_latin",
+      "authority_pending": false,
+      "notes": "Official anime staff page explicitly supplies BUMSUN LEE; do not invent Japanese on-reading. Root may prefer a verified wiki headword if one exists. Root approved exact spelling on2026-10-11; no gender/personality inference. Provisional authority remains pending where flagged.",
+      "source_credit_position_indices": [
+        75
+      ]
+    },
+    {
+      "id": "credits_staff_022",
+      "ja": "松倉友二",
+      "en": "Yuji Matsukura",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Opening animation cooperation in Heroes Phantasia",
+      "sources": [
+        "https://clare-voice.co.jp/school/wp/dl/clarevoice_pamphlet.pdf"
+      ],
+      "confidence": "official_latin",
+      "authority_pending": false,
+      "notes": "Official talent-school pamphlet pairs Matsukura Yuji with native name. Secondary credits also use Yūji; root spelling approval needed. Root approved exact spelling on2026-10-11; no gender/personality inference. Provisional authority remains pending where flagged.",
+      "source_credit_position_indices": [
+        79
+      ]
+    },
+    {
+      "id": "credits_staff_023",
+      "ja": "福世晋吾",
+      "en": "Shingo Fukuyo",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Opening animation cooperation in Heroes Phantasia",
+      "sources": [
+        "https://namu.moe/w/후쿠요_신고",
+        "https://nbcuni.co.jp/anime/lineup/2020/index00890000.html?lang=ja"
+      ],
+      "confidence": "wiki_with_official_conflict",
+      "authority_pending": false,
+      "notes": "Wiki gives Fukuyo, whereas publisher bilingual page gives fukuse shingo and database gives Fukuyu. Conflict explicit; no guessed silent normalization. Root approved exact spelling on2026-10-11; no gender/personality inference. Provisional authority remains pending where flagged.",
+      "source_credit_position_indices": [
+        79
+      ]
+    },
+    {
+      "id": "credits_staff_024",
+      "ja": "黒澤豊",
+      "en": "Yutaka Kurosawa",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Opening animation photography in Heroes Phantasia",
+      "sources": [
+        "https://www.mobygames.com/person/423613/yutaka-kurosawa/credits/"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Matched animator credit alias; direct official Latin authority still pending. Do not borrow spelling from same-kanji medical researcher. Root approved exact spelling on2026-10-11; no gender/personality inference. Provisional authority remains pending where flagged.",
+      "source_credit_position_indices": [
+        76
+      ]
+    },
+    {
+      "id": "credits_staff_025",
+      "ja": "山橋健一",
+      "en": "Kenichi Yamahashi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original monster design and2D characters in Heroes Phantasia",
+      "sources": [
+        "https://www.mobygames.com/person/151708/kenichi-yamahashi/companies/"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native alias in game-artist credit database; original Latin authority pending. Root approved exact spelling on2026-10-11; no gender/personality inference. Provisional authority remains pending where flagged.",
+      "source_credit_position_indices": [
+        5,
+        8
+      ]
+    },
+    {
+      "id": "credits_staff_026",
+      "ja": "山田富二男",
+      "en": "Fujio Yamada",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Voice recording in Heroes Phantasia",
+      "sources": [
+        "https://www.mobygames.com/person/276042/fujio-yamada/"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Credit database explicitly records native spelling and alternate 富士男; original Latin authority pending. Root approved exact spelling on2026-10-11; no gender/personality inference. Provisional authority remains pending where flagged.",
+      "source_credit_position_indices": [
+        52
+      ]
+    },
+    {
+      "id": "credits_staff_027",
+      "ja": "塚中健介",
+      "en": "Kensuke Tsukanaka",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Production in Heroes Phantasia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Heroes_Phantasia",
+        "https://www.mobygames.com/person/256002/kensuke-tsukanaka/"
+      ],
+      "confidence": "game_wiki_and_native_alias",
+      "authority_pending": false,
+      "notes": "Game wiki producer name corroborated by explicit Japanese alias; no current executive title added. Root approved exact spelling on2026-10-11; no gender/personality inference. Provisional authority remains pending where flagged.",
+      "source_credit_position_indices": [
+        90
+      ]
+    },
+    {
+      "id": "credits_staff_028",
+      "ja": "石川祝男",
+      "en": "Shukuo Ishikawa",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Executive production in Heroes Phantasia",
+      "sources": [
+        "https://www.bandainamco.co.jp/files/ir/integrated/pdf/j_2009_annual.pdf"
+      ],
+      "confidence": "official_latin",
+      "authority_pending": false,
+      "notes": "Official annual report explicitly pairs Japanese and Latin executive name; generated search image-caption reading Norio is discarded. Root approved exact spelling on2026-10-11; no gender/personality inference. Provisional authority remains pending where flagged.",
+      "source_credit_position_indices": [
+        91
+      ]
+    },
+    {
+      "id": "credits_staff_029",
+      "ja": "鵜之澤伸",
+      "en": "Shin Unozawa",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Executive production in Heroes Phantasia",
+      "sources": [
+        "https://www.cesa.or.jp/uploads/report/book-list/mokuji/2013cesahakusho_mokuji.pdf",
+        "https://w.atwiki.jp/game_staff/pages/596.html"
+      ],
+      "confidence": "official_and_game_staff_wiki",
+      "authority_pending": false,
+      "notes": "CESA publication and native/Latin game-staff wiki both give Shin Unozawa. Do not choose Nobu from generic kanji readings. Root approved exact spelling on2026-10-11; no gender/personality inference. Provisional authority remains pending where flagged.",
+      "source_credit_position_indices": [
+        91
+      ]
+    },
+    {
+      "id": "credits_staff_030",
+      "ja": "浅沼誠",
+      "en": "Makoto Asanuma",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Executive production in Heroes Phantasia",
+      "sources": [
+        "https://www.bnfw.co.jp/images/corporate/BNF_CorporateProfile2026.pdf"
+      ],
+      "confidence": "official_latin",
+      "authority_pending": false,
+      "notes": "Official corporate profile pairs exact Japanese and Latin names. Modern role only helps identity and is not imported into historical game credits. Root approved exact spelling on2026-10-11; no gender/personality inference. Provisional authority remains pending where flagged.",
+      "source_credit_position_indices": [
+        91
+      ]
+    },
+    {
+      "id": "credits_staff_031",
+      "ja": "伍賀一統",
+      "en": "Kazunori Goka",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Promotion in Heroes Phantasia",
+      "sources": [
+        "https://www.bnfw.co.jp/images/corporate/BNF_CorporateProfile2026.pdf"
+      ],
+      "confidence": "official_latin",
+      "authority_pending": false,
+      "notes": "Official corporate profile pairs exact Japanese and Latin names; matches original promotion credit without adding modern rank. Root approved exact spelling on2026-10-11; no gender/personality inference. Provisional authority remains pending where flagged.",
+      "source_credit_position_indices": [
+        85
+      ]
+    },
+    {
+      "id": "credits_staff_032",
+      "ja": "神月社",
+      "en": "Yashiro Kanzuki",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://mjuz-dept.com/web/"
+      ],
+      "confidence": "official_self_published",
+      "authority_pending": false,
+      "notes": "Original Mju:z credit matches official studio member name and explicit Kanzuki Yashiro spelling. Western order used; no guessed legal name. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        17
+      ]
+    },
+    {
+      "id": "credits_staff_033",
+      "ja": "山本正則",
+      "en": "Masanori Yamamoto",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://raido.moe/staff/ps2/ps2_wild_arms_3.html",
+        "https://www.mobygames.com/game/6229/wild-arms-3/credits/ps2/"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Native and English Wild Arms 3 battle/VU programming lists identify the same staff member by paired role and neighboring staff. Unrelated bowling and construction names excluded; English transcription authority remains secondary. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        7
+      ]
+    },
+    {
+      "id": "credits_staff_034",
+      "ja": "荘埜毅明",
+      "en": "Takaaki Sōno",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/person/504734/takaaki-sono/",
+        "https://raido.moe/staff/ps2/ps2_wild_arms_3.html",
+        "https://gamefaqs.gamespot.com/ps4/190373-wild-arms-3/credit"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native alias and matching Wild Arms programmer role. Database headword Sōno; original English credit transcription also gives Sohno, and Souno is an alias. No direct primary Latin credit image verified yet. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        7
+      ]
+    },
+    {
+      "id": "credits_staff_035",
+      "ja": "片岡秀文",
+      "en": "Hidefumi Kataoka",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/63651/tales-of-graces/credits/wii/"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native alias under Media.Vision map graphics support; source original prop and 3D art roles are compatible. Same-kanji combustion researcher is unrelated and excluded. Database Latin reading remains provisional. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        4,
+        10
+      ]
+    },
+    {
+      "id": "credits_staff_036",
+      "ja": "浦上靖夫",
+      "en": "Yasuo Uragami",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hiwou_War_Chronicles",
+        "https://manga.fandom.com/wiki/Cheeky_Angel",
+        "https://vote.animefestival.jp/en/achievementaward/archive/index.htm"
+      ],
+      "confidence": "wiki_with_official_conflict",
+      "authority_pending": false,
+      "notes": "English wiki forms use Uragami; official Tokyo Anime Award Festival uses Urakami, also found in other language wikis. Wiki-first project spelling proposed with explicit conflict; Audio Planning U identity matches. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        45
+      ]
+    },
+    {
+      "id": "credits_staff_037",
+      "ja": "田口信孝",
+      "en": "Nobutaka Taguchi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Crayon_Shin-chan%3A_Great_Adventure_in_Henderland",
+        "https://keyframe-staff-list.com/staff/s-cry-ed"
+      ],
+      "confidence": "wiki_role_alias",
+      "authority_pending": false,
+      "notes": "English wiki sound-adjustment credit and exact native alias in s-CRY-ed mixing credit. Same-name Olympic swimmer is unrelated and excluded. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        47
+      ]
+    },
+    {
+      "id": "credits_staff_038",
+      "ja": "小沼則義",
+      "en": "Noriyoshi Konuma",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://www.crunchyroll.com/news/latest/2025/4/6/a-couple-of-cuckoos-season-2-anime-july-2025-release-date-teaser-trailer-visual-new-character",
+        "https://bangumi.org/talents/382842",
+        "https://anibase.net/zh-hant/people/lyBgz/小沼則義"
+      ],
+      "confidence": "licensed_publisher",
+      "authority_pending": false,
+      "notes": "Licensed publisher English spelling with exact native sound-director profile/kana corroboration. Source is assistant mixer; no current job title inserted into original credits. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        48
+      ]
+    },
+    {
+      "id": "credits_staff_039",
+      "ja": "安藤智美",
+      "en": "Tomomi Ando",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://www.gonzo.co.jp/works/lastexile_fam/index.html",
+        "https://www.nbcuni.co.jp/anime/lineup/2020/index00890000.html"
+      ],
+      "confidence": "official_studio",
+      "authority_pending": false,
+      "notes": "Official GONZO bilingual J.C.STAFF color settings credit gives Tomomi Ando. NBC page gives anzai tomomi despite identical native name; conflict retained, not adopted. Athlete with same native name excluded. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        65,
+        66,
+        67,
+        73,
+        74
+      ]
+    },
+    {
+      "id": "credits_staff_040",
+      "ja": "大河内喜夫",
+      "en": "Yoshio Okouchi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://www.oricon-group.com/news/6140/"
+      ],
+      "confidence": "publisher_news",
+      "authority_pending": true,
+      "notes": "Publisher news explicitly pairs Latin/native director-of-photography name at J.C.STAFF. Alternate long-vowel forms require any future actual wiki-headword check; no gender or biography inferred. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        76
+      ]
+    },
+    {
+      "id": "credits_staff_041",
+      "ja": "河津聡",
+      "en": "Satoshi Kawazu",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/person/285829/satoshi-kawazu/"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native alias and Media.Vision animation/art roles, including Wild Arms XF. Kawathu alternate retained; unrelated medical/therapy names excluded. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        18
+      ]
+    },
+    {
+      "id": "credits_staff_042",
+      "ja": "中西豪",
+      "en": "Gō Nakanishi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://en.wikipedia.org/wiki/K_%28TV_series%29",
+        "https://animefestival.asia/afa11/special_guests.html"
+      ],
+      "confidence": "wiki_with_official_alias",
+      "authority_pending": false,
+      "notes": "English K wiki gives Gō; official AFA King Records/angela producer profile gives Go. Same native-name energy consultant is unrelated and excluded. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        26
+      ]
+    },
+    {
+      "id": "credits_staff_043",
+      "ja": "高橋きさら",
+      "en": "Kisara Takahashi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kono_Oto_Tomare%21_Sounds_of_Life",
+        "https://animenyc.com/guests-nyc/2019atsumitanezaki/",
+        "https://www.allcinema.net/person/pdf/962019"
+      ],
+      "confidence": "wiki_and_event_authority",
+      "authority_pending": false,
+      "notes": "King Records sponsored event and English wiki same show producer, native credit corroborated in database. No unrelated character Kisara identity. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        26
+      ]
+    },
+    {
+      "id": "credits_staff_044",
+      "ja": "林玄規",
+      "en": "Haruki Hayashi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://en.wikipedia.org/wiki/K_%28TV_series%29",
+        "https://animagic.de/animagic-2017/haruki-hayashi/",
+        "https://www.allcinema.net/cinema/pdf/346411"
+      ],
+      "confidence": "wiki_and_convention_authority",
+      "authority_pending": false,
+      "notes": "King Records K/Coppelion producer pair corroborated by official publisher-sponsored convention and native database credit. Genki from kanji alone would be wrong; no inferred reading. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        62
+      ]
+    },
+    {
+      "id": "credits_staff_045",
+      "ja": "宿利剛",
+      "en": "Go Shukuri",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/person/980176/gou-syukuri/",
+        "https://downloads.khinsider.com/game-soundtracks/album/sensei-no-ojikan-oshieteageru-can-goo/change_log",
+        "https://cnt.kingrecords.co.jp/kayou-king/index2023.html"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Moby exact native alias/headword Gou Syukuri, with Go Shukuri alias; transcribed King Records album credits use Go Shukuri. Official native King Records identity corroborated but direct original Latin artwork not viewed, so provisional spelling proposed with alternatives noted. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        62
+      ]
+    },
+    {
+      "id": "credits_staff_046",
+      "ja": "岡部実",
+      "en": "Minoru Okabe",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://worldtrigger.fandom.com/wiki/The_Upper_Ranks",
+        "https://pocketmonsters.net/staff/view/8831",
+        "https://www.mobygames.com/person/494391/minoru-okabe/"
+      ],
+      "confidence": "franchise_wiki_role_alias",
+      "authority_pending": false,
+      "notes": "Exact native animator name paired to Latin in franchise staff records; unrelated same-name structural engineer excluded. Original credits remain animation check, not later chief role. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        68,
+        69,
+        70
+      ]
+    },
+    {
+      "id": "credits_staff_047",
+      "ja": "岩沢れい子",
+      "en": "Reiko Iwasawa",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://www.project-aico.com/staff/"
+      ],
+      "confidence": "official_bilingual",
+      "authority_pending": false,
+      "notes": "Official BONES color-designer page explicitly pairs exact native and Latin name. Credit is original color specification/inspection; no later show facts inserted. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        68
+      ]
+    },
+    {
+      "id": "credits_staff_048",
+      "ja": "横山さよ子",
+      "en": "Sayoko Yokoyama",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://www.planete-jeunesse.com/staff-28778-sayoko-yokoyama.html"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native alias and My-Hime chief colorist role match. Secondary reference only, authority pending. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        70
+      ]
+    },
+    {
+      "id": "credits_staff_049",
+      "ja": "岩長幸一",
+      "en": "Koichi Iwanaga",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/person/418466/koichi-iwanaga/"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native alias and animation-check roles, including BONES works. Kouichi alternate preserved; stronger published authority pending. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        72
+      ]
+    },
+    {
+      "id": "credits_staff_050",
+      "ja": "水田信子",
+      "en": "Nobuko Mizuta",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://nbcuni.co.jp/anime/lineup/2016/index00510000.html?lang=ja",
+        "https://bangumi.tv/person/924/works?sort=title"
+      ],
+      "confidence": "official_bilingual",
+      "authority_pending": false,
+      "notes": "Publisher bilingual color-design credit explicitly pairs name; Darker than Black role corroborates. Conflicting gender on MusicBrainz not used; gender remains unknown. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        72
+      ]
+    },
+    {
+      "id": "credits_staff_051",
+      "ja": "田島智之",
+      "en": "Tomoyuki Tajima",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/person/1426968/tomoyuki-tajima/",
+        "https://keyframe-staff-list.com/staff/027759602c5d7eb91bb70148b2080d8f34f177423dad8ad8"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native animator alias; modern LiB consultant/drummer with same native name excluded. No direct published primary Latin authority found. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        68
+      ]
+    },
+    {
+      "id": "credits_staff_052",
+      "ja": "舟田圭一",
+      "en": "Keiichi Funada",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://wikimon.net/Digimon_Adventure_%28Movie%29"
+      ],
+      "confidence": "franchise_wiki_native_alias",
+      "authority_pending": false,
+      "notes": "Franchise wiki inspection credit explicitly pairs exact native and Latin spelling; same animation/color role matches. Western name order used. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        69
+      ]
+    },
+    {
+      "id": "credits_staff_053",
+      "ja": "伊藤貴子",
+      "en": "Takako Ito",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/81733/sengoku-basara/credits/ps2/"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native color-stylist alias. Same-name golfer, patent attorney and therapist not used to infer animator reading. Primary Latin authority still pending. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "credits_staff_054",
+      "ja": "塩田潤",
+      "en": "Jun Shioda",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/202494/psychic-force-puzzle-taisen/credits/playstation/?autoplatform=true"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native photography alias near original co-workers Yutaka Kurosawa and Shingo Fukuyo. Unrelated politics researcher Jun Shiota is excluded. Historical CG role remains as source. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        67
+      ]
+    },
+    {
+      "id": "credits_staff_055",
+      "ja": "金田尚美",
+      "en": "Naomi Kaneda",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://w.atwiki.jp/sakuga/pages/1175.html",
+        "https://keyframe-staff-list.com/staff/977f48ee2fa3b7af11824c7e6de0fa085bcea663cdacb4b8"
+      ],
+      "confidence": "wiki_kana_with_secondary_latin",
+      "authority_pending": true,
+      "notes": "Animation wiki kana matches exact native name; secondary animation Latin pair. Same-name abacus teacher, pianist and game UI artist not used as identity proof. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        72
+      ]
+    },
+    {
+      "id": "credits_staff_056",
+      "ja": "西島翔平",
+      "en": "Shouhei Nishijima",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Staff credit in Heroes Phantasia; original credit role retained in queue",
+      "sources": [
+        "https://bangumi.tv/person/29829",
+        "https://watch.plex.tv/en-GB/person/shohei-nishijima"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Database English-name field Shouhei Nishijima explicitly paired to original native animator and BONES career. Plex uses Shohei; stronger official/wiki headword remains pending, so provisional DB spelling. Root approved exact spelling on 2026-10-11; all stated conflicts/provisional authority retained. No gender/personality inference.",
+      "source_credit_position_indices": [
+        72
+      ]
+    },
+    {
+      "id": "credits_staff_057",
+      "ja": "水俣和也",
+      "en": "Kazuya Mizumata",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/person/841060/kazuya-mizumata/"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native alias and Bandai Namco assistant-producer role in contemporary 2012 games. Published primary Latin spelling not retrieved; do not guess Minamata. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        89
+      ]
+    },
+    {
+      "id": "credits_staff_058",
+      "ja": "二見鷹介",
+      "en": "Yosuke Futami",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://little-witch-academia.fandom.com/wiki/Yosuke_Futami",
+        "https://blog.playstation.com/author/yfutami/"
+      ],
+      "confidence": "franchise_wiki_and_publisher",
+      "authority_pending": false,
+      "notes": "Franchise wiki exact native alias plus PlayStation published Bandai Namco producer author spelling. Kana in wiki incorrectly machine-transliterated; official published Latin identity wins that kana error, not a guessed Taka reading. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        88
+      ]
+    },
+    {
+      "id": "credits_staff_059",
+      "ja": "松木仁美",
+      "en": "Hitomi Matsuki",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/255385/full-house-kiss-2-renai-meikyu/credits/windows/",
+        "https://keyframe-staff-list.com/staff/43abe80b237cd8a00784242c4cb9af72c78627eb3b708744"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native Latin voice-director credit paired with TWOFIVE STUDIO; original sound-director role retained. Identically named Square Enix online-service manager not used as identity proof. Primary Latin credit image unviewed. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        40
+      ]
+    },
+    {
+      "id": "credits_staff_060",
+      "ja": "白石誠",
+      "en": "Makoto Shiraishi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Hayate_no_Gotoku%21",
+        "https://www.mobygames.com/person/282590/makoto-shiraishi/credits/"
+      ],
+      "confidence": "wiki_with_native_database_alias",
+      "authority_pending": false,
+      "notes": "Wiki art-director spelling and exact native database alias, background-role match. Sport shooter, researchers and B-Project fictional character are unrelated; no identity/gender facts imported. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        75
+      ]
+    },
+    {
+      "id": "credits_staff_061",
+      "ja": "大西穣",
+      "en": "Minoru Ōnishi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://onepiece.fandom.com/wiki/Episode_927",
+        "https://revisions.jp/anime/caststaff/index.php",
+        "https://keyframe-staff-list.com/person/148828"
+      ],
+      "confidence": "franchise_wiki_native_alias",
+      "authority_pending": false,
+      "notes": "Franchise wiki pairs exact native art-director name to macron spelling; official Revisions uses Minoru Onishi and database Oonishi, recorded as variants. Background artist with bic Studio affiliation matches original credit. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        75
+      ]
+    },
+    {
+      "id": "credits_staff_062",
+      "ja": "岩井和也",
+      "en": "Kazuya Iwai",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://nbcuni.co.jp/anime/lineup/past/index01100000.html?lang=ja"
+      ],
+      "confidence": "official_bilingual",
+      "authority_pending": false,
+      "notes": "Official NBC Bakuman bilingual photography-director pairing at J.C.STAFF. Same-name chef, hairdresser, cyclist and researchers excluded. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        76
+      ]
+    },
+    {
+      "id": "credits_staff_063",
+      "ja": "平尾隆昌",
+      "en": "Takamasa Hirao",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/43428/romance-wa-tsurugi-no-kagayaki-ii-gin-no-niji-o-sagashite/credits/playstation/"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native Latin sound-effects credit with TWO FIVE affiliation, matches original voice-edit staff role. Primary Latin artwork not retrieved; no guessed Takamasa from kanji alone. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        42
+      ]
+    },
+    {
+      "id": "credits_staff_064",
+      "ja": "竹節章史",
+      "en": "Akifumi Takefushi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://bulbapedia.bulbagarden.net/wiki/HIS03",
+        "https://dogasu.bulbagarden.net/movies/2020_twilight_wings/twilight_wings_staff.html"
+      ],
+      "confidence": "franchise_wiki_native_alias",
+      "authority_pending": false,
+      "notes": "Franchise wiki exact native Latin sound-production lead, Techno Sound affiliation matches native source block. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        55
+      ]
+    },
+    {
+      "id": "credits_staff_065",
+      "ja": "中島朋子",
+      "en": "Tomoko Nakashima",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/person/805424/tomoko-nakashima/",
+        "https://keyframe-staff-list.com/staff/shingeki-no-kyojin-season-3"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native Latin sound-production staff and Techno Sound affiliation. Nakajima variant recorded; no unrelated same-name lawyer/jewelry scholar or actress identity imported. Stronger direct Latin authority pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        55
+      ]
+    },
+    {
+      "id": "credits_staff_066",
+      "ja": "三本隆二",
+      "en": "Ryūji Mitsumoto",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/person/503312/ryuji-mitsumoto/",
+        "https://www.mobygames.com/game/14917/sakura-taisen-atsuki-chishio-ni/credits/ps2/?autoplatform=true"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native alias for Production I.G animation producer; Moby headword macron preserved, Ryuji unmarked credit variant recorded. No direct primary Latin artwork viewed. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        79
+      ]
+    },
+    {
+      "id": "credits_staff_067",
+      "ja": "松本泰明",
+      "en": "Yasuaki Matsumoto",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/person/204989/yasuaki-matsumoto/",
+        "https://www.mobygames.com/game/255385/full-house-kiss-2-renai-meikyu/credits/windows/"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native sound/voice-editor name; TWOFIVE recording-studio credit and Hitomi Matsuki colleague match. Unrelated Idea Factory tester person493692, real-estate agent and fisherman excluded. Primary Latin authority pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        15
+      ]
+    },
+    {
+      "id": "credits_staff_068",
+      "ja": "林寛",
+      "en": "Hiroshi Hayashi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/63292/mabino-style/credits/ps2/"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native photography credit at J.C.STAFF alongside Kazuya Iwai, matching source team. Unrelated actor excluded; primary Latin authority pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        76
+      ]
+    },
+    {
+      "id": "credits_staff_069",
+      "ja": "沖田純美",
+      "en": "Junbi Okita",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://w.atwiki.jp/jyumawiki/pages/1741.html",
+        "https://www.aniplex.co.jp/lineup/kimitoboku/"
+      ],
+      "confidence": "provisional_wiki_reading_romanization",
+      "authority_pending": true,
+      "notes": "Anime staff wiki gives exact kana reading Okita Junbi; official Aniplex lists same native photography name. Junbi is a project romanization of the attested reading, not a retrieved published Latin spelling. Do not guess Sumimi. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        76
+      ]
+    },
+    {
+      "id": "credits_staff_070",
+      "ja": "株式会社バンダイナムコゲームス",
+      "en": "NAMCO BANDAI Games Inc.",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.bandainamco.co.jp/cgi-bin/releases/index.cgi/file/view/8068?entry_id=5752"
+      ],
+      "confidence": "official_historical_company",
+      "authority_pending": false,
+      "notes": "Official Annual Report 2012 pages12/24/67 and 2012 copyright establish historical English company name. Do not substitute newer BANDAI NAMCO Games or Entertainment. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        83,
+        92
+      ]
+    },
+    {
+      "id": "credits_staff_071",
+      "ja": "有限会社テクノサウンド",
+      "en": "Techno Sound Inc.",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://technosound.co.jp/top.html"
+      ],
+      "confidence": "official_company_with_suffix_variant",
+      "authority_pending": false,
+      "notes": "Official page title explicitly pairs source company with Techno Sound Inc.; footer currently uses Techno Sound Co.,Ltd. Retain this published suffix discrepancy; short source brand remains Techno Sound. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        50
+      ]
+    },
+    {
+      "id": "credits_staff_072",
+      "ja": "トライスクルスタジオ",
+      "en": "Tricycle Studio",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://keyframe-staff-list.com/staff/1446a5275b0ac67c5559105345f8986de46c9583aea6d232"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native/Latin studio match adjacent Fujio Yamada/Techno Sound credit. Primary Latin studio authority pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        54
+      ]
+    },
+    {
+      "id": "credits_staff_073",
+      "ja": "株式会社オーディオ・プランニング・ユー",
+      "en": "AUDIO PLANNING U Co., Ltd.",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://onseiren.com/about/kameisha?rang=en"
+      ],
+      "confidence": "industry_association_company",
+      "authority_pending": false,
+      "notes": "Japan Audio Producers Association member list gives exact legal company native/English pair. Database Inc. alternate retained; original short Latin AUDIO PLANNING U remains unchanged in separate source block44. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        43
+      ]
+    },
+    {
+      "id": "credits_staff_074",
+      "ja": "有限会社ツーファイブ",
+      "en": "Two-Five Ltd.",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/255385/full-house-kiss-2-renai-meikyu/credits/windows/",
+        "https://twofive.co.jp/company/"
+      ],
+      "confidence": "provisional_historical_database_company",
+      "authority_pending": true,
+      "notes": "Contemporary 2007 credit pairs exact limited-company source with Two-Five Ltd.; current official TWOFIVE company is a different legal form. Preserve original 2012 limited-company identity; current brand/parenthetical TWOFIVE unchanged. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        38
+      ]
+    },
+    {
+      "id": "credits_staff_075",
+      "ja": "須藤穂高",
+      "en": "Hotaka Sutou",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://wikizilla.org/wiki/Godzilla_(2014_video_game)/Credits",
+        "https://www.mobygames.com/person/772785/hotaka-sutou/",
+        "https://funfare.bandainamcoent.co.jp/15059/"
+      ],
+      "confidence": "franchise_wiki_credit",
+      "authority_pending": false,
+      "notes": "Franchise wiki transcribes native North American game credit Hotaka Sutou. Database pairs exact native name and Hotaka Suto/Sudo aliases; official Bandai Namco native profile confirms same marketing/sales career. Wiki spelling retained, no invented Hotaka from kanji alone. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        85
+      ]
+    },
+    {
+      "id": "credits_staff_076",
+      "ja": "ちゃっぴぃ",
+      "en": "Chappy",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/114899/star-driver-kagayaki-no-takt-ginga-bishonen-densetsu/credits/psp/",
+        "https://anilist.co/staff/150095/"
+      ],
+      "confidence": "provisional_staff_pseudonym_alias",
+      "authority_pending": true,
+      "notes": "Exact Bones photography staff credit pairs native pseudonym with Chappy, near same Koichi Iwanaga/Aya Tanabe source team. Retain credited pseudonym, do not expand Yoshiyuki Takei in target or confuse fictional character/unrelated online users. Primary Latin credit artwork pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        72
+      ]
+    },
+    {
+      "id": "credits_staff_077",
+      "ja": "田邊彩",
+      "en": "Aya Tanabe",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/114899/star-driver-kagayaki-no-takt-ginga-bishonen-densetsu/credits/psp/"
+      ],
+      "confidence": "provisional_database_alias",
+      "authority_pending": true,
+      "notes": "Bones in-between animation credit matches source name with 邉/邊 orthographic variant; original 邊 source unchanged. Exact role-linked name alongside Shouhei Nishijima and Koichi Iwanaga. Unrelated doctor uses different kanji and volleyball player has longer name; both excluded. Primary Latin artwork pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        72
+      ]
+    },
+    {
+      "id": "credits_staff_078",
+      "ja": "佐藤敦",
+      "en": "Atsushi Satou",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://bangumi.tv/person/5991",
+        "https://www.mobygames.com/game/14917/sakura-taisen-atsuki-chishio-ni/credits/ps2/?autoplatform=true"
+      ],
+      "confidence": "provisional_staff_database_romanization",
+      "authority_pending": true,
+      "notes": "Staff database gives Satou Atsushi and J.C.STAFF photography/Studio Shamrock affiliation (Kazuya Iwai). Moby exact native animation CGI credit uses Atsushi Sato; retain spelling alternative. Unrelated audio composer is longer native Atsushi Sato 佐藤敦史 and athlete is 佐藤敦之; neither identity imported. Direct published Latin photography authority pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        76
+      ]
+    },
+    {
+      "id": "credits_staff_079",
+      "ja": "スタジオたくらんけ",
+      "en": "Studio Takuranke",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://bgm.tv/person/49619",
+        "https://pocketmonsters.net/staff/view/5986",
+        "https://keyframe-staff-list.com/staff/plastic-little"
+      ],
+      "confidence": "studio_database_alias",
+      "authority_pending": false,
+      "notes": "Exact historical source studio name. Distinguish source Studio Takuranke from new Takuranke founded2014; original2012 credits retain Studio prefix. No company-history assertion inserted into target. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        68,
+        69,
+        70
+      ]
+    },
+    {
+      "id": "credits_staff_080",
+      "ja": "アルテミス",
+      "en": "Artemis",
+      "category": "real_world_animation_studio",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://keyframe-staff-list.com/studio/813"
+      ],
+      "confidence": "provisional_studio_database_alias",
+      "authority_pending": true,
+      "notes": "Exact native/Latin animation ink-and-paint studio alias. Do not confuse spacecraft or fictional character. Primary published credit authority pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality. Distinct from My-HiME fictional Child continuation_355; studio context required.",
+      "source_credit_position_indices": [
+        68
+      ],
+      "context_required": true
+    },
+    {
+      "id": "credits_staff_081",
+      "ja": "藤原文吾",
+      "en": "Bungo Fujiwara",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/61666/fire-emblem-awakening/credits/3ds/",
+        "https://twofive.co.jp/company/"
+      ],
+      "confidence": "provisional_role_linked_database_alias",
+      "authority_pending": true,
+      "notes": "Same2012 TWOFIVE voice-casting management credited Bungo Fujiwara, alongside Hitomi Matsuki and Shuhei Okada. Official company lists exact native name as representative. Latin spelling supported by role/affiliation match, stronger primary Latin artwork pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        39
+      ]
+    },
+    {
+      "id": "credits_staff_082",
+      "ja": "岡田修平",
+      "en": "Shuhei Okada",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/61666/fire-emblem-awakening/credits/3ds/",
+        "https://www.mobygames.com/person/609712/shuhei-okada/credits/",
+        "https://bangumi.tv/person/12824/works/game?sort=title"
+      ],
+      "confidence": "provisional_role_linked_database_alias",
+      "authority_pending": true,
+      "notes": "Same2012 TWOFIVE voice editor credited Shuhei Okada alongside Matsuki/Fujiwara. Staff roster lists exact source 修平; later game database spells same affiliated engineer 周平. Preserve original source orthography and record variant rather than silently correcting it. Unrelated JAXA/medical researchers excluded. Primary Latin authority pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        41
+      ]
+    },
+    {
+      "id": "credits_staff_083",
+      "ja": "安子大樹",
+      "en": "Taiki Yasuko",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/253719/great-battle-fullblast/credits/psp/",
+        "https://www.mobygames.com/game/202188/puella-magi-madoka-magica-portable/credits/psp/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 Bandai promotion native/Latin pair. Other2012 native credit writes 太樹 rather than source 大樹; retain original. Do not substitute unrelated Hiroki Yasuko. Published Latin authority pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        85
+      ]
+    },
+    {
+      "id": "credits_staff_084",
+      "ja": "辻本正太",
+      "en": "Shota Tsujimoto",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/253719/great-battle-fullblast/credits/psp/",
+        "https://www.mobygames.com/game/143698/suzumiya-haruhi-no-tomadoi/credits/ps2/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 promotion name paired with same Goka/Sutou team. Primary Latin artwork pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        85
+      ]
+    },
+    {
+      "id": "credits_staff_085",
+      "ja": "高林一浩",
+      "en": "Kazuhiro Takabayashi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/253719/great-battle-fullblast/credits/psp/",
+        "https://www.mobygames.com/game/202188/puella-magi-madoka-magica-portable/credits/psp/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 Bandai sales name, same adjacent source team. Primary Latin artwork pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        86
+      ]
+    },
+    {
+      "id": "credits_staff_086",
+      "ja": "佐伯博史",
+      "en": "Hiroshi Saeki",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/253719/great-battle-fullblast/credits/psp/",
+        "https://www.mobygames.com/game/202188/puella-magi-madoka-magica-portable/credits/psp/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 Bandai sales native/Latin pair. Saiki spelling attested in other database credits; Saeki retained from exact2012 team. Unrelated footballer not used. Primary Latin artwork pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        86
+      ]
+    },
+    {
+      "id": "credits_staff_087",
+      "ja": "熊田直樹",
+      "en": "Naoki Kumada",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/253719/great-battle-fullblast/credits/psp/",
+        "https://www.mobygames.com/game/202188/puella-magi-madoka-magica-portable/credits/psp/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 Bandai sales native/Latin pair, primary Latin artwork pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        86
+      ]
+    },
+    {
+      "id": "credits_staff_088",
+      "ja": "西端悟",
+      "en": "Satoru Nishibata",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/202188/puella-magi-madoka-magica-portable/credits/psp/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 Bandai sales native/Latin pair with same Takabayashi/Saeki/Kumada/Yamazaki/Sakata team. Primary Latin artwork pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        86
+      ]
+    },
+    {
+      "id": "credits_staff_089",
+      "ja": "山崎秀之",
+      "en": "Hideyuki Yamazaki",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/253719/great-battle-fullblast/credits/psp/",
+        "https://www.mobygames.com/game/202188/puella-magi-madoka-magica-portable/credits/psp/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 Bandai sales native/Latin pair, primary Latin artwork pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        86
+      ]
+    },
+    {
+      "id": "credits_staff_090",
+      "ja": "坂田圭右",
+      "en": "Keisuke Sakata",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/253719/great-battle-fullblast/credits/psp/",
+        "https://www.mobygames.com/person/357830/keisuke-sakata/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 Bandai sales pair and staff profile native alias; primary Latin artwork pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        86
+      ]
+    },
+    {
+      "id": "credits_staff_091",
+      "ja": "伊藤大央",
+      "en": "Daio Itō",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/253719/great-battle-fullblast/credits/psp/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 Bandai sales native/Latin pair. Database headword macron retained. Do not guess Hiro from kanji. Primary Latin artwork pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        86
+      ]
+    },
+    {
+      "id": "credits_staff_092",
+      "ja": "坂元亮",
+      "en": "Ryo Sakamoto",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/253719/great-battle-fullblast/credits/psp/",
+        "https://www.mobygames.com/person/99862/ryo-sakamoto/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 Bandai quality assurance name and staff profile kana/native alias; Ryō alternative recorded, headword Ryo retained. Primary Latin artwork pending. Root approved spelling on 2026-10-11; provisional authority/variant notes preserved. No inferred gender/personality.",
+      "source_credit_position_indices": [
+        84
+      ]
+    },
+    {
+      "id": "credits_staff_093",
+      "ja": "金坂吉久",
+      "en": "Yoshihisa Kanesaka",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/75004/kokoro-connect-yochi-random/credits/psp/",
+        "https://www.mobygames.com/game/59034/another-centurys-episode-2/credits/ps2/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 special-thanks native/Latin pair corroborated older Bandai/Banpresto credits. Primary Latin artwork pending. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        88
+      ]
+    },
+    {
+      "id": "credits_staff_094",
+      "ja": "渡部隆",
+      "en": "Takashi Watabe",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/75004/kokoro-connect-yochi-random/credits/psp/",
+        "https://www.mobygames.com/game/59034/another-centurys-episode-2/credits/ps2/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 native/Latin pair and older affiliated publicity credits. Preserve Watabe, not guess Watanabe. Primary Latin artwork pending. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        88
+      ]
+    },
+    {
+      "id": "credits_staff_095",
+      "ja": "鈴木桃子",
+      "en": "Momoko Suzuki",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/75004/kokoro-connect-yochi-random/credits/psp/",
+        "https://www.mobygames.com/game/59034/another-centurys-episode-2/credits/ps2/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 artwork-production name and older affiliated publicity credits. Unrelated actor not imported. Primary Latin artwork pending. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        88
+      ]
+    },
+    {
+      "id": "credits_staff_096",
+      "ja": "深澤智和",
+      "en": "Tomokazu Fukazawa",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/75004/kokoro-connect-yochi-random/credits/psp/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 same Bandai special-thanks team. Primary Latin artwork pending. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        88
+      ]
+    },
+    {
+      "id": "credits_staff_097",
+      "ja": "大地宏明",
+      "en": "Hiroaki Ochi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/75004/kokoro-connect-yochi-random/credits/psp/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 same Bandai special-thanks team. Native surname 大地 paired Ochi; do not guess Daichi. Primary Latin artwork pending. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        88
+      ]
+    },
+    {
+      "id": "credits_staff_098",
+      "ja": "伊藤翔平",
+      "en": "Shōhei Itō",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/75004/kokoro-connect-yochi-random/credits/psp/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 same Bandai special-thanks team, macron database headword retained. Primary Latin artwork pending. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        88
+      ]
+    },
+    {
+      "id": "credits_staff_099",
+      "ja": "国崎久徳",
+      "en": "Hisanori Kunizaki",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/75004/kokoro-connect-yochi-random/credits/psp/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 same Bandai special-thanks team. Primary Latin artwork pending. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        88
+      ]
+    },
+    {
+      "id": "credits_staff_100",
+      "ja": "小野靖",
+      "en": "Yasushi Ono",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.city.minami-alps.yamanashi.jp/fs/6/3/1/0/2/_/2020_08.pdf",
+        "https://www.mobygames.com/person/231669/yasushi-ono/"
+      ],
+      "confidence": "published_municipal_profile",
+      "authority_pending": false,
+      "notes": "Municipal profile prints native/Latin name and Bandai Namco career; game database native alias corroborates media/licensing affiliation. Unrelated plasma physicist and actor excluded. No personal biography inserted into target. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        88
+      ]
+    },
+    {
+      "id": "credits_staff_101",
+      "ja": "渥美真紀",
+      "en": "Maki Atsumi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/109202/digimon-world-re-digitize/credits/3ds/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2013 Bandai media-department native/Latin credit, adjacent Kuninori Yoshizaki team. Primary Latin artwork pending. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        88
+      ]
+    },
+    {
+      "id": "credits_staff_102",
+      "ja": "菊野秀則",
+      "en": "Hidenori Kikuno",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://patents.google.com/patent/JP2006192142A/ja",
+        "https://www.mobygames.com/game/73960/kido-senshi-gundam-senjo-no-kizuna-portable/credits/psp/"
+      ],
+      "confidence": "patent_native_latin_and_database",
+      "authority_pending": false,
+      "notes": "Patent publication native/Latin inventor mapping corroborated exact Bandai game credit. Do not add inventor status to source marketing-role target. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        87
+      ]
+    },
+    {
+      "id": "credits_staff_103",
+      "ja": "株式会社ウィッチクラフト",
+      "en": "WITCHCRAFT inc.",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://gdri.smspower.org/wiki/index.php/Witchcraft",
+        "https://www.witch-craft.co.jp/"
+      ],
+      "confidence": "developer_research_wiki",
+      "authority_pending": false,
+      "notes": "GDRI developer wiki exact native/Latin company pair, official site corroborates WITCHCRAFT branding. Keep historical2012 credited developer, not game Witchcraft term. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        20
+      ]
+    },
+    {
+      "id": "credits_staff_104",
+      "ja": "光を継ぐもの",
+      "en": "Those Who Inherit the Light",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.gamer.ne.jp/news/201112080054/"
+      ],
+      "confidence": "provisional_source_derived_song_title",
+      "authority_pending": true,
+      "notes": "2011 game announcement confirms exact native insert-song title, Megu Sakuragawa vocalist and Miyauchi/Kikuta roles. No official English title retrieved. Proposed descriptive translation, source generic inheritor wording without inventing plot identity. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        27
+      ]
+    },
+    {
+      "id": "credits_staff_105",
+      "ja": "株式会社フェニシス",
+      "en": "PHOENISYS",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://phoenisys.co.jp/",
+        "https://www.mobygames.com/game/75004/kokoro-connect-yochi-random/credits/psp/"
+      ],
+      "confidence": "official_company_brand",
+      "authority_pending": false,
+      "notes": "Official website pairs native company with PHOENISYS. Exact2012 credit spells Phoenisys Co. Ltd.; preserve published brand rather than mistaken Phoenix. Legal-suffix rendering not claimed from current landing page. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        61
+      ]
+    },
+    {
+      "id": "credits_staff_106",
+      "ja": "田茂理典",
+      "en": "Masanori Tamo",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/75004/kokoro-connect-yochi-random/credits/psp/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 website-production native/Latin pair affiliated PHOENISYS, adjacent Kamiyama. Primary Latin authority pending. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        61
+      ]
+    },
+    {
+      "id": "credits_staff_107",
+      "ja": "上山昌俊",
+      "en": "Masatoshi Kamiyama",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/75004/kokoro-connect-yochi-random/credits/psp/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact2012 website-production native/Latin pair affiliated PHOENISYS, adjacent Tamo. Primary Latin authority pending. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        61
+      ]
+    },
+    {
+      "id": "credits_staff_108",
+      "ja": "株式会社アートプレスト",
+      "en": "ARTPRESTO CO., LTD.",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.bandainamco.co.jp/files/about/pdf/2022_corporate_2.pdf",
+        "https://www.artpresto.co.jp/company/",
+        "https://www.mobygames.com/game/75004/kokoro-connect-yochi-random/credits/psp/"
+      ],
+      "confidence": "official_parent_company_profile",
+      "authority_pending": false,
+      "notes": "Parent-company published bilingual corporate profile explicitly gives English company name. Exact2012 native credit independently pairs Artpresto Co., Ltd.; no modern renaming inferred. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        60
+      ]
+    },
+    {
+      "id": "credits_staff_109",
+      "ja": "大嶋貴央",
+      "en": "Takao Ōshima",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/person/634951/takao-oshima/",
+        "https://www.mobygames.com/game/75004/kokoro-connect-yochi-random/credits/psp/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact native/Latin Artpresto printing/title-logo role-linked alias; database macron retained, primary Latin authority pending. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        60
+      ]
+    },
+    {
+      "id": "credits_staff_110",
+      "ja": "齋藤英司",
+      "en": "Eiji Saito",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/34550/super-robot-taisen-og-gaiden/credits/ps2/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact affiliated Artpresto leaflet/manual staff native/Latin pair with Takao Oshima. Primary Latin authority pending. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        60
+      ]
+    },
+    {
+      "id": "credits_staff_111",
+      "ja": "田端孝充",
+      "en": "Takamitsu Tabata",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/person/634952/takamitsu-tabata/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Exact native/Latin2012 Artpresto print-materials staff alias; primary Latin authority pending. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        60
+      ]
+    },
+    {
+      "id": "credits_staff_112",
+      "ja": "小菅寛史",
+      "en": "Hiroshi Kosuge",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/253719/great-battle-fullblast/credits/psp/",
+        "https://www.mobygames.com/game/75004/kokoro-connect-yochi-random/credits/psp/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Original pixels independently rechecked by root, correcting transcription only 賢→寛. Exact2012 Bandai producer/special-thanks team native/Latin pair. Source and queue immutable ID retained. Primary Latin authority pending. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        88
+      ]
+    },
+    {
+      "id": "credits_staff_113",
+      "ja": "吉崎邦法",
+      "en": "Kuninori Yoshizaki",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/game/253719/great-battle-fullblast/credits/psp/",
+        "https://www.mobygames.com/game/34550/super-robot-taisen-og-gaiden/credits/ps2/"
+      ],
+      "confidence": "provisional_exact_database_credit",
+      "authority_pending": true,
+      "notes": "Original pixels independently rechecked by root, correcting erroneous transcription 吉峰邦浩 to 吉崎邦法. Exact native/Latin Bandai media/client-management alias. Different database credit 吉崎邦宏→Kunihiro is not this exact source; no silent identity merger. Primary Latin authority pending. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        88
+      ]
+    },
+    {
+      "id": "credits_staff_114",
+      "ja": "白井兼太郎",
+      "en": "Kentaro Shirai",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://games.geidai.ac.jp/02/games/detail/public-bath.html",
+        "https://dengekionline.com/elem/000/000/857/857942/"
+      ],
+      "confidence": "primary_bilingual_game_industry_credit",
+      "authority_pending": false,
+      "notes": "Tokyo University of the Arts publisher pairs exact native name with Kentaro Shirai in game-industry mentor credit. 2014 original developer interview corroborates exact native name at Witchcraft. Later employer is identification evidence only, not added to original game credit. No gender/personality inferred. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        6
+      ]
+    },
+    {
+      "id": "credits_staff_115",
+      "ja": "五十川綾子",
+      "en": "Ayako Isokawa",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://kg-portal.ru/people/anime/a113014/",
+        "https://enpedia.org/wiki/アキの奏で"
+      ],
+      "confidence": "provisional_role_linked_secondary_database",
+      "authority_pending": true,
+      "notes": "English database gives Ayako Isokawa for Aki no Kanade in-between check; native wiki gives exact name in same production and same role. Source original role likewise in-between animation. No direct bilingual primary spelling retrieved. Unrelated web designer same kanji and different Ryoko Ikagawa reading explicitly excluded. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        67,
+        73,
+        74
+      ]
+    },
+    {
+      "id": "credits_staff_116",
+      "ja": "中西智一",
+      "en": "Tomokazu Nakanishi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.animeka.com/animes/pers/NAKANISHI%2BTomokazu.html",
+        "https://www.allcinema.net/cinema/pdf/340700",
+        "https://www.metacritic.com/person/tomokazu-nakanishi/"
+      ],
+      "confidence": "provisional_role_linked_secondary_database",
+      "authority_pending": true,
+      "notes": "Animeka search result gives photography director Tomokazu Nakanishi for Shakugan no Shana III Final; native production database gives exact name in that identical role/title. Open Animeka now empty but indexed role record retained; Metacritic independently lists English name in camera department credits. Exact bilingual primary authority pending. Unrelated researcher same Latin name with different native spelling not merged. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        76
+      ]
+    },
+    {
+      "id": "credits_staff_117",
+      "ja": "北畠太郎",
+      "en": "Tarou Kitabatake",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://keyframe-staff-list.com/staff/my-hero-academia-heroes-rising"
+      ],
+      "confidence": "provisional_exact_bilingual_staff_database",
+      "authority_pending": true,
+      "notes": "Indexed bilingual full native credit pairs exact name with Tarou Kitabatake in background art at bic Studio, same original affiliation and role. IMDb-style Taro alternative previously found; retain this exact bilingual Tarou spelling provisionally. Primary published Latin authority pending; no gender or biography inferred. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        75
+      ]
+    },
+    {
+      "id": "credits_staff_118",
+      "ja": "知本祐太",
+      "en": "Yuuta Chimoto",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://keyframe-staff-list.com/staff/kusunoki-no-bannin",
+        "https://keyframe-staff-list.com/staff/tenki-no-ko",
+        "https://www.cwfilms.jp/products/article/100cm.html"
+      ],
+      "confidence": "provisional_exact_bilingual_staff_database",
+      "authority_pending": true,
+      "notes": "Two full indexed native/Latin animation credits pair exact name with Yuuta Chimoto in background artwork/layout. Native production studio independently confirms exact spelling in artwork credit. Primary Latin spelling pending; same visual-art role supports association, not invented biography/gender. Original game role remains Image Boards. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        16
+      ]
+    },
+    {
+      "id": "credits_staff_119",
+      "ja": "北熊",
+      "en": "Hokuyu",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://wikimon.net/Hokuyu",
+        "https://cardfight.fandom.com/wiki/Category%3A%E5%8C%97%E7%86%8A",
+        "https://dmwiki.net/Hokuyu"
+      ],
+      "confidence": "franchise_wiki_illustrator_pseudonym",
+      "authority_pending": false,
+      "notes": "Digimon wiki explicitly pairs Hokuyu/also Hokyyuu with native pen name; Vanguard wiki independently pairs exact native name with Hokuyu. Japanese Duel Masters wiki headword Hokuyu also links the same native illustrator profile. No legal name, gender or biography inferred. Original game credits original monster design; same illustrator pseudonym association supported, explicit game-specific Latin credit not retrieved. Unrelated ramen brand not merged. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        5
+      ]
+    },
+    {
+      "id": "credits_staff_120",
+      "ja": "佐藤達也",
+      "en": "Tatsuya Sato",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/person/805423/tatsuya-sato/",
+        "https://www.mobygames.com/game/104477/attack-on-titan-2/credits/playstation-4/",
+        "https://raido.moe/staff/ps2/ps2_mobile_suit_gundam_00.html",
+        "https://keyframe-staff-list.com/staff/6afbc5c5f1087269fc3de5574b7d7cf6ebc4386c2bc36eb7"
+      ],
+      "confidence": "role_linked_secondary_credit_database_provisional",
+      "authority_pending": true,
+      "notes": "Game database explicitly pairs exact native name and Latin name with recording-assistant role and Tricycle Studio. Independent native game-credit transcription pairs same name/studio/role; this is the original game credit team and matches nearby Fujio Yamada and Techno Sound. Bilingual anime staff list independently confirms same reading but uses Satou spelling; no primary published Latin credit retrieved. Identity remains role-linked provisional. Unrelated patent inventor, dentist, saxophonist with different final character, psychologist and mastering engineer not used as identity evidence. Gender and biography unknown; no inference from name. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        53
+      ]
+    },
+    {
+      "id": "credits_staff_121",
+      "ja": "望月克己",
+      "en": "Katsumi Mochizuki",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://anime-japan.jp/2017/en/img/main/AnimeJapan2017_guidebook.pdf",
+        "https://www.mobygames.com/person/253181/katsumi-mochizuki/credits/"
+      ],
+      "confidence": "primary_bilingual_event_program_same_sunrise_licensing_role",
+      "authority_pending": false,
+      "notes": "Official AnimeJapan2017 bilingual guide explicitly pairs exact native and Latin name and SUNRISE INC. licensing role. Game database independently pairs native alias and Sunrise supervision credits including Keroro. Later event role is identity/spelling evidence only, not inserted into 2012 game credit. Database variant final native character recorded but source exact orthography retained. Unrelated athlete same name not used. Gender/personality not researched; no inference from name. Other names in block63 remain unresolved. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        63
+      ]
+    },
+    {
+      "id": "credits_staff_122",
+      "ja": "渋谷誠",
+      "en": "Makoto Shibuya",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.mobygames.com/person/631222/makoto-shibuya/"
+      ],
+      "confidence": "provisional_database_exact_native_alias_same_sunrise_role",
+      "authority_pending": true,
+      "notes": "Game credit database explicitly pairs exact native name with Latin name and Sunrise supervision/cooperation across original franchise game credits. No primary bilingual Latin authority retrieved; reading and identity remain secondary/database provisional. Do not transfer unrelated namesakes, gender or biography. Source2012 supervision role remains unchanged; other names in block63 held. Root approved2026-10-11; published alternatives and provisional confidence retained. No gender inferred.",
+      "source_credit_position_indices": [
+        63
+      ]
+    },
+    {
+      "id": "credits_staff_123",
+      "ja": "原田淳",
+      "en": "Jun Harada",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.13hw.com/interview_pro/senpai_gtm_harada_jyun.html"
+      ],
+      "confidence": "primary_interview_explicit_kana_project_romanization",
+      "authority_pending": true,
+      "notes": "Professional interview with native exact name explicitly supplies kana reading and Sunrise affiliation in2013. Latin spelling is direct project romanization of attested reading, not separately published Latin authority. Unrelated academics and energy-company executives excluded. Source2012 supervision role retained without later role expansion; gender/personality not inferred. Root approved 2026-10-11; alternatives and authority limits retained.",
+      "source_credit_position_indices": [
+        63
+      ]
+    },
+    {
+      "id": "credits_staff_124",
+      "ja": "北澤幸子",
+      "en": "Sachiko Kitazawa",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.worldradiohistory.com/Archive-International-Television-Almanac/2009/International-Television-Almanac-2009.pdf",
+        "https://www.worldradiohistory.com/Archive-BC/BC-1989/BC-1989-01-16.pdf"
+      ],
+      "confidence": "historical_industry_directory_same_company_provisional_identity",
+      "authority_pending": true,
+      "notes": "Historical trade directories list exact Latin name on Enoki Films staff in1989 and2009; original game native source has same company association. No direct bilingual primary pairing retrieved, so native-to-Latin identity remains role-linked provisional. Do not insert the2009 overseas title or biography in2012credit. Root approved 2026-10-11; alternatives and authority limits retained.",
+      "source_credit_position_indices": [
+        62
+      ]
+    },
+    {
+      "id": "credits_staff_125",
+      "ja": "水野寛",
+      "en": "Hiroshi Mizuno",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Original staff-credit role retained in queue",
+      "sources": [
+        "https://www.unitedcinemas.jp/img/release/2011/2011060333.pdf",
+        "https://otakuusamagazine.com/newtype-editor-in-chief-looking-out-for-these-trends-in-2016/",
+        "https://thetv.jp/person/2000038654/",
+        "https://woman.mynavi.jp/article/130918-099/"
+      ],
+      "confidence": "publisher_secondary_same_editor_role_attested_reading",
+      "authority_pending": true,
+      "notes": "Contemporaneous cinema publisher announcement confirms exact native name and Newtype editor affiliation. English anime magazine names same editor Hiroshi Mizuno; publisher entertainment database gives explicit native kana reading independently. No primary bilingual name retrieved; Latin name linkage remains secondary. Unrelated scientists and doctor excluded, no gender/personality inferred. Source2012 role retained. Root approved 2026-10-11; alternatives and authority limits retained.",
+      "source_credit_position_indices": [
+        81
+      ]
+    },
+    {
+      "id": "credits_staff_126",
+      "ja": "穂積千愛",
+      "en": "Chie Hozumi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Sound Production Coordination in Heroes Phantasia",
+      "sources": [
+        "https://gimaiseikatsu-anime.com/special/staffdiary/07.html",
+        "https://keyframe-staff-list.com/staff/detective-conan-movie-15-quarter-of-silence",
+        "https://www.mobygames.com/person/1298952/chie-hozumi/"
+      ],
+      "confidence": "primary_role_secondary_exact_reading",
+      "notes": "Official anime production diary identifies exact native name and audio-production role; Latin reading is secondary exact audio-desk credit. No official Latin spelling found. Root-approved bounded reading; no nickname, gender or personality inference.",
+      "source_credit_position_indices": [
+        49
+      ]
+    },
+    {
+      "id": "credits_staff_127",
+      "ja": "深谷泰宏",
+      "en": "Yasuhiro Fukaya",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Quality Control in Heroes Phantasia",
+      "sources": [
+        "https://www.bandainamcoent.com/news/tales-of-berseria-exclusive-interview",
+        "https://www.mobygames.com/person/178356/yasuhiro-fukaya/credits/"
+      ],
+      "confidence": "official_latin_secondary_native_alias",
+      "notes": "Bandai official interview explicitly spells Yasuhiro Fukaya. Exact native alias and same company QA roles link the credit through secondary database. Original Quality Control role retained, later producer role not inserted. Root-approved bounded reading; no nickname, gender or personality inference.",
+      "source_credit_position_indices": [
+        84
+      ]
+    },
+    {
+      "id": "credits_staff_128",
+      "ja": "柳田一利",
+      "en": "Kazutoshi Yanagida",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Special Thanks in Heroes Phantasia",
+      "sources": [
+        "https://www.bandainamco.co.jp/files/120401E59FB7E8A18CE5BDB9E593A1EFBCA7EFBCADE4BABAE4.pdf"
+      ],
+      "confidence": "official_company_explicit_kana",
+      "notes": "Bandai 2012 personnel announcement page3 explicitly gives both surname and given-name kana and current Bandai role. Western-order romanization follows explicit reading; later CEO role is not inserted in Special Thanks. Root-approved bounded reading; no nickname, gender or personality inference.",
+      "source_credit_position_indices": [
+        88
+      ]
+    },
+    {
+      "id": "credits_staff_129",
+      "ja": "岡村貴次",
+      "en": "Takatsugu Okamura",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Cooperation in Heroes Phantasia",
+      "sources": [
+        "https://www.mobygames.com/person/238304/takatsugu-okamura/",
+        "https://www.mobygames.com/game/141999/dai-2-ji-super-robot-taisen-z-saisei-hen/credits/psp/",
+        "https://raido.moe/staff/ps1/ps1_captain_commando.html"
+      ],
+      "confidence": "provisional_same_company_native_alias",
+      "notes": "Exact native alias, same-year Sony cooperation and neighboring Tamaki/Onda support identity; original Captain Commando transcript has explicit Latin credit. No fresh primary company Latin page found. Root-approved bounded reading; no nickname, gender or personality inference.",
+      "source_credit_position_indices": [
+        82
+      ]
+    },
+    {
+      "id": "credits_staff_130",
+      "ja": "玉置聡",
+      "en": "Satoshi Tamaki",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Cooperation in Heroes Phantasia",
+      "sources": [
+        "https://sce.scene7.com/is/content/playstation/software/manual/manual_npja00033.pdf",
+        "https://patents.google.com/patent/US6769988B1/en",
+        "https://patents.google.com/patent/JP2001259219A/en",
+        "https://www.mobygames.com/game/141999/dai-2-ji-super-robot-taisen-z-saisei-hen/credits/psp/"
+      ],
+      "confidence": "official_company_latin_and_original_us_patent",
+      "notes": "Sony official manual indexed credit uses Satoshi Tamaki in Promotions/Sales; same-year game database pairs native name. US original patent lists Satoshi Tamaki with Sony, whereas JP machine-English page gives Tamaoki: reject machine reading. Patent alone does not establish game-credit identity. Manual screenshot timed out; Latin official evidence is indexed text, not visual verification. Root-approved bounded reading; no nickname, gender or personality inference.",
+      "source_credit_position_indices": [
+        82
+      ]
+    },
+    {
+      "id": "credits_staff_131",
+      "ja": "恩田康一郎",
+      "en": "Koichiro Onda",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Cooperation in Heroes Phantasia",
+      "sources": [
+        "https://sce.scene7.com/is/content/playstation/software/manual/manual_bcjs30038.pdf",
+        "https://www.mobygames.com/person/354017/koichiro-onda/credits/"
+      ],
+      "confidence": "official_company_latin_secondary_native_alias",
+      "notes": "Sony official Ratchet & Clank Future2 manual indexed Sales Planning credit has Koichiro Onda; exact native alias and repeated Sony sales/support roles corroborate. Other official Aquanauts manual uses Kouichiro as variant. Unrelated business founder with different native surname excluded. PDF screenshots timed out. Root-approved bounded reading; no nickname, gender or personality inference.",
+      "source_credit_position_indices": [
+        82
+      ]
+    },
+    {
+      "id": "credits_staff_132",
+      "ja": "大塚怜士",
+      "en": "Satoshi Otsuka",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Special Thanks in Heroes Phantasia",
+      "sources": [
+        "https://www.famitsu.com/news/201609/16115946.html",
+        "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=201403024965491149",
+        "https://www.mobygames.com/person/255996/satoshi-otsuka/credits/"
+      ],
+      "confidence": "primary_role_secondary_exact_reading",
+      "notes": "Firsthand TGS report and Bandai patent identify exact native name in game-production context. Secondary exact alias and 2013 kana credit settle Satoshi, not Reiji. Racing result with same kanji lacks identity link and is excluded. Original Special Thanks retained. Root-approved bounded reading; no nickname, gender or personality inference.",
+      "source_credit_position_indices": [
+        88
+      ]
+    },
+    {
+      "id": "credits_staff_133",
+      "ja": "小山夏希",
+      "en": "Natsuki Koyama",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Quality Control in Heroes Phantasia",
+      "sources": [
+        "https://www.mobygames.com/game/213152/the-idolmster-starlit-season/credits/windows/?autoplatform=true",
+        "https://raido.moe/staff/ps4/ps4_kyoei_toshi.html",
+        "https://www.igdb.com/games/one-piece-world-seeker/credits"
+      ],
+      "confidence": "provisional_same_company_same_role_alias",
+      "notes": "Exact native alias in Bandai Quality Assurance links Latin Natsuki Koyama to same role/company. No fresh primary Latin found; unrelated model profile excluded. Root-approved bounded reading; no nickname, gender or personality inference.",
+      "source_credit_position_indices": [
+        84
+      ]
+    },
+    {
+      "id": "credits_staff_134",
+      "ja": "浅井麻紀",
+      "en": "Maki Asai",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Marketing in Heroes Phantasia",
+      "sources": [
+        "https://www.mobygames.com/game/145670/soul-eater-battle-resonance/credits/ps2/",
+        "https://raido.moe/staff/nds/nds_taiko_no_tatsujin_ds3.html",
+        "https://manuals.plus/m/9e3ce19700d69faabeb88b64a29a0f0f8f22d05725d25c739cb2561e2455ea7a.pdf"
+      ],
+      "confidence": "provisional_same_company_same_role_alias",
+      "notes": "Exact native alias in Bandai sales credit plus adjacent native Taiko Marketing credit with Kikuno corroborate. Eternal Sonata manual search index has Asai Maki; PDF decoded search and screenshot failed, so primary manual remains unverified secondary corroboration only. Unrelated sculptor different kanji, modern consultancy and medical publisher identities not merged. Root-approved bounded reading; no nickname, gender or personality inference.",
+      "source_credit_position_indices": [
+        87
+      ]
+    },
+    {
+      "id": "credits_staff_135",
+      "ja": "吉羽将一",
+      "en": "Shoichi Yoshiba",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Special Thanks in Heroes Phantasia",
+      "sources": [
+        "https://manuals.plus/m/9e3ce19700d69faabeb88b64a29a0f0f8f22d05725d25c739cb2561e2455ea7a.pdf",
+        "https://www.mobygames.com/game/149400/nendoroid-generation/credits/psp/?autoplatform=true",
+        "https://www.mobygames.com/game/62633/kamen-rider-climax-heroes-w/credits/wii/"
+      ],
+      "confidence": "primary_credit_index_secondary_exact_alias",
+      "notes": "Exact native alias in same-year Bandai Media Department credit and earlier Media Strategy credit. Eternal Sonata manual search index reads surname-first Yoshiba Syouichi; full PDF verification failed, so exact role-linked secondary reading is the usable authority. Western-order spelling follows secondary headword. Root-approved bounded reading; no nickname, gender or personality inference.",
+      "source_credit_position_indices": [
+        88
+      ]
+    },
+    {
+      "id": "credits_staff_136",
+      "ja": "緒方光太郎",
+      "en": "Kotaro Ogata",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "2D Characters in Heroes Phantasia",
+      "sources": [
+        "https://www.mobygames.com/game/105913/tengai/credits/sega-saturn/",
+        "https://www.volks.co.jp/blog_sr/akiba_hs/2020/03/14/010863.html"
+      ],
+      "confidence": "provisional_game_designer_exact_alias",
+      "notes": "Exact native alias in Tengai designer credit supplies Latin. Modern model artist exact native name has no identity bridge to this game developer and is not used as reading authority. No fresh official game Latin source found. Root-approved bounded reading; no nickname, gender or personality inference.",
+      "source_credit_position_indices": [
+        8
+      ]
+    },
+    {
+      "id": "credits_staff_137",
+      "ja": "原口唯",
+      "en": "Yui Haraguchi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Artpresto credit in Heroes Phantasia",
+      "sources": [
+        "https://www.mobygames.com/game/253719/great-battle-fullblast/credits/psp/",
+        "https://raido.moe/staff/psp/psp_great_battle_fullblast.html"
+      ],
+      "confidence": "provisional_same_year_same_company_exact_alias",
+      "notes": "Same-year Artpresto Design Work credits explicitly pair this Latin spelling with the exact native name, alongside the same Takao Oshima colleague. Secondary transcripts; no official Latin source established. University and social-enterprise homonyms are not identity evidence. Entire block remains pending because another name is unresolved. Root approved project spelling; no independently verified official Latin authority. Full incomplete credit block remains untranslated.",
+      "source_credit_position_indices": [
+        60
+      ]
+    },
+    {
+      "id": "credits_staff_138",
+      "ja": "秋山育宏",
+      "en": "Yasuhiro Akiyama",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "3D Characters in Heroes Phantasia",
+      "sources": [
+        "https://w.atwiki.jp/game_staff/pages/380.html",
+        "https://w.atwiki.jp/game_staff/pages/12.html",
+        "https://gamefaqs.gamespot.com/xboxone/357214-chrono-cross-the-radical-dreamers-edition/credit"
+      ],
+      "confidence": "provisional_secondary_explicit_reading_and_same_company_role",
+      "notes": "GameStaff provides the explicit kana reading and Latin index. Its 2012 Dragnir character-model credit identifies Witchcraft, matching the original developer and graphics role. Chrono Cross English credit transcript corroborates the Latin spelling and character-texture role. These are secondary sources, not independently viewed official credit images. The wiki warns it contains inference; confidence is bounded accordingly. Two other names in this block remain unresolved. Root approved project spelling; no independently verified official Latin authority. Full incomplete credit block remains untranslated.",
+      "source_credit_position_indices": [
+        10
+      ]
+    },
+    {
+      "id": "credits_staff_139",
+      "ja": "前田幸江",
+      "en": "Yukie Maeda",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "OverDriveDesign credit in Heroes Phantasia",
+      "sources": [
+        "https://www.mobygames.com/game/114899/star-driver-kagayaki-no-takt-ginga-bishonen-densetsu/credits/psp/",
+        "https://www.mobygames.com/game/98743/gundam-breaker-3/credits/ps-vita/?autoplatform=true",
+        "https://www.overdrive.jp/"
+      ],
+      "confidence": "provisional_same_company_same_role_explicit_alias",
+      "notes": "2011 Star Driver PSP Manual Design explicitly pairs Latin with exact native name and OverDrive company. Later package credits corroborate same designer pair. Official company page confirms design-company identity but supplies no staff reading. Secondary name authority; no official Latin spelling established. Voice actress and physicist with differing native names are excluded. Root-approved provisional project spelling.",
+      "source_credit_position_indices": [
+        58
+      ]
+    },
+    {
+      "id": "credits_staff_140",
+      "ja": "泉原厚子",
+      "en": "Atsuko Izumihara",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "OverDriveDesign credit in Heroes Phantasia",
+      "sources": [
+        "https://raido.moe/staff/psv/psv_gundam_breaker_1.html",
+        "https://www.mobygames.com/game/98743/gundam-breaker-3/credits/ps-vita/?autoplatform=true",
+        "https://www.mobygames.com/game/109921/new-gundam-breaker/credits/playstation-4/",
+        "https://www.overdrive.jp/"
+      ],
+      "confidence": "provisional_same_company_same_role_cross_credit_reading",
+      "notes": "Native 2013 Gundam Breaker package/manual credit pairs exact name with the same Maeda colleague under OverDrive. English 2016/2018 package/manual credits give Atsuko Izumihara with that company and pair. Cross-credit reading is bounded secondary evidence; no official staff Latin or kana established. No personal profile inferred. Root-approved provisional project spelling.",
+      "source_credit_position_indices": [
+        58
+      ]
+    },
+    {
+      "id": "credits_staff_141",
+      "ja": "横石誠",
+      "en": "Makoto Yokoishi",
+      "category": "staff_credit",
+      "franchise": "Real-world credits",
+      "gender": "unknown",
+      "personality": "unknown",
+      "nickname": "unknown",
+      "role": "Artpresto credit in Heroes Phantasia",
+      "sources": [
+        "https://p-prom.com/feature/?p=10905",
+        "https://www.mobygames.com/game/92369/kido-senshi-gundam-extreme-vs/credits/ps3/",
+        "https://gvsmatome.blog.fc2.com/blog-entry-633.html"
+      ],
+      "confidence": "provisional_primary_company_role_secondary_latin_cross_credit",
+      "notes": "Firsthand conference reporting identifies the exact native name at Artpresto Creative Lab. 2011 Extreme Vs credits give Makoto Yokoishi under Artpresto alongside the same Eiji Saito colleague; a later Maxiboost staff transcript independently repeats the Latin name in Artpresto. Reading is a secondary cross-credit identification, not official Latin authority. Conference article later uses a different surname internally; exact opening attribution retained, internal mismatch not silently repaired. Modern company representative and anime-prop identities are not imported without an identity bridge. Root-approved provisional project spelling.",
+      "source_credit_position_indices": [
+        60
+      ]
+    }
+  ]
+}

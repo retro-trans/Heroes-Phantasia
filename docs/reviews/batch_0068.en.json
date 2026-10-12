@@ -1,0 +1,408 @@
+{
+  "version": "0.1.7",
+  "date": "2026-10-11",
+  "language": "en",
+  "batch": "batch_0068",
+  "translator": "primary agent",
+  "rows_in_slice": 80,
+  "rows_drafted": 80,
+  "minimum_counted_context_row_views": 437,
+  "counted_view_scope": "313 base-scene rows and 12 changed paired-variant rows read for meaning, plus 80 slice rows and 32 adjacent queue rows; rereads excluded. Every paired-variant row was byte-compared, with identical rows not added to the view count.",
+  "full_scene_reference_rows_covered": 626,
+  "occurrence_scene_count": 13,
+  "context_scene_count": 14,
+  "adjacent_queue_rows_before": 8,
+  "adjacent_queue_rows_after": 24,
+  "source_occurrences_verified": 157,
+  "original_scene_snapshot": [
+    {
+      "file": "phase/bin/p210100.bin",
+      "row_count": 63,
+      "sha256": "02c97085189dcf3c4175fb9d7e7de153fcfa28d1392d3848ae0c496d62f773c4",
+      "scope": "matched preceding protagonist scene"
+    },
+    {
+      "file": "phase/bin/p210101.bin",
+      "row_count": 63,
+      "sha256": "302c41d9ae5d8f7b7b5434a39b5ca5f97046287e9fdbbcb62c0fec73ea597105",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p210110.bin",
+      "row_count": 41,
+      "sha256": "07b11f4357d50fc480059107a333c802633de7ada6c33c0f0481af89a0a14118",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p210111.bin",
+      "row_count": 41,
+      "sha256": "f456f5e8bcf14c614f6538e5fce40bc9778659ebdf74399401cd47ab3913cd6c",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p210120.bin",
+      "row_count": 21,
+      "sha256": "71903b9ade4d21531feae79d320834e1e575455a4a9d1f5d37a50e0596cb2175",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p210121.bin",
+      "row_count": 21,
+      "sha256": "bfcda1fa2c2b1b23d13a920d53b6d3a40f66a353f81381a0c45b81e14349bf38",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p210130.bin",
+      "row_count": 22,
+      "sha256": "aa0d3722083f86bb9b70295ffeeb468d2a831aca931a10a5854289226d15b60d",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p210131.bin",
+      "row_count": 22,
+      "sha256": "e0653d90e723f3b8d6cce215a08350cbdbcba90d637d8071eaac93e2b7280173",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p212060.bin",
+      "row_count": 69,
+      "sha256": "144f10fa5e3f6919bda436711bc3d988988acfc2e18ccbc52ee8d1090a9c3282",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p212061.bin",
+      "row_count": 69,
+      "sha256": "73b97ac9c08f382282a3f0ab3da4b64cc3b9d8ff87b75da76ae616a5e6de4c51",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p313020.bin",
+      "row_count": 40,
+      "sha256": "be83b7de79a4f0802ce6969198470531c2ab8a7486230069dc2497811c8ee376",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p313021.bin",
+      "row_count": 40,
+      "sha256": "be83b7de79a4f0802ce6969198470531c2ab8a7486230069dc2497811c8ee376",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p319050.bin",
+      "row_count": 57,
+      "sha256": "ab3cb3a2ddd9477182fd8050562231ec279119a9d158e462e197c002ff5dc662",
+      "scope": "original occurrence scene"
+    },
+    {
+      "file": "phase/bin/p319051.bin",
+      "row_count": 57,
+      "sha256": "4b11618c6ae3dd0449fcf2905b9c46035b55c0b3176a1f3c283e83ebad37e19c",
+      "scope": "original occurrence scene"
+    }
+  ],
+  "original_batch_snapshot_sha256": "5ebadfa444236df545410a4b0fb0bf2725e409ed14e5fad54f9f3e24bbaf8ad7",
+  "independent_agent_meaning_review": "pending; no additional agent work launched",
+  "controls_numeric_arguments_percent_placeholders_passed": true,
+  "original_source_metadata_unchanged": true,
+  "filled_file_exports_verified": 72,
+  "english_only_export": "work/translation/en/batch_0068.en.json",
+  "glossary_profiles_enriched": [
+    "Gennai Hiraga",
+    "Jean-Henri Fabre"
+  ],
+  "glossary_entries": 293,
+  "glossary_source_records": 299,
+  "glossary_sources": [
+    "https://manga.fandom.com/wiki/Read_or_Die_%28OVA%29",
+    "local:work/translation/en/batch_0064.json",
+    "local:work/translation/en/batch_0068.json"
+  ],
+  "glossary_evidence_scope": "Fictional OVA descriptions confirm male pronouns and roles; game scenes support narrowly stated manner and Gennai's Dutch-learning interest. Existing English spellings remain unchanged. Historical biographies, later clone/battle outcomes and TV-series developments are not imported.",
+  "unresolved": [
+    {
+      "category": "ruby",
+      "row_indices": [
+        69,
+        70
+      ],
+      "translation_ids": [
+        "e6b239b19afedc251c59",
+        "aeea253f8d36db42a8d3"
+      ],
+      "note": "English Gennai Hiraga name order and paired readings retained. Both original numeric arguments 2 remain unchanged for integrity; rebuild both English base spans and measure the name/reading layout before installation."
+    },
+    {
+      "category": "runtime_name",
+      "row_indices": [
+        4
+      ],
+      "translation_ids": [
+        "a20ef846aea4e530d845"
+      ],
+      "note": "Protagonist name 0 appears in Natsuki's council-room recollection. Exact control order is preserved; measure the actual expanded names for both variants."
+    },
+    {
+      "category": "group_scope",
+      "row_indices": [
+        22
+      ],
+      "translation_ids": [
+        "c76e0d2d6830d03d04e4"
+      ],
+      "note": "The source says we transferred as chiropteran hunters. Independent meaning review should confirm its exact group scope; do not silently replace we with I based on Hagi's separate part-time work."
+    },
+    {
+      "category": "evidence_and_claims",
+      "row_indices": [
+        10,
+        15,
+        16,
+        17,
+        45,
+        51,
+        55,
+        58,
+        59,
+        63,
+        73,
+        74,
+        75,
+        77
+      ],
+      "translation_ids": [
+        "ce6e96ec5ae15fed6522",
+        "afac546fe27562d2ba3b",
+        "98569a2d08eb85df3c5f",
+        "11ab66a7299e69046d96",
+        "2425c686403cd3a9c7e3",
+        "526e53db05abb6205824",
+        "ea9db1784debc05a9a20",
+        "1f4d1d881603894fdcb6",
+        "a5f5005612974b9dfafb",
+        "28e0edc1a0dab1e3b648",
+        "a95345a5c9f8fc067b13",
+        "1598a1eb75795ae42ca8",
+        "465bd1561c47eafd338d",
+        "599b4e91f801091aa8cb"
+      ],
+      "note": "Natsuki now admits her own investigation and lie; Fabre only suggests possible transformation and Gennai evades D67 administration. The confirmed admission concerns book theft, not drug treatment. Preserve each statement's speaker and certainty."
+    },
+    {
+      "category": "literal_historical_wordplay",
+      "row_indices": [
+        42,
+        43,
+        44,
+        70,
+        72
+      ],
+      "translation_ids": [
+        "66f84fb5151a77230ae6",
+        "e6b8d5338e4d2f6d019f",
+        "d3208144a6de4766c118",
+        "aeea253f8d36db42a8d3",
+        "1928dd050d00f8b1ed34"
+      ],
+      "note": "Mikoto's game observation says stag beetle; the OVA wiki vehicle description does not establish what this game creature looks like. Nancy/Mai use I-Jin, while Gennai boasts of being a great historical figure after a textbook question. Independent wordplay review pending."
+    },
+    {
+      "category": "voice",
+      "row_indices": [
+        5,
+        9,
+        21,
+        28,
+        37,
+        48,
+        51,
+        54,
+        56,
+        57,
+        60,
+        64,
+        67,
+        70,
+        74,
+        78
+      ],
+      "translation_ids": [
+        "d6f20db35c5ecf009844",
+        "4babb73218298e18f2ae",
+        "2f2b8f3b5300a57b109f",
+        "863e42ae3695a1befdf6",
+        "df8e94ad8f64b4834d54",
+        "2d37b82b2e14f2539af4",
+        "526e53db05abb6205824",
+        "9ab1e2e6417505ddcdfa",
+        "8bc293ce7536aa8b6852",
+        "034287edc300596a2667",
+        "a4ff62a3238704eab8d9",
+        "6105969c84262d6ea3ae",
+        "24eb8325837a13ec15bc",
+        "aeea253f8d36db42a8d3",
+        "1598a1eb75795ae42ca8",
+        "a094accbd6d6b902f858"
+      ],
+      "note": "Stammers, incomplete recognitions, Mikoto's praise, Fabre's cruelty and Gennai's patronizing/evasive delivery require performance review; no age or transformation result is invented."
+    },
+    {
+      "category": "request_direction",
+      "row_indices": [
+        25,
+        27,
+        28,
+        29,
+        30,
+        31,
+        33,
+        35,
+        36,
+        39,
+        41,
+        49,
+        52,
+        66,
+        76,
+        78
+      ],
+      "translation_ids": [
+        "6d2f37fb82ef2a51e59c",
+        "0b62c0829f4e570fb223",
+        "863e42ae3695a1befdf6",
+        "fb97d99752df364c4343",
+        "e02d14f363decd181ac4",
+        "f959ee1d6cd0997b6a6b",
+        "fe09392abf2b09d74441",
+        "6f4f2202af9b6f88f723",
+        "87b30e57af8ce660651e",
+        "4bb8d75b3bab2d644a11",
+        "6147fac2a11ddad78749",
+        "f476268444cc1bca6443",
+        "708e610b410aa23e2d28",
+        "38d1144f650060c41fd8",
+        "371776545dc638423839",
+        "a094accbd6d6b902f858"
+      ],
+      "note": "Vouching is for Saya; Saya/Nancy invite cooperation and Mikoto promises rescue. Nancy threatens to force an answer; Gennai refuses the adjacent demand to return books. Keep actor and recipient aligned."
+    },
+    {
+      "category": "layout",
+      "row_indices": [
+        1,
+        4,
+        10,
+        11,
+        15,
+        22,
+        26,
+        30,
+        35,
+        38,
+        40,
+        52,
+        55,
+        58,
+        63,
+        68,
+        69
+      ],
+      "translation_ids": [
+        "72773f71e9f0a54461fb",
+        "a20ef846aea4e530d845",
+        "ce6e96ec5ae15fed6522",
+        "e89450ea1080d276a911",
+        "afac546fe27562d2ba3b",
+        "c76e0d2d6830d03d04e4",
+        "1b8fc6cd6ce88030c47b",
+        "e02d14f363decd181ac4",
+        "6f4f2202af9b6f88f723",
+        "9a13930d50baab7559cc",
+        "f27c92ae277f5a5bb2c9",
+        "708e610b410aa23e2d28",
+        "ea9db1784debc05a9a20",
+        "1f4d1d881603894fdcb6",
+        "28e0edc1a0dab1e3b648",
+        "5386f4c8b916f1f844a7",
+        "e6b239b19afedc251c59"
+      ],
+      "note": "Full meaning is drafted without a source-byte budget. Long lines, proportional width, runtime substitutions, ruby and bubble/page capacity need measured wrapping and runtime QA."
+    },
+    {
+      "category": "intentional_fragment_or_echo",
+      "row_indices": [
+        0,
+        2,
+        5,
+        9,
+        13,
+        18,
+        19,
+        21,
+        24,
+        28,
+        37,
+        39,
+        44,
+        46,
+        48,
+        49,
+        51,
+        54,
+        57,
+        60,
+        64,
+        65,
+        70,
+        71,
+        74,
+        78,
+        79
+      ],
+      "translation_ids": [
+        "12e0cd63397d35d40d34",
+        "7082f2bbb0399a55ffe0",
+        "d6f20db35c5ecf009844",
+        "4babb73218298e18f2ae",
+        "9659f2ea9e2e056b525a",
+        "c243d03530438e30b70b",
+        "cd37cb1924f3a89c8812",
+        "2f2b8f3b5300a57b109f",
+        "b351e1a7b3eb66da5204",
+        "863e42ae3695a1befdf6",
+        "df8e94ad8f64b4834d54",
+        "4bb8d75b3bab2d644a11",
+        "d3208144a6de4766c118",
+        "3b637b382eac53b45a02",
+        "2d37b82b2e14f2539af4",
+        "f476268444cc1bca6443",
+        "526e53db05abb6205824",
+        "9ab1e2e6417505ddcdfa",
+        "034287edc300596a2667",
+        "a4ff62a3238704eab8d9",
+        "6105969c84262d6ea3ae",
+        "b6e26457ee7dc2277719",
+        "aeea253f8d36db42a8d3",
+        "4dd65d04d31a6428e0ab",
+        "1598a1eb75795ae42ca8",
+        "a094accbd6d6b902f858",
+        "3d18633ee009f3782e31"
+      ],
+      "note": "Retained deliberate calls, echoes, greetings/answers, interjections, incomplete recognitions, comparative/boundary fragments or refusal formulas. Row decisions explain each retained omission; ordinary pro-drop subjects/predicates are restored."
+    },
+    {
+      "category": "shared_occurrences",
+      "row_indices": [
+        24
+      ],
+      "translation_ids": [
+        "b351e1a7b3eb66da5204"
+      ],
+      "note": "The neutral Yes response was checked in all eight original occurrences across hunter introduction, Mujo battle, Hagi-capture concern and clone-research resolve."
+    }
+  ],
+  "runtime_newly_verified_rows": 0,
+  "new_build_created": false,
+  "complete_game_translation": false,
+  "drafted_total": 4969,
+  "unfilled_total": 12251
+}

@@ -1,0 +1,42 @@
+{
+  "batch": "batch_0108",
+  "date": "2026-10-11",
+  "reviewer": "/root/unpack",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "medium",
+  "rows_reviewed": 80,
+  "new_counted_context_row_views": 209,
+  "new_counted_scope": "95 complete base scene rows,2 changed variant rows and 112 queue/context views; identical pairs/rereads excluded.",
+  "previously_reviewed_scene_rows_reused": 64,
+  "reused_scope": "61 base rows and 3 changed variants from p316090/91 reviewed previously; excluded from new count.",
+  "full_context_views_available": 273,
+  "source_occurrences_verified": 154,
+  "scene_count": 6,
+  "paired_reference_rows": 312,
+  "required_meaning_corrections": [],
+  "metadata_observations": [
+    {
+      "row_index": 58,
+      "id": "ae722204782718fe4e05",
+      "finding": "Retained initial Well interjection needs explicit omission flag.",
+      "applied": true,
+      "target_changed": false
+    }
+  ],
+  "focused_checks": {
+    "direction": "Mao greeting, Fuyuki stories request, Keroro guide offer, Kai contact request, Hei help request, volunteer help and Melissa listening offer pass.",
+    "adaptation": "Residents10/20 distinguished from returning visitors 78.",
+    "clarke": "Loose paraphrase and surname retained; no exact quotation.",
+    "cooking": "Substitute ingredients distinct from genuine carried seasonings.",
+    "suou": "Incomplete correction and current-Hei comparison preserve unspecified cause.",
+    "return": "Hypothetical more drinking, invitation versus attendance and potential sale versus completed action retained."
+  },
+  "final_assessment": "No required meaning correction found in all 80 drafts; omission flag58 addresses remaining metadata observation.",
+  "runtime_approval": false,
+  "unresolved": [
+    "Voice delivery",
+    "Measured wrapping and expanded runtime names",
+    "Row43 ruby span"
+  ],
+  "files_changed_by_reviewer": false
+}

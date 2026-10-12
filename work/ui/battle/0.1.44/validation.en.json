@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "version": "0.1.44",
+  "status": "larger_bold_battle_stat_badges_installed_static_checks_passed",
+  "iso_sha256": "ceb27bc89dfda635f8f212ff1e8a43dfa886f827427be9abe1aba785260e2cf4",
+  "archive_sha256": "9150c4dde96f644d14ae0f5cecce33316f2ec7030d20e9383810e7879a21caec",
+  "executable_sha256": "aca51ffd5358cdb594d70c25bc2e1ce34a25094616a06a826c32ea7ad2a6a621",
+  "resource": "btl/sys_all.bin",
+  "candidate_sha256": "4c0a57060aad0fd9d6d3ab70d58ee011fc0b420acca89744110af40b32e37a59",
+  "entries": [
+    {
+      "id": "sys_all_28d0_label_00",
+      "target": "Attack",
+      "displayed_text": "ATK",
+      "displayed_abbreviation": "ATK",
+      "texture_rect": [
+        0,
+        34,
+        32,
+        14
+      ],
+      "text_box": [
+        2,
+        35,
+        28,
+        12
+      ],
+      "ink_height": 12,
+      "font_native_pixels": 16,
+      "previous_font_native_pixels": 10,
+      "previous_ink_height": 8,
+      "raster_scale": 4,
+      "palette_alpha_levels": [
+        0,
+        255
+      ],
+      "minimum_margin_pixels": 1,
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_01",
+      "target": "Defense",
+      "displayed_text": "DEF",
+      "displayed_abbreviation": "DEF",
+      "texture_rect": [
+        32,
+        34,
+        32,
+        14
+      ],
+      "text_box": [
+        35,
+        35,
+        25,
+        12
+      ],
+      "ink_height": 12,
+      "font_native_pixels": 16,
+      "previous_font_native_pixels": 8,
+      "previous_ink_height": 6,
+      "raster_scale": 4,
+      "palette_alpha_levels": [
+        0,
+        255
+      ],
+      "minimum_margin_pixels": 1,
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_02",
+      "target": "Charm",
+      "displayed_text": "CHA",
+      "displayed_abbreviation": "CHA",
+      "texture_rect": [
+        64,
+        34,
+        32,
+        14
+      ],
+      "text_box": [
+        66,
+        35,
+        27,
+        12
+      ],
+      "ink_height": 11,
+      "font_native_pixels": 15,
+      "previous_font_native_pixels": 10,
+      "previous_ink_height": 8,
+      "raster_scale": 4,
+      "palette_alpha_levels": [
+        0,
+        255
+      ],
+      "minimum_margin_pixels": 1,
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_03",
+      "target": "Teamwork",
+      "displayed_text": "TEAM",
+      "displayed_abbreviation": "TEAM",
+      "texture_rect": [
+        96,
+        34,
+        32,
+        14
+      ],
+      "text_box": [
+        98,
+        37,
+        27,
+        8
+      ],
+      "ink_height": 8,
+      "font_native_pixels": 11,
+      "previous_font_native_pixels": 6,
+      "previous_ink_height": 5,
+      "raster_scale": 4,
+      "palette_alpha_levels": [
+        0,
+        255
+      ],
+      "minimum_margin_pixels": 1,
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_04",
+      "target": "Power",
+      "displayed_text": "PWR",
+      "displayed_abbreviation": "PWR",
+      "texture_rect": [
+        128,
+        34,
+        32,
+        14
+      ],
+      "text_box": [
+        130,
+        35,
+        28,
+        11
+      ],
+      "ink_height": 11,
+      "font_native_pixels": 15,
+      "previous_font_native_pixels": 10,
+      "previous_ink_height": 7,
+      "raster_scale": 4,
+      "palette_alpha_levels": [
+        0,
+        255
+      ],
+      "minimum_margin_pixels": 1,
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_05",
+      "target": "Accuracy",
+      "displayed_text": "ACC",
+      "displayed_abbreviation": "ACC",
+      "texture_rect": [
+        160,
+        34,
+        32,
+        14
+      ],
+      "text_box": [
+        162,
+        35,
+        28,
+        12
+      ],
+      "ink_height": 12,
+      "font_native_pixels": 16,
+      "previous_font_native_pixels": 7,
+      "previous_ink_height": 7,
+      "raster_scale": 4,
+      "palette_alpha_levels": [
+        0,
+        255
+      ],
+      "minimum_margin_pixels": 1,
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_06",
+      "target": "Hits",
+      "displayed_text": "HITS",
+      "displayed_abbreviation": "HITS",
+      "texture_rect": [
+        192,
+        34,
+        32,
+        14
+      ],
+      "text_box": [
+        194,
+        35,
+        28,
+        11
+      ],
+      "ink_height": 10,
+      "font_native_pixels": 14,
+      "previous_font_native_pixels": 12,
+      "previous_ink_height": 9,
+      "raster_scale": 4,
+      "palette_alpha_levels": [
+        0,
+        255
+      ],
+      "minimum_margin_pixels": 1,
+      "complete_semantic_label_preserved": true
+    },
+    {
+      "id": "sys_all_28d0_label_07",
+      "target": "Critical",
+      "displayed_text": "CRIT",
+      "displayed_abbreviation": "CRIT",
+      "texture_rect": [
+        224,
+        34,
+        32,
+        14
+      ],
+      "text_box": [
+        226,
+        35,
+        27,
+        11
+      ],
+      "ink_height": 10,
+      "font_native_pixels": 14,
+      "previous_font_native_pixels": 9,
+      "previous_ink_height": 7,
+      "raster_scale": 4,
+      "palette_alpha_levels": [
+        0,
+        255
+      ],
+      "minimum_margin_pixels": 1,
+      "complete_semantic_label_preserved": true
+    }
+  ],
+  "archive_readback_exact": true,
+  "nested_ISO_readback_exact": true,
+  "reviewed_pixels_exact": true,
+  "unselected_atlas_pixels_and_all_nonpixel_bytes_exact": true,
+  "native_rectangles_palette_and_arrows_preserved": true,
+  "changed_resource_rows": [
+    "btl/sys_all.bin",
+    "menu/TitleMenu_Data.bin"
+  ],
+  "unchanged_resource_rows": 5184,
+  "executable_VWF_bubbles_defaults_identical_to_043": true,
+  "all_30_location_banners_preserved": true,
+  "English_prologue_preserved": true,
+  "native_battle_display_verified": false,
+  "scope": "Eight stat-badge lettering rectangles only; native battle animation/sampling and full-game visual coverage remain unverified."
+}

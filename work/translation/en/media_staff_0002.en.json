@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "rows": [
+    {
+      "id": "movie09staff_a3444836dff5dd6d847f",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_staff_credit",
+      "target": "Animation Production\nJ.C.STAFF\nSUNRISE\nbones\nProduction I.G",
+      "status": "draft",
+      "context": "Final original staff-roll blocks; original credited people/organizations and nominal role headings retained.",
+      "decisions": "All source credit roles/names preserved with approved canonical spelling or unchanged original Latin label. Final End card translated; timing/layout/runtime remain unverified.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09staff_df7776e814086b993552",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_staff_credit",
+      "target": null,
+      "status": "untranslated",
+      "context": "Final original staff-roll blocks; original credited people/organizations and nominal role headings retained.",
+      "decisions": "Complete target remains blank where person or organization reading has not been researched; nominal credit labels intentionally have no sentence predicate.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09staff_ca5092fc346a5c3c7ad1",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_staff_credit",
+      "target": "Cooperation\nSony Computer Entertainment Inc.  Takatsugu Okamura  Satoshi Tamaki  Koichiro Onda\nDIGITAL HEARTS",
+      "status": "draft",
+      "context": "Original ending staff roll; complete Cooperation block, preserving credited company/person association and original order.",
+      "decisions": "All source names and role labels preserved using root-approved staff spellings. Official versus secondary evidence remains bounded in staff glossary. Nominal credits intentionally omit a sentence predicate. Logical company/name line retained; visual reflow, timing and fit await movie owner preview; no shortening.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09staff_f71250f92769892d366c",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_staff_credit",
+      "target": "NAMCO BANDAI Games Inc.",
+      "status": "draft",
+      "context": "Final original staff-roll blocks; original credited people/organizations and nominal role headings retained.",
+      "decisions": "Complete nominal source credit retained. Historical company spellings, published alternatives and provisional name authority remain as recorded in the approved glossary. No extra company-heading words invented; original Produced by and REAL-T retained. Timing, layout and movie replacement remain unverified.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09staff_5b733c5476bdec8e2860",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_staff_credit",
+      "target": "Quality Control\nRyo Sakamoto\nYasuhiro Fukaya\nNatsuki Koyama",
+      "status": "draft",
+      "context": "Original ending staff roll; complete Quality Control block, preserving credited company/person association and original order.",
+      "decisions": "All source names and role labels preserved using root-approved staff spellings. Official versus secondary evidence remains bounded in staff glossary. Nominal credits intentionally omit a sentence predicate. Logical company/name line retained; visual reflow, timing and fit await movie owner preview; no shortening.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09staff_b7f711273509731696a7",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_staff_credit",
+      "target": "Promotion\nKazunori Goka\nTaiki Yasuko\nShota Tsujimoto\nHotaka Sutou",
+      "status": "draft",
+      "context": "Final original staff-roll blocks; original credited people/organizations and nominal role headings retained.",
+      "decisions": "Complete nominal source credit retained. All native credited people retained in original order. Provisional exact2012 database spelling authority and source orthographic alternatives retained in glossary. No gender or personal history inferred. Timing, layout and movie replacement remain unverified.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09staff_79e6d53d25abd54dd157",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_staff_credit",
+      "target": "Sales\nKazuhiro Takabayashi\nHiroshi Saeki\nNaoki Kumada\nSatoru Nishibata\nHideyuki Yamazaki\nKeisuke Sakata\nDaio Itō",
+      "status": "draft",
+      "context": "Final original staff-roll blocks; original credited people/organizations and nominal role headings retained.",
+      "decisions": "Complete nominal source credit retained. All native credited people retained in original order. Provisional exact2012 database spelling authority and source orthographic alternatives retained in glossary. No gender or personal history inferred. Timing, layout and movie replacement remain unverified.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09staff_78046965ef5f3049685c",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_staff_credit",
+      "target": "Marketing\nHidenori Kikuno\nMaki Asai",
+      "status": "draft",
+      "context": "Original ending staff roll; complete Marketing block, preserving credited company/person association and original order.",
+      "decisions": "All source names and role labels preserved using root-approved staff spellings. Official versus secondary evidence remains bounded in staff glossary. Nominal credits intentionally omit a sentence predicate. Logical company/name line retained; visual reflow, timing and fit await movie owner preview; no shortening.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09staff_50c1d27caff305aedf55",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_staff_credit",
+      "target": "Special Thanks\nKazutoshi Yanagida\nYoshihisa Kanesaka\nHiroshi Kosuge\nTakashi Watabe\nMomoko Suzuki\nTomokazu Fukazawa\nHiroaki Ochi\nSatoshi Otsuka\nYosuke Futami\nShōhei Itō\nKuninori Yoshizaki\nShoichi Yoshiba\nYasushi Ono\nMaki Atsumi\nHisanori Kunizaki",
+      "status": "draft",
+      "context": "Original ending staff roll; complete Special Thanks block, preserving credited company/person association and original order.",
+      "decisions": "All source names and role labels preserved using root-approved staff spellings. Official versus secondary evidence remains bounded in staff glossary. Nominal credits intentionally omit a sentence predicate. Logical company/name line retained; visual reflow, timing and fit await movie owner preview; no shortening.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09staff_265c898d208b4bf26427",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_staff_credit",
+      "target": "Assistant Producer\nKazuya Mizumata",
+      "status": "draft",
+      "context": "Final original staff-roll blocks; original credited people/organizations and nominal role headings retained.",
+      "decisions": "All source credit roles/names preserved with approved canonical spelling or unchanged original Latin label. Final End card translated; timing/layout/runtime remain unverified.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09staff_62651c76f585355beeb1",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_staff_credit",
+      "target": "Producer\nKensuke Tsukanaka",
+      "status": "draft",
+      "context": "Final original staff-roll blocks; original credited people/organizations and nominal role headings retained.",
+      "decisions": "All source credit roles/names preserved with approved canonical spelling or unchanged original Latin label. Final End card translated; timing/layout/runtime remain unverified.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09staff_5f86e1f02296b16d453d",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_staff_credit",
+      "target": "Executive Producers\nShukuo Ishikawa\nShin Unozawa\nMakoto Asanuma",
+      "status": "draft",
+      "context": "Final original staff-roll blocks; original credited people/organizations and nominal role headings retained.",
+      "decisions": "All source credit roles/names preserved with approved canonical spelling or unchanged original Latin label. Final End card translated; timing/layout/runtime remain unverified.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09staff_29d19743aa638437d503",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_staff_credit",
+      "target": "Produced by\nNAMCO BANDAI Games Inc.",
+      "status": "draft",
+      "context": "Final original staff-roll blocks; original credited people/organizations and nominal role headings retained.",
+      "decisions": "Complete nominal source credit retained. Historical company spellings, published alternatives and provisional name authority remain as recorded in the approved glossary. No extra company-heading words invented; original Produced by and REAL-T retained. Timing, layout and movie replacement remain unverified.",
+      "source_omission_preserved": true
+    },
+    {
+      "id": "movie09staff_c8f0f834fa92bdf086cd",
+      "file": "PSP_GAME/USRDIR/MOVIE/HPMOVE09.PMF",
+      "encoding": "baked_raster_source_transcription",
+      "category": "movie_staff_credit",
+      "target": "The End",
+      "status": "draft",
+      "context": "Final original staff-roll blocks; original credited people/organizations and nominal role headings retained.",
+      "decisions": "All source credit roles/names preserved with approved canonical spelling or unchanged original Latin label. Final End card translated; timing/layout/runtime remain unverified.",
+      "source_omission_preserved": true
+    }
+  ]
+}
