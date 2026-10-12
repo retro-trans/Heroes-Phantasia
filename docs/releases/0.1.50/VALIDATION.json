@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "manifest_sha256": "dfc38c167a2aed632ae84d426b78ce6ffa981b63a422651b79de9fe960a79b50",
+  "patches": [
+    {
+      "patch": "Heroes-Phantasia-English-0.1.50.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "fa420a494942817a7498615716b8b43bbc5ff4a817abb3cdb4354a90e89df8b8"
+    },
+    {
+      "patch": "Heroes-Phantasia-English-0.1.45-to-0.1.50.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "fa420a494942817a7498615716b8b43bbc5ff4a817abb3cdb4354a90e89df8b8"
+    }
+  ]
+}

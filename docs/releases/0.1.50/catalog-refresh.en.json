@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "repository": "retro-trans/Heroes-Phantasia",
+  "tag": "v0.1.50",
+  "workflow_repository": "retro-trans/retro-trans-tools",
+  "workflow": "Refresh patch catalog",
+  "run_id": 38291654262,
+  "run_url": "https://github.com/retro-trans/retro-trans-tools/actions/runs/38291654262",
+  "event": "workflow_dispatch",
+  "requested_repository_scope": "retro-trans/Heroes-Phantasia",
+  "workflow_source_commit": "540a61cb6bb50a6ec8f2a52bc4e89a25226c9061",
+  "status": "completed",
+  "conclusion": "success",
+  "public_catalog_sha256": "5d20d31628320fe3df8603189b48114628a44e0a11a18d58a2ed996915f64175",
+  "public_catalog_contains_release": true,
+  "public_manifest_matches_canonical_package": true,
+  "route_validation": "docs/releases/0.1.50/public-catalog-routes.en.json"
+}

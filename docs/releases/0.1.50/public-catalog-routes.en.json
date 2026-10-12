@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "repo": "retro-trans/Heroes-Phantasia",
+  "tag": "v0.1.50",
+  "catalog": "public",
+  "catalog_sha256": "5d20d31628320fe3df8603189b48114628a44e0a11a18d58a2ed996915f64175",
+  "routes": [
+    {
+      "source_version": "original",
+      "patch": "Heroes-Phantasia-English-0.1.50.xdelta",
+      "one_step": true,
+      "patch_integrity_matches": true
+    },
+    {
+      "source_version": "0.1.45",
+      "patch": "Heroes-Phantasia-English-0.1.45-to-0.1.50.xdelta",
+      "one_step": true,
+      "patch_integrity_matches": true
+    }
+  ],
+  "current_version_no_op": true,
+  "unknown_hash_rejected": true,
+  "source_commit": "0661b1ef659fcb299c3b2bb8355a9fc26b0fb854"
+}
