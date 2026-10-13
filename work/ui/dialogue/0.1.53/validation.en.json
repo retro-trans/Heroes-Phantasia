@@ -1,0 +1,16 @@
+{
+  "version": "0.1.53",
+  "iso_sha256": "df309625c54876f749be79b768e4bf237bba4b4b5dbe312fc75518aa9f17b771",
+  "executable_sha256": "20e295dd2932aa74d42fc2ae2d457b0771408b82a8267c774a79fae48e89ac0b",
+  "archive_sha256": "ac1328545a2969bb54e3529c6ab27a33c07bb1ba1feae0e30608013c83778d12",
+  "changed_archive_rows": 36,
+  "unselected_archive_rows_exact": 5150,
+  "field_fit_records": 68,
+  "native_measurement_pages": 128,
+  "native_measurement_rows": 266,
+  "numeric_speaker_labels": 4,
+  "chapter_labels": 3,
+  "all_nested_assets_exact": true,
+  "loaded_growth_bytes": 0,
+  "natural_scene_playback_verified": false
+}

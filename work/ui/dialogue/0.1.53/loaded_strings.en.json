@@ -1,0 +1,19 @@
+{
+  "version": "0.1.53",
+  "fresh_iso_boot": true,
+  "module_base": 142622720,
+  "labels": [
+    {
+      "target": "Chapter 1",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "target": "Chapter 2",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "target": "Chapter 3",
+      "complete_loaded_target_exact": true
+    }
+  ]
+}

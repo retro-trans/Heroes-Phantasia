@@ -1,0 +1,527 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "rows": [
+    {
+      "id": "field_053_reflow_f103061_0",
+      "category": "field_dialogue",
+      "target": "{1C}Princess Serish{0E}In that cave... you should learn{11}what this world is really like.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f104011_0",
+      "category": "field_dialogue",
+      "target": "{1C}Louie{0E}It's been a week already...{12}{10}Time really flies.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f501010_0",
+      "category": "field_dialogue",
+      "target": "{1C}HOLD soldier{0E}This is the headquarters of{11}HOLD, the armed police.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f501012_0",
+      "category": "field_dialogue",
+      "target": "{1C}HOLD soldier{0E}Our mission is to keep the{11}citizens safe.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f501014_0",
+      "category": "field_dialogue",
+      "target": "{1C}HOLD soldier{0E}The elevator is currently under{11}maintenance.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f501015_0",
+      "category": "field_dialogue",
+      "target": "{1C}HOLD soldier{0E}HOLD's information is stored{11}here.{12}{10}Don't touch the equipment!{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f501017_0",
+      "category": "field_dialogue",
+      "target": "{1C}HOLD soldier{0E}People will get suspicious if{11}you go wandering around a{11}place like this...{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f501017_1",
+      "category": "field_dialogue",
+      "target": "{1C}HOLD soldier{0E}D-don't tell me you people are{11}helping the escapees...{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502020_0",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}This school has amazing{11}facilities, doesn't it?{12}{10}It looks like they spent a lot on{11}them.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502020_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}I wonder what that army was{11}doing here the other day...{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502020_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}It looks like the school's{11}completely back to normal.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502021_0",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Are you from one of the{11}sponsoring companies?{12}{10}You're here for an inspection,{11}right?{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502021_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Are you from one of the{11}sponsoring companies?{12}{10}You came on an inspection{11}before, didn't you?{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502021_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Are you from one of the{11}sponsoring companies?{12}{10}Are you here on yet another{11}inspection?{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502022_0",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Rumor has it that strange{11}creatures show up in the{11}woods around here...{12}{10}It's a bit hard to believe...{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502022_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}I went into the woods near the{11}academy the other day...{12}{10}But I didn't encounter any of{11}those rumored strange{11}creatures.{12}{10}Was I just unlucky?{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502022_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}I want to see those strange{11}creatures that supposedly{12}{10}appear in the woods near the{11}academy...{12}{10}But it looks like I'll never get{11}to see them after all.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 1 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502030_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}I told the person I like how I{11}feel...{12}{10}But they asked me to wait for{11}an answer.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502030_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}I told the person I like how I{11}feel...{12}{10}They kept me waiting for an{11}answer, then turned me down{11}in the end...{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502031_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Right now, I'm ranked fifth.{12}{10}I need to work hard to reach{11}the top.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502031_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}All the trouble at the academy{11}kept me from studying.{12}{10}Thanks to that, my ranking{11}dropped to twelfth.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502032_0",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}The restaurant called Linden{11}Baum near the academy{11}serves pretty good food.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502032_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}The fair-skinned server who{11}worked at Linden Baum{11}apparently quit...{12}{10}I wonder if they'll come back.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502032_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}There was a really cool server{11}at Linden Baum.{12}{10}I wonder where they are and{11}what they're doing now...{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502040_0",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}This academy has everything{11}from elementary school to{11}senior high.{12}{10}There's even an adorable choir{11}member in the elementary{11}division.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502040_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Alyssa... Apparently she{11}transferred...{12}{10}I wish I could have heard that{11}lovely singing one more time.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502041_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}It looks like Higurashi's taking{11}time off school...{12}{10}I wonder what's wrong.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502041_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Now that Higurashi has{11}returned to school,{12}{10}I'll take this opportunity to find{11}a new love, too.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502050_0",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}The cafeteria here is{11}expensive, but the food's{11}good.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502050_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}When the soldiers came in and{11}the cafeteria closed, I{11}wondered what would happen.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502050_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}It's good that things are{11}peaceful, but the cafeteria{11}food's gotten worse.{12}{10}I'm disappointed.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502052_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}At one point I thought about{11}quitting the kendo club,{12}{10}but I've decided to keep trying{11}a little longer.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502053_0",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}I wonder if there are any good{11}part-time jobs...{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502053_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}I can't find a good part-time{11}job...{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502053_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}I work part-time at an arcade,{12}{10}but it's full of elderly{11}customers, so I have to be{11}pretty considerate.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502060_0",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Executive Committee{11}members are always nagging{11}us...{12}{10}Honestly, it makes me feel{11}suffocated.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502060_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}I hear the Executive{11}Committee chair wasn't scared{11}of the army at all.{12}{10}I might have a little more{11}respect for her now. Yeah, I{11}think she's amazing.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502060_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}An Executive Committee{11}member told me off for my{11}behavior...{12}{10}They're so uptight. I just can't{11}deal with them.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502061_0",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Our student council{11}president...{12}{10}She's beautiful and so refined.{11}I really admire her...{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502061_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}I wonder what kind of person{11}our student council president{11}likes...{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502061_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Our student council president{11}seems even more cheerful{11}than before lately.{12}{10}Did something good happen?{12}{10}Maybe she and the person she{11}likes...{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502062_0",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}I'd like to visit the Lost Ground{11}at least once.{12}{10}Apparently it's really{11}dangerous, but it sounds{11}interesting.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502062_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}I wonder what the Lost Ground{11}is like.{12}{10}Do they have thugs with{11}mohawks, or bandits wearing{11}furs?{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502062_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Rumor has it the Lost Ground{12}{10}has people with strange{11}powers.{12}{10}Could I get powers, too, if I{11}went there?{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502070_0",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}That girl Miyu in the next class{11}isn't friendly at all.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502070_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}That girl Miyu in the next class{11}apparently transferred away.{12}{10}I wonder if she's still just as{11}unfriendly at her new school.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502070_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}There was this unfriendly girl{11}called Miyu who transferred{11}away,{12}{10}but apparently she was{11}secretly pretty popular with{11}the boys.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502071_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Class makes me so sleepy that{11}I've decided to draw comics{11}during lessons.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502071_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}The comic I drew in class was{11}selected for a newcomer{11}award!{12}{10}And I only drew it to keep{11}myself awake!{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502072_0",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}I heard a rumor about a{11}bloodsucking monster{11}appearing in Okinawa.{12}{10}Do monsters like that really{11}exist?{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502072_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Rumor has it a bloodsucking{11}monster appeared at this{11}academy as well...{12}{10}Where did it disappear to?{12}{10}Or was it just a false rumor?{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502072_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}There are rumors that{11}bloodsucking monsters are{11}appearing all over the place...{12}{10}What happens to people{11}whose blood gets sucked?{12}{10}Do they turn into vampires?{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502080_0",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Our chairwoman is amazing.{12}{10}She's still a child, but she does{11}her job properly.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502080_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Is our chairwoman really a{11}child?{12}{10}She's so composed.{12}{10}I can hardly believe she's a{11}child.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502080_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Well... there's a rumor that the{11}chairwoman is leaving.{12}{10}If it's true, I'll feel a little{11}lonely...{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502081_0",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}We have some suspicious{11}students and teachers here.{12}{10}It's like they're hiding things,{11}or doing something in secret.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502081_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}It seems like some students{11}here are involved in suspicious{11}activities.{12}{10}They're definitely mixed up in{11}some sort of conspiracy.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502100_0",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Ah, it's another peaceful and{11}quiet day.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502100_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Ah, it feels like our peaceful,{11}quiet everyday life is back.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502101_0",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}Someone with really{11}frightening eyes came on an{11}inspection a little while ago...{12}{10}Who was that? They seemed{11}like a snake...{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502101_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}That snake-like person who{11}came on an inspection the{11}other day...{12}{10}I can't stop thinking about{11}them.{12}{10}I wonder why...{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502101_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}That snake-like person...{12}{10}I wonder if they'll come on{11}another inspection.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502102_0",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}I want to see Ms. Sagisawa, so{11}I go to the infirmary even{11}when I'm not sick...{12}{10}But she sees right through me{11}and sends me away.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502102_1",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}If I'm really sick, rather than{11}pretending, I can go to the{11}infirmary, right?{12}{10}Then I could take my time{11}talking with Ms. Sagisawa!{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f502102_2",
+      "category": "field_dialogue",
+      "target": "{1C}Student{0E}I was so determined to see{11}Ms. Sagisawa in the infirmary{12}{10}that I took terrible care of{11}myself...{12}{10}But I just can't seem to get{11}unhealthy...{12}{10}I hate how sturdy I am.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f509180_2",
+      "category": "field_dialogue",
+      "target": "{1C}Princess Serish{0E}So you're going to thwart this{11}Mujo person's ambitions...{12}{10}Please be careful.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f509181_3",
+      "category": "field_dialogue",
+      "target": "{1C}Ryudock{0E}Kyoji Mujo...{12}{10}He's a man whose ambitions{11}rival Arvin's.{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_reflow_f509181_4",
+      "category": "field_dialogue",
+      "target": "{1C}Ryudock{0E}At last... it's the final battle.{12}{10}And my gamble... this will{11}decide whether I've won or{11}lost...{12}{0E}",
+      "status": "translated",
+      "notes": "Tailless authored style and word-preserving reflow; 0 additional pages."
+    },
+    {
+      "id": "field_053_name_p101040_9",
+      "category": "speaker_name",
+      "target": "{1C}Kogoro{0E}......{12}{0E}",
+      "status": "translated"
+    },
+    {
+      "id": "field_053_name_p101041_9",
+      "category": "speaker_name",
+      "target": "{1C}Kogoro{0E}......{12}{0E}",
+      "status": "translated"
+    },
+    {
+      "id": "field_053_name_p208040_29",
+      "category": "speaker_name",
+      "target": "{1C}Kogoro{0E}............{12}{0E}",
+      "status": "translated"
+    },
+    {
+      "id": "field_053_name_p208041_29",
+      "category": "speaker_name",
+      "target": "{1C}Kogoro{0E}............{12}{0E}",
+      "status": "translated"
+    },
+    {
+      "id": "field_053_chapter_1",
+      "category": "quest_chapter_label",
+      "target": "Chapter 1",
+      "status": "translated",
+      "native_index": 210
+    },
+    {
+      "id": "field_053_chapter_2",
+      "category": "quest_chapter_label",
+      "target": "Chapter 2",
+      "status": "translated",
+      "native_index": 211
+    },
+    {
+      "id": "field_053_chapter_3",
+      "category": "quest_chapter_label",
+      "target": "Chapter 3",
+      "status": "translated",
+      "native_index": 212
+    }
+  ]
+}

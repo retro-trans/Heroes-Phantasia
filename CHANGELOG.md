@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.53 — 2026-10-13 (field dialogue fit, quest chapters and Kogoro)
+
+- Fixes 68 overflowing English field-dialogue records with measured word-preserving reflow and existing wider tailless styles, including both reported HOLD soldier boxes. Preserves unrelated dialogue/animation; one long student message gains an extra page. Records five unmodified dynamic-name layouts for further review.
+- Translates all three quest chapter headers and four remaining numeric Kogoro speaker labels. Preserves the different authored silence lengths, portrait/tail tracks, custom input, font, native geometry code and loaded memory extents.
+- Final readback passes 68 white-interior/viewport fits, native measurement on 128 pages / 266 rows, every selected nested asset and 5,150 unchanged archive entries. Validation and gameplay limits are recorded in `docs/FIELD_DIALOGUE_053.md`. Creates local test build 0.1.53; no GitHub release requested or created.
+
 ## 0.1.52 — 2026-10-13 (Brave/Equip labels and world-map names)
 
 - Translates 31 shared image labels in both resident atlases, including stats, radar labels, move/accessory tabs, Front/Back, modifiers and equipment details. Fits outlined English lettering into the existing native cells and preserves palettes, UVs, counters, icons and values.

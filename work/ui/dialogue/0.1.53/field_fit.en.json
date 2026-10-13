@@ -1,0 +1,3349 @@
+{
+  "version": "0.1.53",
+  "records": [
+    {
+      "resource": "fld/talk/f103061.bin",
+      "reference_index": 0,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          199,
+          184
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          171.0,
+          474.0,
+          229.0
+        ],
+        [
+          244.0,
+          171.0,
+          474.0,
+          229.0
+        ],
+        [
+          244.0,
+          171.0,
+          474.0,
+          229.0
+        ],
+        [
+          244.0,
+          171.0,
+          474.0,
+          229.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f104011.bin",
+      "reference_index": 0,
+      "shape": 122,
+      "page_line_advances": [
+        [
+          168
+        ],
+        [
+          108
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          222.0,
+          177.0,
+          447.0,
+          218.0
+        ],
+        [
+          222.0,
+          177.0,
+          447.0,
+          218.0
+        ],
+        [
+          222.0,
+          177.0,
+          447.0,
+          218.0
+        ],
+        [
+          222.0,
+          177.0,
+          447.0,
+          218.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f501010.bin",
+      "reference_index": 0,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          174,
+          157
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          31.0,
+          236.0,
+          89.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f501012.bin",
+      "reference_index": 0,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          169,
+          86
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          181.0,
+          474.0,
+          239.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f501014.bin",
+      "reference_index": 0,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          198,
+          88
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          31.0,
+          236.0,
+          89.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f501015.bin",
+      "reference_index": 0,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          186,
+          33
+        ],
+        [
+          175
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          31.0,
+          236.0,
+          89.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f501017.bin",
+      "reference_index": 0,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          181,
+          175,
+          102
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          168.0,
+          474.0,
+          251.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f501017.bin",
+      "reference_index": 1,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          194,
+          150
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          181.0,
+          474.0,
+          239.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502020.bin",
+      "reference_index": 0,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          159,
+          130
+        ],
+        [
+          199,
+          37
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          181.0,
+          474.0,
+          239.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502020.bin",
+      "reference_index": 1,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          185,
+          171
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          181.0,
+          474.0,
+          239.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502020.bin",
+      "reference_index": 2,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          155,
+          175
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          181.0,
+          474.0,
+          239.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502021.bin",
+      "reference_index": 0,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          153,
+          152
+        ],
+        [
+          189,
+          37
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          31.0,
+          474.0,
+          89.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502021.bin",
+      "reference_index": 1,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          153,
+          152
+        ],
+        [
+          174,
+          119
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          31.0,
+          474.0,
+          89.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502021.bin",
+      "reference_index": 2,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          153,
+          152
+        ],
+        [
+          180,
+          74
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          31.0,
+          474.0,
+          89.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502022.bin",
+      "reference_index": 0,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          165,
+          159,
+          135
+        ],
+        [
+          165
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          33.0,
+          474.0,
+          116.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502022.bin",
+      "reference_index": 1,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          196,
+          160
+        ],
+        [
+          183,
+          147,
+          65
+        ],
+        [
+          123
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          33.0,
+          474.0,
+          116.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502022.bin",
+      "reference_index": 2,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          176,
+          168
+        ],
+        [
+          189,
+          70
+        ],
+        [
+          184,
+          136
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          46.0,
+          474.0,
+          104.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502030.bin",
+      "reference_index": 1,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          179,
+          37
+        ],
+        [
+          190,
+          70
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          9.0,
+          166.0,
+          239.0,
+          224.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502030.bin",
+      "reference_index": 2,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          179,
+          37
+        ],
+        [
+          180,
+          190,
+          77
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          8.0,
+          153.0,
+          246.0,
+          236.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502031.bin",
+      "reference_index": 1,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          173
+        ],
+        [
+          181,
+          50
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          234.0,
+          176.0,
+          464.0,
+          234.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502031.bin",
+      "reference_index": 2,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          196,
+          149
+        ],
+        [
+          171,
+          123
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          234.0,
+          176.0,
+          464.0,
+          234.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502032.bin",
+      "reference_index": 0,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          186,
+          157,
+          157
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          33.0,
+          474.0,
+          116.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502032.bin",
+      "reference_index": 1,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          178,
+          152,
+          110
+        ],
+        [
+          188
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          33.0,
+          474.0,
+          116.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502032.bin",
+      "reference_index": 2,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          193,
+          106
+        ],
+        [
+          183,
+          161
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          239.0,
+          46.0,
+          469.0,
+          104.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502040.bin",
+      "reference_index": 0,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          188,
+          170,
+          76
+        ],
+        [
+          199,
+          171,
+          54
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          23.0,
+          244.0,
+          106.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502040.bin",
+      "reference_index": 1,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          155,
+          84
+        ],
+        [
+          190,
+          191
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          9.0,
+          36.0,
+          239.0,
+          94.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502041.bin",
+      "reference_index": 1,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          194,
+          109
+        ],
+        [
+          147
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          181.0,
+          474.0,
+          239.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502041.bin",
+      "reference_index": 2,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          151,
+          121
+        ],
+        [
+          199,
+          101
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          181.0,
+          474.0,
+          239.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502050.bin",
+      "reference_index": 0,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          134,
+          161,
+          36
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          168.0,
+          244.0,
+          251.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502050.bin",
+      "reference_index": 1,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          199,
+          140,
+          196
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          163.0,
+          244.0,
+          246.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502050.bin",
+      "reference_index": 2,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          154,
+          171,
+          131
+        ],
+        [
+          111
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          163.0,
+          244.0,
+          246.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502052.bin",
+      "reference_index": 2,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          182,
+          152
+        ],
+        [
+          195,
+          91
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          181.0,
+          474.0,
+          239.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502053.bin",
+      "reference_index": 0,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          194,
+          102
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          31.0,
+          474.0,
+          89.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502053.bin",
+      "reference_index": 1,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          179,
+          32
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          31.0,
+          474.0,
+          89.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502053.bin",
+      "reference_index": 2,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          189
+        ],
+        [
+          134,
+          169,
+          122
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          18.0,
+          474.0,
+          101.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502060.bin",
+      "reference_index": 0,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          137,
+          189,
+          27
+        ],
+        [
+          172,
+          73
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          18.0,
+          244.0,
+          101.0
+        ],
+        [
+          6.0,
+          18.0,
+          244.0,
+          101.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502060.bin",
+      "reference_index": 1,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          128,
+          199,
+          115
+        ],
+        [
+          163,
+          176,
+          132
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          18.0,
+          244.0,
+          101.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502060.bin",
+      "reference_index": 2,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          158,
+          173,
+          68
+        ],
+        [
+          191,
+          100
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          18.0,
+          244.0,
+          101.0
+        ],
+        [
+          6.0,
+          18.0,
+          244.0,
+          101.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502061.bin",
+      "reference_index": 0,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          126,
+          73
+        ],
+        [
+          197,
+          130
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          31.0,
+          474.0,
+          89.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502061.bin",
+      "reference_index": 1,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          186,
+          189,
+          42
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          18.0,
+          474.0,
+          101.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502061.bin",
+      "reference_index": 2,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          191,
+          171,
+          119
+        ],
+        [
+          188
+        ],
+        [
+          198,
+          42
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          33.0,
+          474.0,
+          116.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502062.bin",
+      "reference_index": 0,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          197,
+          88
+        ],
+        [
+          133,
+          159,
+          74
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          33.0,
+          474.0,
+          116.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502062.bin",
+      "reference_index": 1,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          197,
+          42
+        ],
+        [
+          155,
+          187,
+          32
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          33.0,
+          474.0,
+          116.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502062.bin",
+      "reference_index": 2,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          189
+        ],
+        [
+          155,
+          50
+        ],
+        [
+          172,
+          76
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          36.0,
+          474.0,
+          94.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502070.bin",
+      "reference_index": 0,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          199,
+          121
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          31.0,
+          474.0,
+          89.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502070.bin",
+      "reference_index": 1,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          199,
+          186
+        ],
+        [
+          180,
+          187
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          31.0,
+          474.0,
+          89.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502070.bin",
+      "reference_index": 2,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          188,
+          180,
+          36
+        ],
+        [
+          150,
+          177,
+          59
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          18.0,
+          474.0,
+          101.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502071.bin",
+      "reference_index": 1,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          200,
+          178,
+          98
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          33.0,
+          244.0,
+          116.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502071.bin",
+      "reference_index": 2,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          191,
+          159,
+          43
+        ],
+        [
+          164,
+          92
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          18.0,
+          244.0,
+          101.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502072.bin",
+      "reference_index": 0,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          152,
+          142,
+          144
+        ],
+        [
+          178,
+          38
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          33.0,
+          474.0,
+          116.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502072.bin",
+      "reference_index": 1,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          183,
+          163,
+          119
+        ],
+        [
+          170
+        ],
+        [
+          182
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          33.0,
+          474.0,
+          116.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502072.bin",
+      "reference_index": 2,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          141,
+          174,
+          193
+        ],
+        [
+          157,
+          169
+        ],
+        [
+          178
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          33.0,
+          474.0,
+          116.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502080.bin",
+      "reference_index": 0,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          183
+        ],
+        [
+          199,
+          106
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          31.0,
+          236.0,
+          89.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502080.bin",
+      "reference_index": 1,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          170,
+          38
+        ],
+        [
+          127
+        ],
+        [
+          175,
+          35
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          31.0,
+          236.0,
+          89.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502080.bin",
+      "reference_index": 2,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          197,
+          148
+        ],
+        [
+          159,
+          51
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          31.0,
+          236.0,
+          89.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502081.bin",
+      "reference_index": 0,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          166,
+          181
+        ],
+        [
+          185,
+          189
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          31.0,
+          474.0,
+          89.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502081.bin",
+      "reference_index": 2,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          181,
+          200,
+          63
+        ],
+        [
+          191,
+          158
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          33.0,
+          474.0,
+          116.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502100.bin",
+      "reference_index": 0,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          185,
+          64
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          31.0,
+          474.0,
+          89.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502100.bin",
+      "reference_index": 2,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          184,
+          173
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          46.0,
+          474.0,
+          104.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502101.bin",
+      "reference_index": 0,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          131,
+          184,
+          191
+        ],
+        [
+          184,
+          89
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          168.0,
+          244.0,
+          251.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502101.bin",
+      "reference_index": 1,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          176,
+          171,
+          73
+        ],
+        [
+          168,
+          37
+        ],
+        [
+          96
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          168.0,
+          244.0,
+          251.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502101.bin",
+      "reference_index": 2,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          158
+        ],
+        [
+          170,
+          125
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          181.0,
+          236.0,
+          239.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502102.bin",
+      "reference_index": 0,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          197,
+          163,
+          123
+        ],
+        [
+          195,
+          131
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          168.0,
+          474.0,
+          251.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502102.bin",
+      "reference_index": 1,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          180,
+          170,
+          102
+        ],
+        [
+          167,
+          171
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          168.0,
+          474.0,
+          251.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f502102.bin",
+      "reference_index": 2,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          174,
+          191
+        ],
+        [
+          166,
+          55
+        ],
+        [
+          174,
+          76
+        ],
+        [
+          147
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          181.0,
+          474.0,
+          239.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f509180.bin",
+      "reference_index": 2,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          189,
+          170
+        ],
+        [
+          117
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          6.0,
+          46.0,
+          236.0,
+          104.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f509181.bin",
+      "reference_index": 3,
+      "shape": 132,
+      "page_line_advances": [
+        [
+          80
+        ],
+        [
+          185,
+          79
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          244.0,
+          181.0,
+          474.0,
+          239.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    },
+    {
+      "resource": "fld/talk/f509181.bin",
+      "reference_index": 4,
+      "shape": 142,
+      "page_line_advances": [
+        [
+          181
+        ],
+        [
+          166,
+          172,
+          36
+        ]
+      ],
+      "all_position_bounds": [
+        [
+          236.0,
+          168.0,
+          474.0,
+          251.0
+        ]
+      ],
+      "white_interior_and_viewport_fit": true
+    }
+  ],
+  "native_measurement": [
+    {
+      "row_bytes": [
+        33,
+        32
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        99.5,
+        92.0
+      ],
+      "parent_maximum_halfwidth": 99.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        28
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        84.0
+      ],
+      "parent_maximum_halfwidth": 84.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        19
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        54.0
+      ],
+      "parent_maximum_halfwidth": 54.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        28,
+        24
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        87.0,
+        78.5
+      ],
+      "parent_maximum_halfwidth": 87.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        27,
+        15
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        84.5,
+        43.0
+      ],
+      "parent_maximum_halfwidth": 84.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        32,
+        13
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        99.0,
+        44.0
+      ],
+      "parent_maximum_halfwidth": 99.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        29,
+        6
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        93.0,
+        16.5
+      ],
+      "parent_maximum_halfwidth": 93.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        27
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        87.5
+      ],
+      "parent_maximum_halfwidth": 87.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        30,
+        26,
+        19
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        90.5,
+        87.5,
+        51.0
+      ],
+      "parent_maximum_halfwidth": 90.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        31,
+        24
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        97.0,
+        75.0
+      ],
+      "parent_maximum_halfwidth": 97.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        24,
+        24
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        79.5,
+        65.0
+      ],
+      "parent_maximum_halfwidth": 79.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        34,
+        6
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        99.5,
+        18.5
+      ],
+      "parent_maximum_halfwidth": 99.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        28,
+        28
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        92.5,
+        85.5
+      ],
+      "parent_maximum_halfwidth": 92.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        27,
+        27
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        77.5,
+        87.5
+      ],
+      "parent_maximum_halfwidth": 87.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        24,
+        22
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        76.5,
+        76.0
+      ],
+      "parent_maximum_halfwidth": 76.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        31,
+        7
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        94.5,
+        18.5
+      ],
+      "parent_maximum_halfwidth": 94.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        24,
+        22
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        76.5,
+        76.0
+      ],
+      "parent_maximum_halfwidth": 76.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        26,
+        20
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        87.0,
+        59.5
+      ],
+      "parent_maximum_halfwidth": 87.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        24,
+        22
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        76.5,
+        76.0
+      ],
+      "parent_maximum_halfwidth": 76.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        28,
+        12
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        90.0,
+        37.0
+      ],
+      "parent_maximum_halfwidth": 90.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        26,
+        25,
+        21
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        82.5,
+        79.5,
+        67.5
+      ],
+      "parent_maximum_halfwidth": 82.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        30
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        82.5
+      ],
+      "parent_maximum_halfwidth": 82.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        31,
+        25
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        98.0,
+        80.0
+      ],
+      "parent_maximum_halfwidth": 98.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        30,
+        22,
+        11
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        91.5,
+        73.5,
+        32.5
+      ],
+      "parent_maximum_halfwidth": 91.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        20
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        61.5
+      ],
+      "parent_maximum_halfwidth": 61.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        28,
+        26
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        88.0,
+        84.0
+      ],
+      "parent_maximum_halfwidth": 88.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        29,
+        11
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        94.5,
+        35.0
+      ],
+      "parent_maximum_halfwidth": 94.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        33,
+        23
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        92.0,
+        68.0
+      ],
+      "parent_maximum_halfwidth": 92.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        31,
+        8
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        89.5,
+        18.5
+      ],
+      "parent_maximum_halfwidth": 89.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        30,
+        11
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        95.0,
+        35.0
+      ],
+      "parent_maximum_halfwidth": 95.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        31,
+        8
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        89.5,
+        18.5
+      ],
+      "parent_maximum_halfwidth": 89.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        28,
+        28,
+        14
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        90.0,
+        95.0,
+        38.5
+      ],
+      "parent_maximum_halfwidth": 95.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        29
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        86.5
+      ],
+      "parent_maximum_halfwidth": 86.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        29,
+        9
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        90.5,
+        25.0
+      ],
+      "parent_maximum_halfwidth": 90.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        31,
+        23
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        98.0,
+        74.5
+      ],
+      "parent_maximum_halfwidth": 98.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        27,
+        20
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        85.5,
+        61.5
+      ],
+      "parent_maximum_halfwidth": 85.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        29,
+        22,
+        25
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        93.0,
+        78.5,
+        78.5
+      ],
+      "parent_maximum_halfwidth": 93.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        28,
+        22,
+        19
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        89.0,
+        76.0,
+        55.0
+      ],
+      "parent_maximum_halfwidth": 89.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        31
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        94.0
+      ],
+      "parent_maximum_halfwidth": 94.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        31,
+        16
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        96.5,
+        53.0
+      ],
+      "parent_maximum_halfwidth": 96.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        28,
+        26
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        91.5,
+        80.5
+      ],
+      "parent_maximum_halfwidth": 91.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        28,
+        26,
+        13
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        94.0,
+        85.0,
+        38.0
+      ],
+      "parent_maximum_halfwidth": 94.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        31,
+        25,
+        10
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        99.5,
+        85.5,
+        27.0
+      ],
+      "parent_maximum_halfwidth": 99.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        25,
+        15
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        77.5,
+        42.0
+      ],
+      "parent_maximum_halfwidth": 77.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        31,
+        30
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        95.0,
+        95.5
+      ],
+      "parent_maximum_halfwidth": 95.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        33,
+        19
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        97.0,
+        54.5
+      ],
+      "parent_maximum_halfwidth": 97.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        23
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        73.5
+      ],
+      "parent_maximum_halfwidth": 73.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        23,
+        20
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        75.5,
+        60.5
+      ],
+      "parent_maximum_halfwidth": 75.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        35,
+        17
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        99.5,
+        50.5
+      ],
+      "parent_maximum_halfwidth": 99.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        22,
+        26,
+        6
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        67.0,
+        80.5,
+        18.0
+      ],
+      "parent_maximum_halfwidth": 80.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        30,
+        24,
+        28
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        99.5,
+        70.0,
+        98.0
+      ],
+      "parent_maximum_halfwidth": 99.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        26,
+        28,
+        21
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        77.0,
+        85.5,
+        65.5
+      ],
+      "parent_maximum_halfwidth": 85.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        18
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        55.5
+      ],
+      "parent_maximum_halfwidth": 55.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        29,
+        25
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        91.0,
+        76.0
+      ],
+      "parent_maximum_halfwidth": 91.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        32,
+        17
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        97.5,
+        45.5
+      ],
+      "parent_maximum_halfwidth": 97.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        31,
+        18
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        97.0,
+        51.0
+      ],
+      "parent_maximum_halfwidth": 97.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        30,
+        7
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        89.5,
+        16.0
+      ],
+      "parent_maximum_halfwidth": 89.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        31
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        94.5
+      ],
+      "parent_maximum_halfwidth": 94.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        25,
+        27,
+        20
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        67.0,
+        84.5,
+        61.0
+      ],
+      "parent_maximum_halfwidth": 84.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        20,
+        27,
+        6
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        68.5,
+        94.5,
+        13.5
+      ],
+      "parent_maximum_halfwidth": 94.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        27,
+        12
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        86.0,
+        36.5
+      ],
+      "parent_maximum_halfwidth": 86.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        21,
+        30,
+        20
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        64.0,
+        99.5,
+        57.5
+      ],
+      "parent_maximum_halfwidth": 99.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        27,
+        29,
+        21
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        81.5,
+        88.0,
+        66.0
+      ],
+      "parent_maximum_halfwidth": 88.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        23,
+        26,
+        12
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        79.0,
+        86.5,
+        34.0
+      ],
+      "parent_maximum_halfwidth": 86.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        33,
+        16
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        95.5,
+        50.0
+      ],
+      "parent_maximum_halfwidth": 95.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        20,
+        13
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        63.0,
+        36.5
+      ],
+      "parent_maximum_halfwidth": 63.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        32,
+        23
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        98.5,
+        65.0
+      ],
+      "parent_maximum_halfwidth": 98.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        29,
+        30,
+        9
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        93.0,
+        94.5,
+        21.0
+      ],
+      "parent_maximum_halfwidth": 94.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        30,
+        25,
+        20
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        95.5,
+        85.5,
+        59.5
+      ],
+      "parent_maximum_halfwidth": 95.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        27
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        94.0
+      ],
+      "parent_maximum_halfwidth": 94.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        29,
+        9
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        99.0,
+        21.0
+      ],
+      "parent_maximum_halfwidth": 99.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        34,
+        15
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        98.5,
+        44.0
+      ],
+      "parent_maximum_halfwidth": 98.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        23,
+        25,
+        13
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        66.5,
+        79.5,
+        37.0
+      ],
+      "parent_maximum_halfwidth": 79.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        30,
+        9
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        98.5,
+        21.0
+      ],
+      "parent_maximum_halfwidth": 98.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        24,
+        28,
+        6
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        77.5,
+        93.5,
+        16.0
+      ],
+      "parent_maximum_halfwidth": 93.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        29
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        94.5
+      ],
+      "parent_maximum_halfwidth": 94.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        24,
+        8
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        77.5,
+        25.0
+      ],
+      "parent_maximum_halfwidth": 77.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        30,
+        12
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        86.0,
+        38.0
+      ],
+      "parent_maximum_halfwidth": 86.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        33,
+        23
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        99.5,
+        60.5
+      ],
+      "parent_maximum_halfwidth": 99.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        33,
+        29
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        99.5,
+        93.0
+      ],
+      "parent_maximum_halfwidth": 99.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        32,
+        30
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        90.0,
+        93.5
+      ],
+      "parent_maximum_halfwidth": 93.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        31,
+        28,
+        6
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        94.0,
+        90.0,
+        18.0
+      ],
+      "parent_maximum_halfwidth": 94.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        23,
+        29,
+        10
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        75.0,
+        88.5,
+        29.5
+      ],
+      "parent_maximum_halfwidth": 88.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        30,
+        28,
+        16
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        100.0,
+        89.0,
+        49.0
+      ],
+      "parent_maximum_halfwidth": 100.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        30,
+        24,
+        7
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        95.5,
+        79.5,
+        21.5
+      ],
+      "parent_maximum_halfwidth": 95.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        27,
+        14
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        82.0,
+        46.0
+      ],
+      "parent_maximum_halfwidth": 82.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        24,
+        21,
+        22
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        76.0,
+        71.0,
+        72.0
+      ],
+      "parent_maximum_halfwidth": 76.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        29,
+        7
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        89.0,
+        19.0
+      ],
+      "parent_maximum_halfwidth": 89.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        28,
+        25,
+        19
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        91.5,
+        81.5,
+        59.5
+      ],
+      "parent_maximum_halfwidth": 91.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        27
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        85.0
+      ],
+      "parent_maximum_halfwidth": 85.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        30
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        91.0
+      ],
+      "parent_maximum_halfwidth": 91.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        22,
+        26,
+        32
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        70.5,
+        87.0,
+        96.5
+      ],
+      "parent_maximum_halfwidth": 96.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        23,
+        25
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        78.5,
+        84.5
+      ],
+      "parent_maximum_halfwidth": 84.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        28
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        89.0
+      ],
+      "parent_maximum_halfwidth": 89.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        27
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        91.5
+      ],
+      "parent_maximum_halfwidth": 91.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        34,
+        18
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        99.5,
+        53.0
+      ],
+      "parent_maximum_halfwidth": 99.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        27,
+        7
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        85.0,
+        19.0
+      ],
+      "parent_maximum_halfwidth": 85.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        19
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        63.5
+      ],
+      "parent_maximum_halfwidth": 63.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        29,
+        7
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        87.5,
+        17.5
+      ],
+      "parent_maximum_halfwidth": 87.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        33,
+        23
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        98.5,
+        74.0
+      ],
+      "parent_maximum_halfwidth": 98.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        33,
+        10
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        79.5,
+        25.5
+      ],
+      "parent_maximum_halfwidth": 79.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        24,
+        28
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        83.0,
+        90.5
+      ],
+      "parent_maximum_halfwidth": 90.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        33,
+        30
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        92.5,
+        94.5
+      ],
+      "parent_maximum_halfwidth": 94.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        28,
+        32,
+        12
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        90.5,
+        100.0,
+        31.5
+      ],
+      "parent_maximum_halfwidth": 100.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        31,
+        25
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        95.5,
+        79.0
+      ],
+      "parent_maximum_halfwidth": 95.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        30,
+        11
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        92.5,
+        32.0
+      ],
+      "parent_maximum_halfwidth": 92.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        32,
+        29
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        92.0,
+        86.5
+      ],
+      "parent_maximum_halfwidth": 92.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        20,
+        28,
+        33
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        65.5,
+        92.0,
+        95.5
+      ],
+      "parent_maximum_halfwidth": 95.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        26,
+        16
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        92.0,
+        44.5
+      ],
+      "parent_maximum_halfwidth": 92.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        27,
+        26,
+        13
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        88.0,
+        85.5,
+        36.5
+      ],
+      "parent_maximum_halfwidth": 88.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        28,
+        6
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        84.0,
+        18.5
+      ],
+      "parent_maximum_halfwidth": 84.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        16
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        48.0
+      ],
+      "parent_maximum_halfwidth": 48.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        26
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        79.0
+      ],
+      "parent_maximum_halfwidth": 79.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        28,
+        20
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        85.0,
+        62.5
+      ],
+      "parent_maximum_halfwidth": 85.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        31,
+        27,
+        21
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        98.5,
+        81.5,
+        61.5
+      ],
+      "parent_maximum_halfwidth": 98.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        30,
+        19
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        97.5,
+        65.5
+      ],
+      "parent_maximum_halfwidth": 97.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        32,
+        28,
+        18
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        90.0,
+        85.0,
+        51.0
+      ],
+      "parent_maximum_halfwidth": 90.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        26,
+        27
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        83.5,
+        85.5
+      ],
+      "parent_maximum_halfwidth": 85.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        27,
+        30
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        87.0,
+        95.5
+      ],
+      "parent_maximum_halfwidth": 95.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        29,
+        10
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        83.0,
+        27.5
+      ],
+      "parent_maximum_halfwidth": 83.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        29,
+        13
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        87.0,
+        38.0
+      ],
+      "parent_maximum_halfwidth": 87.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        24
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        73.5
+      ],
+      "parent_maximum_halfwidth": 73.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        31,
+        27
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        94.5,
+        85.0
+      ],
+      "parent_maximum_halfwidth": 94.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        19
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        58.5
+      ],
+      "parent_maximum_halfwidth": 58.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        14
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        40.0
+      ],
+      "parent_maximum_halfwidth": 40.0,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        27,
+        15
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        92.5,
+        39.5
+      ],
+      "parent_maximum_halfwidth": 92.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        34
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        90.5
+      ],
+      "parent_maximum_halfwidth": 90.5,
+      "passed": true
+    },
+    {
+      "row_bytes": [
+        27,
+        27,
+        8
+      ],
+      "supported": true,
+      "line_halfwidths": [
+        83.0,
+        86.0,
+        18.0
+      ],
+      "parent_maximum_halfwidth": 86.0,
+      "passed": true
+    }
+  ]
+}

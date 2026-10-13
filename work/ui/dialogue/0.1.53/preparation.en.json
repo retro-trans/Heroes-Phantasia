@@ -1,0 +1,3148 @@
+{
+  "version": "0.1.53",
+  "input_version": "0.1.52",
+  "archive_input_sha256": "aae8379fabd7b47e96fbec03c51a271fae03306d9ce55ebe18d0c120bbc27be6",
+  "resources_audited": 330,
+  "tailless_field_records_examined": 95,
+  "already_fitting_records": 22,
+  "reflow_records": [
+    {
+      "resource": "fld/talk/f103061.bin",
+      "reference_index": 0,
+      "input_sha256": "5dba36aa3b462bf56185677b67f640329d537243bf5f62da3ad1efcce42017a3",
+      "old_shape": 82,
+      "new_shape": 132,
+      "old_english": "{1C}Princess Serish{0E}In that cave...{11}you should learn{11}what this world is really like.{12}{0E}",
+      "new_english": "{1C}Princess Serish{0E}In that cave... you should learn{11}what this world is really like.{12}{0E}",
+      "page_line_advances": [
+        [
+          199,
+          184
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          360.0,
+          200.0,
+          0.0,
+          0
+        ],
+        [
+          10.0,
+          360.0,
+          200.0,
+          0.0,
+          0
+        ],
+        [
+          11.0,
+          360.0,
+          200.0,
+          0.0,
+          0
+        ],
+        [
+          16.0,
+          360.0,
+          200.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          200.0
+        ],
+        [
+          360.0,
+          200.0
+        ],
+        [
+          360.0,
+          200.0
+        ],
+        [
+          360.0,
+          200.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "e415a74275dd5348616a12e3312006baed59aea37f756aadcae36312fef7db63"
+    },
+    {
+      "resource": "fld/talk/f104011.bin",
+      "reference_index": 0,
+      "input_sha256": "2a29fb9eb976023463d19e1762ba7b102a16a705798d162be91268356e1055b3",
+      "old_shape": 92,
+      "new_shape": 122,
+      "old_english": "{1C}Louie{0E}It's been a week already...{12}{10}Time really flies.{12}{0E}",
+      "new_english": "{1C}Louie{0E}It's been a week already...{12}{10}Time really flies.{12}{0E}",
+      "page_line_advances": [
+        [
+          168
+        ],
+        [
+          108
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          335.0,
+          200.0,
+          0.0,
+          0
+        ],
+        [
+          10.0,
+          335.0,
+          200.0,
+          0.0,
+          0
+        ],
+        [
+          11.0,
+          335.0,
+          200.0,
+          0.0,
+          0
+        ],
+        [
+          16.0,
+          335.0,
+          200.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          335.0,
+          200.0
+        ],
+        [
+          335.0,
+          200.0
+        ],
+        [
+          335.0,
+          200.0
+        ],
+        [
+          335.0,
+          200.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "a9d428946d5967ad690444ebf4adc18e09a24b108bffd5741eaa9da6fec0fba9"
+    },
+    {
+      "resource": "fld/talk/f501010.bin",
+      "reference_index": 0,
+      "input_sha256": "60b1b65d95d6d82eb92a32439a592675f81df2f65d4e44ba340accdee7280a45",
+      "old_shape": 72,
+      "new_shape": 132,
+      "old_english": "{1C}HOLD soldier{0E}This is the headquarters{11}of HOLD, the armed police.{12}{0E}",
+      "new_english": "{1C}HOLD soldier{0E}This is the headquarters of{11}HOLD, the armed police.{12}{0E}",
+      "page_line_advances": [
+        [
+          174,
+          157
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          110.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          122.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "db4012165d68a5bdaaa4b3cdb97bdbdfb908e34676d8085b8f4f4863f1338652"
+    },
+    {
+      "resource": "fld/talk/f501012.bin",
+      "reference_index": 0,
+      "input_sha256": "eeebd6ba5cba6481fd531c3ad4b5ccf5a8dff88b3d934e370766b73b4979879c",
+      "old_shape": 72,
+      "new_shape": 132,
+      "old_english": "{1C}HOLD soldier{0E}Our mission is{11}to keep the citizens safe.{12}{0E}",
+      "new_english": "{1C}HOLD soldier{0E}Our mission is to keep the{11}citizens safe.{12}{0E}",
+      "page_line_advances": [
+        [
+          169,
+          86
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          380.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "3ed4ac834e5feade2b9c8f99e1d85850bb8d4583188779e512e3454ce151c0da"
+    },
+    {
+      "resource": "fld/talk/f501014.bin",
+      "reference_index": 0,
+      "input_sha256": "df17021ba32ba69b9a1a4a73c7a35ed1e753baad07f3ef8dc1a112a53865bb81",
+      "old_shape": 72,
+      "new_shape": 132,
+      "old_english": "{1C}HOLD soldier{0E}The elevator{11}is currently under maintenance.{12}{0E}",
+      "new_english": "{1C}HOLD soldier{0E}The elevator is currently under{11}maintenance.{12}{0E}",
+      "page_line_advances": [
+        [
+          198,
+          88
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          110.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          122.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "fb5981dd7d552cc08efdac36d5bd17cdeee32627be82ad632d9e6351f56920d3"
+    },
+    {
+      "resource": "fld/talk/f501015.bin",
+      "reference_index": 0,
+      "input_sha256": "96efe7e8974f10216d5a9831f2922a5aaad2914c93232aa0a69d41303e6a4a13",
+      "old_shape": 72,
+      "new_shape": 132,
+      "old_english": "{1C}HOLD soldier{0E}HOLD's information{11}is stored here.{12}{10}Don't touch the equipment!{12}{0E}",
+      "new_english": "{1C}HOLD soldier{0E}HOLD's information is stored{11}here.{12}{10}Don't touch the equipment!{12}{0E}",
+      "page_line_advances": [
+        [
+          186,
+          33
+        ],
+        [
+          175
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          110.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          122.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "7358d72b4f648fd261623136633a29a60c65ff20c58c060e295d83ec6c6a4c26"
+    },
+    {
+      "resource": "fld/talk/f501017.bin",
+      "reference_index": 0,
+      "input_sha256": "03a41d17997df017fa0d8b6ccea18552c2ee0df8b0f4fc280e667fd43af34e3f",
+      "old_shape": 82,
+      "new_shape": 142,
+      "old_english": "{1C}HOLD soldier{0E}People will get suspicious{11}if you go wandering{11}around a place like this...{12}{0E}",
+      "new_english": "{1C}HOLD soldier{0E}People will get suspicious if{11}you go wandering around a{11}place like this...{12}{0E}",
+      "page_line_advances": [
+        [
+          181,
+          175,
+          102
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          380.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "c132ed668ae9d1628e93944abea7ae5ce3148aff225c3d1b335108c024ba1b5e"
+    },
+    {
+      "resource": "fld/talk/f501017.bin",
+      "reference_index": 1,
+      "input_sha256": "03a41d17997df017fa0d8b6ccea18552c2ee0df8b0f4fc280e667fd43af34e3f",
+      "old_shape": 102,
+      "new_shape": 132,
+      "old_english": "{1C}HOLD soldier{0E}D-don't tell me you people{11}are helping the escapees...{12}{0E}",
+      "new_english": "{1C}HOLD soldier{0E}D-don't tell me you people are{11}helping the escapees...{12}{0E}",
+      "page_line_advances": [
+        [
+          194,
+          150
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          380.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "c132ed668ae9d1628e93944abea7ae5ce3148aff225c3d1b335108c024ba1b5e"
+    },
+    {
+      "resource": "fld/talk/f502020.bin",
+      "reference_index": 0,
+      "input_sha256": "e89dd30402cbf19869dce155cbac24d671a8e652ac5cde5046ce7f27cb3d92bc",
+      "old_shape": 72,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}This school{11}has amazing facilities, doesn't it?{12}{10}It looks like they spent a lot on them.{12}{0E}",
+      "new_english": "{1C}Student{0E}This school has amazing{11}facilities, doesn't it?{12}{10}It looks like they spent a lot on{11}them.{12}{0E}",
+      "page_line_advances": [
+        [
+          159,
+          130
+        ],
+        [
+          199,
+          37
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          380.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "b6b732c9ce0e92334f72499b4a08810ac763d999639f078462af4c0b13c6a944"
+    },
+    {
+      "resource": "fld/talk/f502020.bin",
+      "reference_index": 1,
+      "input_sha256": "e89dd30402cbf19869dce155cbac24d671a8e652ac5cde5046ce7f27cb3d92bc",
+      "old_shape": 102,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}I wonder what that army{11}was doing here the other day...{12}{0E}",
+      "new_english": "{1C}Student{0E}I wonder what that army was{11}doing here the other day...{12}{0E}",
+      "page_line_advances": [
+        [
+          185,
+          171
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          360.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "b6b732c9ce0e92334f72499b4a08810ac763d999639f078462af4c0b13c6a944"
+    },
+    {
+      "resource": "fld/talk/f502020.bin",
+      "reference_index": 2,
+      "input_sha256": "e89dd30402cbf19869dce155cbac24d671a8e652ac5cde5046ce7f27cb3d92bc",
+      "old_shape": 102,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}It looks like the school's{11}completely back to normal.{12}{0E}",
+      "new_english": "{1C}Student{0E}It looks like the school's{11}completely back to normal.{12}{0E}",
+      "page_line_advances": [
+        [
+          155,
+          175
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          360.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "b6b732c9ce0e92334f72499b4a08810ac763d999639f078462af4c0b13c6a944"
+    },
+    {
+      "resource": "fld/talk/f502021.bin",
+      "reference_index": 0,
+      "input_sha256": "7b2161e9e4b1b97472b85914ddd568a70cf2cb4f69924821715b4c2342ff3412",
+      "old_shape": 62,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}Are you from one of the sponsoring companies?{12}{10}You're here for an inspection, right?{12}{0E}",
+      "new_english": "{1C}Student{0E}Are you from one of the{11}sponsoring companies?{12}{10}You're here for an inspection,{11}right?{12}{0E}",
+      "page_line_advances": [
+        [
+          153,
+          152
+        ],
+        [
+          189,
+          37
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "83dbc7160986b8c0364a920417a1ad8b7dca25e0b5def43b2fac04b332cdb42c"
+    },
+    {
+      "resource": "fld/talk/f502021.bin",
+      "reference_index": 1,
+      "input_sha256": "7b2161e9e4b1b97472b85914ddd568a70cf2cb4f69924821715b4c2342ff3412",
+      "old_shape": 42,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}Are you from one of the sponsoring companies?{12}{10}You came on an inspection{11}before, didn't you?{12}{0E}",
+      "new_english": "{1C}Student{0E}Are you from one of the{11}sponsoring companies?{12}{10}You came on an inspection{11}before, didn't you?{12}{0E}",
+      "page_line_advances": [
+        [
+          153,
+          152
+        ],
+        [
+          174,
+          119
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "83dbc7160986b8c0364a920417a1ad8b7dca25e0b5def43b2fac04b332cdb42c"
+    },
+    {
+      "resource": "fld/talk/f502021.bin",
+      "reference_index": 2,
+      "input_sha256": "7b2161e9e4b1b97472b85914ddd568a70cf2cb4f69924821715b4c2342ff3412",
+      "old_shape": 62,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}Are you from one of the sponsoring companies?{12}{10}Are you here on yet another inspection?{12}{0E}",
+      "new_english": "{1C}Student{0E}Are you from one of the{11}sponsoring companies?{12}{10}Are you here on yet another{11}inspection?{12}{0E}",
+      "page_line_advances": [
+        [
+          153,
+          152
+        ],
+        [
+          180,
+          74
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "83dbc7160986b8c0364a920417a1ad8b7dca25e0b5def43b2fac04b332cdb42c"
+    },
+    {
+      "resource": "fld/talk/f502022.bin",
+      "reference_index": 0,
+      "input_sha256": "82a5827e22ca838f9a05737c7f5911e157a49eeece35eb29b8a2e7dd6c6d99a5",
+      "old_shape": 82,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}Rumor has it that strange{11}creatures show up{11}in the woods around here...{12}{10}It's a bit hard{11}to believe...{12}{0E}",
+      "new_english": "{1C}Student{0E}Rumor has it that strange{11}creatures show up in the{11}woods around here...{12}{10}It's a bit hard to believe...{12}{0E}",
+      "page_line_advances": [
+        [
+          165,
+          159,
+          135
+        ],
+        [
+          165
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          75.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          75.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "2a8d4f3faab63cf69528c72c09e0ca9543263b05f9e3f2d054aa07e9d457fd0a"
+    },
+    {
+      "resource": "fld/talk/f502022.bin",
+      "reference_index": 1,
+      "input_sha256": "82a5827e22ca838f9a05737c7f5911e157a49eeece35eb29b8a2e7dd6c6d99a5",
+      "old_shape": 102,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}I went into the woods near{11}the academy the other day...{12}{10}But I didn't encounter{11}any of those rumored strange creatures.{12}{10}Was I just unlucky?{12}{0E}",
+      "new_english": "{1C}Student{0E}I went into the woods near the{11}academy the other day...{12}{10}But I didn't encounter any of{11}those rumored strange{11}creatures.{12}{10}Was I just unlucky?{12}{0E}",
+      "page_line_advances": [
+        [
+          196,
+          160
+        ],
+        [
+          183,
+          147,
+          65
+        ],
+        [
+          123
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          75.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          75.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "2a8d4f3faab63cf69528c72c09e0ca9543263b05f9e3f2d054aa07e9d457fd0a"
+    },
+    {
+      "resource": "fld/talk/f502022.bin",
+      "reference_index": 2,
+      "input_sha256": "82a5827e22ca838f9a05737c7f5911e157a49eeece35eb29b8a2e7dd6c6d99a5",
+      "old_shape": 112,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}I want to see those strange creatures{11}that supposedly appear{11}in the woods near the academy...{12}{10}But it looks like{11}I'll never get to see them after all.{12}{0E}",
+      "new_english": "{1C}Student{0E}I want to see those strange{11}creatures that supposedly{12}{10}appear in the woods near the{11}academy...{12}{10}But it looks like I'll never get{11}to see them after all.{12}{0E}",
+      "page_line_advances": [
+        [
+          176,
+          168
+        ],
+        [
+          189,
+          70
+        ],
+        [
+          184,
+          136
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          75.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          75.0
+        ]
+      ],
+      "extra_pages": 1,
+      "words_exact": true,
+      "nonline_controls_exact": false,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "2a8d4f3faab63cf69528c72c09e0ca9543263b05f9e3f2d054aa07e9d457fd0a"
+    },
+    {
+      "resource": "fld/talk/f502030.bin",
+      "reference_index": 1,
+      "input_sha256": "cb59787ca4adec3cedfa0e606fae63617bba1b4ba889fd42bb3f6c83a236698d",
+      "old_shape": 72,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}I told the person I like{11}how I feel...{12}{10}But they asked me to wait for an answer.{12}{0E}",
+      "new_english": "{1C}Student{0E}I told the person I like how I{11}feel...{12}{10}But they asked me to wait for{11}an answer.{12}{0E}",
+      "page_line_advances": [
+        [
+          179,
+          37
+        ],
+        [
+          190,
+          70
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          125.0,
+          195.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          125.0,
+          195.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "d065cf641022aedec5ad1edb3957e78a9bfd281ff764f4754dbbc7e0a95734da"
+    },
+    {
+      "resource": "fld/talk/f502030.bin",
+      "reference_index": 2,
+      "input_sha256": "cb59787ca4adec3cedfa0e606fae63617bba1b4ba889fd42bb3f6c83a236698d",
+      "old_shape": 102,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}I told the person I like{11}how I feel...{12}{10}They kept me waiting for an answer,{11}then turned me down in the end...{12}{0E}",
+      "new_english": "{1C}Student{0E}I told the person I like how I{11}feel...{12}{10}They kept me waiting for an{11}answer, then turned me down{11}in the end...{12}{0E}",
+      "page_line_advances": [
+        [
+          179,
+          37
+        ],
+        [
+          180,
+          190,
+          77
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          127.0,
+          195.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          127.0,
+          195.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "d065cf641022aedec5ad1edb3957e78a9bfd281ff764f4754dbbc7e0a95734da"
+    },
+    {
+      "resource": "fld/talk/f502031.bin",
+      "reference_index": 1,
+      "input_sha256": "c141e7caaec4f1fe674a8d8f0295dd80d41ae8aa2e14351dd2e76d6726b5dd3c",
+      "old_shape": 42,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}Right now,{11}I'm ranked fifth.{12}{10}I need to work hard{11}to reach the top.{12}{0E}",
+      "new_english": "{1C}Student{0E}Right now, I'm ranked fifth.{12}{10}I need to work hard to reach{11}the top.{12}{0E}",
+      "page_line_advances": [
+        [
+          173
+        ],
+        [
+          181,
+          50
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          350.0,
+          205.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          350.0,
+          205.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "78436f5e69e13bba71b98268fadf498e43320df6aeb49c92c03781e9a1658dc1"
+    },
+    {
+      "resource": "fld/talk/f502031.bin",
+      "reference_index": 2,
+      "input_sha256": "c141e7caaec4f1fe674a8d8f0295dd80d41ae8aa2e14351dd2e76d6726b5dd3c",
+      "old_shape": 102,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}All the trouble at the academy{11}kept me from studying.{12}{10}Thanks to that, my ranking{11}dropped to twelfth.{12}{0E}",
+      "new_english": "{1C}Student{0E}All the trouble at the academy{11}kept me from studying.{12}{10}Thanks to that, my ranking{11}dropped to twelfth.{12}{0E}",
+      "page_line_advances": [
+        [
+          196,
+          149
+        ],
+        [
+          171,
+          123
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          350.0,
+          205.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          350.0,
+          205.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "78436f5e69e13bba71b98268fadf498e43320df6aeb49c92c03781e9a1658dc1"
+    },
+    {
+      "resource": "fld/talk/f502032.bin",
+      "reference_index": 0,
+      "input_sha256": "56818d728e09ea58b904b86aa7d6df3a7b72e1a9bf571c92352e0b92e889a838",
+      "old_shape": 112,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}The restaurant{11}called Linden Baum{11}near the academy serves pretty good food.{12}{0E}",
+      "new_english": "{1C}Student{0E}The restaurant called Linden{11}Baum near the academy{11}serves pretty good food.{12}{0E}",
+      "page_line_advances": [
+        [
+          186,
+          157,
+          157
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          355.0,
+          75.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          75.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "cb83a3565e0523ba2e75f45746b729d62e385c312d2bca3b9fec0f9cdb593b42"
+    },
+    {
+      "resource": "fld/talk/f502032.bin",
+      "reference_index": 1,
+      "input_sha256": "56818d728e09ea58b904b86aa7d6df3a7b72e1a9bf571c92352e0b92e889a838",
+      "old_shape": 82,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}The fair-skinned server{11}who worked at Linden Baum{11}apparently quit...{12}{10}I wonder{11}if they'll{11}come back.{12}{0E}",
+      "new_english": "{1C}Student{0E}The fair-skinned server who{11}worked at Linden Baum{11}apparently quit...{12}{10}I wonder if they'll come back.{12}{0E}",
+      "page_line_advances": [
+        [
+          178,
+          152,
+          110
+        ],
+        [
+          188
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          355.0,
+          75.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          75.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "cb83a3565e0523ba2e75f45746b729d62e385c312d2bca3b9fec0f9cdb593b42"
+    },
+    {
+      "resource": "fld/talk/f502032.bin",
+      "reference_index": 2,
+      "input_sha256": "56818d728e09ea58b904b86aa7d6df3a7b72e1a9bf571c92352e0b92e889a838",
+      "old_shape": 82,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}There was a really cool{11}server{11}at Linden Baum.{12}{10}I wonder where they are{11}and what they're doing now...{12}{0E}",
+      "new_english": "{1C}Student{0E}There was a really cool server{11}at Linden Baum.{12}{10}I wonder where they are and{11}what they're doing now...{12}{0E}",
+      "page_line_advances": [
+        [
+          193,
+          106
+        ],
+        [
+          183,
+          161
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          355.0,
+          75.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          75.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "cb83a3565e0523ba2e75f45746b729d62e385c312d2bca3b9fec0f9cdb593b42"
+    },
+    {
+      "resource": "fld/talk/f502040.bin",
+      "reference_index": 0,
+      "input_sha256": "000bfae7ab6461966e9182d16f437b1ccbaed3d6020f8f8ca460c55ecf435125",
+      "old_shape": 102,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}This academy has everything{11}from elementary school to senior high.{12}{10}There's even an adorable{11}choir member in the elementary division.{12}{0E}",
+      "new_english": "{1C}Student{0E}This academy has everything{11}from elementary school to{11}senior high.{12}{10}There's even an adorable choir{11}member in the elementary{11}division.{12}{0E}",
+      "page_line_advances": [
+        [
+          188,
+          170,
+          76
+        ],
+        [
+          199,
+          171,
+          54
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          125.0,
+          65.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          125.0,
+          65.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "5302f55d41de33f952fa3b3dc082125cf4ee77dcba93a94f4b34ac516ad61c5b"
+    },
+    {
+      "resource": "fld/talk/f502040.bin",
+      "reference_index": 1,
+      "input_sha256": "000bfae7ab6461966e9182d16f437b1ccbaed3d6020f8f8ca460c55ecf435125",
+      "old_shape": 102,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}Alyssa...{11}Apparently she transferred...{12}{10}I wish I could have heard{11}that lovely singing one more time.{12}{0E}",
+      "new_english": "{1C}Student{0E}Alyssa... Apparently she{11}transferred...{12}{10}I wish I could have heard that{11}lovely singing one more time.{12}{0E}",
+      "page_line_advances": [
+        [
+          155,
+          84
+        ],
+        [
+          190,
+          191
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          125.0,
+          65.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          125.0,
+          65.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "5302f55d41de33f952fa3b3dc082125cf4ee77dcba93a94f4b34ac516ad61c5b"
+    },
+    {
+      "resource": "fld/talk/f502041.bin",
+      "reference_index": 1,
+      "input_sha256": "78b82aecd8b7bf87794366d3747c19de31573ac3d934bdb57a84878b017fb9a8",
+      "old_shape": 72,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}It looks like Higurashi's{11}taking time off school...{12}{10}I wonder what's wrong.{12}{0E}",
+      "new_english": "{1C}Student{0E}It looks like Higurashi's taking{11}time off school...{12}{10}I wonder what's wrong.{12}{0E}",
+      "page_line_advances": [
+        [
+          194,
+          109
+        ],
+        [
+          147
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          380.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "3a225666defe88a1d58866a1df0e2be8fd4429e991de1795699182c50ee415de"
+    },
+    {
+      "resource": "fld/talk/f502041.bin",
+      "reference_index": 2,
+      "input_sha256": "78b82aecd8b7bf87794366d3747c19de31573ac3d934bdb57a84878b017fb9a8",
+      "old_shape": 72,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}Now that Higurashi{11}has returned to school,{12}{10}I'll take this opportunity{11}to find a new love, too.{12}{0E}",
+      "new_english": "{1C}Student{0E}Now that Higurashi has{11}returned to school,{12}{10}I'll take this opportunity to find{11}a new love, too.{12}{0E}",
+      "page_line_advances": [
+        [
+          151,
+          121
+        ],
+        [
+          199,
+          101
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          380.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "3a225666defe88a1d58866a1df0e2be8fd4429e991de1795699182c50ee415de"
+    },
+    {
+      "resource": "fld/talk/f502050.bin",
+      "reference_index": 0,
+      "input_sha256": "757443d628503d2a80403976727e551b79a0aaab7e56d6b039cb969ac99700f9",
+      "old_shape": 72,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}The cafeteria here is expensive,{11}but the food's good.{12}{0E}",
+      "new_english": "{1C}Student{0E}The cafeteria here is{11}expensive, but the food's{11}good.{12}{0E}",
+      "page_line_advances": [
+        [
+          134,
+          161,
+          36
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          110.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          125.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "1d8f0716442300ced46eb84726b9f20c29ab20d97fe81dcb649ca85f6a6ca20c"
+    },
+    {
+      "resource": "fld/talk/f502050.bin",
+      "reference_index": 1,
+      "input_sha256": "757443d628503d2a80403976727e551b79a0aaab7e56d6b039cb969ac99700f9",
+      "old_shape": 112,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}When the soldiers came in{11}and the cafeteria closed,{11}I wondered what would happen.{12}{0E}",
+      "new_english": "{1C}Student{0E}When the soldiers came in and{11}the cafeteria closed, I{11}wondered what would happen.{12}{0E}",
+      "page_line_advances": [
+        [
+          199,
+          140,
+          196
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          125.0,
+          205.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          125.0,
+          205.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "1d8f0716442300ced46eb84726b9f20c29ab20d97fe81dcb649ca85f6a6ca20c"
+    },
+    {
+      "resource": "fld/talk/f502050.bin",
+      "reference_index": 2,
+      "input_sha256": "757443d628503d2a80403976727e551b79a0aaab7e56d6b039cb969ac99700f9",
+      "old_shape": 102,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}It's good that things are peaceful,{11}but the cafeteria food's gotten worse.{12}{10}I'm disappointed.{12}{0E}",
+      "new_english": "{1C}Student{0E}It's good that things are{11}peaceful, but the cafeteria{11}food's gotten worse.{12}{10}I'm disappointed.{12}{0E}",
+      "page_line_advances": [
+        [
+          154,
+          171,
+          131
+        ],
+        [
+          111
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          125.0,
+          205.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          125.0,
+          205.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "1d8f0716442300ced46eb84726b9f20c29ab20d97fe81dcb649ca85f6a6ca20c"
+    },
+    {
+      "resource": "fld/talk/f502052.bin",
+      "reference_index": 2,
+      "input_sha256": "408ed2fe0f893f90195d409f52e8523b209f61c3c49501cb705b441b6a3532e1",
+      "old_shape": 102,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}At one point I thought{11}about quitting the kendo club,{12}{10}but I've decided to keep trying{11}a little longer.{12}{0E}",
+      "new_english": "{1C}Student{0E}At one point I thought about{11}quitting the kendo club,{12}{10}but I've decided to keep trying{11}a little longer.{12}{0E}",
+      "page_line_advances": [
+        [
+          182,
+          152
+        ],
+        [
+          195,
+          91
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          365.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "803cd56a33ebc34213fb8923993c7312137cf89023cce6b193c208d87403d346"
+    },
+    {
+      "resource": "fld/talk/f502053.bin",
+      "reference_index": 0,
+      "input_sha256": "d373dae318cdea4cd449cae46ed6c62dc0354c7b4b9a861afde361f435e4f8b7",
+      "old_shape": 72,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}I wonder if there are{11}any good part-time jobs...{12}{0E}",
+      "new_english": "{1C}Student{0E}I wonder if there are any good{11}part-time jobs...{12}{0E}",
+      "page_line_advances": [
+        [
+          194,
+          102
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "8287431f4f0bcc72883cbb4d7338af17456cbf0ccce876e1ca855da653a2b865"
+    },
+    {
+      "resource": "fld/talk/f502053.bin",
+      "reference_index": 1,
+      "input_sha256": "d373dae318cdea4cd449cae46ed6c62dc0354c7b4b9a861afde361f435e4f8b7",
+      "old_shape": 72,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}I can't find{11}a good part-time job...{12}{0E}",
+      "new_english": "{1C}Student{0E}I can't find a good part-time{11}job...{12}{0E}",
+      "page_line_advances": [
+        [
+          179,
+          32
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "8287431f4f0bcc72883cbb4d7338af17456cbf0ccce876e1ca855da653a2b865"
+    },
+    {
+      "resource": "fld/talk/f502053.bin",
+      "reference_index": 2,
+      "input_sha256": "d373dae318cdea4cd449cae46ed6c62dc0354c7b4b9a861afde361f435e4f8b7",
+      "old_shape": 72,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}I work part-time{11}at an arcade,{12}{10}but it's full of elderly customers,{11}so I have to be pretty considerate.{12}{0E}",
+      "new_english": "{1C}Student{0E}I work part-time at an arcade,{12}{10}but it's full of elderly{11}customers, so I have to be{11}pretty considerate.{12}{0E}",
+      "page_line_advances": [
+        [
+          189
+        ],
+        [
+          134,
+          169,
+          122
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "8287431f4f0bcc72883cbb4d7338af17456cbf0ccce876e1ca855da653a2b865"
+    },
+    {
+      "resource": "fld/talk/f502060.bin",
+      "reference_index": 0,
+      "input_sha256": "31dfbbec4ccda6b796f39ecad59cf6bba8341a13da5ac5aea97539a83b1ff5ab",
+      "old_shape": 102,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}Executive Committee members{11}are always nagging us...{12}{10}Honestly,{11}it makes me feel suffocated.{12}{0E}",
+      "new_english": "{1C}Student{0E}Executive Committee{11}members are always nagging{11}us...{12}{10}Honestly, it makes me feel{11}suffocated.{12}{0E}",
+      "page_line_advances": [
+        [
+          137,
+          189,
+          27
+        ],
+        [
+          172,
+          73
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          110.0,
+          60.0,
+          0.0,
+          0
+        ],
+        [
+          10.0,
+          125.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          125.0,
+          60.0
+        ],
+        [
+          125.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "360a79c5f69547b5b5a1370b5fe989a688ef9fe96106d2c282303ad6f49e98ca"
+    },
+    {
+      "resource": "fld/talk/f502060.bin",
+      "reference_index": 1,
+      "input_sha256": "31dfbbec4ccda6b796f39ecad59cf6bba8341a13da5ac5aea97539a83b1ff5ab",
+      "old_shape": 132,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}I hear the Executive Committee chair{11}wasn't scared of the army at all.{12}{10}I might have a little more respect for her now.{11}Yeah, I think she's amazing.{12}{0E}",
+      "new_english": "{1C}Student{0E}I hear the Executive{11}Committee chair wasn't scared{11}of the army at all.{12}{10}I might have a little more{11}respect for her now. Yeah, I{11}think she's amazing.{12}{0E}",
+      "page_line_advances": [
+        [
+          128,
+          199,
+          115
+        ],
+        [
+          163,
+          176,
+          132
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          125.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          125.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "360a79c5f69547b5b5a1370b5fe989a688ef9fe96106d2c282303ad6f49e98ca"
+    },
+    {
+      "resource": "fld/talk/f502060.bin",
+      "reference_index": 2,
+      "input_sha256": "31dfbbec4ccda6b796f39ecad59cf6bba8341a13da5ac5aea97539a83b1ff5ab",
+      "old_shape": 102,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}An Executive Committee member{11}told me off for my behavior...{12}{10}They're so uptight.{11}I just can't deal with them.{12}{0E}",
+      "new_english": "{1C}Student{0E}An Executive Committee{11}member told me off for my{11}behavior...{12}{10}They're so uptight. I just can't{11}deal with them.{12}{0E}",
+      "page_line_advances": [
+        [
+          158,
+          173,
+          68
+        ],
+        [
+          191,
+          100
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          110.0,
+          60.0,
+          0.0,
+          0
+        ],
+        [
+          10.0,
+          125.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          125.0,
+          60.0
+        ],
+        [
+          125.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "360a79c5f69547b5b5a1370b5fe989a688ef9fe96106d2c282303ad6f49e98ca"
+    },
+    {
+      "resource": "fld/talk/f502061.bin",
+      "reference_index": 0,
+      "input_sha256": "568211b68077b90ba41a38bda18bb8ea27cdf2b584f0f849851b4d04312d9b17",
+      "old_shape": 102,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}Our student council president...{12}{10}She's beautiful and so refined.{11}I really admire her...{12}{0E}",
+      "new_english": "{1C}Student{0E}Our student council{11}president...{12}{10}She's beautiful and so refined.{11}I really admire her...{12}{0E}",
+      "page_line_advances": [
+        [
+          126,
+          73
+        ],
+        [
+          197,
+          130
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "27cb7f11c8482efcdab01454ce8a2cdebe7a1281d8a661149716c00bc89157b3"
+    },
+    {
+      "resource": "fld/talk/f502061.bin",
+      "reference_index": 1,
+      "input_sha256": "568211b68077b90ba41a38bda18bb8ea27cdf2b584f0f849851b4d04312d9b17",
+      "old_shape": 102,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}I wonder what kind of person{11}our student council president likes...{12}{0E}",
+      "new_english": "{1C}Student{0E}I wonder what kind of person{11}our student council president{11}likes...{12}{0E}",
+      "page_line_advances": [
+        [
+          186,
+          189,
+          42
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "27cb7f11c8482efcdab01454ce8a2cdebe7a1281d8a661149716c00bc89157b3"
+    },
+    {
+      "resource": "fld/talk/f502061.bin",
+      "reference_index": 2,
+      "input_sha256": "568211b68077b90ba41a38bda18bb8ea27cdf2b584f0f849851b4d04312d9b17",
+      "old_shape": 112,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}Our student council president{11}seems even more cheerful{11}than before lately.{12}{10}{11}Did something good happen?{12}{10}{11}Maybe she and the person she likes...{12}{0E}",
+      "new_english": "{1C}Student{0E}Our student council president{11}seems even more cheerful{11}than before lately.{12}{10}Did something good happen?{12}{10}Maybe she and the person she{11}likes...{12}{0E}",
+      "page_line_advances": [
+        [
+          191,
+          171,
+          119
+        ],
+        [
+          188
+        ],
+        [
+          198,
+          42
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          75.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          75.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "27cb7f11c8482efcdab01454ce8a2cdebe7a1281d8a661149716c00bc89157b3"
+    },
+    {
+      "resource": "fld/talk/f502062.bin",
+      "reference_index": 0,
+      "input_sha256": "7e6def835178e323884d1b5323ff33ee0e17e54df7deb30600d7494e539fb972",
+      "old_shape": 82,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}I'd like to visit{11}the Lost Ground{11}at least once.{12}{10}Apparently it's really dangerous,{11}but it sounds{11}interesting.{12}{0E}",
+      "new_english": "{1C}Student{0E}I'd like to visit the Lost Ground{11}at least once.{12}{10}Apparently it's really{11}dangerous, but it sounds{11}interesting.{12}{0E}",
+      "page_line_advances": [
+        [
+          197,
+          88
+        ],
+        [
+          133,
+          159,
+          74
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          75.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          75.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "f6e854829b5f08d0f83ca9bbd66aa937caa911e50d3ffe6934593d3ab76bce0f"
+    },
+    {
+      "resource": "fld/talk/f502062.bin",
+      "reference_index": 1,
+      "input_sha256": "7e6def835178e323884d1b5323ff33ee0e17e54df7deb30600d7494e539fb972",
+      "old_shape": 82,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}I wonder what the Lost Ground{11}is like.{12}{10}Do they have thugs with mohawks,{11}or bandits{11}wearing furs?{12}{0E}",
+      "new_english": "{1C}Student{0E}I wonder what the Lost Ground{11}is like.{12}{10}Do they have thugs with{11}mohawks, or bandits wearing{11}furs?{12}{0E}",
+      "page_line_advances": [
+        [
+          197,
+          42
+        ],
+        [
+          155,
+          187,
+          32
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          75.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          75.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "f6e854829b5f08d0f83ca9bbd66aa937caa911e50d3ffe6934593d3ab76bce0f"
+    },
+    {
+      "resource": "fld/talk/f502062.bin",
+      "reference_index": 2,
+      "input_sha256": "7e6def835178e323884d1b5323ff33ee0e17e54df7deb30600d7494e539fb972",
+      "old_shape": 72,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}Rumor has it{11}the Lost Ground{12}{10}has people{11}with strange powers.{12}{10}Could I get powers, too,{11}if I went there?{12}{0E}",
+      "new_english": "{1C}Student{0E}Rumor has it the Lost Ground{12}{10}has people with strange{11}powers.{12}{10}Could I get powers, too, if I{11}went there?{12}{0E}",
+      "page_line_advances": [
+        [
+          189
+        ],
+        [
+          155,
+          50
+        ],
+        [
+          172,
+          76
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          65.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          65.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "f6e854829b5f08d0f83ca9bbd66aa937caa911e50d3ffe6934593d3ab76bce0f"
+    },
+    {
+      "resource": "fld/talk/f502070.bin",
+      "reference_index": 0,
+      "input_sha256": "a52843d55196e041a260eebb33764ec533fca0114e47edd824b825ec0c6e491e",
+      "old_shape": 102,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}That girl Miyu in the next class{11}isn't friendly at all.{12}{0E}",
+      "new_english": "{1C}Student{0E}That girl Miyu in the next class{11}isn't friendly at all.{12}{0E}",
+      "page_line_advances": [
+        [
+          199,
+          121
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "406e1e3ca09526f472952da0a0b5af8810eee9f12adeffa8e77da993d6a48427"
+    },
+    {
+      "resource": "fld/talk/f502070.bin",
+      "reference_index": 1,
+      "input_sha256": "a52843d55196e041a260eebb33764ec533fca0114e47edd824b825ec0c6e491e",
+      "old_shape": 102,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}That girl Miyu in the next class{11}apparently transferred away.{12}{10}I wonder if she's still just as unfriendly{11}at her new school.{12}{0E}",
+      "new_english": "{1C}Student{0E}That girl Miyu in the next class{11}apparently transferred away.{12}{10}I wonder if she's still just as{11}unfriendly at her new school.{12}{0E}",
+      "page_line_advances": [
+        [
+          199,
+          186
+        ],
+        [
+          180,
+          187
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "406e1e3ca09526f472952da0a0b5af8810eee9f12adeffa8e77da993d6a48427"
+    },
+    {
+      "resource": "fld/talk/f502070.bin",
+      "reference_index": 2,
+      "input_sha256": "a52843d55196e041a260eebb33764ec533fca0114e47edd824b825ec0c6e491e",
+      "old_shape": 82,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}There was this unfriendly{11}girl called Miyu{11}who transferred away,{12}{10}but apparently she was{11}secretly pretty popular{11}with the boys.{12}{0E}",
+      "new_english": "{1C}Student{0E}There was this unfriendly girl{11}called Miyu who transferred{11}away,{12}{10}but apparently she was{11}secretly pretty popular with{11}the boys.{12}{0E}",
+      "page_line_advances": [
+        [
+          188,
+          180,
+          36
+        ],
+        [
+          150,
+          177,
+          59
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "406e1e3ca09526f472952da0a0b5af8810eee9f12adeffa8e77da993d6a48427"
+    },
+    {
+      "resource": "fld/talk/f502071.bin",
+      "reference_index": 1,
+      "input_sha256": "05e564c7389fa0871102e1a2b9a37f3d124668796565c29fde6ddaff9803077d",
+      "old_shape": 82,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}Class makes me so sleepy{11}that I've decided to draw comics{11}during lessons.{12}{0E}",
+      "new_english": "{1C}Student{0E}Class makes me so sleepy that{11}I've decided to draw comics{11}during lessons.{12}{0E}",
+      "page_line_advances": [
+        [
+          200,
+          178,
+          98
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          110.0,
+          75.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          125.0,
+          75.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "dccbdd095b90161b3fbbde09f8213d6020d87e94ad25a9fa4ac4c7b959aa85ad"
+    },
+    {
+      "resource": "fld/talk/f502071.bin",
+      "reference_index": 2,
+      "input_sha256": "05e564c7389fa0871102e1a2b9a37f3d124668796565c29fde6ddaff9803077d",
+      "old_shape": 102,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}The comic I drew in class{11}was selected for a newcomer award!{12}{10}And I only drew it{11}to keep myself awake!{12}{0E}",
+      "new_english": "{1C}Student{0E}The comic I drew in class was{11}selected for a newcomer{11}award!{12}{10}And I only drew it to keep{11}myself awake!{12}{0E}",
+      "page_line_advances": [
+        [
+          191,
+          159,
+          43
+        ],
+        [
+          164,
+          92
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          110.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          125.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "dccbdd095b90161b3fbbde09f8213d6020d87e94ad25a9fa4ac4c7b959aa85ad"
+    },
+    {
+      "resource": "fld/talk/f502072.bin",
+      "reference_index": 0,
+      "input_sha256": "b226f412a369cdc696c2c9191a318458b28553ae3befb06daa6afd0d2625aaed",
+      "old_shape": 82,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}I heard a rumor{11}about a bloodsucking monster{11}appearing in Okinawa.{12}{10}Do monsters like that{11}really exist?{12}{0E}",
+      "new_english": "{1C}Student{0E}I heard a rumor about a{11}bloodsucking monster{11}appearing in Okinawa.{12}{10}Do monsters like that really{11}exist?{12}{0E}",
+      "page_line_advances": [
+        [
+          152,
+          142,
+          144
+        ],
+        [
+          178,
+          38
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          75.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          75.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "1200894d9d27cebcb160a0e97c7c4b9abff7e92035b79603a4a5d0aac5095afa"
+    },
+    {
+      "resource": "fld/talk/f502072.bin",
+      "reference_index": 1,
+      "input_sha256": "b226f412a369cdc696c2c9191a318458b28553ae3befb06daa6afd0d2625aaed",
+      "old_shape": 82,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}Rumor has it a bloodsucking monster{11}appeared at this academy{11}as well...{12}{10}Where{11}did it disappear to?{12}{10}{11}Or was it just a false rumor?{12}{0E}",
+      "new_english": "{1C}Student{0E}Rumor has it a bloodsucking{11}monster appeared at this{11}academy as well...{12}{10}Where did it disappear to?{12}{10}Or was it just a false rumor?{12}{0E}",
+      "page_line_advances": [
+        [
+          183,
+          163,
+          119
+        ],
+        [
+          170
+        ],
+        [
+          182
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          75.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          75.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "1200894d9d27cebcb160a0e97c7c4b9abff7e92035b79603a4a5d0aac5095afa"
+    },
+    {
+      "resource": "fld/talk/f502072.bin",
+      "reference_index": 2,
+      "input_sha256": "b226f412a369cdc696c2c9191a318458b28553ae3befb06daa6afd0d2625aaed",
+      "old_shape": 82,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}There are rumors that bloodsucking monsters{11}are appearing{11}all over the place...{12}{10}What happens to people{11}whose blood gets sucked?{12}{10}{11}Do they turn into vampires?{12}{0E}",
+      "new_english": "{1C}Student{0E}There are rumors that{11}bloodsucking monsters are{11}appearing all over the place...{12}{10}What happens to people{11}whose blood gets sucked?{12}{10}Do they turn into vampires?{12}{0E}",
+      "page_line_advances": [
+        [
+          141,
+          174,
+          193
+        ],
+        [
+          157,
+          169
+        ],
+        [
+          178
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          75.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          75.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "1200894d9d27cebcb160a0e97c7c4b9abff7e92035b79603a4a5d0aac5095afa"
+    },
+    {
+      "resource": "fld/talk/f502080.bin",
+      "reference_index": 0,
+      "input_sha256": "4173dc6db91e442873d5726138cd70773aff2466ec4921b103423fc8c31ebdbe",
+      "old_shape": 102,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}Our chairwoman is amazing.{12}{10}She's still a child,{11}but she does her job properly.{12}{0E}",
+      "new_english": "{1C}Student{0E}Our chairwoman is amazing.{12}{10}She's still a child, but she does{11}her job properly.{12}{0E}",
+      "page_line_advances": [
+        [
+          183
+        ],
+        [
+          199,
+          106
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          110.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          122.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "37ff7060c9b5ab801433d6147fa9574f24b06a2f19197d6d3d1867f0d052d824"
+    },
+    {
+      "resource": "fld/talk/f502080.bin",
+      "reference_index": 1,
+      "input_sha256": "4173dc6db91e442873d5726138cd70773aff2466ec4921b103423fc8c31ebdbe",
+      "old_shape": 102,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}Is our chairwoman{11}really a child?{12}{10}She's so{11}composed.{12}{10}I can hardly believe she's a child.{12}{0E}",
+      "new_english": "{1C}Student{0E}Is our chairwoman really a{11}child?{12}{10}She's so composed.{12}{10}I can hardly believe she's a{11}child.{12}{0E}",
+      "page_line_advances": [
+        [
+          170,
+          38
+        ],
+        [
+          127
+        ],
+        [
+          175,
+          35
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          110.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          122.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "37ff7060c9b5ab801433d6147fa9574f24b06a2f19197d6d3d1867f0d052d824"
+    },
+    {
+      "resource": "fld/talk/f502080.bin",
+      "reference_index": 2,
+      "input_sha256": "4173dc6db91e442873d5726138cd70773aff2466ec4921b103423fc8c31ebdbe",
+      "old_shape": 102,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}Well... there's a rumor{11}that the chairwoman is leaving.{12}{10}If it's true,{11}I'll feel a little lonely...{12}{0E}",
+      "new_english": "{1C}Student{0E}Well... there's a rumor that the{11}chairwoman is leaving.{12}{10}If it's true, I'll feel a little{11}lonely...{12}{0E}",
+      "page_line_advances": [
+        [
+          197,
+          148
+        ],
+        [
+          159,
+          51
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          110.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          122.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "37ff7060c9b5ab801433d6147fa9574f24b06a2f19197d6d3d1867f0d052d824"
+    },
+    {
+      "resource": "fld/talk/f502081.bin",
+      "reference_index": 0,
+      "input_sha256": "7543813e48ada81022d9ede446d7432d0cafd27831ee0597b89f70e509d7dba0",
+      "old_shape": 102,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}We have some suspicious{11}students and teachers here.{12}{10}It's like they're hiding things,{11}or doing something in secret.{12}{0E}",
+      "new_english": "{1C}Student{0E}We have some suspicious{11}students and teachers here.{12}{10}It's like they're hiding things,{11}or doing something in secret.{12}{0E}",
+      "page_line_advances": [
+        [
+          166,
+          181
+        ],
+        [
+          185,
+          189
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "d1c18a26ed08bc65c36c109cd6da86bfce5ef0ad2bcd442ec0e8225ba7459837"
+    },
+    {
+      "resource": "fld/talk/f502081.bin",
+      "reference_index": 2,
+      "input_sha256": "7543813e48ada81022d9ede446d7432d0cafd27831ee0597b89f70e509d7dba0",
+      "old_shape": 82,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}It seems like some students{11}here are involved{11}in suspicious activities.{12}{10}They're definitely{11}mixed up{11}in some sort of conspiracy.{12}{0E}",
+      "new_english": "{1C}Student{0E}It seems like some students{11}here are involved in suspicious{11}activities.{12}{10}They're definitely mixed up in{11}some sort of conspiracy.{12}{0E}",
+      "page_line_advances": [
+        [
+          181,
+          200,
+          63
+        ],
+        [
+          191,
+          158
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          75.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          75.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "d1c18a26ed08bc65c36c109cd6da86bfce5ef0ad2bcd442ec0e8225ba7459837"
+    },
+    {
+      "resource": "fld/talk/f502100.bin",
+      "reference_index": 0,
+      "input_sha256": "50b2eaf5cc11b45959be224d487e8658c1b5dbd1fd362996cb18ca0445c30b4d",
+      "old_shape": 72,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}Ah, it's another peaceful{11}and quiet day.{12}{0E}",
+      "new_english": "{1C}Student{0E}Ah, it's another peaceful and{11}quiet day.{12}{0E}",
+      "page_line_advances": [
+        [
+          185,
+          64
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          60.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          60.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "5cd5e0a5a7955c0f4f793f5752152b0f8ea51cf7710ee7db5fc2a2b0d6ea473c"
+    },
+    {
+      "resource": "fld/talk/f502100.bin",
+      "reference_index": 2,
+      "input_sha256": "50b2eaf5cc11b45959be224d487e8658c1b5dbd1fd362996cb18ca0445c30b4d",
+      "old_shape": 82,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}Ah, it feels like our peaceful,{11}quiet everyday life{11}is back.{12}{0E}",
+      "new_english": "{1C}Student{0E}Ah, it feels like our peaceful,{11}quiet everyday life is back.{12}{0E}",
+      "page_line_advances": [
+        [
+          184,
+          173
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          370.0,
+          75.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          75.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "5cd5e0a5a7955c0f4f793f5752152b0f8ea51cf7710ee7db5fc2a2b0d6ea473c"
+    },
+    {
+      "resource": "fld/talk/f502101.bin",
+      "reference_index": 0,
+      "input_sha256": "8f7b44e5a0392b42984cbb0b5dbed62dcac1019278da0d9ac117d80a5ca81b9b",
+      "old_shape": 82,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}Someone with really frightening eyes{11}came on an inspection{11}a little while ago...{12}{10}Who was that?{11}They seemed{11}like a snake...{12}{0E}",
+      "new_english": "{1C}Student{0E}Someone with really{11}frightening eyes came on an{11}inspection a little while ago...{12}{10}Who was that? They seemed{11}like a snake...{12}{0E}",
+      "page_line_advances": [
+        [
+          131,
+          184,
+          191
+        ],
+        [
+          184,
+          89
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          110.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          125.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "9907b30bd1c9bb7c87b2ec7f1e20dfcdc09b7a682f785c99284ec54e45fda72e"
+    },
+    {
+      "resource": "fld/talk/f502101.bin",
+      "reference_index": 1,
+      "input_sha256": "8f7b44e5a0392b42984cbb0b5dbed62dcac1019278da0d9ac117d80a5ca81b9b",
+      "old_shape": 102,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}That snake-like person{11}who came on an inspection the other day...{12}{10}I can't stop thinking about them.{12}{10}I wonder why...{12}{0E}",
+      "new_english": "{1C}Student{0E}That snake-like person who{11}came on an inspection the{11}other day...{12}{10}I can't stop thinking about{11}them.{12}{10}I wonder why...{12}{0E}",
+      "page_line_advances": [
+        [
+          176,
+          171,
+          73
+        ],
+        [
+          168,
+          37
+        ],
+        [
+          96
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          110.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          125.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "9907b30bd1c9bb7c87b2ec7f1e20dfcdc09b7a682f785c99284ec54e45fda72e"
+    },
+    {
+      "resource": "fld/talk/f502101.bin",
+      "reference_index": 2,
+      "input_sha256": "8f7b44e5a0392b42984cbb0b5dbed62dcac1019278da0d9ac117d80a5ca81b9b",
+      "old_shape": 72,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}That snake-like person...{12}{10}I wonder if they'll{11}come on another inspection.{12}{0E}",
+      "new_english": "{1C}Student{0E}That snake-like person...{12}{10}I wonder if they'll come on{11}another inspection.{12}{0E}",
+      "page_line_advances": [
+        [
+          158
+        ],
+        [
+          170,
+          125
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          110.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          122.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "9907b30bd1c9bb7c87b2ec7f1e20dfcdc09b7a682f785c99284ec54e45fda72e"
+    },
+    {
+      "resource": "fld/talk/f502102.bin",
+      "reference_index": 0,
+      "input_sha256": "3ebabca41af27e348b0e2a91b7e856505bba817d07adb8703bb0c4d2928030af",
+      "old_shape": 112,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}I want to see Ms. Sagisawa,{11}so I go to the infirmary{11}even when I'm not sick...{12}{10}But she sees right through me{11}and sends me away.{12}{0E}",
+      "new_english": "{1C}Student{0E}I want to see Ms. Sagisawa, so{11}I go to the infirmary even{11}when I'm not sick...{12}{10}But she sees right through me{11}and sends me away.{12}{0E}",
+      "page_line_advances": [
+        [
+          197,
+          163,
+          123
+        ],
+        [
+          195,
+          131
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          365.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "921f91fcc5361921d30bdbe9d5fc5ae0b78e7237a625a5b6bd482addbadfa2b2"
+    },
+    {
+      "resource": "fld/talk/f502102.bin",
+      "reference_index": 1,
+      "input_sha256": "3ebabca41af27e348b0e2a91b7e856505bba817d07adb8703bb0c4d2928030af",
+      "old_shape": 112,
+      "new_shape": 142,
+      "old_english": "{1C}Student{0E}If I'm really sick,{11}rather than pretending,{11}I can go to the infirmary, right?{12}{10}Then I could take my time{11}talking with Ms. Sagisawa!{12}{0E}",
+      "new_english": "{1C}Student{0E}If I'm really sick, rather than{11}pretending, I can go to the{11}infirmary, right?{12}{10}Then I could take my time{11}talking with Ms. Sagisawa!{12}{0E}",
+      "page_line_advances": [
+        [
+          180,
+          170,
+          102
+        ],
+        [
+          167,
+          171
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          365.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "921f91fcc5361921d30bdbe9d5fc5ae0b78e7237a625a5b6bd482addbadfa2b2"
+    },
+    {
+      "resource": "fld/talk/f502102.bin",
+      "reference_index": 2,
+      "input_sha256": "3ebabca41af27e348b0e2a91b7e856505bba817d07adb8703bb0c4d2928030af",
+      "old_shape": 72,
+      "new_shape": 132,
+      "old_english": "{1C}Student{0E}I was so determined to see{11}Ms. Sagisawa in the infirmary{12}{10}that I took terrible{11}care of myself...{12}{10}But I just can't{11}seem to get unhealthy...{12}{10}I hate how sturdy I am.{12}{0E}",
+      "new_english": "{1C}Student{0E}I was so determined to see{11}Ms. Sagisawa in the infirmary{12}{10}that I took terrible care of{11}myself...{12}{10}But I just can't seem to get{11}unhealthy...{12}{10}I hate how sturdy I am.{12}{0E}",
+      "page_line_advances": [
+        [
+          174,
+          191
+        ],
+        [
+          166,
+          55
+        ],
+        [
+          174,
+          76
+        ],
+        [
+          147
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          365.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "921f91fcc5361921d30bdbe9d5fc5ae0b78e7237a625a5b6bd482addbadfa2b2"
+    },
+    {
+      "resource": "fld/talk/f509180.bin",
+      "reference_index": 2,
+      "input_sha256": "87b2bb3e1a5991d85e6ce1fc71f323c52094858aed571895d5fa1daab97ddd9e",
+      "old_shape": 102,
+      "new_shape": 132,
+      "old_english": "{1C}Princess Serish{0E}So you're going to thwart{11}this Mujo person's ambitions...{12}{10}Please be careful.{12}{0E}",
+      "new_english": "{1C}Princess Serish{0E}So you're going to thwart this{11}Mujo person's ambitions...{12}{10}Please be careful.{12}{0E}",
+      "page_line_advances": [
+        [
+          189,
+          170
+        ],
+        [
+          117
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          110.0,
+          75.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          122.0,
+          75.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "f1058b123ba217de1c707ee7eabae021d8d50a1807b013f120f1bc273db6d7d4"
+    },
+    {
+      "resource": "fld/talk/f509181.bin",
+      "reference_index": 3,
+      "input_sha256": "b2fef864d5056adccb0fe62f21fdcfe01a55f9ccf68303c929c61e90be71cb89",
+      "old_shape": 72,
+      "new_shape": 132,
+      "old_english": "{1C}Ryudock{0E}Kyoji Mujo...{12}{10}He's a man whose ambitions{11}rival Arvin's.{12}{0E}",
+      "new_english": "{1C}Ryudock{0E}Kyoji Mujo...{12}{10}He's a man whose ambitions{11}rival Arvin's.{12}{0E}",
+      "page_line_advances": [
+        [
+          80
+        ],
+        [
+          185,
+          79
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          365.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          360.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "bb070fc999cc24a1bd066ff2dfde9f4eafc2344c1812c6b08d1f94612b5184c3"
+    },
+    {
+      "resource": "fld/talk/f509181.bin",
+      "reference_index": 4,
+      "input_sha256": "b2fef864d5056adccb0fe62f21fdcfe01a55f9ccf68303c929c61e90be71cb89",
+      "old_shape": 82,
+      "new_shape": 142,
+      "old_english": "{1C}Ryudock{0E}At last...{11}it's the final battle.{12}{10}And my gamble...{11}this will decide{11}whether I've won or lost...{12}{0E}",
+      "new_english": "{1C}Ryudock{0E}At last... it's the final battle.{12}{10}And my gamble... this will{11}decide whether I've won or{11}lost...{12}{0E}",
+      "page_line_advances": [
+        [
+          181
+        ],
+        [
+          166,
+          172,
+          36
+        ]
+      ],
+      "position_keys": [
+        [
+          0.0,
+          365.0,
+          210.0,
+          0.0,
+          0
+        ]
+      ],
+      "new_positions": [
+        [
+          355.0,
+          210.0
+        ]
+      ],
+      "extra_pages": 0,
+      "words_exact": true,
+      "nonline_controls_exact": true,
+      "tailless_style": true,
+      "white_interior_fit": true,
+      "natural_playback_verified": false,
+      "output_sha256": "bb070fc999cc24a1bd066ff2dfde9f4eafc2344c1812c6b08d1f94612b5184c3"
+    }
+  ],
+  "numeric_name_records": [
+    {
+      "resource": "phase/bin/p101040.bin",
+      "reference_index": 9,
+      "old_speaker": "556",
+      "target": "Kogoro",
+      "silence_dots": 6,
+      "authored_tracks_exact": true
+    },
+    {
+      "resource": "phase/bin/p101041.bin",
+      "reference_index": 9,
+      "old_speaker": "556",
+      "target": "Kogoro",
+      "silence_dots": 6,
+      "authored_tracks_exact": true
+    },
+    {
+      "resource": "phase/bin/p208040.bin",
+      "reference_index": 29,
+      "old_speaker": "556",
+      "target": "Kogoro",
+      "silence_dots": 12,
+      "authored_tracks_exact": true
+    },
+    {
+      "resource": "phase/bin/p208041.bin",
+      "reference_index": 29,
+      "old_speaker": "556",
+      "target": "Kogoro",
+      "silence_dots": 12,
+      "authored_tracks_exact": true
+    }
+  ],
+  "unmodeled_records": [
+    {
+      "resource": "fld/talk/f102070.bin",
+      "reference_index": 1,
+      "reason": "Dynamic name or other unmodeled controls/native body; original retained."
+    },
+    {
+      "resource": "fld/talk/f509180.bin",
+      "reference_index": 0,
+      "reason": "Dynamic name or other unmodeled controls/native body; original retained."
+    },
+    {
+      "resource": "fld/talk/f509180.bin",
+      "reference_index": 3,
+      "reason": "Dynamic name or other unmodeled controls/native body; original retained."
+    },
+    {
+      "resource": "fld/talk/f509181.bin",
+      "reference_index": 1,
+      "reason": "Dynamic name or other unmodeled controls/native body; original retained."
+    },
+    {
+      "resource": "fld/talk/f509181.bin",
+      "reference_index": 2,
+      "reason": "Dynamic name or other unmodeled controls/native body; original retained."
+    }
+  ],
+  "labels": [
+    {
+      "id": "field_053_chapter_1",
+      "native_index": 210,
+      "pointer_slot": 608936,
+      "target_rva": 616767,
+      "target": "Chapter 1",
+      "status": "translated"
+    },
+    {
+      "id": "field_053_chapter_2",
+      "native_index": 211,
+      "pointer_slot": 608940,
+      "target_rva": 616777,
+      "target": "Chapter 2",
+      "status": "translated"
+    },
+    {
+      "id": "field_053_chapter_3",
+      "native_index": 212,
+      "pointer_slot": 608944,
+      "target_rva": 616787,
+      "target": "Chapter 3",
+      "status": "translated"
+    }
+  ],
+  "loader_models": [
+    {
+      "base": 142622720,
+      "chapter_pointers_exact": true,
+      "outside_mask_exact": true
+    },
+    {
+      "base": 143654912,
+      "chapter_pointers_exact": true,
+      "outside_mask_exact": true
+    },
+    {
+      "base": 150990848,
+      "chapter_pointers_exact": true,
+      "outside_mask_exact": true
+    }
+  ],
+  "loaded_growth_bytes": 0,
+  "font_and_geometry_code_exact": true,
+  "selected_assets": [
+    {
+      "resource": "fld/talk/f103061.bin",
+      "sha256": "e415a74275dd5348616a12e3312006baed59aea37f756aadcae36312fef7db63",
+      "bytes": 17072
+    },
+    {
+      "resource": "fld/talk/f104011.bin",
+      "sha256": "a9d428946d5967ad690444ebf4adc18e09a24b108bffd5741eaa9da6fec0fba9",
+      "bytes": 8976
+    },
+    {
+      "resource": "fld/talk/f501010.bin",
+      "sha256": "db4012165d68a5bdaaa4b3cdb97bdbdfb908e34676d8085b8f4f4863f1338652",
+      "bytes": 17584
+    },
+    {
+      "resource": "fld/talk/f501012.bin",
+      "sha256": "3ed4ac834e5feade2b9c8f99e1d85850bb8d4583188779e512e3454ce151c0da",
+      "bytes": 17568
+    },
+    {
+      "resource": "fld/talk/f501014.bin",
+      "sha256": "fb5981dd7d552cc08efdac36d5bd17cdeee32627be82ad632d9e6351f56920d3",
+      "bytes": 17600
+    },
+    {
+      "resource": "fld/talk/f501015.bin",
+      "sha256": "7358d72b4f648fd261623136633a29a60c65ff20c58c060e295d83ec6c6a4c26",
+      "bytes": 17632
+    },
+    {
+      "resource": "fld/talk/f501017.bin",
+      "sha256": "c132ed668ae9d1628e93944abea7ae5ce3148aff225c3d1b335108c024ba1b5e",
+      "bytes": 17664
+    },
+    {
+      "resource": "fld/talk/f502020.bin",
+      "sha256": "b6b732c9ce0e92334f72499b4a08810ac763d999639f078462af4c0b13c6a944",
+      "bytes": 18288
+    },
+    {
+      "resource": "fld/talk/f502021.bin",
+      "sha256": "83dbc7160986b8c0364a920417a1ad8b7dca25e0b5def43b2fac04b332cdb42c",
+      "bytes": 18320
+    },
+    {
+      "resource": "fld/talk/f502022.bin",
+      "sha256": "2a8d4f3faab63cf69528c72c09e0ca9543263b05f9e3f2d054aa07e9d457fd0a",
+      "bytes": 26608
+    },
+    {
+      "resource": "fld/talk/f502030.bin",
+      "sha256": "d065cf641022aedec5ad1edb3957e78a9bfd281ff764f4754dbbc7e0a95734da",
+      "bytes": 18352
+    },
+    {
+      "resource": "fld/talk/f502031.bin",
+      "sha256": "78436f5e69e13bba71b98268fadf498e43320df6aeb49c92c03781e9a1658dc1",
+      "bytes": 26432
+    },
+    {
+      "resource": "fld/talk/f502032.bin",
+      "sha256": "cb83a3565e0523ba2e75f45746b729d62e385c312d2bca3b9fec0f9cdb593b42",
+      "bytes": 26448
+    },
+    {
+      "resource": "fld/talk/f502040.bin",
+      "sha256": "5302f55d41de33f952fa3b3dc082125cf4ee77dcba93a94f4b34ac516ad61c5b",
+      "bytes": 26480
+    },
+    {
+      "resource": "fld/talk/f502041.bin",
+      "sha256": "3a225666defe88a1d58866a1df0e2be8fd4429e991de1795699182c50ee415de",
+      "bytes": 26368
+    },
+    {
+      "resource": "fld/talk/f502050.bin",
+      "sha256": "1d8f0716442300ced46eb84726b9f20c29ab20d97fe81dcb649ca85f6a6ca20c",
+      "bytes": 26400
+    },
+    {
+      "resource": "fld/talk/f502052.bin",
+      "sha256": "803cd56a33ebc34213fb8923993c7312137cf89023cce6b193c208d87403d346",
+      "bytes": 26400
+    },
+    {
+      "resource": "fld/talk/f502053.bin",
+      "sha256": "8287431f4f0bcc72883cbb4d7338af17456cbf0ccce876e1ca855da653a2b865",
+      "bytes": 18272
+    },
+    {
+      "resource": "fld/talk/f502060.bin",
+      "sha256": "360a79c5f69547b5b5a1370b5fe989a688ef9fe96106d2c282303ad6f49e98ca",
+      "bytes": 34672
+    },
+    {
+      "resource": "fld/talk/f502061.bin",
+      "sha256": "27cb7f11c8482efcdab01454ce8a2cdebe7a1281d8a661149716c00bc89157b3",
+      "bytes": 26464
+    },
+    {
+      "resource": "fld/talk/f502062.bin",
+      "sha256": "f6e854829b5f08d0f83ca9bbd66aa937caa911e50d3ffe6934593d3ab76bce0f",
+      "bytes": 34592
+    },
+    {
+      "resource": "fld/talk/f502070.bin",
+      "sha256": "406e1e3ca09526f472952da0a0b5af8810eee9f12adeffa8e77da993d6a48427",
+      "bytes": 26496
+    },
+    {
+      "resource": "fld/talk/f502071.bin",
+      "sha256": "dccbdd095b90161b3fbbde09f8213d6020d87e94ad25a9fa4ac4c7b959aa85ad",
+      "bytes": 26416
+    },
+    {
+      "resource": "fld/talk/f502072.bin",
+      "sha256": "1200894d9d27cebcb160a0e97c7c4b9abff7e92035b79603a4a5d0aac5095afa",
+      "bytes": 26576
+    },
+    {
+      "resource": "fld/talk/f502080.bin",
+      "sha256": "37ff7060c9b5ab801433d6147fa9574f24b06a2f19197d6d3d1867f0d052d824",
+      "bytes": 26464
+    },
+    {
+      "resource": "fld/talk/f502081.bin",
+      "sha256": "d1c18a26ed08bc65c36c109cd6da86bfce5ef0ad2bcd442ec0e8225ba7459837",
+      "bytes": 34672
+    },
+    {
+      "resource": "fld/talk/f502100.bin",
+      "sha256": "5cd5e0a5a7955c0f4f793f5752152b0f8ea51cf7710ee7db5fc2a2b0d6ea473c",
+      "bytes": 18224
+    },
+    {
+      "resource": "fld/talk/f502101.bin",
+      "sha256": "9907b30bd1c9bb7c87b2ec7f1e20dfcdc09b7a682f785c99284ec54e45fda72e",
+      "bytes": 26480
+    },
+    {
+      "resource": "fld/talk/f502102.bin",
+      "sha256": "921f91fcc5361921d30bdbe9d5fc5ae0b78e7237a625a5b6bd482addbadfa2b2",
+      "bytes": 34720
+    },
+    {
+      "resource": "fld/talk/f509180.bin",
+      "sha256": "f1058b123ba217de1c707ee7eabae021d8d50a1807b013f120f1bc273db6d7d4",
+      "bytes": 27040
+    },
+    {
+      "resource": "fld/talk/f509181.bin",
+      "sha256": "bb070fc999cc24a1bd066ff2dfde9f4eafc2344c1812c6b08d1f94612b5184c3",
+      "bytes": 35680
+    },
+    {
+      "resource": "phase/bin/p101040.bin",
+      "sha256": "5f922c2d97c1441a9f13175311e22e56b5c57daef01d4387d0851ee2fd333e52",
+      "bytes": 127120
+    },
+    {
+      "resource": "phase/bin/p101041.bin",
+      "sha256": "d183ff3d2ebcad31e062e06ed79ff65a4d2ff2831ed3121efbc93d625b5d0cf9",
+      "bytes": 127184
+    },
+    {
+      "resource": "phase/bin/p208040.bin",
+      "sha256": "2eba47e220a8e31f561e7a02640200796a51a021b1ceb419c42bf73cd73c8825",
+      "bytes": 167168
+    },
+    {
+      "resource": "phase/bin/p208041.bin",
+      "sha256": "5b0dfdfefa5fe1ca41f91019fb22756fd47316dcf81e4d43a9bba842b24a29a0",
+      "bytes": 167168
+    }
+  ],
+  "full_game_verified": false
+}
