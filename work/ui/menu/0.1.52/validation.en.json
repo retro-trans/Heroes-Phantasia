@@ -1,0 +1,75 @@
+{
+  "version": "0.1.52",
+  "iso_sha256": "43718e99569384f6945938890464a6bf550cfd052dad1d12a8d344c5c52e5950",
+  "executable_sha256": "63802dd66f839be73f86587945ebf43acb85ba93452611103871b5fe5092b76d",
+  "archive_sha256": "aae8379fabd7b47e96fbec03c51a271fae03306d9ce55ebe18d0c120bbc27be6",
+  "typed_strings_exact": 139,
+  "move_name_rows": 99,
+  "world_location_rows": 31,
+  "shared_bitmap_labels": 31,
+  "shared_atlas_copies": 2,
+  "accessory_aliases": [
+    {
+      "id": "menu_052_alias_exe_002ecc10_cp932",
+      "category": "accessory_display_name",
+      "source": "Attack Bond Stone",
+      "target": "Attack Bond",
+      "canonical_target": "Attack Bond Stone",
+      "target_rva": 2764208,
+      "allocated_bytes": 18,
+      "native_width_px": 78.0,
+      "available_width_px": 103,
+      "status": "translated",
+      "notes": "Omit the item-type word Stone in the compact UI name. Full canonical name is retained in the original translation/glossary; item identity, icon, effects and storage IDs are unchanged."
+    },
+    {
+      "id": "menu_052_alias_exe_002ecc1c_cp932",
+      "category": "accessory_display_name",
+      "source": "Charm Bond Stone",
+      "target": "Charm Bond",
+      "canonical_target": "Charm Bond Stone",
+      "target_rva": 2764448,
+      "allocated_bytes": 17,
+      "native_width_px": 79.0,
+      "available_width_px": 103,
+      "status": "translated",
+      "notes": "Omit the item-type word Stone in the compact UI name. Full canonical name is retained in the original translation/glossary; item identity, icon, effects and storage IDs are unchanged."
+    },
+    {
+      "id": "menu_052_alias_exe_002ecc28_cp932",
+      "category": "accessory_display_name",
+      "source": "Accuracy Bond Stone",
+      "target": "Accuracy Bond",
+      "canonical_target": "Accuracy Bond Stone",
+      "target_rva": 2763528,
+      "allocated_bytes": 20,
+      "native_width_px": 95.0,
+      "available_width_px": 103,
+      "status": "translated",
+      "notes": "Omit the item-type word Stone in the compact UI name. Full canonical name is retained in the original translation/glossary; item identity, icon, effects and storage IDs are unchanged."
+    },
+    {
+      "id": "menu_052_alias_exe_002ecc34_cp932",
+      "category": "accessory_display_name",
+      "source": "Critical Bond Stone",
+      "target": "Critical Bond",
+      "canonical_target": "Critical Bond Stone",
+      "target_rva": 2763548,
+      "allocated_bytes": 20,
+      "native_width_px": 83.0,
+      "available_width_px": 103,
+      "status": "translated",
+      "notes": "Omit the item-type word Stone in the compact UI name. Full canonical name is retained in the original translation/glossary; item identity, icon, effects and storage IDs are unchanged."
+    }
+  ],
+  "changed_archive_rows": [
+    "menu/TitleMenu_Data.bin",
+    "resident/ALLResidentLIM.bin",
+    "resident/ALLResidentNML.bin"
+  ],
+  "unselected_archive_rows_exact": 5183,
+  "all_nested_assets_exact": true,
+  "all_palette_uv_and_font_contracts_exact": true,
+  "loaded_growth_bytes": 0,
+  "natural_brave_equip_and_world_playback_verified": false
+}

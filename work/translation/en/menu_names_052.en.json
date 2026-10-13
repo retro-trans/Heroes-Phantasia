@@ -1,0 +1,1004 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "rows": [
+    {
+      "id": "menu_052_4_0",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Kero Ball",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_1",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Apocalypse Strike 1",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_2",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Apocalypse Strike 2",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_3",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Apocalypse Strike 3",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_4",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Apocalypse Strike 4",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_5",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Apocalypse Strike 5",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_6",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Apocalypse Strike 6",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_7",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Tamama Kung Fu",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_8",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Tamama Impact",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_9",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Beam Rifle",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_10",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Dendro Giroro",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_11",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Strange Sound Waves",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_12",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Kururu Robo",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_13",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Dororo Ninjutsu",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_14",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Zero-Dimension Slash",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_15",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Shell Bullet",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_16",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Shocking First Bullet",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_17",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Destructive Second Bullet",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_18",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Exterminating Last Bullet",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_19",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Zetsuei",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_20",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Vigorous Fists: Twin Dragons",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_21",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Radical Good Speed",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_22",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Shocking First Bullet",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_23",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Devastating Second Bullet",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_24",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Rapid-Kill Final Bullet",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_25",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Shell Bullet",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_26",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Shell Bullet Burst",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_27",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Element: Celestial Rings",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_28",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Kagutsuchi",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_29",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Kagutsuchi V1",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_30",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Kagutsuchi V2",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_31",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Element: Twin Pistols",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_32",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Duran: Chrome C",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_33",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Duran: Silver C",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_34",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Duran: Flash C",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_35",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Chrome V1",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_36",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Silver V1",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_37",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Flash V1",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_38",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Element: Two-Handed Sword",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_39",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Miroku",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_40",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Miroku V1",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_41",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Miroku V2",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_42",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Element: Halberd",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_43",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Gakutenou",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_44",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Gakutenou V1",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_45",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Paper Saber",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_46",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "The Paper",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_47",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "The Paper V1",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_48",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Machine Pistol",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_49",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Miss Deep",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_50",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Miss Deep V1",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_51",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Grenade Launcher",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_52",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Assault Tactics",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_53",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Assault Tactics V1",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_54",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Fireball",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_55",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Dragon Slave",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_56",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Giga Slave",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_57",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Bent Sword",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_58",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Gorun Nova Replica",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_59",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Broadsword",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_60",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Astral Vine",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_61",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Recovery",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_62",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Pacifist Crush",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_63",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Repaired Sword",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_64",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Gorun Nova Replica",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_65",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Smith's Sword",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_66",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Gorun Nova Replica",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_67",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "White Blade of Light",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_68",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Silence of Genesis",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_69",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "War Club Regular",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_70",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Reki Beam",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_71",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "White Blade of Light",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_72",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Melody of the Morning Mist",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_73",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Brawl",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_74",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Louie Punch",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_75",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Throwing Knife",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_76",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Badger Technique",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_77",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Greatsword",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_78",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Mercenary's Strength",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_79",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Cure Wounds",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_80",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Force",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_81",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Katana",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_82",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "BLOOD Slash",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_83",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "BLOOD Slash V1",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_84",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "BLOOD Slash V2",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_85",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Cello Case",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_86",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Chevalier's Hand",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_87",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Wire Knife",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_88",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Electric Shock",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_89",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Sprinter Shot",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_90",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Anti-Tank Rifle",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_91",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Wire Knife",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_92",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Electric Shock",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_93",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Crack Enforce",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_94",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Crack Enforce",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_95",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Crack Burst",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_96",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Modified Crack Enforce",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_97",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Modified Crack Enforce",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_4_98",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "move_name",
+      "target": "Crack Burst",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_0",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "HOLD Headquarters",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_1",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Fuuka Academy",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_2",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Alter Forest",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_3",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Robusterity Castle",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_4",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Alter Fortress",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_5",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Forest of Encounters",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_6",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Forest of Rejection",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_7",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Silver Forest",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_8",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Forest of Unity",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_9",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Crossing Forest",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_10",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Orphan Forest",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_11",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Forest Around Fuuka Academy",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_12",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Rift Observation Facility",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_13",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Cinq Flèches Facility",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_14",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Abandoned Facility",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_15",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Abandoned Cinq Flèches Plant",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_16",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Searrs Research Facility",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_17",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "I-Jin Base",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_18",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Searrs Special Research Facility",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_19",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Cave of Savage Beasts",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_20",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Mining Site",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_21",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Cave of Sorcery",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_22",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Cave of the Dragon Horde",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_23",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Cave of the Red Mist",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_24",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Royal Labyrinth",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_25",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Obsidian Palace",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_26",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Crimson Valley",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_27",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Shining Valley",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_28",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Point Delta-10",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_29",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "Point Delta-12",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_5_30",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "category": "world_map_location",
+      "target": "S.I.R. Office",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_0_18",
+      "category": "menu_label",
+      "target": "Switch Item",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_0_26",
+      "category": "menu_label",
+      "target": "Front",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_0_27",
+      "category": "menu_label",
+      "target": "Back",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_0_92",
+      "category": "menu_label",
+      "target": "Unequip",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_0_143",
+      "category": "menu_label",
+      "target": "None",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_0_148",
+      "category": "menu_label",
+      "target": "Item",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_0_162",
+      "category": "menu_label",
+      "target": "Accessories",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_1_21",
+      "category": "menu_label",
+      "target": "Set normal moves.{0E}",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_1_22",
+      "category": "menu_label",
+      "target": "Set special moves.{0E}",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_1_31",
+      "category": "menu_label",
+      "target": "Unequip.{0E}",
+      "status": "translated"
+    },
+    {
+      "id": "menu_052_alias_exe_002ecc10_cp932",
+      "category": "accessory_display_name",
+      "target": "Attack Bond",
+      "status": "translated",
+      "notes": "Omit the item-type word Stone in the compact UI name. Full canonical name is retained in the original translation/glossary; item identity, icon, effects and storage IDs are unchanged."
+    },
+    {
+      "id": "menu_052_alias_exe_002ecc1c_cp932",
+      "category": "accessory_display_name",
+      "target": "Charm Bond",
+      "status": "translated",
+      "notes": "Omit the item-type word Stone in the compact UI name. Full canonical name is retained in the original translation/glossary; item identity, icon, effects and storage IDs are unchanged."
+    },
+    {
+      "id": "menu_052_alias_exe_002ecc28_cp932",
+      "category": "accessory_display_name",
+      "target": "Accuracy Bond",
+      "status": "translated",
+      "notes": "Omit the item-type word Stone in the compact UI name. Full canonical name is retained in the original translation/glossary; item identity, icon, effects and storage IDs are unchanged."
+    },
+    {
+      "id": "menu_052_alias_exe_002ecc34_cp932",
+      "category": "accessory_display_name",
+      "target": "Critical Bond",
+      "status": "translated",
+      "notes": "Omit the item-type word Stone in the compact UI name. Full canonical name is retained in the original translation/glossary; item identity, icon, effects and storage IDs are unchanged."
+    }
+  ]
+}

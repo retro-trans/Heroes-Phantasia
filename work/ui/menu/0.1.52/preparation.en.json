@@ -1,0 +1,4468 @@
+{
+  "entries": [
+    {
+      "table": 4,
+      "index": 0,
+      "slot": 615136,
+      "rva": 615540,
+      "source": "\u30b1\u30ed\u30dc\u30fc\u30eb",
+      "target": "Kero Ball",
+      "canonical_target": "Kero Ball",
+      "native_width_px": 59.0,
+      "status": "translated",
+      "id": "menu_052_4_0",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "3f22ba0639c612d1812711ab7c5c40b3c68f285510ed5a26b1d21f17c35679d7",
+      "relocation_ordinal": 13824,
+      "target_rva": 609555,
+      "line_widths_px": [
+        59.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 1,
+      "slot": 615140,
+      "rva": 615551,
+      "source": "\u9ed9\u793a\u9332\u6483\uff11",
+      "target": "Apocalypse Strike 1",
+      "canonical_target": "Apocalypse Strike 1",
+      "native_width_px": 127.0,
+      "status": "translated",
+      "id": "menu_052_4_1",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "88266872a0460d292811db88e088a6f9cf7d0cc08dade6c6fb16978786603afd",
+      "relocation_ordinal": 13825,
+      "target_rva": 617618,
+      "line_widths_px": [
+        127.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 2,
+      "slot": 615144,
+      "rva": 615562,
+      "source": "\u9ed9\u793a\u9332\u6483\uff12",
+      "target": "Apocalypse Strike 2",
+      "canonical_target": "Apocalypse Strike 2",
+      "native_width_px": 127.0,
+      "status": "translated",
+      "id": "menu_052_4_2",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "14784150f4647b4f05725142f5d8fabd6daa798a66e60e19a4e3be4af694cf4e",
+      "relocation_ordinal": 13826,
+      "target_rva": 617638,
+      "line_widths_px": [
+        127.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 3,
+      "slot": 615148,
+      "rva": 615573,
+      "source": "\u9ed9\u793a\u9332\u6483\uff13",
+      "target": "Apocalypse Strike 3",
+      "canonical_target": "Apocalypse Strike 3",
+      "native_width_px": 127.0,
+      "status": "translated",
+      "id": "menu_052_4_3",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "7bdbd116d9226177bbc254316cdb184fa39527dbfee4a3f295323dc85bb63890",
+      "relocation_ordinal": 13827,
+      "target_rva": 617658,
+      "line_widths_px": [
+        127.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 4,
+      "slot": 615152,
+      "rva": 615584,
+      "source": "\u9ed9\u793a\u9332\u6483\uff14",
+      "target": "Apocalypse Strike 4",
+      "canonical_target": "Apocalypse Strike 4",
+      "native_width_px": 127.0,
+      "status": "translated",
+      "id": "menu_052_4_4",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "093a5fd76e5acae5b95bae82c5c61452a940b6928f98774cb34ab0c2a1789d9d",
+      "relocation_ordinal": 13828,
+      "target_rva": 615540,
+      "line_widths_px": [
+        127.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 5,
+      "slot": 615156,
+      "rva": 615595,
+      "source": "\u9ed9\u793a\u9332\u6483\uff15",
+      "target": "Apocalypse Strike 5",
+      "canonical_target": "Apocalypse Strike 5",
+      "native_width_px": 127.0,
+      "status": "translated",
+      "id": "menu_052_4_5",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "3a923b20041082db0dd682e13e1ef3c6295b2ebae5c975b88046b0bbb0da94d9",
+      "relocation_ordinal": 13829,
+      "target_rva": 615560,
+      "line_widths_px": [
+        127.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 6,
+      "slot": 615160,
+      "rva": 615606,
+      "source": "\u9ed9\u793a\u9332\u6483\uff16",
+      "target": "Apocalypse Strike 6",
+      "canonical_target": "Apocalypse Strike 6",
+      "native_width_px": 127.0,
+      "status": "translated",
+      "id": "menu_052_4_6",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "b047749dc7e36c082f7fafaa5080da20966c90f9ba3a0b856c7da2f56b3f8ed4",
+      "relocation_ordinal": 13830,
+      "target_rva": 615580,
+      "line_widths_px": [
+        127.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 7,
+      "slot": 615164,
+      "rva": 615617,
+      "source": "\u30bf\u30de\u30de\u62f3\u6cd5",
+      "target": "Tamama Kung Fu",
+      "canonical_target": "Tamama Kung Fu",
+      "native_width_px": 113.0,
+      "status": "translated",
+      "id": "menu_052_4_7",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "b3fa444e8820290d847700c952097757f670a31822a549d3d53a54372abebcbb",
+      "relocation_ordinal": 13831,
+      "target_rva": 610618,
+      "line_widths_px": [
+        113.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 8,
+      "slot": 615168,
+      "rva": 615628,
+      "source": "\u30bf\u30de\u30de\u30a4\u30f3\u30d1\u30af\u30c8",
+      "target": "Tamama Impact",
+      "canonical_target": "Tamama Impact",
+      "native_width_px": 104.0,
+      "status": "translated",
+      "id": "menu_052_4_8",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "ebfae460fbebef3b8f40c56a779c0cd76a0e024032541408b1e80aa12a853dac",
+      "relocation_ordinal": 13832,
+      "target_rva": 616196,
+      "line_widths_px": [
+        104.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 9,
+      "slot": 615172,
+      "rva": 615645,
+      "source": "\u30d3\u30fc\u30e0\u30e9\u30a4\u30d5\u30eb",
+      "target": "Beam Rifle",
+      "canonical_target": "Beam Rifle",
+      "native_width_px": 71.0,
+      "status": "translated",
+      "id": "menu_052_4_9",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "096754d7aafe0f3115593319cfd1064e3a3fd5cc13881fee468a045202c7d755",
+      "relocation_ordinal": 13833,
+      "target_rva": 616548,
+      "line_widths_px": [
+        71.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 10,
+      "slot": 615176,
+      "rva": 615660,
+      "source": "\u30c7\u30f3\u30c9\u30ed\u30ae\u30ed\u30ed",
+      "target": "Dendro Giroro",
+      "canonical_target": "Dendro Giroro",
+      "native_width_px": 89.0,
+      "status": "translated",
+      "id": "menu_052_4_10",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "d5788acea038f90e97b9480ccf54533e559f90f93d1a42f2458e6a23636db945",
+      "relocation_ordinal": 13834,
+      "target_rva": 616210,
+      "line_widths_px": [
+        89.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 11,
+      "slot": 615180,
+      "rva": 615675,
+      "source": "\u602a\u97f3\u6ce2",
+      "target": "Strange Sound Waves",
+      "canonical_target": "Strange Sound Waves",
+      "native_width_px": 140.0,
+      "status": "translated",
+      "id": "menu_052_4_11",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "3d6d146fe2fac46a09fac17ba183c6aff578421242b48d94f545b5fffd9f3700",
+      "relocation_ordinal": 13835,
+      "target_rva": 615600,
+      "line_widths_px": [
+        140.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 12,
+      "slot": 615184,
+      "rva": 615682,
+      "source": "\u30af\u30eb\u30eb\u30ed\u30dc",
+      "target": "Kururu Robo",
+      "canonical_target": "Kururu Robo",
+      "native_width_px": 80.0,
+      "status": "translated",
+      "id": "menu_052_4_12",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "388fe42ea007755c9f3ecfc5a30d8aa1ba9893ed1c34af57c231fa9539fb59ab",
+      "relocation_ordinal": 13836,
+      "target_rva": 616428,
+      "line_widths_px": [
+        80.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 13,
+      "slot": 615188,
+      "rva": 615693,
+      "source": "\u30c9\u30ed\u30ed\u5fcd\u6cd5",
+      "target": "Dororo Ninjutsu",
+      "canonical_target": "Dororo Ninjutsu",
+      "native_width_px": 101.0,
+      "status": "translated",
+      "id": "menu_052_4_13",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "1a31cce28c491d5b2e7e2dc4bfddd5fa708ef7585523d054c3b71b4cbdd904a4",
+      "relocation_ordinal": 13837,
+      "target_rva": 615841,
+      "line_widths_px": [
+        101.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 14,
+      "slot": 615192,
+      "rva": 615704,
+      "source": "\u96f6\u6b21\u5143\u65ac",
+      "target": "Zero-Dimension Slash",
+      "canonical_target": "Zero-Dimension Slash",
+      "native_width_px": 140.0,
+      "status": "translated",
+      "id": "menu_052_4_14",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "0c9ea9b16bf652630e44c9ca24b3b76a000f99e42e14c497eb75f837e56964ff",
+      "relocation_ordinal": 13838,
+      "target_rva": 617513,
+      "line_widths_px": [
+        140.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 15,
+      "slot": 615196,
+      "rva": 615713,
+      "source": "\u30b7\u30a7\u30eb\u30d6\u30ea\u30c3\u30c8",
+      "target": "Shell Bullet",
+      "canonical_target": "Shell Bullet",
+      "native_width_px": 74.0,
+      "status": "translated",
+      "id": "menu_052_4_15",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "def7321d7dfa1d5eeee9ca43363fd7fbd45f884d87e822517dc74f9918b598d0",
+      "relocation_ordinal": 13839,
+      "target_rva": 616350,
+      "line_widths_px": [
+        74.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 16,
+      "slot": 615200,
+      "rva": 615728,
+      "source": "\u885d\u6483\u306e\u30d5\u30a1\u30fc\u30b9\u30c8\u30fb\u30d6\u30ea\u30c3\u30c8",
+      "target": "Shocking First Bullet",
+      "canonical_target": "Shocking First Bullet",
+      "native_width_px": 133.0,
+      "status": "translated",
+      "id": "menu_052_4_16",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "f60087bd807ae834a5a44765a953255a02bf76660d30c539c94f5ea8fb731d93",
+      "relocation_ordinal": 13840,
+      "target_rva": 617406,
+      "line_widths_px": [
+        133.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 17,
+      "slot": 615204,
+      "rva": 615755,
+      "source": "\u6483\u6ec5\u306e\u30bb\u30ab\u30f3\u30c9\u30fb\u30d6\u30ea\u30c3\u30c8",
+      "target": "Destructive Second Bullet",
+      "canonical_target": "Destructive Second Bullet",
+      "native_width_px": 166.0,
+      "status": "translated",
+      "id": "menu_052_4_17",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "16f03b5fe73836d248203848a07ccc3d2e60d03849dfc7dbf009fe54506323cc",
+      "relocation_ordinal": 13841,
+      "target_rva": 612972,
+      "line_widths_px": [
+        166.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 18,
+      "slot": 615208,
+      "rva": 615780,
+      "source": "\u62b9\u6bba\u306e\u30e9\u30b9\u30c8\u30fb\u30d6\u30ea\u30c3\u30c8",
+      "target": "Exterminating Last Bullet",
+      "canonical_target": "Exterminating Last Bullet",
+      "native_width_px": 164.0,
+      "status": "translated",
+      "id": "menu_052_4_18",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "056362aa61cfe570535d79ed0af275bad4369cd77e56b1fa0d938ff013d3d55f",
+      "relocation_ordinal": 13842,
+      "target_rva": 612998,
+      "line_widths_px": [
+        164.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 19,
+      "slot": 615212,
+      "rva": 615803,
+      "source": "\u7d76\u5f71",
+      "target": "Zetsuei",
+      "canonical_target": "Zetsuei",
+      "native_width_px": 48.0,
+      "status": "translated",
+      "id": "menu_052_4_19",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "91302b0a4683c5db30f86c8d219945fe4e8d3f356302c142b291f34db5b5c98e",
+      "relocation_ordinal": 13843,
+      "target_rva": 612629,
+      "line_widths_px": [
+        48.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 20,
+      "slot": 615216,
+      "rva": 615808,
+      "source": "\u525b\u306a\u308b\u62f3\u3000\u4f0f\u9f8d\u30fb\u81e5\u9f8d",
+      "target": "Vigorous Fists: Twin Dragons",
+      "canonical_target": "Vigorous Fists: Crouching Dragon & Bowing Dragon",
+      "native_width_px": 187.0,
+      "status": "translated",
+      "id": "menu_052_4_20",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "1b5c2447cce4f0dc822758efb1debb971094ac2d370da5381cfd2940ff57cc97",
+      "relocation_ordinal": 13844,
+      "target_rva": 609497,
+      "line_widths_px": [
+        187.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 21,
+      "slot": 615220,
+      "rva": 615829,
+      "source": "\u30e9\u30c7\u30a3\u30ab\u30eb\u30fb\u30b0\u30c3\u30c9\u30b9\u30d4\u30fc\u30c9",
+      "target": "Radical Good Speed",
+      "canonical_target": "Radical Good Speed",
+      "native_width_px": 129.0,
+      "status": "translated",
+      "id": "menu_052_4_21",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "e9d127c111336d8b72ea216039b857a2105c35be6595f34472801c032f643459",
+      "relocation_ordinal": 13845,
+      "target_rva": 615640,
+      "line_widths_px": [
+        129.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 22,
+      "slot": 615224,
+      "rva": 615856,
+      "source": "\u885d\u6483\u306e\u30d5\u30a1\u30fc\u30b9\u30c8\u30fb\u30d6\u30ea\u30c3\u30c8",
+      "target": "Shocking First Bullet",
+      "canonical_target": "Shocking First Bullet",
+      "native_width_px": 133.0,
+      "status": "translated",
+      "id": "menu_052_4_22",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "f60087bd807ae834a5a44765a953255a02bf76660d30c539c94f5ea8fb731d93",
+      "relocation_ordinal": 13846,
+      "target_rva": 617406,
+      "line_widths_px": [
+        133.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 23,
+      "slot": 615228,
+      "rva": 615883,
+      "source": "\u58ca\u6ec5\u306e\u30bb\u30ab\u30f3\u30c9\u30fb\u30d6\u30ea\u30c3\u30c8",
+      "target": "Devastating Second Bullet",
+      "canonical_target": "Devastating Second Bullet",
+      "native_width_px": 170.0,
+      "status": "translated",
+      "id": "menu_052_4_23",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "4b696bcc3d575032fb3d047718afa0ae02b099b114fc0c18e2e099aede88782b",
+      "relocation_ordinal": 13847,
+      "target_rva": 613024,
+      "line_widths_px": [
+        170.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 24,
+      "slot": 615232,
+      "rva": 615908,
+      "source": "\u77ac\u6bba\u306e\u30d5\u30a1\u30a4\u30ca\u30eb\u30fb\u30d6\u30ea\u30c3\u30c8",
+      "target": "Rapid-Kill Final Bullet",
+      "canonical_target": "Rapid-Kill Final Bullet",
+      "native_width_px": 140.0,
+      "status": "translated",
+      "id": "menu_052_4_24",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "93d32fbdf74ee9cbf14b12f7b68a0519b13792fdc8c574cc5a2ddbc985a22cd2",
+      "relocation_ordinal": 13848,
+      "target_rva": 617339,
+      "line_widths_px": [
+        140.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 25,
+      "slot": 615236,
+      "rva": 615935,
+      "source": "\u30b7\u30a7\u30eb\u30d6\u30ea\u30c3\u30c8",
+      "target": "Shell Bullet",
+      "canonical_target": "Shell Bullet",
+      "native_width_px": 74.0,
+      "status": "translated",
+      "id": "menu_052_4_25",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "def7321d7dfa1d5eeee9ca43363fd7fbd45f884d87e822517dc74f9918b598d0",
+      "relocation_ordinal": 13849,
+      "target_rva": 616350,
+      "line_widths_px": [
+        74.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 26,
+      "slot": 615240,
+      "rva": 615950,
+      "source": "\u30b7\u30a7\u30eb\u30d6\u30ea\u30c3\u30c8\u30fb\u30d0\u30fc\u30b9\u30c8",
+      "target": "Shell Bullet Burst",
+      "canonical_target": "Shell Bullet Burst",
+      "native_width_px": 112.0,
+      "status": "translated",
+      "id": "menu_052_4_26",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "5df9688175781c87cb5bf6a35faef4285dab790a8058be98da67e8196d93ba08",
+      "relocation_ordinal": 13850,
+      "target_rva": 615659,
+      "line_widths_px": [
+        112.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 27,
+      "slot": 615244,
+      "rva": 615975,
+      "source": "\u30a8\u30ec\u30e1\u30f3\u30c8\u30fb\u5929\u8f2a",
+      "target": "Element: Celestial Rings",
+      "canonical_target": "Element: Celestial Rings",
+      "native_width_px": 158.0,
+      "status": "translated",
+      "id": "menu_052_4_27",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "73e7edf25de5aad91c7b4894b6cc90058afd6ca2393b39e36ddbc0407cc9b980",
+      "relocation_ordinal": 13851,
+      "target_rva": 613102,
+      "line_widths_px": [
+        158.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 28,
+      "slot": 615248,
+      "rva": 615992,
+      "source": "\u30ab\u30b0\u30c4\u30c1",
+      "target": "Kagutsuchi",
+      "canonical_target": "Kagutsuchi",
+      "native_width_px": 72.0,
+      "status": "translated",
+      "id": "menu_052_4_28",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "5c955dfe5d135a9355bf44ff1645ccafcd85062789e5eb33cb88f09b828a3464",
+      "relocation_ordinal": 13852,
+      "target_rva": 616559,
+      "line_widths_px": [
+        72.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 29,
+      "slot": 615252,
+      "rva": 616001,
+      "source": "\u30ab\u30b0\u30c4\u30c1\uff36\uff11",
+      "target": "Kagutsuchi V1",
+      "canonical_target": "Kagutsuchi V1",
+      "native_width_px": 93.0,
+      "status": "translated",
+      "id": "menu_052_4_29",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "44426aef537ae3832b0485fb918ae90f95e1cd01fa79531e7e429e79e0eb9b49",
+      "relocation_ordinal": 13853,
+      "target_rva": 616224,
+      "line_widths_px": [
+        93.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 30,
+      "slot": 615256,
+      "rva": 616014,
+      "source": "\u30ab\u30b0\u30c4\u30c1\uff36\uff12",
+      "target": "Kagutsuchi V2",
+      "canonical_target": "Kagutsuchi V2",
+      "native_width_px": 93.0,
+      "status": "translated",
+      "id": "menu_052_4_30",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "55fec5ab329fee82db3ac9178367b47bc8acf047602976466b0ea0ca800e8c73",
+      "relocation_ordinal": 13854,
+      "target_rva": 616238,
+      "line_widths_px": [
+        93.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 31,
+      "slot": 615260,
+      "rva": 616027,
+      "source": "\u30a8\u30ec\u30e1\u30f3\u30c8\u30fb\u4e8c\u633a\u62f3\u9283",
+      "target": "Element: Twin Pistols",
+      "canonical_target": "Element: Twin Pistols",
+      "native_width_px": 139.0,
+      "status": "translated",
+      "id": "menu_052_4_31",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "db2dd17189ff04bff8979dd134ad7ddd7180194354bd1295bcc57ecce40cb06a",
+      "relocation_ordinal": 13855,
+      "target_rva": 617428,
+      "line_widths_px": [
+        139.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 32,
+      "slot": 615264,
+      "rva": 616048,
+      "source": "\u30c7\u30e5\u30e9\u30f3\uff1a\u30af\u30ed\u30fc\u30e0\uff23",
+      "target": "Duran: Chrome C",
+      "canonical_target": "Duran: Chrome C",
+      "native_width_px": 109.0,
+      "status": "translated",
+      "id": "menu_052_4_32",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "95d7737b8897c8e84e62135a67ee4f57f6ee6c18da0abbd7c6559afe3c1597cd",
+      "relocation_ordinal": 13856,
+      "target_rva": 615857,
+      "line_widths_px": [
+        109.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 33,
+      "slot": 615268,
+      "rva": 616069,
+      "source": "\u30c7\u30e5\u30e9\u30f3\uff1a\u30b7\u30eb\u30d0\u30fc\uff23",
+      "target": "Duran: Silver C",
+      "canonical_target": "Duran: Silver C",
+      "native_width_px": 95.0,
+      "status": "translated",
+      "id": "menu_052_4_33",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "aa0c600e48935e601169d892ad4086809740a2bde2de1a9466f73d832c20e23d",
+      "relocation_ordinal": 13857,
+      "target_rva": 615873,
+      "line_widths_px": [
+        95.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 34,
+      "slot": 615272,
+      "rva": 616090,
+      "source": "\u30c7\u30e5\u30e9\u30f3\uff1a\u30d5\u30e9\u30c3\u30b7\u30e5\uff23",
+      "target": "Duran: Flash C",
+      "canonical_target": "Duran: Flash C",
+      "native_width_px": 94.0,
+      "status": "translated",
+      "id": "menu_052_4_34",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "39c2298deeccffab36349be87e97b7ef7ce3b269a5cd02b64e5242fd4af14b8e",
+      "relocation_ordinal": 13858,
+      "target_rva": 616001,
+      "line_widths_px": [
+        94.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 35,
+      "slot": 615276,
+      "rva": 616113,
+      "source": "\u30af\u30ed\u30fc\u30e0\uff36\uff11",
+      "target": "Chrome V1",
+      "canonical_target": "Chrome V1",
+      "native_width_px": 71.0,
+      "status": "translated",
+      "id": "menu_052_4_35",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "3dc9bd7a9a91783c897b74384f869bd899d15c58a8c302250958102750aaf93c",
+      "relocation_ordinal": 13859,
+      "target_rva": 616647,
+      "line_widths_px": [
+        71.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 36,
+      "slot": 615280,
+      "rva": 616126,
+      "source": "\u30b7\u30eb\u30d0\u30fc\uff36\uff11",
+      "target": "Silver V1",
+      "canonical_target": "Silver V1",
+      "native_width_px": 57.0,
+      "status": "translated",
+      "id": "menu_052_4_36",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "924428100e2f45880bfc9ea45ac86038bc0d5f6966f7f51734291c3db1c7dadb",
+      "relocation_ordinal": 13860,
+      "target_rva": 616657,
+      "line_widths_px": [
+        57.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 37,
+      "slot": 615284,
+      "rva": 616139,
+      "source": "\u30d5\u30e9\u30c3\u30b7\u30e5\uff36\uff11",
+      "target": "Flash V1",
+      "canonical_target": "Flash V1",
+      "native_width_px": 56.0,
+      "status": "translated",
+      "id": "menu_052_4_37",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "92c28fd468a822155351f460a45ec479ca78003c5d1c5f9fbf12a480503913a8",
+      "relocation_ordinal": 13861,
+      "target_rva": 609190,
+      "line_widths_px": [
+        56.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 38,
+      "slot": 615288,
+      "rva": 616154,
+      "source": "\u30a8\u30ec\u30e1\u30f3\u30c8\u30fb\u4e21\u624b\u5263",
+      "target": "Element: Two-Handed Sword",
+      "canonical_target": "Element: Two-Handed Sword",
+      "native_width_px": 184.0,
+      "status": "translated",
+      "id": "menu_052_4_38",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "57b64b5c099de07de23fe577c67e1f8c8d2a79a0111f72a858722faa61dcd9ca",
+      "relocation_ordinal": 13862,
+      "target_rva": 613050,
+      "line_widths_px": [
+        184.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 39,
+      "slot": 615292,
+      "rva": 616173,
+      "source": "\u5df3\u516d",
+      "target": "Miroku",
+      "canonical_target": "Miroku",
+      "native_width_px": 44.0,
+      "status": "translated",
+      "id": "menu_052_4_39",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "c1801156e376a7b251c6b08b82bd4b693e79c009f277f2076f9aa20694147771",
+      "relocation_ordinal": 13863,
+      "target_rva": 609916,
+      "line_widths_px": [
+        44.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 40,
+      "slot": 615296,
+      "rva": 616178,
+      "source": "\u5df3\u516d\uff36\uff11",
+      "target": "Miroku V1",
+      "canonical_target": "Miroku V1",
+      "native_width_px": 65.0,
+      "status": "translated",
+      "id": "menu_052_4_40",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "17ef585cef1eaea95975284032a6806b29e10421568944838dbce84732fff366",
+      "relocation_ordinal": 13864,
+      "target_rva": 616667,
+      "line_widths_px": [
+        65.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 41,
+      "slot": 615300,
+      "rva": 616187,
+      "source": "\u5df3\u516d\uff36\uff12",
+      "target": "Miroku V2",
+      "canonical_target": "Miroku V2",
+      "native_width_px": 65.0,
+      "status": "translated",
+      "id": "menu_052_4_41",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "5959307f5e69a25c6056529473143ee9c053e606959b0fa6608eb03f53c83151",
+      "relocation_ordinal": 13865,
+      "target_rva": 616677,
+      "line_widths_px": [
+        65.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 42,
+      "slot": 615304,
+      "rva": 616196,
+      "source": "\u30a8\u30ec\u30e1\u30f3\u30c8\u30fb\u30cf\u30eb\u30d0\u30fc\u30c9",
+      "target": "Element: Halberd",
+      "canonical_target": "Element: Halberd",
+      "native_width_px": 112.0,
+      "status": "translated",
+      "id": "menu_052_4_42",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "d91d8c055d6402938f1e9ce85da8a805db3b95b8db604f54e5b369344201313c",
+      "relocation_ordinal": 13866,
+      "target_rva": 617678,
+      "line_widths_px": [
+        112.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 43,
+      "slot": 615308,
+      "rva": 616219,
+      "source": "\u6115\u5929\u738b",
+      "target": "Gakutenou",
+      "canonical_target": "Gakutenou",
+      "native_width_px": 69.0,
+      "status": "translated",
+      "id": "menu_052_4_43",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "8c035ae98e0d40017f06c895f543342332e9b3a9b00feae51c1beb53e8cc872f",
+      "relocation_ordinal": 13867,
+      "target_rva": 616687,
+      "line_widths_px": [
+        69.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 44,
+      "slot": 615312,
+      "rva": 616226,
+      "source": "\u6115\u5929\u738b\uff36\uff11",
+      "target": "Gakutenou V1",
+      "canonical_target": "Gakutenou V1",
+      "native_width_px": 90.0,
+      "status": "translated",
+      "id": "menu_052_4_44",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "789182cfd17949481fefa113c76d830be1c2f151b378b712aa6906b2e08d664c",
+      "relocation_ordinal": 13868,
+      "target_rva": 616363,
+      "line_widths_px": [
+        90.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 45,
+      "slot": 615316,
+      "rva": 616237,
+      "source": "\u30da\u30fc\u30d1\u30fc\u30b5\u30fc\u30d9\u30eb",
+      "target": "Paper Saber",
+      "canonical_target": "Paper Saber",
+      "native_width_px": 79.0,
+      "status": "translated",
+      "id": "menu_052_4_45",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "71c4854e5c13814f40570fb7876772afee2748a7348471d0137b01326f7861fb",
+      "relocation_ordinal": 13869,
+      "target_rva": 616440,
+      "line_widths_px": [
+        79.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 46,
+      "slot": 615320,
+      "rva": 616254,
+      "source": "\u30b6\u30fb\u30da\u30fc\u30d1\u30fc",
+      "target": "The Paper",
+      "canonical_target": "The Paper",
+      "native_width_px": 66.0,
+      "status": "translated",
+      "id": "menu_052_4_46",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "a87eb6543942c61b62b53331a4afe22e7b3e0143e5851e5e994b045102e204b5",
+      "relocation_ordinal": 13870,
+      "target_rva": 616697,
+      "line_widths_px": [
+        66.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 47,
+      "slot": 615324,
+      "rva": 616267,
+      "source": "\u30b6\u30fb\u30da\u30fc\u30d1\u30fc\uff36\uff11",
+      "target": "The Paper V1",
+      "canonical_target": "The Paper V1",
+      "native_width_px": 87.0,
+      "status": "translated",
+      "id": "menu_052_4_47",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "7104315b224ee4c273adcb2a0480ed6f786dc81a1cf16bcb4af53d745a59d8b4",
+      "relocation_ordinal": 13871,
+      "target_rva": 616376,
+      "line_widths_px": [
+        87.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 48,
+      "slot": 615328,
+      "rva": 616284,
+      "source": "\u30de\u30b7\u30f3\u30d4\u30b9\u30c8\u30eb",
+      "target": "Machine Pistol",
+      "canonical_target": "Machine Pistol",
+      "native_width_px": 96.0,
+      "status": "translated",
+      "id": "menu_052_4_48",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "19434c4faf69ebe850ef06c26558b1d5b1fc6671c66aee3d3a6eb467e86da5b2",
+      "relocation_ordinal": 13872,
+      "target_rva": 616016,
+      "line_widths_px": [
+        96.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 49,
+      "slot": 615332,
+      "rva": 616299,
+      "source": "\u30df\u30b9\u30fb\u30c7\u30a3\u30fc\u30d7",
+      "target": "Miss Deep",
+      "canonical_target": "Miss Deep",
+      "native_width_px": 67.0,
+      "status": "translated",
+      "id": "menu_052_4_49",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "04b49d3c41041dba5bcc7475b6c244e7408325b34ac9dc1bd205a7717d3eced7",
+      "relocation_ordinal": 13873,
+      "target_rva": 616707,
+      "line_widths_px": [
+        67.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 50,
+      "slot": 615336,
+      "rva": 616314,
+      "source": "\u30df\u30b9\u30fb\u30c7\u30a3\u30fc\u30d7\uff36\uff11",
+      "target": "Miss Deep V1",
+      "canonical_target": "Miss Deep V1",
+      "native_width_px": 88.0,
+      "status": "translated",
+      "id": "menu_052_4_50",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "819504b0d573e131e3aa239dd538a16894742a62e8260389c52986b08bd10880",
+      "relocation_ordinal": 13874,
+      "target_rva": 616389,
+      "line_widths_px": [
+        88.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 51,
+      "slot": 615340,
+      "rva": 616333,
+      "source": "\u30b0\u30ec\u30cd\u30fc\u30c9\u30e9\u30f3\u30c1\u30e3\u30fc",
+      "target": "Grenade Launcher",
+      "canonical_target": "Grenade Launcher",
+      "native_width_px": 118.0,
+      "status": "translated",
+      "id": "menu_052_4_51",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "b9d939d81e366c2c9ed2fc662bee95432214afc3adc65ad676330f45dca14c7c",
+      "relocation_ordinal": 13875,
+      "target_rva": 615773,
+      "line_widths_px": [
+        118.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 52,
+      "slot": 615344,
+      "rva": 616354,
+      "source": "\u30a2\u30b5\u30eb\u30c8\u30fb\u30bf\u30af\u30c6\u30a3\u30af\u30b9",
+      "target": "Assault Tactics",
+      "canonical_target": "Assault Tactics",
+      "native_width_px": 98.0,
+      "status": "translated",
+      "id": "menu_052_4_52",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "8cd6aa49819dc0fee98d0e6ff85749c87e8caceb4a115af54673786f35ed56cd",
+      "relocation_ordinal": 13876,
+      "target_rva": 615889,
+      "line_widths_px": [
+        98.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 53,
+      "slot": 615348,
+      "rva": 616377,
+      "source": "\u30a2\u30b5\u30eb\u30c8\u30fb\u30bf\u30af\u30c6\u30a3\u30af\u30b9\uff36\uff11",
+      "target": "Assault Tactics V1",
+      "canonical_target": "Assault Tactics V1",
+      "native_width_px": 119.0,
+      "status": "translated",
+      "id": "menu_052_4_53",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "fe74911c716711f07306a9960235bd20944154b4e0a6b628ba4bdef8d618ed5d",
+      "relocation_ordinal": 13877,
+      "target_rva": 615678,
+      "line_widths_px": [
+        119.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 54,
+      "slot": 615352,
+      "rva": 616404,
+      "source": "\u30d5\u30a1\u30a4\u30a2\u30fc\u30fb\u30dc\u30fc\u30eb",
+      "target": "Fireball",
+      "canonical_target": "Fireball",
+      "native_width_px": 49.0,
+      "status": "translated",
+      "id": "menu_052_4_54",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "d02ada163455fd79e3c57d0d2ff4d0416a2e073eeec23aca6e10cdced56d87bb",
+      "relocation_ordinal": 13878,
+      "target_rva": 610403,
+      "line_widths_px": [
+        49.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 55,
+      "slot": 615356,
+      "rva": 616423,
+      "source": "\u30c9\u30e9\u30b0\u30fb\u30b9\u30ec\u30a4\u30d6",
+      "target": "Dragon Slave",
+      "canonical_target": "Dragon Slave",
+      "native_width_px": 85.0,
+      "status": "translated",
+      "id": "menu_052_4_55",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "6b9f686895c84413cfeb49e8a6a6b824b8724922227a8c738ffedab8b7174a81",
+      "relocation_ordinal": 13879,
+      "target_rva": 616402,
+      "line_widths_px": [
+        85.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 56,
+      "slot": 615360,
+      "rva": 616440,
+      "source": "\u30ae\u30ac\u30fb\u30b9\u30ec\u30a4\u30d6",
+      "target": "Giga Slave",
+      "canonical_target": "Giga Slave",
+      "native_width_px": 68.0,
+      "status": "translated",
+      "id": "menu_052_4_56",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "e48e0a134df36a550302c3154e312911259c3a584c50f5d654527e2a5477d770",
+      "relocation_ordinal": 13880,
+      "target_rva": 616570,
+      "line_widths_px": [
+        68.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 57,
+      "slot": 615364,
+      "rva": 616455,
+      "source": "\u66f2\u304c\u3063\u305f\u5263",
+      "target": "Bent Sword",
+      "canonical_target": "Bent Sword",
+      "native_width_px": 73.0,
+      "status": "translated",
+      "id": "menu_052_4_57",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "e864c135fff44775896d15690983f0151b42908feb579de93d74e08285f6e7c8",
+      "relocation_ordinal": 13881,
+      "target_rva": 616581,
+      "line_widths_px": [
+        73.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 58,
+      "slot": 615368,
+      "rva": 616466,
+      "source": "\u30b4\u30eb\u30f3\u30fb\u30ce\u30f4\u30a1\u30fb\u30ec\u30d7\u30ea\u30ab",
+      "target": "Gorun Nova Replica",
+      "canonical_target": "Gorun Nova Replica",
+      "native_width_px": 127.0,
+      "status": "translated",
+      "id": "menu_052_4_58",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "eb3df451466ab1d98e33aecb46bc2962fd0cf049a7bbc7679fbef4b060080541",
+      "relocation_ordinal": 13882,
+      "target_rva": 615697,
+      "line_widths_px": [
+        127.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 59,
+      "slot": 615372,
+      "rva": 616491,
+      "source": "\u30d6\u30ed\u30fc\u30c9\u30bd\u30fc\u30c9",
+      "target": "Broadsword",
+      "canonical_target": "Broadsword",
+      "native_width_px": 76.0,
+      "status": "translated",
+      "id": "menu_052_4_59",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "417422c31e572e24eddbf24d568c3bdfac3b26f92bab003109efc9f5a38cb1c6",
+      "relocation_ordinal": 13883,
+      "target_rva": 616592,
+      "line_widths_px": [
+        76.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 60,
+      "slot": 615376,
+      "rva": 616506,
+      "source": "\u30a2\u30b9\u30c8\u30e9\u30eb\u30fb\u30f4\u30a1\u30a4\u30f3",
+      "target": "Astral Vine",
+      "canonical_target": "Astral Vine",
+      "native_width_px": 71.0,
+      "status": "translated",
+      "id": "menu_052_4_60",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "7629f64f52fe762708e1659f158640843264ddadc3659d98461ea1a5ad5679fd",
+      "relocation_ordinal": 13884,
+      "target_rva": 616452,
+      "line_widths_px": [
+        71.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 61,
+      "slot": 615380,
+      "rva": 616527,
+      "source": "\u30ea\u30ab\u30d0\u30ea\u30a3",
+      "target": "Recovery",
+      "canonical_target": "Recovery",
+      "native_width_px": 59.0,
+      "status": "translated",
+      "id": "menu_052_4_61",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "f67c547084e1b8161d51dc81479b0456abc0be0da63cf07f63c16875d082fbaa",
+      "relocation_ordinal": 13885,
+      "target_rva": 616727,
+      "line_widths_px": [
+        59.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 62,
+      "slot": 615384,
+      "rva": 616538,
+      "source": "\u5e73\u548c\u4e3b\u7fa9\u8005\u30af\u30e9\u30c3\u30b7\u30e5",
+      "target": "Pacifist Crush",
+      "canonical_target": "Pacifist Crush",
+      "native_width_px": 90.0,
+      "status": "translated",
+      "id": "menu_052_4_62",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "3122e89c5491a7d0c1fe64195e0d19d3224f076469c46a5e3c2db535e27ab38e",
+      "relocation_ordinal": 13886,
+      "target_rva": 616031,
+      "line_widths_px": [
+        90.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 63,
+      "slot": 615388,
+      "rva": 616559,
+      "source": "\u6cbb\u3057\u305f\u5263",
+      "target": "Repaired Sword",
+      "canonical_target": "Repaired Sword",
+      "native_width_px": 101.0,
+      "status": "translated",
+      "id": "menu_052_4_63",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "cd08ce6c5844013156334c35d41623c12a19fe98093dbcdbda3677eed5a689de",
+      "relocation_ordinal": 13887,
+      "target_rva": 616046,
+      "line_widths_px": [
+        101.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 64,
+      "slot": 615392,
+      "rva": 616568,
+      "source": "\u30b4\u30eb\u30f3\u30fb\u30ce\u30f4\u30a1\u30fb\u30ec\u30d7\u30ea\u30ab",
+      "target": "Gorun Nova Replica",
+      "canonical_target": "Gorun Nova Replica",
+      "native_width_px": 127.0,
+      "status": "translated",
+      "id": "menu_052_4_64",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "eb3df451466ab1d98e33aecb46bc2962fd0cf049a7bbc7679fbef4b060080541",
+      "relocation_ordinal": 13888,
+      "target_rva": 615697,
+      "line_widths_px": [
+        127.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 65,
+      "slot": 615396,
+      "rva": 616593,
+      "source": "\u935b\u51b6\u5e2b\u306e\u5263",
+      "target": "Smith's Sword",
+      "canonical_target": "Smith's Sword",
+      "native_width_px": 90.0,
+      "status": "translated",
+      "id": "menu_052_4_65",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "478b8d0b7a8aa41f955f4024f4617d99f37390f34be738c4a9f4706b7b6c1cab",
+      "relocation_ordinal": 13889,
+      "target_rva": 616252,
+      "line_widths_px": [
+        90.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 66,
+      "slot": 615400,
+      "rva": 616604,
+      "source": "\u30b4\u30eb\u30f3\u30fb\u30ce\u30f4\u30a1\u30fb\u30ec\u30d7\u30ea\u30ab",
+      "target": "Gorun Nova Replica",
+      "canonical_target": "Gorun Nova Replica",
+      "native_width_px": 127.0,
+      "status": "translated",
+      "id": "menu_052_4_66",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "eb3df451466ab1d98e33aecb46bc2962fd0cf049a7bbc7679fbef4b060080541",
+      "relocation_ordinal": 13890,
+      "target_rva": 615697,
+      "line_widths_px": [
+        127.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 67,
+      "slot": 615404,
+      "rva": 616629,
+      "source": "\u6211\u306f\u653e\u3064\u5149\u306e\u767d\u5203",
+      "target": "White Blade of Light",
+      "canonical_target": "I Release the White Blade of Light",
+      "native_width_px": 132.0,
+      "status": "translated",
+      "id": "menu_052_4_67",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "9f0d72e56f5705cae7c37ad1c134c826937297474962783ea666e984878b611e",
+      "relocation_ordinal": 13891,
+      "target_rva": 617534,
+      "line_widths_px": [
+        132.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 68,
+      "slot": 615408,
+      "rva": 616646,
+      "source": "\u6211\u306f\u7815\u304f\u539f\u59cb\u306e\u9759\u5bc2",
+      "target": "Silence of Genesis",
+      "canonical_target": "I Shatter the Silence of Genesis",
+      "native_width_px": 119.0,
+      "status": "translated",
+      "id": "menu_052_4_68",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "0f8e49815c96064b8cdf20e3a6d9ffeb6915d24c3a20d66df9803b1ff09bbf44",
+      "relocation_ordinal": 13892,
+      "target_rva": 615716,
+      "line_widths_px": [
+        119.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 69,
+      "slot": 615412,
+      "rva": 616665,
+      "source": "\u6226\u4e89\u30af\u30e9\u30d6\u306e\u30ec\u30ae\u30e5\u30e9\u30fc",
+      "target": "War Club Regular",
+      "canonical_target": "War Club Regular",
+      "native_width_px": 112.0,
+      "status": "translated",
+      "id": "menu_052_4_69",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "467a97738dd0f0f19293ce405881ea41ccd42e6ba373198fc0fff45c456e5f9d",
+      "relocation_ordinal": 13893,
+      "target_rva": 615790,
+      "line_widths_px": [
+        112.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 70,
+      "slot": 615416,
+      "rva": 616688,
+      "source": "\u30ec\u30ad\u30fb\u30d3\u30fc\u30e0",
+      "target": "Reki Beam",
+      "canonical_target": "Reki Beam",
+      "native_width_px": 69.0,
+      "status": "translated",
+      "id": "menu_052_4_70",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "57b5579896dad1cf553376167832ee165ed31bea16e95ade75c54f33c7a96841",
+      "relocation_ordinal": 13894,
+      "target_rva": 616717,
+      "line_widths_px": [
+        69.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 71,
+      "slot": 615420,
+      "rva": 616701,
+      "source": "\u6211\u306f\u653e\u3064\u5149\u306e\u767d\u5203",
+      "target": "White Blade of Light",
+      "canonical_target": "I Release the White Blade of Light",
+      "native_width_px": 132.0,
+      "status": "translated",
+      "id": "menu_052_4_71",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "9f0d72e56f5705cae7c37ad1c134c826937297474962783ea666e984878b611e",
+      "relocation_ordinal": 13895,
+      "target_rva": 617534,
+      "line_widths_px": [
+        132.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 72,
+      "slot": 615424,
+      "rva": 616718,
+      "source": "\u6211\u306f\u6b4c\u3046\u671d\u9744\u306e\u8abf\u3079",
+      "target": "Melody of the Morning Mist",
+      "canonical_target": "Melody of the Morning Mist",
+      "native_width_px": 178.0,
+      "status": "translated",
+      "id": "menu_052_4_72",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "3bdcce4c5597ce62868e0def7acc3d68f08e124d9ddfa845dc46affe08d7fa0b",
+      "relocation_ordinal": 13896,
+      "target_rva": 612945,
+      "line_widths_px": [
+        178.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 73,
+      "slot": 615428,
+      "rva": 616737,
+      "source": "\u55a7\u5629",
+      "target": "Brawl",
+      "canonical_target": "Brawl",
+      "native_width_px": 36.0,
+      "status": "translated",
+      "id": "menu_052_4_73",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "cccc6248de2811d4bf72afcc319a3f7432ba05440f44f1e6b988e2dd522bb6a4",
+      "relocation_ordinal": 13897,
+      "target_rva": 616744,
+      "line_widths_px": [
+        36.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 74,
+      "slot": 615432,
+      "rva": 616742,
+      "source": "\u30ea\u30a6\u30a4\u30d1\u30f3\u30c1",
+      "target": "Louie Punch",
+      "canonical_target": "Louie Punch",
+      "native_width_px": 80.0,
+      "status": "translated",
+      "id": "menu_052_4_74",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "cc7390167ddeae484951c03e1af5b1e5c322a260dde7947b722e8b463e8e7edb",
+      "relocation_ordinal": 13898,
+      "target_rva": 616464,
+      "line_widths_px": [
+        80.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 75,
+      "slot": 615436,
+      "rva": 616755,
+      "source": "\u6295\u3052\u30ca\u30a4\u30d5",
+      "target": "Throwing Knife",
+      "canonical_target": "Throwing Knife",
+      "native_width_px": 97.0,
+      "status": "translated",
+      "id": "menu_052_4_75",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "84d9d2739242bce713705a9fbd0b4a1c916aadbcc4835c5b64fe9d63ef37686f",
+      "relocation_ordinal": 13899,
+      "target_rva": 616061,
+      "line_widths_px": [
+        97.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 76,
+      "slot": 615440,
+      "rva": 616766,
+      "source": "\u7a74\u718a\u306e\u6280",
+      "target": "Badger Technique",
+      "canonical_target": "Badger Technique",
+      "native_width_px": 117.0,
+      "status": "translated",
+      "id": "menu_052_4_76",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "ba9fb022fc29b1cae6dd2d1eeeb949864852986ac31a720113e782391b47036b",
+      "relocation_ordinal": 13900,
+      "target_rva": 615807,
+      "line_widths_px": [
+        117.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 77,
+      "slot": 615444,
+      "rva": 616775,
+      "source": "\u5927\u5263",
+      "target": "Greatsword",
+      "canonical_target": "Greatsword",
+      "native_width_px": 73.0,
+      "status": "translated",
+      "id": "menu_052_4_77",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "631da7e3787445dc8b569b74d8f0e384ddb25ac86680b4f5d420d0fe6efecc4d",
+      "relocation_ordinal": 13901,
+      "target_rva": 616603,
+      "line_widths_px": [
+        73.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 78,
+      "slot": 615448,
+      "rva": 616780,
+      "source": "\u50ad\u5175\u306e\u529b",
+      "target": "Mercenary's Strength",
+      "canonical_target": "Mercenary's Strength",
+      "native_width_px": 137.0,
+      "status": "translated",
+      "id": "menu_052_4_78",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "0761d5424528082ae02f214971ab39183756635c007bb0fefbd3a1cb2e1d4d87",
+      "relocation_ordinal": 13902,
+      "target_rva": 617555,
+      "line_widths_px": [
+        137.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 79,
+      "slot": 615452,
+      "rva": 616789,
+      "source": "\u30ad\u30e5\u30a2\u30fb\u30a6\u30fc\u30f3\u30ba",
+      "target": "Cure Wounds",
+      "canonical_target": "Cure Wounds",
+      "native_width_px": 85.0,
+      "status": "translated",
+      "id": "menu_052_4_79",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "2a55405d62136940cb7605305b18c6aa6844c2402bf042acd2d78d71b0c47ce8",
+      "relocation_ordinal": 13903,
+      "target_rva": 616476,
+      "line_widths_px": [
+        85.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 80,
+      "slot": 615456,
+      "rva": 616806,
+      "source": "\u30d5\u30a9\u30fc\u30b9",
+      "target": "Force",
+      "canonical_target": "Force",
+      "native_width_px": 36.0,
+      "status": "translated",
+      "id": "menu_052_4_80",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "04022f087e93df047ccd376abbae131b694a3b7516e9816dd63eed36330327c4",
+      "relocation_ordinal": 13904,
+      "target_rva": 616750,
+      "line_widths_px": [
+        36.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 81,
+      "slot": 615460,
+      "rva": 616815,
+      "source": "\u5200",
+      "target": "Katana",
+      "canonical_target": "Katana",
+      "native_width_px": 46.0,
+      "status": "translated",
+      "id": "menu_052_4_81",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "264284ad0e2dc4f12dadbc2d64750e0d0a3302cc2e1e0eb7ae4bd2ccc07f6c78",
+      "relocation_ordinal": 13905,
+      "target_rva": 612494,
+      "line_widths_px": [
+        46.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 82,
+      "slot": 615464,
+      "rva": 616818,
+      "source": "\uff22\uff2c\uff2f\uff2f\uff24\u65ac\u6483",
+      "target": "BLOOD Slash",
+      "canonical_target": "BLOOD Slash",
+      "native_width_px": 85.0,
+      "status": "translated",
+      "id": "menu_052_4_82",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "f5f1fd9e34dbc1873b8dd1e80d78981c324d0ae4ade62e2a9119bcb70ba40dfb",
+      "relocation_ordinal": 13906,
+      "target_rva": 616488,
+      "line_widths_px": [
+        85.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 83,
+      "slot": 615468,
+      "rva": 616833,
+      "source": "\uff22\uff2c\uff2f\uff2f\uff24\u65ac\u6483\uff36\uff11",
+      "target": "BLOOD Slash V1",
+      "canonical_target": "BLOOD Slash V1",
+      "native_width_px": 106.0,
+      "status": "translated",
+      "id": "menu_052_4_83",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "3b7b5798f3f42045d0d4f239ac3afb7fc946c62e316e83d5296c583905689a92",
+      "relocation_ordinal": 13907,
+      "target_rva": 616076,
+      "line_widths_px": [
+        106.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 84,
+      "slot": 615472,
+      "rva": 616852,
+      "source": "\uff22\uff2c\uff2f\uff2f\uff24\u65ac\u6483\uff36\uff12",
+      "target": "BLOOD Slash V2",
+      "canonical_target": "BLOOD Slash V2",
+      "native_width_px": 106.0,
+      "status": "translated",
+      "id": "menu_052_4_84",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "36f215c3e0da659151aebf4c6ba0ae6f2d3be65eac98fd614c686f97fc3aca85",
+      "relocation_ordinal": 13908,
+      "target_rva": 616091,
+      "line_widths_px": [
+        106.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 85,
+      "slot": 615476,
+      "rva": 616871,
+      "source": "\u30c1\u30a7\u30ed\u30b1\u30fc\u30b9",
+      "target": "Cello Case",
+      "canonical_target": "Cello Case",
+      "native_width_px": 69.0,
+      "status": "translated",
+      "id": "menu_052_4_85",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "8d128a7edae7f8d6d4e6ae95756312c7da9c0f340f49d737f2d77468ae8ef31b",
+      "relocation_ordinal": 13909,
+      "target_rva": 616614,
+      "line_widths_px": [
+        69.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 86,
+      "slot": 615480,
+      "rva": 616884,
+      "source": "\u30b7\u30e5\u30f4\u30a1\u30ea\u30a8\u306e\u624b",
+      "target": "Chevalier's Hand",
+      "canonical_target": "Chevalier's Hand",
+      "native_width_px": 109.0,
+      "status": "translated",
+      "id": "menu_052_4_86",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "eacc38cf54b7535ead37e8c1bee793d1619ee83f331b7570199d3922a429b738",
+      "relocation_ordinal": 13910,
+      "target_rva": 615824,
+      "line_widths_px": [
+        109.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 87,
+      "slot": 615484,
+      "rva": 616901,
+      "source": "\u30ef\u30a4\u30e4\u30fc\u30ca\u30a4\u30d5",
+      "target": "Wire Knife",
+      "canonical_target": "Wire Knife",
+      "native_width_px": 67.0,
+      "status": "translated",
+      "id": "menu_052_4_87",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "a348916614db9e9df07a4fddcfd4ce2f128bccc6fb361accbcca0a459bd1db91",
+      "relocation_ordinal": 13911,
+      "target_rva": 616625,
+      "line_widths_px": [
+        67.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 88,
+      "slot": 615488,
+      "rva": 616916,
+      "source": "\u96fb\u6483",
+      "target": "Electric Shock",
+      "canonical_target": "Electric Shock",
+      "native_width_px": 90.0,
+      "status": "translated",
+      "id": "menu_052_4_88",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "4ce00baab529195564d1c713b8f1e4e53668978f80bc49446268ac665c60a5c4",
+      "relocation_ordinal": 13912,
+      "target_rva": 616106,
+      "line_widths_px": [
+        90.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 89,
+      "slot": 615492,
+      "rva": 616921,
+      "source": "\u30b9\u30d7\u30ea\u30f3\u30bf\u30fc\u30fb\u30b7\u30e7\u30c3\u30c8",
+      "target": "Sprinter Shot",
+      "canonical_target": "Sprinter Shot",
+      "native_width_px": 84.0,
+      "status": "translated",
+      "id": "menu_052_4_89",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "c6499a3080028fdbc9c18c10d421903b5924b03614b29618832d74f2cd8636ca",
+      "relocation_ordinal": 13913,
+      "target_rva": 616266,
+      "line_widths_px": [
+        84.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 90,
+      "slot": 615496,
+      "rva": 616944,
+      "source": "\u5bfe\u6226\u8eca\u30e9\u30a4\u30d5\u30eb",
+      "target": "Anti-Tank Rifle",
+      "canonical_target": "Anti-Tank Rifle",
+      "native_width_px": 95.0,
+      "status": "translated",
+      "id": "menu_052_4_90",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "70c329ff5df1e10967832ff4dfbdfc8d402e53a54040548d570f2480e822229e",
+      "relocation_ordinal": 13914,
+      "target_rva": 615905,
+      "line_widths_px": [
+        95.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 91,
+      "slot": 615500,
+      "rva": 616959,
+      "source": "\u30ef\u30a4\u30e4\u30fc\u30ca\u30a4\u30d5",
+      "target": "Wire Knife",
+      "canonical_target": "Wire Knife",
+      "native_width_px": 67.0,
+      "status": "translated",
+      "id": "menu_052_4_91",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "a348916614db9e9df07a4fddcfd4ce2f128bccc6fb361accbcca0a459bd1db91",
+      "relocation_ordinal": 13915,
+      "target_rva": 616625,
+      "line_widths_px": [
+        67.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 92,
+      "slot": 615504,
+      "rva": 616974,
+      "source": "\u96fb\u6483",
+      "target": "Electric Shock",
+      "canonical_target": "Electric Shock",
+      "native_width_px": 90.0,
+      "status": "translated",
+      "id": "menu_052_4_92",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "4ce00baab529195564d1c713b8f1e4e53668978f80bc49446268ac665c60a5c4",
+      "relocation_ordinal": 13916,
+      "target_rva": 616106,
+      "line_widths_px": [
+        90.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 93,
+      "slot": 615508,
+      "rva": 616979,
+      "source": "\u30af\u30e9\u30c3\u30af\u30fb\u30a8\u30f3\u30db\u30fc\u30b9",
+      "target": "Crack Enforce",
+      "canonical_target": "Crack Enforce",
+      "native_width_px": 89.0,
+      "status": "translated",
+      "id": "menu_052_4_93",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "720b5bee526ebf0074192039d8f135112fe3dbaaa28d3bff30de0fb5578d5571",
+      "relocation_ordinal": 13917,
+      "target_rva": 616280,
+      "line_widths_px": [
+        89.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 94,
+      "slot": 615512,
+      "rva": 617000,
+      "source": "\u30af\u30e9\u30c3\u30af\u30fb\u30a8\u30f3\u30db\u30fc\u30b9",
+      "target": "Crack Enforce",
+      "canonical_target": "Crack Enforce",
+      "native_width_px": 89.0,
+      "status": "translated",
+      "id": "menu_052_4_94",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "720b5bee526ebf0074192039d8f135112fe3dbaaa28d3bff30de0fb5578d5571",
+      "relocation_ordinal": 13918,
+      "target_rva": 616280,
+      "line_widths_px": [
+        89.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 95,
+      "slot": 615516,
+      "rva": 617021,
+      "source": "\u30af\u30e9\u30c3\u30af\u30fb\u30d0\u30fc\u30b9\u30c8",
+      "target": "Crack Burst",
+      "canonical_target": "Crack Burst",
+      "native_width_px": 74.0,
+      "status": "translated",
+      "id": "menu_052_4_95",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "987c3b767fd3742ea74c4b5c1b6616e4dd0cadc9c7a8ae7bc7125f9a22c2ce28",
+      "relocation_ordinal": 13919,
+      "target_rva": 616500,
+      "line_widths_px": [
+        74.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 96,
+      "slot": 615520,
+      "rva": 617040,
+      "source": "\u30af\u30e9\u30c3\u30af\u30fb\u30a8\u30f3\u30db\u30fc\u30b9\u6539",
+      "target": "Modified Crack Enforce",
+      "canonical_target": "Modified Crack Enforce",
+      "native_width_px": 150.0,
+      "status": "translated",
+      "id": "menu_052_4_96",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "107a185fa301d158fd8389452d16ea87f89656c05ff27fdc469f83e5829ca013",
+      "relocation_ordinal": 13920,
+      "target_rva": 617363,
+      "line_widths_px": [
+        150.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 97,
+      "slot": 615524,
+      "rva": 617063,
+      "source": "\u30af\u30e9\u30c3\u30af\u30fb\u30a8\u30f3\u30db\u30fc\u30b9\u6539",
+      "target": "Modified Crack Enforce",
+      "canonical_target": "Modified Crack Enforce",
+      "native_width_px": 150.0,
+      "status": "translated",
+      "id": "menu_052_4_97",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "107a185fa301d158fd8389452d16ea87f89656c05ff27fdc469f83e5829ca013",
+      "relocation_ordinal": 13921,
+      "target_rva": 617363,
+      "line_widths_px": [
+        150.0
+      ]
+    },
+    {
+      "table": 4,
+      "index": 98,
+      "slot": 615528,
+      "rva": 617086,
+      "source": "\u30af\u30e9\u30c3\u30af\u30fb\u30d0\u30fc\u30b9\u30c8",
+      "target": "Crack Burst",
+      "canonical_target": "Crack Burst",
+      "native_width_px": 74.0,
+      "status": "translated",
+      "id": "menu_052_4_98",
+      "category": "move_name",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "987c3b767fd3742ea74c4b5c1b6616e4dd0cadc9c7a8ae7bc7125f9a22c2ce28",
+      "relocation_ordinal": 13922,
+      "target_rva": 616500,
+      "line_widths_px": [
+        74.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 1,
+      "slot": 617156,
+      "rva": 617289,
+      "source": "\u98a8\u83ef\u5b66\u5712",
+      "canonical_target": "Fuuka Academy",
+      "target": "Fuuka Academy",
+      "native_width_px": 102.0,
+      "status": "translated",
+      "id": "menu_052_5_1",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "7b026b66b47ad3e86fd597ab480198c8f3fbfc94fecd8fec10669a42ab895f19",
+      "relocation_ordinal": 13926,
+      "target_rva": 616294,
+      "line_widths_px": [
+        102.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 2,
+      "slot": 617160,
+      "rva": 617298,
+      "source": "\u30a2\u30eb\u30bf\u30fc\u306e\u68ee",
+      "canonical_target": "Alter Forest",
+      "target": "Alter Forest",
+      "native_width_px": 76.0,
+      "status": "translated",
+      "id": "menu_052_5_2",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "38d2c304aaad202f21263afdc78afe19f91a17a238f7effe6570800a6eb938ba",
+      "relocation_ordinal": 13927,
+      "target_rva": 616415,
+      "line_widths_px": [
+        76.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 3,
+      "slot": 617164,
+      "rva": 617311,
+      "source": "\u30ed\u30d6\u30b9\u30c6\u30a2\u30ea\u30c6\u30a3\u57ce",
+      "canonical_target": "Robusterity Castle",
+      "target": "Robusterity Castle",
+      "native_width_px": 119.0,
+      "status": "translated",
+      "id": "menu_052_5_3",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "7a9f3433884a2b5ccf6b8aee111d7c53b8728d640d0819edabda72a95d7f1569",
+      "relocation_ordinal": 13928,
+      "target_rva": 615735,
+      "line_widths_px": [
+        119.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 4,
+      "slot": 617168,
+      "rva": 617330,
+      "source": "\u30a2\u30eb\u30bf\u30fc\u8981\u585e",
+      "canonical_target": "Alter Fortress",
+      "target": "Alter Fortress",
+      "native_width_px": 88.0,
+      "status": "translated",
+      "id": "menu_052_5_4",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "fd5491d4613f6dee903ee26852da26da07cf91d56b54e4135b3934ac322ae248",
+      "relocation_ordinal": 13929,
+      "target_rva": 616121,
+      "line_widths_px": [
+        88.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 5,
+      "slot": 617172,
+      "rva": 617343,
+      "source": "\u51fa\u4f1a\u3044\u306e\u68ee",
+      "canonical_target": "Forest of Encounters",
+      "target": "Forest of Encounters",
+      "native_width_px": 134.0,
+      "status": "translated",
+      "id": "menu_052_5_5",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "faa12c11139738bd4d05755b0da6799ebff3a32367a64e70e6358c885b7c4b75",
+      "relocation_ordinal": 13930,
+      "target_rva": 617576,
+      "line_widths_px": [
+        134.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 6,
+      "slot": 617176,
+      "rva": 617354,
+      "source": "\u62d2\u307f\u306e\u68ee",
+      "canonical_target": "Forest of Rejection",
+      "target": "Forest of Rejection",
+      "native_width_px": 123.0,
+      "status": "translated",
+      "id": "menu_052_5_6",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "203a9d837fba1b3c04240c176653a74e014d6a980883da1b24d8851b95dc8b64",
+      "relocation_ordinal": 13931,
+      "target_rva": 615620,
+      "line_widths_px": [
+        123.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 7,
+      "slot": 617180,
+      "rva": 617363,
+      "source": "\u767d\u9280\u306e\u68ee",
+      "canonical_target": "Silver Forest",
+      "target": "Silver Forest",
+      "native_width_px": 81.0,
+      "status": "translated",
+      "id": "menu_052_5_7",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "4639b189e88681c9eb734eddab7186ae72460105f86fff2a99ea98c9d1cc4868",
+      "relocation_ordinal": 13932,
+      "target_rva": 616308,
+      "line_widths_px": [
+        81.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 8,
+      "slot": 617184,
+      "rva": 617372,
+      "source": "\u7d50\u675f\u306e\u68ee",
+      "canonical_target": "Forest of Unity",
+      "target": "Forest of Unity",
+      "native_width_px": 95.0,
+      "status": "translated",
+      "id": "menu_052_5_8",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "de4914f70c78fe55fee028b1c5306a503d88ce0ad407e12f7c2b070d4a55e0be",
+      "relocation_ordinal": 13933,
+      "target_rva": 615921,
+      "line_widths_px": [
+        95.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 9,
+      "slot": 617188,
+      "rva": 617381,
+      "source": "\u4ea4\u932f\u306e\u68ee",
+      "canonical_target": "Crossing Forest",
+      "target": "Crossing Forest",
+      "native_width_px": 101.0,
+      "status": "translated",
+      "id": "menu_052_5_9",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "bea97c628529c15ad2f4969b34657d9ee2f9d7e70a77c5238f30eb70844b48f2",
+      "relocation_ordinal": 13934,
+      "target_rva": 615937,
+      "line_widths_px": [
+        101.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 10,
+      "slot": 617192,
+      "rva": 617390,
+      "source": "\u30aa\u30fc\u30d5\u30a1\u30f3\u306e\u68ee",
+      "canonical_target": "Orphan Forest",
+      "target": "Orphan Forest",
+      "native_width_px": 92.0,
+      "status": "translated",
+      "id": "menu_052_5_10",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "39be3528972141a2a96097f51cac479cced5629191f4441efb9c790e732d1be0",
+      "relocation_ordinal": 13935,
+      "target_rva": 616322,
+      "line_widths_px": [
+        92.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 11,
+      "slot": 617196,
+      "rva": 617405,
+      "source": "\u98a8\u83ef\u5b66\u5712\u5468\u8fba\u306e\u68ee",
+      "canonical_target": "Forest Around Fuuka Academy",
+      "target": "Forest Around Fuuka Academy",
+      "native_width_px": 197.0,
+      "status": "translated",
+      "id": "menu_052_5_11",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "8c0d3c48b0714ed108761d8d20395b49ee90113a66ecae4e0c5acc68cab9b8c1",
+      "relocation_ordinal": 13936,
+      "target_rva": 612201,
+      "line_widths_px": [
+        197.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 12,
+      "slot": 617200,
+      "rva": 617422,
+      "source": "\u6b21\u5143\u306e\u4e80\u88c2\u89b3\u6e2c\u65bd\u8a2d",
+      "canonical_target": "Dimensional Rift Observation Facility",
+      "target": "Rift Observation Facility",
+      "native_width_px": 156.0,
+      "status": "translated",
+      "id": "menu_052_5_12",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "1da774b4976c2551239c6945b93d45c22e272e95376bffd6ba4838350ab03013",
+      "relocation_ordinal": 13937,
+      "target_rva": 613076,
+      "line_widths_px": [
+        156.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 13,
+      "slot": 617204,
+      "rva": 617441,
+      "source": "\u30b5\u30f3\u30af\u30d5\u30ec\u30b7\u30e5\u793e\u65bd\u8a2d",
+      "canonical_target": "Cinq Fl\u00e8ches Company Facility",
+      "target": "Cinq Fl\u00e8ches Facility",
+      "native_width_px": 134.0,
+      "status": "translated",
+      "id": "menu_052_5_13",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "b7e6acba8b1fccbb5902004bc189981d51a4ae24a0284be0559ae12a3924390a",
+      "relocation_ordinal": 13938,
+      "target_rva": 617450,
+      "line_widths_px": [
+        134.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 14,
+      "slot": 617208,
+      "rva": 617462,
+      "source": "\u5ec3\u68c4\u65bd\u8a2d",
+      "canonical_target": "Abandoned Facility",
+      "target": "Abandoned Facility",
+      "native_width_px": 124.0,
+      "status": "translated",
+      "id": "menu_052_5_14",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "7cfd779476ccf2b5a2f8f620861e7e20aa3d07d8e3642c1990c5ba92f7bfe6e4",
+      "relocation_ordinal": 13939,
+      "target_rva": 615754,
+      "line_widths_px": [
+        124.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 15,
+      "slot": 617212,
+      "rva": 617471,
+      "source": "\u30b5\u30f3\u30af\u30d5\u30ec\u30b7\u30e5\u5ec3\u68c4\u5de5\u5834",
+      "canonical_target": "Abandoned Cinq Fl\u00e8ches Factory",
+      "target": "Abandoned Cinq Fl\u00e8ches Plant",
+      "native_width_px": 198.0,
+      "status": "translated",
+      "id": "menu_052_5_15",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "a63e1b1c4a29e1ee5632f3e0cdf08af977bb06ab5411a8a7e1cc68dda2451e4d",
+      "relocation_ordinal": 13940,
+      "target_rva": 609526,
+      "line_widths_px": [
+        198.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 16,
+      "slot": 617216,
+      "rva": 617494,
+      "source": "\u30b7\u30a2\u30fc\u30ba\u8ca1\u56e3\u7814\u7a76\u65bd\u8a2d",
+      "canonical_target": "Searrs Foundation Research Facility",
+      "target": "Searrs Research Facility",
+      "native_width_px": 156.0,
+      "status": "translated",
+      "id": "menu_052_5_16",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "bd9e0e4cf57106d63de8016801d16ddbcdfc2c1504a45df7c40bbeb427da9c55",
+      "relocation_ordinal": 13941,
+      "target_rva": 617289,
+      "line_widths_px": [
+        156.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 17,
+      "slot": 617220,
+      "rva": 617515,
+      "source": "\u5049\u4eba\u306e\u62e0\u70b9",
+      "canonical_target": "I-Jin Base",
+      "target": "I-Jin Base",
+      "native_width_px": 64.0,
+      "status": "translated",
+      "id": "menu_052_5_17",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "daeb7be4576087448b1670d5d3d9cecb9b1592e6e76caa3e16ddbc6fe4c6f727",
+      "relocation_ordinal": 13942,
+      "target_rva": 616636,
+      "line_widths_px": [
+        64.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 18,
+      "slot": 617224,
+      "rva": 617526,
+      "source": "\u30b7\u30a2\u30fc\u30ba\u8ca1\u56e3\u91cd\u8981\u7814\u7a76\u65bd\u8a2d",
+      "canonical_target": "Searrs Foundation Important Research Facility",
+      "target": "Searrs Special Research Facility",
+      "native_width_px": 207.0,
+      "status": "translated",
+      "id": "menu_052_5_18",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "395de94ccf98085a25326b3786cbccb48be6b9be7791d20e2a0f19680572fc5a",
+      "relocation_ordinal": 13943,
+      "target_rva": 612461,
+      "line_widths_px": [
+        207.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 19,
+      "slot": 617228,
+      "rva": 617551,
+      "source": "\u66b4\u7363\u306e\u6d1e\u7a9f",
+      "canonical_target": "Cave of Savage Beasts",
+      "target": "Cave of Savage Beasts",
+      "native_width_px": 148.0,
+      "status": "translated",
+      "id": "menu_052_5_19",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "512a690021e73f062ed7cb6a683b506a4384ebb27597123501ab9d8f01c5c2b6",
+      "relocation_ordinal": 13944,
+      "target_rva": 617472,
+      "line_widths_px": [
+        148.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 20,
+      "slot": 617232,
+      "rva": 617562,
+      "source": "\u63a1\u6398\u73fe\u5834",
+      "canonical_target": "Mining Site",
+      "target": "Mining Site",
+      "native_width_px": 73.0,
+      "status": "translated",
+      "id": "menu_052_5_20",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "b2d5ed4f00b55282c573763889fa03fa40c179df18383987f21c68269e7f10f2",
+      "relocation_ordinal": 13945,
+      "target_rva": 616512,
+      "line_widths_px": [
+        73.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 21,
+      "slot": 617236,
+      "rva": 617571,
+      "source": "\u9b54\u5c0e\u306e\u6d1e\u7a9f",
+      "canonical_target": "Cave of Sorcery",
+      "target": "Cave of Sorcery",
+      "native_width_px": 101.0,
+      "status": "translated",
+      "id": "menu_052_5_21",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "76e7737b12f38cfce7e69ef364f3dab1d4e38425d0ef30d2f22b2e2829cd35bc",
+      "relocation_ordinal": 13946,
+      "target_rva": 615953,
+      "line_widths_px": [
+        101.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 22,
+      "slot": 617240,
+      "rva": 617582,
+      "source": "\u90e1\u9f8d\u306e\u6d1e\u7a9f",
+      "canonical_target": "",
+      "target": "Cave of the Dragon Horde",
+      "native_width_px": 167.0,
+      "status": "translated",
+      "id": "menu_052_5_22",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "a1286b5a84f963925f917097a7669d60a953936202d5b09b77469a5ec4b2ccfe",
+      "relocation_ordinal": 13947,
+      "target_rva": 617314,
+      "line_widths_px": [
+        167.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 23,
+      "slot": 617244,
+      "rva": 617593,
+      "source": "\u8d64\u3044\u9727\u306e\u6d1e\u7a9f",
+      "canonical_target": "Cave of the Red Mist",
+      "target": "Cave of the Red Mist",
+      "native_width_px": 135.0,
+      "status": "translated",
+      "id": "menu_052_5_23",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "d2fc26712a7d0aa1160afb7d647b9ac3aedafa6fb80d8ab217b8faacbcc59808",
+      "relocation_ordinal": 13948,
+      "target_rva": 617597,
+      "line_widths_px": [
+        135.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 24,
+      "slot": 617248,
+      "rva": 617606,
+      "source": "\u738b\u5bb6\u306e\u8ff7\u5bae",
+      "canonical_target": "Royal Labyrinth",
+      "target": "Royal Labyrinth",
+      "native_width_px": 101.0,
+      "status": "translated",
+      "id": "menu_052_5_24",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "4e45b6325be09c826f5c83a5bb99e70b8e2836c69fa49e5cb78bd30877e3b42d",
+      "relocation_ordinal": 13949,
+      "target_rva": 615969,
+      "line_widths_px": [
+        101.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 25,
+      "slot": 617252,
+      "rva": 617617,
+      "source": "\u9ed2\u66dc\u5bae",
+      "canonical_target": "Obsidian Palace",
+      "target": "Obsidian Palace",
+      "native_width_px": 105.0,
+      "status": "translated",
+      "id": "menu_052_5_25",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "e2b84550effe80143e086c4d7ddd30b53b3de435567a941cd29e35a1bb328e7f",
+      "relocation_ordinal": 13950,
+      "target_rva": 615985,
+      "line_widths_px": [
+        105.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 26,
+      "slot": 617256,
+      "rva": 617624,
+      "source": "\u7d05\u306e\u8c37",
+      "canonical_target": "Crimson Valley",
+      "target": "Crimson Valley",
+      "native_width_px": 97.0,
+      "status": "translated",
+      "id": "menu_052_5_26",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "f47d9823323115bf88ac84d2947f9531b6282d0992a8a4406ef44251d8d84037",
+      "relocation_ordinal": 13951,
+      "target_rva": 616136,
+      "line_widths_px": [
+        97.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 27,
+      "slot": 617260,
+      "rva": 617631,
+      "source": "\u8f1d\u304d\u306e\u8c37",
+      "canonical_target": "Shining Valley",
+      "target": "Shining Valley",
+      "native_width_px": 92.0,
+      "status": "translated",
+      "id": "menu_052_5_27",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "5bca053f0fce28ef4f2e17853a3c952f7156ee0eabdfd1a39c3d0867224c270a",
+      "relocation_ordinal": 13952,
+      "target_rva": 616151,
+      "line_widths_px": [
+        92.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 28,
+      "slot": 617264,
+      "rva": 617640,
+      "source": "\u30dd\u30a4\u30f3\u30c8\u30c7\u30eb\u30bf\u30fb\uff11\uff10",
+      "canonical_target": "Point Delta-10",
+      "target": "Point Delta-10",
+      "native_width_px": 92.0,
+      "status": "translated",
+      "id": "menu_052_5_28",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "0cd707dac45ab2048176b9c8f4eb65ad0b27a33926e23b2f1e73817046652505",
+      "relocation_ordinal": 13953,
+      "target_rva": 616166,
+      "line_widths_px": [
+        92.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 29,
+      "slot": 617268,
+      "rva": 617661,
+      "source": "\u30dd\u30a4\u30f3\u30c8\u30c7\u30eb\u30bf\u30fb\uff11\uff12",
+      "canonical_target": "Point Delta-12",
+      "target": "Point Delta-12",
+      "native_width_px": 92.0,
+      "status": "translated",
+      "id": "menu_052_5_29",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "5d5dbe67f0adc1e2ee4dfc19d100c741d350335bf84797da29880bbe5bfe578a",
+      "relocation_ordinal": 13954,
+      "target_rva": 616181,
+      "line_widths_px": [
+        92.0
+      ]
+    },
+    {
+      "table": 5,
+      "index": 30,
+      "slot": 617272,
+      "rva": 617682,
+      "source": "\uff33\uff29\uff32\u4e8b\u52d9\u6240",
+      "canonical_target": "",
+      "target": "S.I.R. Office",
+      "native_width_px": 76.0,
+      "status": "translated",
+      "id": "menu_052_5_30",
+      "category": "world_map_location",
+      "file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "source_sha256": "a78c19dfed771578e031f5c387813ed758437f7be5d498f33937eb487152fde5",
+      "relocation_ordinal": 13955,
+      "target_rva": 616336,
+      "line_widths_px": [
+        76.0
+      ]
+    },
+    {
+      "id": "menu_052_0_18",
+      "table": 0,
+      "index": 18,
+      "slot": 608168,
+      "rva": 609190,
+      "source": "\u9805\u76ee\u5909\u66f4",
+      "target": "Switch Item",
+      "canonical_target": "Switch Item",
+      "category": "menu_label",
+      "status": "translated",
+      "source_sha256": "d03393060af4d154b482b45baf420e4f6893262f6ee705e9fd4d85fbd0259d0a",
+      "relocation_ordinal": 13483,
+      "target_rva": 616524,
+      "line_widths_px": [
+        75.0
+      ]
+    },
+    {
+      "id": "menu_052_0_26",
+      "table": 0,
+      "index": 26,
+      "slot": 608200,
+      "rva": 609258,
+      "source": "\u524d\u885b",
+      "target": "Front",
+      "canonical_target": "Front",
+      "category": "menu_label",
+      "status": "translated",
+      "source_sha256": "3c20aebfe6c8997d7af7c3ea27bd4ce1fb221a86a79a4c2555398e50597475ab",
+      "relocation_ordinal": 13491,
+      "target_rva": 616756,
+      "line_widths_px": [
+        34.0
+      ]
+    },
+    {
+      "id": "menu_052_0_27",
+      "table": 0,
+      "index": 27,
+      "slot": 608204,
+      "rva": 609263,
+      "source": "\u5f8c\u885b",
+      "target": "Back",
+      "canonical_target": "Back",
+      "category": "menu_label",
+      "status": "translated",
+      "source_sha256": "d4b2855cd5633500d180bcb35bc367d53080716495bd2654942aa6fa186b92c6",
+      "relocation_ordinal": 13492,
+      "target_rva": 610432,
+      "line_widths_px": [
+        31.0
+      ]
+    },
+    {
+      "id": "menu_052_0_92",
+      "table": 0,
+      "index": 92,
+      "slot": 608464,
+      "rva": 609916,
+      "source": "\u306f\u305a\u3059",
+      "target": "Unequip",
+      "canonical_target": "Unequip",
+      "category": "menu_label",
+      "status": "translated",
+      "source_sha256": "de003f42dbe80ad2512be82a2d946075bad13aef0311bde52438527aed473862",
+      "relocation_ordinal": 13557,
+      "target_rva": 616736,
+      "line_widths_px": [
+        53.0
+      ]
+    },
+    {
+      "id": "menu_052_0_143",
+      "table": 0,
+      "index": 143,
+      "slot": 608668,
+      "rva": 610403,
+      "source": "\u88c5\u5099\u306a\u3057",
+      "target": "None",
+      "canonical_target": "None",
+      "category": "menu_label",
+      "status": "translated",
+      "source_sha256": "3505d9d7460738640f9f0395825de130ba3cab10e41ae6255c1fc9e187c381e5",
+      "relocation_ordinal": 13608,
+      "target_rva": 613127,
+      "line_widths_px": [
+        34.0
+      ]
+    },
+    {
+      "id": "menu_052_0_148",
+      "table": 0,
+      "index": 148,
+      "slot": 608688,
+      "rva": 610432,
+      "source": "\u9805\u76ee",
+      "target": "Item",
+      "canonical_target": "Item",
+      "category": "menu_label",
+      "status": "translated",
+      "source_sha256": "dcbf294a3ef7ae7c3d6d8359cef61398b31892e4a04a2bc7efa8256445a68abf",
+      "relocation_ordinal": 13613,
+      "target_rva": 616762,
+      "line_widths_px": [
+        29.0
+      ]
+    },
+    {
+      "id": "menu_052_0_162",
+      "table": 0,
+      "index": 162,
+      "slot": 608744,
+      "rva": 610618,
+      "source": "\u30a2\u30af\u30bb\u30b5\u30ea\u5909\u66f4",
+      "target": "Accessories",
+      "canonical_target": "Accessories",
+      "category": "menu_label",
+      "status": "translated",
+      "source_sha256": "a5ec757aadede019055dd03eb4f278dfb8c8f531aba75b1306660c906a01865a",
+      "relocation_ordinal": 13627,
+      "target_rva": 616536,
+      "line_widths_px": [
+        77.0
+      ]
+    },
+    {
+      "id": "menu_052_1_21",
+      "table": 1,
+      "index": 21,
+      "slot": 611492,
+      "rva": 612461,
+      "source": "\u901a\u5e38\u6280\u3092\u8a2d\u5b9a\u3057\u307e\u3059{0E}",
+      "target": "Set normal moves.{0E}",
+      "canonical_target": "Set normal moves.{0E}",
+      "category": "menu_label",
+      "status": "translated",
+      "source_sha256": "245722b65b68c4ab54b625ed3e6d989e21e92da804c44559eacede94365dbb5b",
+      "relocation_ordinal": 13720,
+      "target_rva": 617494,
+      "line_widths_px": [
+        120.0
+      ]
+    },
+    {
+      "id": "menu_052_1_22",
+      "table": 1,
+      "index": 22,
+      "slot": 611496,
+      "rva": 612481,
+      "source": "\u5fc5\u6bba\u6280\u3092\u8a2d\u5b9a\u3057\u307e\u3059{0E}",
+      "target": "Set special moves.{0E}",
+      "canonical_target": "Set special moves.{0E}",
+      "category": "menu_label",
+      "status": "translated",
+      "source_sha256": "3be9de23317180b624d5097a3c51dea7bf6e1b8713aa17d9053c0d324f10d94b",
+      "relocation_ordinal": 13721,
+      "target_rva": 617386,
+      "line_widths_px": [
+        121.0
+      ]
+    },
+    {
+      "id": "menu_052_1_31",
+      "table": 1,
+      "index": 31,
+      "slot": 611532,
+      "rva": 612629,
+      "source": "\u306f\u305a\u3059{0E}",
+      "target": "Unequip.{0E}",
+      "canonical_target": "Unequip.{0E}",
+      "category": "menu_label",
+      "status": "translated",
+      "source_sha256": "0e85c461dfb6c7a984c3a83dc9e848b26ea850b1e7dfa233b40827e809b1dee9",
+      "relocation_ordinal": 13730,
+      "target_rva": 609258,
+      "line_widths_px": [
+        57.0
+      ]
+    }
+  ],
+  "accessory_aliases": [
+    {
+      "id": "menu_052_alias_exe_002ecc10_cp932",
+      "category": "accessory_display_name",
+      "source": "Attack Bond Stone",
+      "target": "Attack Bond",
+      "canonical_target": "Attack Bond Stone",
+      "target_rva": 2764208,
+      "allocated_bytes": 18,
+      "native_width_px": 78.0,
+      "available_width_px": 103,
+      "status": "translated",
+      "notes": "Omit the item-type word Stone in the compact UI name. Full canonical name is retained in the original translation/glossary; item identity, icon, effects and storage IDs are unchanged."
+    },
+    {
+      "id": "menu_052_alias_exe_002ecc1c_cp932",
+      "category": "accessory_display_name",
+      "source": "Charm Bond Stone",
+      "target": "Charm Bond",
+      "canonical_target": "Charm Bond Stone",
+      "target_rva": 2764448,
+      "allocated_bytes": 17,
+      "native_width_px": 79.0,
+      "available_width_px": 103,
+      "status": "translated",
+      "notes": "Omit the item-type word Stone in the compact UI name. Full canonical name is retained in the original translation/glossary; item identity, icon, effects and storage IDs are unchanged."
+    },
+    {
+      "id": "menu_052_alias_exe_002ecc28_cp932",
+      "category": "accessory_display_name",
+      "source": "Accuracy Bond Stone",
+      "target": "Accuracy Bond",
+      "canonical_target": "Accuracy Bond Stone",
+      "target_rva": 2763528,
+      "allocated_bytes": 20,
+      "native_width_px": 95.0,
+      "available_width_px": 103,
+      "status": "translated",
+      "notes": "Omit the item-type word Stone in the compact UI name. Full canonical name is retained in the original translation/glossary; item identity, icon, effects and storage IDs are unchanged."
+    },
+    {
+      "id": "menu_052_alias_exe_002ecc34_cp932",
+      "category": "accessory_display_name",
+      "source": "Critical Bond Stone",
+      "target": "Critical Bond",
+      "canonical_target": "Critical Bond Stone",
+      "target_rva": 2763548,
+      "allocated_bytes": 20,
+      "native_width_px": 83.0,
+      "available_width_px": 103,
+      "status": "translated",
+      "notes": "Omit the item-type word Stone in the compact UI name. Full canonical name is retained in the original translation/glossary; item identity, icon, effects and storage IDs are unchanged."
+    }
+  ],
+  "reclaimed_retired_strings": [
+    {
+      "table": 0,
+      "index": 55,
+      "rva": 609497,
+      "bytes": 9,
+      "sha256": "ed2ca78cc5b31b106ef21f5ead88be5ef4d8a533151b4592a80449230a43e001"
+    },
+    {
+      "table": 0,
+      "index": 56,
+      "rva": 609506,
+      "bytes": 9,
+      "sha256": "a5cf9ea2449fa59a865292e51aaa0dfa175bbdfaf6fece76494be5e44ae3e225"
+    },
+    {
+      "table": 0,
+      "index": 57,
+      "rva": 609515,
+      "bytes": 9,
+      "sha256": "ecf55d286512f9214dda849d2848b04a3eed40f2c4fe88c969dbba2f8fcb440c"
+    },
+    {
+      "table": 0,
+      "index": 58,
+      "rva": 609524,
+      "bytes": 13,
+      "sha256": "29d772da3a23664cae0906921d175d0f1bc0218eb5afe4d87cbca66d45e05949"
+    },
+    {
+      "table": 0,
+      "index": 59,
+      "rva": 609537,
+      "bytes": 9,
+      "sha256": "c10b6e4ae7780ddcc5b24ed05b0b951a8c257de34ec83cd5c3554a537010ad2e"
+    },
+    {
+      "table": 0,
+      "index": 60,
+      "rva": 609546,
+      "bytes": 9,
+      "sha256": "5c2d8ab52892641bdd80b31cc5eb9dc822e940a2aaac7ad94d8ccf3d82c07289"
+    },
+    {
+      "table": 0,
+      "index": 61,
+      "rva": 609555,
+      "bytes": 5,
+      "sha256": "b348f78354bd6a0576c1ee4f0e2a855d5d6eed7cc46c0bfe4bbb98da111c87c9"
+    },
+    {
+      "table": 0,
+      "index": 62,
+      "rva": 609560,
+      "bytes": 5,
+      "sha256": "ad14934e0898cf3fbf0baeacb9d60e88e08d56bf7f9f3a44baed7e50f53166c2"
+    },
+    {
+      "table": 1,
+      "index": 12,
+      "rva": 612201,
+      "bytes": 28,
+      "sha256": "6c2f7096f2473b5fbda6fb12f1cb9d0dfcb9fdcf5c03b1aea5a80ca097a7e736"
+    },
+    {
+      "table": 1,
+      "index": 44,
+      "rva": 612945,
+      "bytes": 187,
+      "sha256": "ac02c399ac191c779a48fc433a2a51042ec4298569fea2841634d081b6bd067c"
+    }
+  ],
+  "pool_ranges": [
+    [
+      609190,
+      609199
+    ],
+    [
+      609258,
+      609268
+    ],
+    [
+      609497,
+      609565
+    ],
+    [
+      609916,
+      609923
+    ],
+    [
+      610403,
+      610412
+    ],
+    [
+      610432,
+      610437
+    ],
+    [
+      610618,
+      610633
+    ],
+    [
+      612201,
+      612229
+    ],
+    [
+      612461,
+      612501
+    ],
+    [
+      612629,
+      612637
+    ],
+    [
+      612945,
+      613132
+    ],
+    [
+      615540,
+      617105
+    ],
+    [
+      617289,
+      617695
+    ]
+  ],
+  "remaining_pool_ranges": [
+    [
+      609199,
+      609199
+    ],
+    [
+      609268,
+      609268
+    ],
+    [
+      609565,
+      609565
+    ],
+    [
+      609923,
+      609923
+    ],
+    [
+      610412,
+      610412
+    ],
+    [
+      610437,
+      610437
+    ],
+    [
+      610633,
+      610633
+    ],
+    [
+      612229,
+      612229
+    ],
+    [
+      612501,
+      612501
+    ],
+    [
+      612637,
+      612637
+    ],
+    [
+      613132,
+      613132
+    ],
+    [
+      616767,
+      617105
+    ],
+    [
+      617695,
+      617695
+    ]
+  ],
+  "loader_models": [
+    {
+      "base": 142622720,
+      "selected_pointers": 139,
+      "outside_mask_exact": true
+    },
+    {
+      "base": 143654912,
+      "selected_pointers": 139,
+      "outside_mask_exact": true
+    },
+    {
+      "base": 150990848,
+      "selected_pointers": 139,
+      "outside_mask_exact": true
+    }
+  ],
+  "loaded_growth_bytes": 0,
+  "new_relocations": 0,
+  "natural_display_verified": false,
+  "bitmap_assets": [
+    {
+      "resource": "resident/ALLResidentNML.bin",
+      "input_sha256": "650af937d12e808c4d52fbfd32a182c8c0e79a050a3ba2c1e7586c866831c892",
+      "output_sha256": "5257d41f8da05999e2453f18eb08b0dc0bd5cf5a0d2e859fb7a0bbe6806191a1",
+      "texture_offset": 318960,
+      "cells": [
+        {
+          "id": "0",
+          "target": "ATK",
+          "rectangle": [
+            0,
+            64,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "ATK",
+              "box": [
+                4,
+                2,
+                22,
+                10
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "1",
+          "target": "DEF",
+          "rectangle": [
+            32,
+            64,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "DEF",
+              "box": [
+                5,
+                2,
+                20,
+                10
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "target": "Charm",
+          "rectangle": [
+            64,
+            64,
+            32,
+            16
+          ],
+          "font_native_pixels": 10,
+          "text_boxes": [
+            {
+              "text": "Charm",
+              "box": [
+                2,
+                3,
+                27,
+                8
+              ],
+              "ink_height": 8
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "target": "Link",
+          "rectangle": [
+            96,
+            64,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "Link",
+              "box": [
+                4,
+                2,
+                23,
+                10
+              ],
+              "ink_height": 10
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "target": "Power",
+          "rectangle": [
+            128,
+            64,
+            32,
+            16
+          ],
+          "font_native_pixels": 10,
+          "text_boxes": [
+            {
+              "text": "Power",
+              "box": [
+                3,
+                4,
+                25,
+                7
+              ],
+              "ink_height": 7
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "target": "ACC",
+          "rectangle": [
+            160,
+            64,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "ACC",
+              "box": [
+                4,
+                2,
+                23,
+                10
+              ],
+              "ink_height": 10
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "target": "Hits",
+          "rectangle": [
+            192,
+            64,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "Hits",
+              "box": [
+                4,
+                2,
+                22,
+                10
+              ],
+              "ink_height": 10
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "target": "Crit",
+          "rectangle": [
+            224,
+            64,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "Crit",
+              "box": [
+                6,
+                2,
+                19,
+                10
+              ],
+              "ink_height": 10
+            }
+          ]
+        },
+        {
+          "id": "observe",
+          "target": "OBS",
+          "rectangle": [
+            0,
+            80,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "OBS",
+              "box": [
+                4,
+                2,
+                22,
+                10
+              ],
+              "ink_height": 10
+            }
+          ]
+        },
+        {
+          "id": "dodge",
+          "target": "Dodge",
+          "rectangle": [
+            32,
+            80,
+            32,
+            16
+          ],
+          "font_native_pixels": 10,
+          "text_boxes": [
+            {
+              "text": "Dodge",
+              "box": [
+                2,
+                2,
+                26,
+                10
+              ],
+              "ink_height": 10
+            }
+          ]
+        },
+        {
+          "id": "normal",
+          "target": "Normal",
+          "rectangle": [
+            56,
+            144,
+            32,
+            16
+          ],
+          "font_native_pixels": 9,
+          "text_boxes": [
+            {
+              "text": "Normal",
+              "box": [
+                2,
+                4,
+                27,
+                7
+              ],
+              "ink_height": 7
+            }
+          ]
+        },
+        {
+          "id": "special",
+          "target": "Special",
+          "rectangle": [
+            88,
+            144,
+            32,
+            16
+          ],
+          "font_native_pixels": 9,
+          "text_boxes": [
+            {
+              "text": "Special",
+              "box": [
+                2,
+                3,
+                27,
+                9
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "accessory",
+          "target": "Accessory",
+          "rectangle": [
+            120,
+            144,
+            48,
+            16
+          ],
+          "font_native_pixels": 10,
+          "text_boxes": [
+            {
+              "text": "Accessory",
+              "box": [
+                2,
+                3,
+                42,
+                9
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "menu",
+          "target": "Menu",
+          "rectangle": [
+            0,
+            160,
+            40,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "Menu",
+              "box": [
+                5,
+                2,
+                29,
+                10
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "radar_atk",
+          "target": "ATK",
+          "rectangle": [
+            40,
+            176,
+            24,
+            16
+          ],
+          "font_native_pixels": 11,
+          "text_boxes": [
+            {
+              "text": "ATK",
+              "box": [
+                2,
+                3,
+                19,
+                8
+              ],
+              "ink_height": 8
+            }
+          ]
+        },
+        {
+          "id": "radar_def",
+          "target": "DEF",
+          "rectangle": [
+            64,
+            176,
+            24,
+            16
+          ],
+          "font_native_pixels": 12,
+          "text_boxes": [
+            {
+              "text": "DEF",
+              "box": [
+                2,
+                3,
+                19,
+                9
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "radar_charm",
+          "target": "CHR",
+          "rectangle": [
+            40,
+            192,
+            24,
+            16
+          ],
+          "font_native_pixels": 11,
+          "text_boxes": [
+            {
+              "text": "CHR",
+              "box": [
+                2,
+                3,
+                19,
+                8
+              ],
+              "ink_height": 8
+            }
+          ]
+        },
+        {
+          "id": "radar_link",
+          "target": "Link",
+          "rectangle": [
+            64,
+            192,
+            24,
+            16
+          ],
+          "font_native_pixels": 11,
+          "text_boxes": [
+            {
+              "text": "Link",
+              "box": [
+                2,
+                3,
+                19,
+                9
+              ],
+              "ink_height": 8
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "target": "None",
+          "rectangle": [
+            168,
+            184,
+            32,
+            16
+          ],
+          "font_native_pixels": 12,
+          "text_boxes": [
+            {
+              "text": "None",
+              "box": [
+                3,
+                3,
+                25,
+                9
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "hp_mod",
+          "target": "HP MOD",
+          "rectangle": [
+            104,
+            256,
+            40,
+            16
+          ],
+          "font_native_pixels": 10,
+          "text_boxes": [
+            {
+              "text": "HP MOD",
+              "box": [
+                2,
+                4,
+                34,
+                7
+              ],
+              "ink_height": 7
+            }
+          ]
+        },
+        {
+          "id": "owned",
+          "target": "Owned",
+          "rectangle": [
+            168,
+            256,
+            40,
+            16
+          ],
+          "font_native_pixels": 12,
+          "text_boxes": [
+            {
+              "text": "Owned",
+              "box": [
+                3,
+                3,
+                33,
+                9
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "overcharge",
+          "target": "Overcharge",
+          "rectangle": [
+            0,
+            272,
+            72,
+            16
+          ],
+          "font_native_pixels": 12,
+          "text_boxes": [
+            {
+              "text": "Overcharge",
+              "box": [
+                7,
+                1,
+                56,
+                12
+              ],
+              "ink_height": 12
+            }
+          ]
+        },
+        {
+          "id": "pp_cost",
+          "target": "PP Cost",
+          "rectangle": [
+            104,
+            272,
+            40,
+            16
+          ],
+          "font_native_pixels": 10,
+          "text_boxes": [
+            {
+              "text": "PP Cost",
+              "box": [
+                3,
+                4,
+                32,
+                7
+              ],
+              "ink_height": 7
+            }
+          ]
+        },
+        {
+          "id": "assist",
+          "target": "Assist Effect",
+          "rectangle": [
+            144,
+            272,
+            64,
+            16
+          ],
+          "font_native_pixels": 11,
+          "text_boxes": [
+            {
+              "text": "Assist Effect",
+              "box": [
+                3,
+                3,
+                57,
+                9
+              ],
+              "ink_height": 8
+            }
+          ]
+        },
+        {
+          "id": "max_chain",
+          "target": "Max Chain",
+          "rectangle": [
+            0,
+            288,
+            72,
+            16
+          ],
+          "font_native_pixels": 12,
+          "text_boxes": [
+            {
+              "text": "Max Chain",
+              "box": [
+                10,
+                3,
+                51,
+                9
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "users",
+          "target": "Users",
+          "rectangle": [
+            72,
+            288,
+            48,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "Users",
+              "box": [
+                8,
+                2,
+                30,
+                10
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "foe",
+          "target": "Foe",
+          "rectangle": [
+            120,
+            288,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "Foe",
+              "box": [
+                6,
+                2,
+                19,
+                10
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "ally",
+          "target": "Ally",
+          "rectangle": [
+            152,
+            288,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "Ally",
+              "box": [
+                5,
+                1,
+                20,
+                13
+              ],
+              "ink_height": 13
+            }
+          ]
+        },
+        {
+          "id": "field_effect",
+          "target": "Field FX",
+          "rectangle": [
+            184,
+            288,
+            48,
+            16
+          ],
+          "font_native_pixels": 12,
+          "text_boxes": [
+            {
+              "text": "Field FX",
+              "box": [
+                4,
+                3,
+                39,
+                9
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "front",
+          "target": "Front",
+          "rectangle": [
+            232,
+            288,
+            24,
+            16
+          ],
+          "font_native_pixels": 9,
+          "text_boxes": [
+            {
+              "text": "Front",
+              "box": [
+                2,
+                4,
+                19,
+                7
+              ],
+              "ink_height": 7
+            }
+          ]
+        },
+        {
+          "id": "back",
+          "target": "Back",
+          "rectangle": [
+            232,
+            304,
+            24,
+            16
+          ],
+          "font_native_pixels": 9,
+          "text_boxes": [
+            {
+              "text": "Back",
+              "box": [
+                2,
+                4,
+                18,
+                7
+              ],
+              "ink_height": 7
+            }
+          ]
+        }
+      ],
+      "palette_and_all_native_group_bytes_exact": true,
+      "outside_cells_exact": true,
+      "natural_display_verified": false
+    },
+    {
+      "resource": "resident/ALLResidentLIM.bin",
+      "input_sha256": "dd115f955b1086eab77fab9e28d8aef38bae314f765f793649c6f81b0a023f69",
+      "output_sha256": "d16c29b98dd5ac417443cca9cd5a3941720aec59ff72e2c07582cf3038259a11",
+      "texture_offset": 465872,
+      "cells": [
+        {
+          "id": "0",
+          "target": "ATK",
+          "rectangle": [
+            0,
+            64,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "ATK",
+              "box": [
+                4,
+                2,
+                22,
+                10
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "1",
+          "target": "DEF",
+          "rectangle": [
+            32,
+            64,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "DEF",
+              "box": [
+                5,
+                2,
+                20,
+                10
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "target": "Charm",
+          "rectangle": [
+            64,
+            64,
+            32,
+            16
+          ],
+          "font_native_pixels": 10,
+          "text_boxes": [
+            {
+              "text": "Charm",
+              "box": [
+                2,
+                3,
+                27,
+                8
+              ],
+              "ink_height": 8
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "target": "Link",
+          "rectangle": [
+            96,
+            64,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "Link",
+              "box": [
+                4,
+                2,
+                23,
+                10
+              ],
+              "ink_height": 10
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "target": "Power",
+          "rectangle": [
+            128,
+            64,
+            32,
+            16
+          ],
+          "font_native_pixels": 10,
+          "text_boxes": [
+            {
+              "text": "Power",
+              "box": [
+                3,
+                4,
+                25,
+                7
+              ],
+              "ink_height": 7
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "target": "ACC",
+          "rectangle": [
+            160,
+            64,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "ACC",
+              "box": [
+                4,
+                2,
+                23,
+                10
+              ],
+              "ink_height": 10
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "target": "Hits",
+          "rectangle": [
+            192,
+            64,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "Hits",
+              "box": [
+                4,
+                2,
+                22,
+                10
+              ],
+              "ink_height": 10
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "target": "Crit",
+          "rectangle": [
+            224,
+            64,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "Crit",
+              "box": [
+                6,
+                2,
+                19,
+                10
+              ],
+              "ink_height": 10
+            }
+          ]
+        },
+        {
+          "id": "observe",
+          "target": "OBS",
+          "rectangle": [
+            0,
+            80,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "OBS",
+              "box": [
+                4,
+                2,
+                22,
+                10
+              ],
+              "ink_height": 10
+            }
+          ]
+        },
+        {
+          "id": "dodge",
+          "target": "Dodge",
+          "rectangle": [
+            32,
+            80,
+            32,
+            16
+          ],
+          "font_native_pixels": 10,
+          "text_boxes": [
+            {
+              "text": "Dodge",
+              "box": [
+                2,
+                2,
+                26,
+                10
+              ],
+              "ink_height": 10
+            }
+          ]
+        },
+        {
+          "id": "normal",
+          "target": "Normal",
+          "rectangle": [
+            56,
+            144,
+            32,
+            16
+          ],
+          "font_native_pixels": 9,
+          "text_boxes": [
+            {
+              "text": "Normal",
+              "box": [
+                2,
+                4,
+                27,
+                7
+              ],
+              "ink_height": 7
+            }
+          ]
+        },
+        {
+          "id": "special",
+          "target": "Special",
+          "rectangle": [
+            88,
+            144,
+            32,
+            16
+          ],
+          "font_native_pixels": 9,
+          "text_boxes": [
+            {
+              "text": "Special",
+              "box": [
+                2,
+                3,
+                27,
+                9
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "accessory",
+          "target": "Accessory",
+          "rectangle": [
+            120,
+            144,
+            48,
+            16
+          ],
+          "font_native_pixels": 10,
+          "text_boxes": [
+            {
+              "text": "Accessory",
+              "box": [
+                2,
+                3,
+                42,
+                9
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "menu",
+          "target": "Menu",
+          "rectangle": [
+            0,
+            160,
+            40,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "Menu",
+              "box": [
+                5,
+                2,
+                29,
+                10
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "radar_atk",
+          "target": "ATK",
+          "rectangle": [
+            40,
+            176,
+            24,
+            16
+          ],
+          "font_native_pixels": 11,
+          "text_boxes": [
+            {
+              "text": "ATK",
+              "box": [
+                2,
+                3,
+                19,
+                8
+              ],
+              "ink_height": 8
+            }
+          ]
+        },
+        {
+          "id": "radar_def",
+          "target": "DEF",
+          "rectangle": [
+            64,
+            176,
+            24,
+            16
+          ],
+          "font_native_pixels": 12,
+          "text_boxes": [
+            {
+              "text": "DEF",
+              "box": [
+                2,
+                3,
+                19,
+                9
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "radar_charm",
+          "target": "CHR",
+          "rectangle": [
+            40,
+            192,
+            24,
+            16
+          ],
+          "font_native_pixels": 11,
+          "text_boxes": [
+            {
+              "text": "CHR",
+              "box": [
+                2,
+                3,
+                19,
+                8
+              ],
+              "ink_height": 8
+            }
+          ]
+        },
+        {
+          "id": "radar_link",
+          "target": "Link",
+          "rectangle": [
+            64,
+            192,
+            24,
+            16
+          ],
+          "font_native_pixels": 11,
+          "text_boxes": [
+            {
+              "text": "Link",
+              "box": [
+                2,
+                3,
+                19,
+                9
+              ],
+              "ink_height": 8
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "target": "None",
+          "rectangle": [
+            168,
+            184,
+            32,
+            16
+          ],
+          "font_native_pixels": 12,
+          "text_boxes": [
+            {
+              "text": "None",
+              "box": [
+                3,
+                3,
+                25,
+                9
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "hp_mod",
+          "target": "HP MOD",
+          "rectangle": [
+            104,
+            256,
+            40,
+            16
+          ],
+          "font_native_pixels": 10,
+          "text_boxes": [
+            {
+              "text": "HP MOD",
+              "box": [
+                2,
+                4,
+                34,
+                7
+              ],
+              "ink_height": 7
+            }
+          ]
+        },
+        {
+          "id": "owned",
+          "target": "Owned",
+          "rectangle": [
+            168,
+            256,
+            40,
+            16
+          ],
+          "font_native_pixels": 12,
+          "text_boxes": [
+            {
+              "text": "Owned",
+              "box": [
+                3,
+                3,
+                33,
+                9
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "overcharge",
+          "target": "Overcharge",
+          "rectangle": [
+            0,
+            272,
+            72,
+            16
+          ],
+          "font_native_pixels": 12,
+          "text_boxes": [
+            {
+              "text": "Overcharge",
+              "box": [
+                7,
+                1,
+                56,
+                12
+              ],
+              "ink_height": 12
+            }
+          ]
+        },
+        {
+          "id": "pp_cost",
+          "target": "PP Cost",
+          "rectangle": [
+            104,
+            272,
+            40,
+            16
+          ],
+          "font_native_pixels": 10,
+          "text_boxes": [
+            {
+              "text": "PP Cost",
+              "box": [
+                3,
+                4,
+                32,
+                7
+              ],
+              "ink_height": 7
+            }
+          ]
+        },
+        {
+          "id": "assist",
+          "target": "Assist Effect",
+          "rectangle": [
+            144,
+            272,
+            64,
+            16
+          ],
+          "font_native_pixels": 11,
+          "text_boxes": [
+            {
+              "text": "Assist Effect",
+              "box": [
+                3,
+                3,
+                57,
+                9
+              ],
+              "ink_height": 8
+            }
+          ]
+        },
+        {
+          "id": "max_chain",
+          "target": "Max Chain",
+          "rectangle": [
+            0,
+            288,
+            72,
+            16
+          ],
+          "font_native_pixels": 12,
+          "text_boxes": [
+            {
+              "text": "Max Chain",
+              "box": [
+                10,
+                3,
+                51,
+                9
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "users",
+          "target": "Users",
+          "rectangle": [
+            72,
+            288,
+            48,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "Users",
+              "box": [
+                8,
+                2,
+                30,
+                10
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "foe",
+          "target": "Foe",
+          "rectangle": [
+            120,
+            288,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "Foe",
+              "box": [
+                6,
+                2,
+                19,
+                10
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "ally",
+          "target": "Ally",
+          "rectangle": [
+            152,
+            288,
+            32,
+            16
+          ],
+          "font_native_pixels": 13,
+          "text_boxes": [
+            {
+              "text": "Ally",
+              "box": [
+                5,
+                1,
+                20,
+                13
+              ],
+              "ink_height": 13
+            }
+          ]
+        },
+        {
+          "id": "field_effect",
+          "target": "Field FX",
+          "rectangle": [
+            184,
+            288,
+            48,
+            16
+          ],
+          "font_native_pixels": 12,
+          "text_boxes": [
+            {
+              "text": "Field FX",
+              "box": [
+                4,
+                3,
+                39,
+                9
+              ],
+              "ink_height": 9
+            }
+          ]
+        },
+        {
+          "id": "front",
+          "target": "Front",
+          "rectangle": [
+            232,
+            288,
+            24,
+            16
+          ],
+          "font_native_pixels": 9,
+          "text_boxes": [
+            {
+              "text": "Front",
+              "box": [
+                2,
+                4,
+                19,
+                7
+              ],
+              "ink_height": 7
+            }
+          ]
+        },
+        {
+          "id": "back",
+          "target": "Back",
+          "rectangle": [
+            232,
+            304,
+            24,
+            16
+          ],
+          "font_native_pixels": 9,
+          "text_boxes": [
+            {
+              "text": "Back",
+              "box": [
+                2,
+                4,
+                18,
+                7
+              ],
+              "ink_height": 7
+            }
+          ]
+        }
+      ],
+      "palette_and_all_native_group_bytes_exact": true,
+      "outside_cells_exact": true,
+      "natural_display_verified": false
+    }
+  ]
+}

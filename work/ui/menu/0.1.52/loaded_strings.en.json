@@ -1,0 +1,705 @@
+{
+  "version": "0.1.52",
+  "fresh_iso_boot": true,
+  "module_base": 142622720,
+  "complete_typed_strings": 139,
+  "complete_accessory_aliases": 4,
+  "rows": [
+    {
+      "id": "menu_052_4_0",
+      "target": "Kero Ball",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_1",
+      "target": "Apocalypse Strike 1",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_2",
+      "target": "Apocalypse Strike 2",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_3",
+      "target": "Apocalypse Strike 3",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_4",
+      "target": "Apocalypse Strike 4",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_5",
+      "target": "Apocalypse Strike 5",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_6",
+      "target": "Apocalypse Strike 6",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_7",
+      "target": "Tamama Kung Fu",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_8",
+      "target": "Tamama Impact",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_9",
+      "target": "Beam Rifle",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_10",
+      "target": "Dendro Giroro",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_11",
+      "target": "Strange Sound Waves",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_12",
+      "target": "Kururu Robo",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_13",
+      "target": "Dororo Ninjutsu",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_14",
+      "target": "Zero-Dimension Slash",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_15",
+      "target": "Shell Bullet",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_16",
+      "target": "Shocking First Bullet",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_17",
+      "target": "Destructive Second Bullet",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_18",
+      "target": "Exterminating Last Bullet",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_19",
+      "target": "Zetsuei",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_20",
+      "target": "Vigorous Fists: Twin Dragons",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_21",
+      "target": "Radical Good Speed",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_22",
+      "target": "Shocking First Bullet",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_23",
+      "target": "Devastating Second Bullet",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_24",
+      "target": "Rapid-Kill Final Bullet",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_25",
+      "target": "Shell Bullet",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_26",
+      "target": "Shell Bullet Burst",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_27",
+      "target": "Element: Celestial Rings",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_28",
+      "target": "Kagutsuchi",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_29",
+      "target": "Kagutsuchi V1",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_30",
+      "target": "Kagutsuchi V2",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_31",
+      "target": "Element: Twin Pistols",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_32",
+      "target": "Duran: Chrome C",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_33",
+      "target": "Duran: Silver C",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_34",
+      "target": "Duran: Flash C",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_35",
+      "target": "Chrome V1",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_36",
+      "target": "Silver V1",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_37",
+      "target": "Flash V1",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_38",
+      "target": "Element: Two-Handed Sword",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_39",
+      "target": "Miroku",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_40",
+      "target": "Miroku V1",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_41",
+      "target": "Miroku V2",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_42",
+      "target": "Element: Halberd",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_43",
+      "target": "Gakutenou",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_44",
+      "target": "Gakutenou V1",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_45",
+      "target": "Paper Saber",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_46",
+      "target": "The Paper",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_47",
+      "target": "The Paper V1",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_48",
+      "target": "Machine Pistol",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_49",
+      "target": "Miss Deep",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_50",
+      "target": "Miss Deep V1",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_51",
+      "target": "Grenade Launcher",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_52",
+      "target": "Assault Tactics",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_53",
+      "target": "Assault Tactics V1",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_54",
+      "target": "Fireball",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_55",
+      "target": "Dragon Slave",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_56",
+      "target": "Giga Slave",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_57",
+      "target": "Bent Sword",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_58",
+      "target": "Gorun Nova Replica",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_59",
+      "target": "Broadsword",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_60",
+      "target": "Astral Vine",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_61",
+      "target": "Recovery",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_62",
+      "target": "Pacifist Crush",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_63",
+      "target": "Repaired Sword",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_64",
+      "target": "Gorun Nova Replica",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_65",
+      "target": "Smith's Sword",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_66",
+      "target": "Gorun Nova Replica",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_67",
+      "target": "White Blade of Light",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_68",
+      "target": "Silence of Genesis",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_69",
+      "target": "War Club Regular",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_70",
+      "target": "Reki Beam",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_71",
+      "target": "White Blade of Light",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_72",
+      "target": "Melody of the Morning Mist",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_73",
+      "target": "Brawl",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_74",
+      "target": "Louie Punch",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_75",
+      "target": "Throwing Knife",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_76",
+      "target": "Badger Technique",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_77",
+      "target": "Greatsword",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_78",
+      "target": "Mercenary's Strength",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_79",
+      "target": "Cure Wounds",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_80",
+      "target": "Force",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_81",
+      "target": "Katana",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_82",
+      "target": "BLOOD Slash",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_83",
+      "target": "BLOOD Slash V1",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_84",
+      "target": "BLOOD Slash V2",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_85",
+      "target": "Cello Case",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_86",
+      "target": "Chevalier's Hand",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_87",
+      "target": "Wire Knife",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_88",
+      "target": "Electric Shock",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_89",
+      "target": "Sprinter Shot",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_90",
+      "target": "Anti-Tank Rifle",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_91",
+      "target": "Wire Knife",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_92",
+      "target": "Electric Shock",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_93",
+      "target": "Crack Enforce",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_94",
+      "target": "Crack Enforce",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_95",
+      "target": "Crack Burst",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_96",
+      "target": "Modified Crack Enforce",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_97",
+      "target": "Modified Crack Enforce",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_4_98",
+      "target": "Crack Burst",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_1",
+      "target": "Fuuka Academy",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_2",
+      "target": "Alter Forest",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_3",
+      "target": "Robusterity Castle",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_4",
+      "target": "Alter Fortress",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_5",
+      "target": "Forest of Encounters",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_6",
+      "target": "Forest of Rejection",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_7",
+      "target": "Silver Forest",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_8",
+      "target": "Forest of Unity",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_9",
+      "target": "Crossing Forest",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_10",
+      "target": "Orphan Forest",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_11",
+      "target": "Forest Around Fuuka Academy",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_12",
+      "target": "Rift Observation Facility",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_13",
+      "target": "Cinq Fl\u00e8ches Facility",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_14",
+      "target": "Abandoned Facility",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_15",
+      "target": "Abandoned Cinq Fl\u00e8ches Plant",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_16",
+      "target": "Searrs Research Facility",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_17",
+      "target": "I-Jin Base",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_18",
+      "target": "Searrs Special Research Facility",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_19",
+      "target": "Cave of Savage Beasts",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_20",
+      "target": "Mining Site",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_21",
+      "target": "Cave of Sorcery",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_22",
+      "target": "Cave of the Dragon Horde",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_23",
+      "target": "Cave of the Red Mist",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_24",
+      "target": "Royal Labyrinth",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_25",
+      "target": "Obsidian Palace",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_26",
+      "target": "Crimson Valley",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_27",
+      "target": "Shining Valley",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_28",
+      "target": "Point Delta-10",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_29",
+      "target": "Point Delta-12",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_5_30",
+      "target": "S.I.R. Office",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_0_18",
+      "target": "Switch Item",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_0_26",
+      "target": "Front",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_0_27",
+      "target": "Back",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_0_92",
+      "target": "Unequip",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_0_143",
+      "target": "None",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_0_148",
+      "target": "Item",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_0_162",
+      "target": "Accessories",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_1_21",
+      "target": "Set normal moves.{0E}",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_1_22",
+      "target": "Set special moves.{0E}",
+      "complete_loaded_string_exact": true
+    },
+    {
+      "id": "menu_052_1_31",
+      "target": "Unequip.{0E}",
+      "complete_loaded_string_exact": true
+    }
+  ],
+  "natural_brave_equip_world_playback_verified": false
+}

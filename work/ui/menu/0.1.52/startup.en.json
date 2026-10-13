@@ -1,0 +1,17 @@
+{
+  "version": "0.1.52",
+  "fresh_iso_boot": true,
+  "native_framebuffer_format": "RGB5551",
+  "title_stamp_bounds": [
+    390,
+    244,
+    474,
+    266
+  ],
+  "mean_channel_error": 1.9628427128427128,
+  "max_channel_error": 9,
+  "frame_sha256": "9a3f5853bb1a74ae141897fa00bf92c928d7ffa971c5144dae602ecb57b57e41",
+  "iso_sha256": "43718e99569384f6945938890464a6bf550cfd052dad1d12a8d344c5c52e5950",
+  "version_above_credit_verified": true,
+  "natural_brave_equip_world_playback_verified": false
+}

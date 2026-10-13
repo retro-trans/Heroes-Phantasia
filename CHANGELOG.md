@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.52 — 2026-10-13 (Brave/Equip labels and world-map names)
+
+- Translates 31 shared image labels in both resident atlases, including stats, radar labels, move/accessory tabs, Front/Back, modifiers and equipment details. Fits outlined English lettering into the existing native cells and preserves palettes, UVs, counters, icons and values.
+- Translates all 99 move/weapon-name entries and all 31 world-map location entries, plus ten related menu/help strings. Uses established location wording such as Forest of Unity. Four compact Bond Stone display names fit the narrow equipment list; full canonical names remain in the translation data.
+- Creates a separate local test ISO with the 0.1.52 title stamp, unchanged font/dialogue code and zero loaded-memory growth. Checks and gameplay limits are recorded in `docs/MENU_LABELS_052.md`. No GitHub release requested or created for this build.
+
+- Final package readback, all 139 new loaded strings and four item aliases pass. Fresh startup verifies the displayed 0.1.52 stamp above the title credit; 5,183 unrelated archive entries remain unchanged. Natural Brave, Equip and world-map playback remains unverified.
+
 ## 0.1.51 — 2026-10-13 (profile cards, dialogue and party/result text)
 
 - Repairs both protagonist profile sequences with short pages and authored tailless styles. Rewraps Kogoro's introduction while preserving his original tail anchor and accepts bounded Latin pronunciation spans 1–9. Wraps Gourry's Sword of Light line in an existing three-line jagged bubble and moves its two position keys together to fit the screen.

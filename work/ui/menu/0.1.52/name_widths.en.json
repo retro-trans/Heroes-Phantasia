@@ -1,0 +1,1117 @@
+{
+  "version": "0.1.52",
+  "rows": [
+    {
+      "id": "menu_052_4_0",
+      "target": "Kero Ball",
+      "canonical_target": "Kero Ball",
+      "widths": [
+        59.0
+      ]
+    },
+    {
+      "id": "menu_052_4_1",
+      "target": "Apocalypse Strike 1",
+      "canonical_target": "Apocalypse Strike 1",
+      "widths": [
+        127.0
+      ]
+    },
+    {
+      "id": "menu_052_4_2",
+      "target": "Apocalypse Strike 2",
+      "canonical_target": "Apocalypse Strike 2",
+      "widths": [
+        127.0
+      ]
+    },
+    {
+      "id": "menu_052_4_3",
+      "target": "Apocalypse Strike 3",
+      "canonical_target": "Apocalypse Strike 3",
+      "widths": [
+        127.0
+      ]
+    },
+    {
+      "id": "menu_052_4_4",
+      "target": "Apocalypse Strike 4",
+      "canonical_target": "Apocalypse Strike 4",
+      "widths": [
+        127.0
+      ]
+    },
+    {
+      "id": "menu_052_4_5",
+      "target": "Apocalypse Strike 5",
+      "canonical_target": "Apocalypse Strike 5",
+      "widths": [
+        127.0
+      ]
+    },
+    {
+      "id": "menu_052_4_6",
+      "target": "Apocalypse Strike 6",
+      "canonical_target": "Apocalypse Strike 6",
+      "widths": [
+        127.0
+      ]
+    },
+    {
+      "id": "menu_052_4_7",
+      "target": "Tamama Kung Fu",
+      "canonical_target": "Tamama Kung Fu",
+      "widths": [
+        113.0
+      ]
+    },
+    {
+      "id": "menu_052_4_8",
+      "target": "Tamama Impact",
+      "canonical_target": "Tamama Impact",
+      "widths": [
+        104.0
+      ]
+    },
+    {
+      "id": "menu_052_4_9",
+      "target": "Beam Rifle",
+      "canonical_target": "Beam Rifle",
+      "widths": [
+        71.0
+      ]
+    },
+    {
+      "id": "menu_052_4_10",
+      "target": "Dendro Giroro",
+      "canonical_target": "Dendro Giroro",
+      "widths": [
+        89.0
+      ]
+    },
+    {
+      "id": "menu_052_4_11",
+      "target": "Strange Sound Waves",
+      "canonical_target": "Strange Sound Waves",
+      "widths": [
+        140.0
+      ]
+    },
+    {
+      "id": "menu_052_4_12",
+      "target": "Kururu Robo",
+      "canonical_target": "Kururu Robo",
+      "widths": [
+        80.0
+      ]
+    },
+    {
+      "id": "menu_052_4_13",
+      "target": "Dororo Ninjutsu",
+      "canonical_target": "Dororo Ninjutsu",
+      "widths": [
+        101.0
+      ]
+    },
+    {
+      "id": "menu_052_4_14",
+      "target": "Zero-Dimension Slash",
+      "canonical_target": "Zero-Dimension Slash",
+      "widths": [
+        140.0
+      ]
+    },
+    {
+      "id": "menu_052_4_15",
+      "target": "Shell Bullet",
+      "canonical_target": "Shell Bullet",
+      "widths": [
+        74.0
+      ]
+    },
+    {
+      "id": "menu_052_4_16",
+      "target": "Shocking First Bullet",
+      "canonical_target": "Shocking First Bullet",
+      "widths": [
+        133.0
+      ]
+    },
+    {
+      "id": "menu_052_4_17",
+      "target": "Destructive Second Bullet",
+      "canonical_target": "Destructive Second Bullet",
+      "widths": [
+        166.0
+      ]
+    },
+    {
+      "id": "menu_052_4_18",
+      "target": "Exterminating Last Bullet",
+      "canonical_target": "Exterminating Last Bullet",
+      "widths": [
+        164.0
+      ]
+    },
+    {
+      "id": "menu_052_4_19",
+      "target": "Zetsuei",
+      "canonical_target": "Zetsuei",
+      "widths": [
+        48.0
+      ]
+    },
+    {
+      "id": "menu_052_4_20",
+      "target": "Vigorous Fists: Twin Dragons",
+      "canonical_target": "Vigorous Fists: Crouching Dragon & Bowing Dragon",
+      "widths": [
+        187.0
+      ]
+    },
+    {
+      "id": "menu_052_4_21",
+      "target": "Radical Good Speed",
+      "canonical_target": "Radical Good Speed",
+      "widths": [
+        129.0
+      ]
+    },
+    {
+      "id": "menu_052_4_22",
+      "target": "Shocking First Bullet",
+      "canonical_target": "Shocking First Bullet",
+      "widths": [
+        133.0
+      ]
+    },
+    {
+      "id": "menu_052_4_23",
+      "target": "Devastating Second Bullet",
+      "canonical_target": "Devastating Second Bullet",
+      "widths": [
+        170.0
+      ]
+    },
+    {
+      "id": "menu_052_4_24",
+      "target": "Rapid-Kill Final Bullet",
+      "canonical_target": "Rapid-Kill Final Bullet",
+      "widths": [
+        140.0
+      ]
+    },
+    {
+      "id": "menu_052_4_25",
+      "target": "Shell Bullet",
+      "canonical_target": "Shell Bullet",
+      "widths": [
+        74.0
+      ]
+    },
+    {
+      "id": "menu_052_4_26",
+      "target": "Shell Bullet Burst",
+      "canonical_target": "Shell Bullet Burst",
+      "widths": [
+        112.0
+      ]
+    },
+    {
+      "id": "menu_052_4_27",
+      "target": "Element: Celestial Rings",
+      "canonical_target": "Element: Celestial Rings",
+      "widths": [
+        158.0
+      ]
+    },
+    {
+      "id": "menu_052_4_28",
+      "target": "Kagutsuchi",
+      "canonical_target": "Kagutsuchi",
+      "widths": [
+        72.0
+      ]
+    },
+    {
+      "id": "menu_052_4_29",
+      "target": "Kagutsuchi V1",
+      "canonical_target": "Kagutsuchi V1",
+      "widths": [
+        93.0
+      ]
+    },
+    {
+      "id": "menu_052_4_30",
+      "target": "Kagutsuchi V2",
+      "canonical_target": "Kagutsuchi V2",
+      "widths": [
+        93.0
+      ]
+    },
+    {
+      "id": "menu_052_4_31",
+      "target": "Element: Twin Pistols",
+      "canonical_target": "Element: Twin Pistols",
+      "widths": [
+        139.0
+      ]
+    },
+    {
+      "id": "menu_052_4_32",
+      "target": "Duran: Chrome C",
+      "canonical_target": "Duran: Chrome C",
+      "widths": [
+        109.0
+      ]
+    },
+    {
+      "id": "menu_052_4_33",
+      "target": "Duran: Silver C",
+      "canonical_target": "Duran: Silver C",
+      "widths": [
+        95.0
+      ]
+    },
+    {
+      "id": "menu_052_4_34",
+      "target": "Duran: Flash C",
+      "canonical_target": "Duran: Flash C",
+      "widths": [
+        94.0
+      ]
+    },
+    {
+      "id": "menu_052_4_35",
+      "target": "Chrome V1",
+      "canonical_target": "Chrome V1",
+      "widths": [
+        71.0
+      ]
+    },
+    {
+      "id": "menu_052_4_36",
+      "target": "Silver V1",
+      "canonical_target": "Silver V1",
+      "widths": [
+        57.0
+      ]
+    },
+    {
+      "id": "menu_052_4_37",
+      "target": "Flash V1",
+      "canonical_target": "Flash V1",
+      "widths": [
+        56.0
+      ]
+    },
+    {
+      "id": "menu_052_4_38",
+      "target": "Element: Two-Handed Sword",
+      "canonical_target": "Element: Two-Handed Sword",
+      "widths": [
+        184.0
+      ]
+    },
+    {
+      "id": "menu_052_4_39",
+      "target": "Miroku",
+      "canonical_target": "Miroku",
+      "widths": [
+        44.0
+      ]
+    },
+    {
+      "id": "menu_052_4_40",
+      "target": "Miroku V1",
+      "canonical_target": "Miroku V1",
+      "widths": [
+        65.0
+      ]
+    },
+    {
+      "id": "menu_052_4_41",
+      "target": "Miroku V2",
+      "canonical_target": "Miroku V2",
+      "widths": [
+        65.0
+      ]
+    },
+    {
+      "id": "menu_052_4_42",
+      "target": "Element: Halberd",
+      "canonical_target": "Element: Halberd",
+      "widths": [
+        112.0
+      ]
+    },
+    {
+      "id": "menu_052_4_43",
+      "target": "Gakutenou",
+      "canonical_target": "Gakutenou",
+      "widths": [
+        69.0
+      ]
+    },
+    {
+      "id": "menu_052_4_44",
+      "target": "Gakutenou V1",
+      "canonical_target": "Gakutenou V1",
+      "widths": [
+        90.0
+      ]
+    },
+    {
+      "id": "menu_052_4_45",
+      "target": "Paper Saber",
+      "canonical_target": "Paper Saber",
+      "widths": [
+        79.0
+      ]
+    },
+    {
+      "id": "menu_052_4_46",
+      "target": "The Paper",
+      "canonical_target": "The Paper",
+      "widths": [
+        66.0
+      ]
+    },
+    {
+      "id": "menu_052_4_47",
+      "target": "The Paper V1",
+      "canonical_target": "The Paper V1",
+      "widths": [
+        87.0
+      ]
+    },
+    {
+      "id": "menu_052_4_48",
+      "target": "Machine Pistol",
+      "canonical_target": "Machine Pistol",
+      "widths": [
+        96.0
+      ]
+    },
+    {
+      "id": "menu_052_4_49",
+      "target": "Miss Deep",
+      "canonical_target": "Miss Deep",
+      "widths": [
+        67.0
+      ]
+    },
+    {
+      "id": "menu_052_4_50",
+      "target": "Miss Deep V1",
+      "canonical_target": "Miss Deep V1",
+      "widths": [
+        88.0
+      ]
+    },
+    {
+      "id": "menu_052_4_51",
+      "target": "Grenade Launcher",
+      "canonical_target": "Grenade Launcher",
+      "widths": [
+        118.0
+      ]
+    },
+    {
+      "id": "menu_052_4_52",
+      "target": "Assault Tactics",
+      "canonical_target": "Assault Tactics",
+      "widths": [
+        98.0
+      ]
+    },
+    {
+      "id": "menu_052_4_53",
+      "target": "Assault Tactics V1",
+      "canonical_target": "Assault Tactics V1",
+      "widths": [
+        119.0
+      ]
+    },
+    {
+      "id": "menu_052_4_54",
+      "target": "Fireball",
+      "canonical_target": "Fireball",
+      "widths": [
+        49.0
+      ]
+    },
+    {
+      "id": "menu_052_4_55",
+      "target": "Dragon Slave",
+      "canonical_target": "Dragon Slave",
+      "widths": [
+        85.0
+      ]
+    },
+    {
+      "id": "menu_052_4_56",
+      "target": "Giga Slave",
+      "canonical_target": "Giga Slave",
+      "widths": [
+        68.0
+      ]
+    },
+    {
+      "id": "menu_052_4_57",
+      "target": "Bent Sword",
+      "canonical_target": "Bent Sword",
+      "widths": [
+        73.0
+      ]
+    },
+    {
+      "id": "menu_052_4_58",
+      "target": "Gorun Nova Replica",
+      "canonical_target": "Gorun Nova Replica",
+      "widths": [
+        127.0
+      ]
+    },
+    {
+      "id": "menu_052_4_59",
+      "target": "Broadsword",
+      "canonical_target": "Broadsword",
+      "widths": [
+        76.0
+      ]
+    },
+    {
+      "id": "menu_052_4_60",
+      "target": "Astral Vine",
+      "canonical_target": "Astral Vine",
+      "widths": [
+        71.0
+      ]
+    },
+    {
+      "id": "menu_052_4_61",
+      "target": "Recovery",
+      "canonical_target": "Recovery",
+      "widths": [
+        59.0
+      ]
+    },
+    {
+      "id": "menu_052_4_62",
+      "target": "Pacifist Crush",
+      "canonical_target": "Pacifist Crush",
+      "widths": [
+        90.0
+      ]
+    },
+    {
+      "id": "menu_052_4_63",
+      "target": "Repaired Sword",
+      "canonical_target": "Repaired Sword",
+      "widths": [
+        101.0
+      ]
+    },
+    {
+      "id": "menu_052_4_64",
+      "target": "Gorun Nova Replica",
+      "canonical_target": "Gorun Nova Replica",
+      "widths": [
+        127.0
+      ]
+    },
+    {
+      "id": "menu_052_4_65",
+      "target": "Smith's Sword",
+      "canonical_target": "Smith's Sword",
+      "widths": [
+        90.0
+      ]
+    },
+    {
+      "id": "menu_052_4_66",
+      "target": "Gorun Nova Replica",
+      "canonical_target": "Gorun Nova Replica",
+      "widths": [
+        127.0
+      ]
+    },
+    {
+      "id": "menu_052_4_67",
+      "target": "White Blade of Light",
+      "canonical_target": "I Release the White Blade of Light",
+      "widths": [
+        132.0
+      ]
+    },
+    {
+      "id": "menu_052_4_68",
+      "target": "Silence of Genesis",
+      "canonical_target": "I Shatter the Silence of Genesis",
+      "widths": [
+        119.0
+      ]
+    },
+    {
+      "id": "menu_052_4_69",
+      "target": "War Club Regular",
+      "canonical_target": "War Club Regular",
+      "widths": [
+        112.0
+      ]
+    },
+    {
+      "id": "menu_052_4_70",
+      "target": "Reki Beam",
+      "canonical_target": "Reki Beam",
+      "widths": [
+        69.0
+      ]
+    },
+    {
+      "id": "menu_052_4_71",
+      "target": "White Blade of Light",
+      "canonical_target": "I Release the White Blade of Light",
+      "widths": [
+        132.0
+      ]
+    },
+    {
+      "id": "menu_052_4_72",
+      "target": "Melody of the Morning Mist",
+      "canonical_target": "Melody of the Morning Mist",
+      "widths": [
+        178.0
+      ]
+    },
+    {
+      "id": "menu_052_4_73",
+      "target": "Brawl",
+      "canonical_target": "Brawl",
+      "widths": [
+        36.0
+      ]
+    },
+    {
+      "id": "menu_052_4_74",
+      "target": "Louie Punch",
+      "canonical_target": "Louie Punch",
+      "widths": [
+        80.0
+      ]
+    },
+    {
+      "id": "menu_052_4_75",
+      "target": "Throwing Knife",
+      "canonical_target": "Throwing Knife",
+      "widths": [
+        97.0
+      ]
+    },
+    {
+      "id": "menu_052_4_76",
+      "target": "Badger Technique",
+      "canonical_target": "Badger Technique",
+      "widths": [
+        117.0
+      ]
+    },
+    {
+      "id": "menu_052_4_77",
+      "target": "Greatsword",
+      "canonical_target": "Greatsword",
+      "widths": [
+        73.0
+      ]
+    },
+    {
+      "id": "menu_052_4_78",
+      "target": "Mercenary's Strength",
+      "canonical_target": "Mercenary's Strength",
+      "widths": [
+        137.0
+      ]
+    },
+    {
+      "id": "menu_052_4_79",
+      "target": "Cure Wounds",
+      "canonical_target": "Cure Wounds",
+      "widths": [
+        85.0
+      ]
+    },
+    {
+      "id": "menu_052_4_80",
+      "target": "Force",
+      "canonical_target": "Force",
+      "widths": [
+        36.0
+      ]
+    },
+    {
+      "id": "menu_052_4_81",
+      "target": "Katana",
+      "canonical_target": "Katana",
+      "widths": [
+        46.0
+      ]
+    },
+    {
+      "id": "menu_052_4_82",
+      "target": "BLOOD Slash",
+      "canonical_target": "BLOOD Slash",
+      "widths": [
+        85.0
+      ]
+    },
+    {
+      "id": "menu_052_4_83",
+      "target": "BLOOD Slash V1",
+      "canonical_target": "BLOOD Slash V1",
+      "widths": [
+        106.0
+      ]
+    },
+    {
+      "id": "menu_052_4_84",
+      "target": "BLOOD Slash V2",
+      "canonical_target": "BLOOD Slash V2",
+      "widths": [
+        106.0
+      ]
+    },
+    {
+      "id": "menu_052_4_85",
+      "target": "Cello Case",
+      "canonical_target": "Cello Case",
+      "widths": [
+        69.0
+      ]
+    },
+    {
+      "id": "menu_052_4_86",
+      "target": "Chevalier's Hand",
+      "canonical_target": "Chevalier's Hand",
+      "widths": [
+        109.0
+      ]
+    },
+    {
+      "id": "menu_052_4_87",
+      "target": "Wire Knife",
+      "canonical_target": "Wire Knife",
+      "widths": [
+        67.0
+      ]
+    },
+    {
+      "id": "menu_052_4_88",
+      "target": "Electric Shock",
+      "canonical_target": "Electric Shock",
+      "widths": [
+        90.0
+      ]
+    },
+    {
+      "id": "menu_052_4_89",
+      "target": "Sprinter Shot",
+      "canonical_target": "Sprinter Shot",
+      "widths": [
+        84.0
+      ]
+    },
+    {
+      "id": "menu_052_4_90",
+      "target": "Anti-Tank Rifle",
+      "canonical_target": "Anti-Tank Rifle",
+      "widths": [
+        95.0
+      ]
+    },
+    {
+      "id": "menu_052_4_91",
+      "target": "Wire Knife",
+      "canonical_target": "Wire Knife",
+      "widths": [
+        67.0
+      ]
+    },
+    {
+      "id": "menu_052_4_92",
+      "target": "Electric Shock",
+      "canonical_target": "Electric Shock",
+      "widths": [
+        90.0
+      ]
+    },
+    {
+      "id": "menu_052_4_93",
+      "target": "Crack Enforce",
+      "canonical_target": "Crack Enforce",
+      "widths": [
+        89.0
+      ]
+    },
+    {
+      "id": "menu_052_4_94",
+      "target": "Crack Enforce",
+      "canonical_target": "Crack Enforce",
+      "widths": [
+        89.0
+      ]
+    },
+    {
+      "id": "menu_052_4_95",
+      "target": "Crack Burst",
+      "canonical_target": "Crack Burst",
+      "widths": [
+        74.0
+      ]
+    },
+    {
+      "id": "menu_052_4_96",
+      "target": "Modified Crack Enforce",
+      "canonical_target": "Modified Crack Enforce",
+      "widths": [
+        150.0
+      ]
+    },
+    {
+      "id": "menu_052_4_97",
+      "target": "Modified Crack Enforce",
+      "canonical_target": "Modified Crack Enforce",
+      "widths": [
+        150.0
+      ]
+    },
+    {
+      "id": "menu_052_4_98",
+      "target": "Crack Burst",
+      "canonical_target": "Crack Burst",
+      "widths": [
+        74.0
+      ]
+    },
+    {
+      "id": "menu_052_5_1",
+      "target": "Fuuka Academy",
+      "canonical_target": "Fuuka Academy",
+      "widths": [
+        102.0
+      ]
+    },
+    {
+      "id": "menu_052_5_2",
+      "target": "Alter Forest",
+      "canonical_target": "Alter Forest",
+      "widths": [
+        76.0
+      ]
+    },
+    {
+      "id": "menu_052_5_3",
+      "target": "Robusterity Castle",
+      "canonical_target": "Robusterity Castle",
+      "widths": [
+        119.0
+      ]
+    },
+    {
+      "id": "menu_052_5_4",
+      "target": "Alter Fortress",
+      "canonical_target": "Alter Fortress",
+      "widths": [
+        88.0
+      ]
+    },
+    {
+      "id": "menu_052_5_5",
+      "target": "Forest of Encounters",
+      "canonical_target": "Forest of Encounters",
+      "widths": [
+        134.0
+      ]
+    },
+    {
+      "id": "menu_052_5_6",
+      "target": "Forest of Rejection",
+      "canonical_target": "Forest of Rejection",
+      "widths": [
+        123.0
+      ]
+    },
+    {
+      "id": "menu_052_5_7",
+      "target": "Silver Forest",
+      "canonical_target": "Silver Forest",
+      "widths": [
+        81.0
+      ]
+    },
+    {
+      "id": "menu_052_5_8",
+      "target": "Forest of Unity",
+      "canonical_target": "Forest of Unity",
+      "widths": [
+        95.0
+      ]
+    },
+    {
+      "id": "menu_052_5_9",
+      "target": "Crossing Forest",
+      "canonical_target": "Crossing Forest",
+      "widths": [
+        101.0
+      ]
+    },
+    {
+      "id": "menu_052_5_10",
+      "target": "Orphan Forest",
+      "canonical_target": "Orphan Forest",
+      "widths": [
+        92.0
+      ]
+    },
+    {
+      "id": "menu_052_5_11",
+      "target": "Forest Around Fuuka Academy",
+      "canonical_target": "Forest Around Fuuka Academy",
+      "widths": [
+        197.0
+      ]
+    },
+    {
+      "id": "menu_052_5_12",
+      "target": "Rift Observation Facility",
+      "canonical_target": "Dimensional Rift Observation Facility",
+      "widths": [
+        156.0
+      ]
+    },
+    {
+      "id": "menu_052_5_13",
+      "target": "Cinq Fl\u00e8ches Facility",
+      "canonical_target": "Cinq Fl\u00e8ches Company Facility",
+      "widths": [
+        134.0
+      ]
+    },
+    {
+      "id": "menu_052_5_14",
+      "target": "Abandoned Facility",
+      "canonical_target": "Abandoned Facility",
+      "widths": [
+        124.0
+      ]
+    },
+    {
+      "id": "menu_052_5_15",
+      "target": "Abandoned Cinq Fl\u00e8ches Plant",
+      "canonical_target": "Abandoned Cinq Fl\u00e8ches Factory",
+      "widths": [
+        198.0
+      ]
+    },
+    {
+      "id": "menu_052_5_16",
+      "target": "Searrs Research Facility",
+      "canonical_target": "Searrs Foundation Research Facility",
+      "widths": [
+        156.0
+      ]
+    },
+    {
+      "id": "menu_052_5_17",
+      "target": "I-Jin Base",
+      "canonical_target": "I-Jin Base",
+      "widths": [
+        64.0
+      ]
+    },
+    {
+      "id": "menu_052_5_18",
+      "target": "Searrs Special Research Facility",
+      "canonical_target": "Searrs Foundation Important Research Facility",
+      "widths": [
+        207.0
+      ]
+    },
+    {
+      "id": "menu_052_5_19",
+      "target": "Cave of Savage Beasts",
+      "canonical_target": "Cave of Savage Beasts",
+      "widths": [
+        148.0
+      ]
+    },
+    {
+      "id": "menu_052_5_20",
+      "target": "Mining Site",
+      "canonical_target": "Mining Site",
+      "widths": [
+        73.0
+      ]
+    },
+    {
+      "id": "menu_052_5_21",
+      "target": "Cave of Sorcery",
+      "canonical_target": "Cave of Sorcery",
+      "widths": [
+        101.0
+      ]
+    },
+    {
+      "id": "menu_052_5_22",
+      "target": "Cave of the Dragon Horde",
+      "canonical_target": "",
+      "widths": [
+        167.0
+      ]
+    },
+    {
+      "id": "menu_052_5_23",
+      "target": "Cave of the Red Mist",
+      "canonical_target": "Cave of the Red Mist",
+      "widths": [
+        135.0
+      ]
+    },
+    {
+      "id": "menu_052_5_24",
+      "target": "Royal Labyrinth",
+      "canonical_target": "Royal Labyrinth",
+      "widths": [
+        101.0
+      ]
+    },
+    {
+      "id": "menu_052_5_25",
+      "target": "Obsidian Palace",
+      "canonical_target": "Obsidian Palace",
+      "widths": [
+        105.0
+      ]
+    },
+    {
+      "id": "menu_052_5_26",
+      "target": "Crimson Valley",
+      "canonical_target": "Crimson Valley",
+      "widths": [
+        97.0
+      ]
+    },
+    {
+      "id": "menu_052_5_27",
+      "target": "Shining Valley",
+      "canonical_target": "Shining Valley",
+      "widths": [
+        92.0
+      ]
+    },
+    {
+      "id": "menu_052_5_28",
+      "target": "Point Delta-10",
+      "canonical_target": "Point Delta-10",
+      "widths": [
+        92.0
+      ]
+    },
+    {
+      "id": "menu_052_5_29",
+      "target": "Point Delta-12",
+      "canonical_target": "Point Delta-12",
+      "widths": [
+        92.0
+      ]
+    },
+    {
+      "id": "menu_052_5_30",
+      "target": "S.I.R. Office",
+      "canonical_target": "",
+      "widths": [
+        76.0
+      ]
+    },
+    {
+      "id": "menu_052_0_18",
+      "target": "Switch Item",
+      "canonical_target": "Switch Item",
+      "widths": [
+        75.0
+      ]
+    },
+    {
+      "id": "menu_052_0_26",
+      "target": "Front",
+      "canonical_target": "Front",
+      "widths": [
+        34.0
+      ]
+    },
+    {
+      "id": "menu_052_0_27",
+      "target": "Back",
+      "canonical_target": "Back",
+      "widths": [
+        31.0
+      ]
+    },
+    {
+      "id": "menu_052_0_92",
+      "target": "Unequip",
+      "canonical_target": "Unequip",
+      "widths": [
+        53.0
+      ]
+    },
+    {
+      "id": "menu_052_0_143",
+      "target": "None",
+      "canonical_target": "None",
+      "widths": [
+        34.0
+      ]
+    },
+    {
+      "id": "menu_052_0_148",
+      "target": "Item",
+      "canonical_target": "Item",
+      "widths": [
+        29.0
+      ]
+    },
+    {
+      "id": "menu_052_0_162",
+      "target": "Accessories",
+      "canonical_target": "Accessories",
+      "widths": [
+        77.0
+      ]
+    },
+    {
+      "id": "menu_052_1_21",
+      "target": "Set normal moves.{0E}",
+      "canonical_target": "Set normal moves.{0E}",
+      "widths": [
+        120.0
+      ]
+    },
+    {
+      "id": "menu_052_1_22",
+      "target": "Set special moves.{0E}",
+      "canonical_target": "Set special moves.{0E}",
+      "widths": [
+        121.0
+      ]
+    },
+    {
+      "id": "menu_052_1_31",
+      "target": "Unequip.{0E}",
+      "canonical_target": "Unequip.{0E}",
+      "widths": [
+        57.0
+      ]
+    }
+  ]
+}
