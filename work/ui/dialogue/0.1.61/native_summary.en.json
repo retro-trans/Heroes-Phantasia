@@ -1,0 +1,43 @@
+{
+  "version": "0.1.61",
+  "iso_sha256": "154eba01e36a83d9dac00ae8f5d93d8473e7c5310a398b7942a83c68f2fc5674",
+  "executable_sha256": "29c43b9e6a11b12b8c1f4977af1b4645b52885d95c2d52f47bb613a3dc70fd7b",
+  "notice_model_cases": 3840,
+  "notice_native_cases": 45,
+  "geometry_native_cases": 84,
+  "reported_references": {
+    "phase/bin/p101110.bin": [
+      11
+    ],
+    "phase/bin/p101111.bin": [
+      11
+    ],
+    "phase/bin/p101140.bin": [
+      15,
+      23
+    ],
+    "phase/bin/p101141.bin": [
+      15,
+      23
+    ],
+    "phase/bin/p101150.bin": [
+      5
+    ],
+    "phase/bin/p101151.bin": [
+      5
+    ]
+  },
+  "all_passed": true,
+  "installed_candidate": true,
+  "title_version_verified": true,
+  "guard_passed": true,
+  "retained_name_layout_risks": 91,
+  "retained_unsupported_layouts": 127,
+  "natural_hq_playthrough_verified": false,
+  "proof_sha256": {
+    "native_notice.en.json": "38f35d2317ec6810408f87780590e55607010ee696e15f54c989378697ffb999",
+    "native_gift.en.json": "e55bfab70463a2bb7662bf06640d1147c6e144f2f4d8293435a0e8aaa8f1755f",
+    "validation.en.json": "0caa2d50db627a7f3f85d1acb3a68e50f0a77bdeeddbf7eb36c81bb64b7950de",
+    "startup.en.json": "aa1400fe93f75832d611f1459b4b4f2b0b35c481798db5ee6510d49e7864e574"
+  }
+}

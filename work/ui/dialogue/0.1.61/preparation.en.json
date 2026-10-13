@@ -1,0 +1,277 @@
+{
+  "version": "0.1.61",
+  "database": {
+    "entry": {
+      "id": "field_notice_061_discovery",
+      "event": "fld/event/d01.evt",
+      "event_sha256": "a10243f0d63320512937c4902b3b1002e989f9dbf2d573708fe2a13a3613db41",
+      "offsets": [
+        72867
+      ],
+      "source_payload_rva": 3170028,
+      "source_payload_bytes": 64,
+      "source_payload_sha256": "02f767b5d2cc8f26f1a1c542244b7774d789fb88641a440b8613d11911086081",
+      "target_payload_rva": 3170092,
+      "target_payload_bytes": 43,
+      "target": "{1A}2{01}1 found hidden{11}files in the database!{12}{0E}",
+      "available_width_px": 440,
+      "conservative_line_widths_px": [
+        390,
+        286
+      ]
+    },
+    "new_notices": [
+      {
+        "id": "field_notice_061_discovery",
+        "event": "fld/event/d01.evt",
+        "event_sha256": "a10243f0d63320512937c4902b3b1002e989f9dbf2d573708fe2a13a3613db41",
+        "offsets": [
+          72867
+        ],
+        "source_payload_rva": 3170028,
+        "source_payload_bytes": 64,
+        "source_payload_sha256": "02f767b5d2cc8f26f1a1c542244b7774d789fb88641a440b8613d11911086081",
+        "target_payload_rva": 3170092,
+        "target_payload_bytes": 43,
+        "target": "{1A}2{01}1 found hidden{11}files in the database!{12}{0E}",
+        "available_width_px": 440,
+        "conservative_line_widths_px": [
+          390,
+          286
+        ]
+      },
+      {
+        "id": "field_notice_061_party_unlock",
+        "event": "fld/event/d99.evt",
+        "event_sha256": "6b616f2276ab2e610df21b7e1be63d59bce1f90edd9b727e8aeb96f068465e05",
+        "offsets": [
+          26503
+        ],
+        "source_payload_rva": 3170135,
+        "source_payload_bytes": 55,
+        "source_payload_sha256": "e9e055645a94653a8adeb119657fc9b1eeb97e7b5164ddfae48afbece070e8bb",
+        "target_payload_rva": 3170190,
+        "target_payload_bytes": 48,
+        "target": "{1A}5New Party Menu features{11}have been unlocked.{12}{0E}",
+        "available_width_px": 440,
+        "conservative_line_widths_px": [
+          299,
+          247
+        ]
+      }
+    ],
+    "helper_rva": 3169744,
+    "helper_bytes": 164,
+    "table_rva": 3169908,
+    "allocation_bytes": 936,
+    "allocation_sha256": "507b1bf175c3f375380f6c8aabeda2342ea8c4df6524946ab426fbd57a102a76",
+    "models": [
+      {
+        "base": 142622720,
+        "loaded_extents_exact": true,
+        "outside_allocation_exact": true,
+        "instruction_checks": {
+          "cases": 1280,
+          "matches": 14,
+          "all_passed": true,
+          "null_empty_prefix_mutation_and_episode_passthrough_checked": true
+        }
+      },
+      {
+        "base": 143654912,
+        "loaded_extents_exact": true,
+        "outside_allocation_exact": true,
+        "instruction_checks": {
+          "cases": 1280,
+          "matches": 14,
+          "all_passed": true,
+          "null_empty_prefix_mutation_and_episode_passthrough_checked": true
+        }
+      },
+      {
+        "base": 150990848,
+        "loaded_extents_exact": true,
+        "outside_allocation_exact": true,
+        "instruction_checks": {
+          "cases": 1280,
+          "matches": 14,
+          "all_passed": true,
+          "null_empty_prefix_mutation_and_episode_passthrough_checked": true
+        }
+      }
+    ],
+    "source_event_sha256": "a10243f0d63320512937c4902b3b1002e989f9dbf2d573708fe2a13a3613db41",
+    "event_bytecode_exact": true,
+    "loaded_growth_bytes": 0,
+    "font_and_geometry_exact": true,
+    "natural_gameplay_verified": false
+  },
+  "spacing": [
+    {
+      "resource": "phase/bin/p101110.bin",
+      "reference_index": 11,
+      "old_sha256": "f0c0067a2b3380280cf46e5f22cfd342ed34dd4410cf4b8daa23da43a96a2a1c",
+      "new_sha256": "046ac26f80948f1c452b050407124db572a5432da77a774092e72bf5d91b2f56",
+      "authored_tracks_exact": true,
+      "other_dialogue_exact": true,
+      "layout": {
+        "resource": "phase/bin/p101110.bin",
+        "reference_index": 11,
+        "text_sha256": "046ac26f80948f1c452b050407124db572a5432da77a774092e72bf5d91b2f56",
+        "geometry_sha256": "46cce329a3297b82b8c7f7352ef59481216be02b78cbf0382adb4bc926efffce",
+        "shape": 144,
+        "position": [
+          125.0,
+          182.0
+        ],
+        "shape_keys": [
+          [
+            0.0,
+            144,
+            0
+          ]
+        ],
+        "position_keys": [
+          [
+            0.0,
+            55.0,
+            132.0,
+            0.0,
+            0
+          ],
+          [
+            10.0,
+            55.0,
+            132.0,
+            0.0,
+            0
+          ],
+          [
+            20.0,
+            125.0,
+            182.0,
+            0.0,
+            1065353216
+          ]
+        ],
+        "pages": [
+          {
+            "body_hex": "4e6f77207468617420776527766520666f756e64207468656d2c116c657427732072657475726e20746f20776865726520776520737461727465642e12",
+            "line_advances": [
+              179,
+              206
+            ],
+            "minimum_line_advances": [
+              179,
+              206
+            ],
+            "native_name_fallback": false
+          },
+          {
+            "body_hex": "4927766520616c6d6f7374207265636f766572656420656e6f75676820746f2075736520053133331630334769667416303111666f72207370617469616c2074656c65706f72746174696f6e11616761696e2e120e",
+            "line_advances": [
+              261,
+              154,
+              40
+            ],
+            "minimum_line_advances": [
+              261,
+              154,
+              40
+            ],
+            "native_name_fallback": false
+          }
+        ],
+        "parent_maximum_width": 261.0,
+        "parent_minimum_width": 261.0,
+        "measurement_policy": "installed_vwf",
+        "status": "fit",
+        "fallback_white_interior_fit": false,
+        "failures": []
+      }
+    },
+    {
+      "resource": "phase/bin/p101111.bin",
+      "reference_index": 11,
+      "old_sha256": "f0c0067a2b3380280cf46e5f22cfd342ed34dd4410cf4b8daa23da43a96a2a1c",
+      "new_sha256": "046ac26f80948f1c452b050407124db572a5432da77a774092e72bf5d91b2f56",
+      "authored_tracks_exact": true,
+      "other_dialogue_exact": true,
+      "layout": {
+        "resource": "phase/bin/p101111.bin",
+        "reference_index": 11,
+        "text_sha256": "046ac26f80948f1c452b050407124db572a5432da77a774092e72bf5d91b2f56",
+        "geometry_sha256": "46cce329a3297b82b8c7f7352ef59481216be02b78cbf0382adb4bc926efffce",
+        "shape": 144,
+        "position": [
+          125.0,
+          182.0
+        ],
+        "shape_keys": [
+          [
+            0.0,
+            144,
+            0
+          ]
+        ],
+        "position_keys": [
+          [
+            0.0,
+            55.0,
+            132.0,
+            0.0,
+            0
+          ],
+          [
+            10.0,
+            55.0,
+            132.0,
+            0.0,
+            0
+          ],
+          [
+            20.0,
+            125.0,
+            182.0,
+            0.0,
+            1065353216
+          ]
+        ],
+        "pages": [
+          {
+            "body_hex": "4e6f77207468617420776527766520666f756e64207468656d2c116c657427732072657475726e20746f20776865726520776520737461727465642e12",
+            "line_advances": [
+              179,
+              206
+            ],
+            "minimum_line_advances": [
+              179,
+              206
+            ],
+            "native_name_fallback": false
+          },
+          {
+            "body_hex": "4927766520616c6d6f7374207265636f766572656420656e6f75676820746f2075736520053133331630334769667416303111666f72207370617469616c2074656c65706f72746174696f6e11616761696e2e120e",
+            "line_advances": [
+              261,
+              154,
+              40
+            ],
+            "minimum_line_advances": [
+              261,
+              154,
+              40
+            ],
+            "native_name_fallback": false
+          }
+        ],
+        "parent_maximum_width": 261.0,
+        "parent_minimum_width": 261.0,
+        "measurement_policy": "installed_vwf",
+        "status": "fit",
+        "fallback_white_interior_fit": false,
+        "failures": []
+      }
+    }
+  ]
+}

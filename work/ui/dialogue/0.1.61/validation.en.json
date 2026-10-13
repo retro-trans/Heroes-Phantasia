@@ -1,0 +1,37 @@
+{
+  "version": "0.1.61",
+  "iso_sha256": "154eba01e36a83d9dac00ae8f5d93d8473e7c5310a398b7942a83c68f2fc5674",
+  "archive_sha256": "6b324bebf1949ef803660979000d8a45d7e5eb56c3705802c779f0a6794624d1",
+  "executable_sha256": "29c43b9e6a11b12b8c1f4977af1b4645b52885d95c2d52f47bb613a3dc70fd7b",
+  "gift_space_both_branches_verified": true,
+  "discovery_notice_installed": true,
+  "new_notices_verified": [
+    "field_notice_061_discovery",
+    "field_notice_061_party_unlock"
+  ],
+  "player_name_selector_preserved": true,
+  "event_bytecode_exact": true,
+  "changed_archive_entries": 3,
+  "unselected_archive_toc_rows_exact": 5183,
+  "all_nested_selected_assets_exact": true,
+  "whole_iso_digest_checked_by_builder": true,
+  "layout_guard": {
+    "schema_version": 1,
+    "resources_examined": 1265,
+    "indexed_references": 30145,
+    "english_body_references": 29936,
+    "counts": {
+      "fit": 29718,
+      "overflow": 91,
+      "unverified": 127
+    },
+    "scope": "All indexed phase, field, battle result and battle skit containers; shared whole-block width, every settled XY key, authored template or v10 ray clipping under zero rotation and unit runtime scale. Animated intermediate frames, transforms and natural playback are unverified.",
+    "full_game_visually_verified": false,
+    "guard_passed": true,
+    "exception_fingerprints_sha256": "45e7de783b0c4129054750e430e639a64ba0ff25cb74a2fd228ec4e913832e31",
+    "unchanged_unverified_references": 127,
+    "retained_maximum_name_risks": 91,
+    "all_layouts_verified": false
+  },
+  "natural_hq_playthrough_verified": false
+}

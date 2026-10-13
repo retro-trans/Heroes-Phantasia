@@ -1,0 +1,236 @@
+{
+  "version": "0.1.61",
+  "iso_sha256": "154eba01e36a83d9dac00ae8f5d93d8473e7c5310a398b7942a83c68f2fc5674",
+  "executable_sha256": "29c43b9e6a11b12b8c1f4977af1b4645b52885d95c2d52f47bb613a3dc70fd7b",
+  "module_base": 142622720,
+  "cases": [
+    {
+      "case": "null",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "empty",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "unrelated",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "exact_0",
+      "matched": true,
+      "passed": true
+    },
+    {
+      "case": "mismatch_0",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "truncated_0",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "exact_1",
+      "matched": true,
+      "passed": true
+    },
+    {
+      "case": "mismatch_1",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "truncated_1",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "exact_2",
+      "matched": true,
+      "passed": true
+    },
+    {
+      "case": "mismatch_2",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "truncated_2",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "exact_3",
+      "matched": true,
+      "passed": true
+    },
+    {
+      "case": "mismatch_3",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "truncated_3",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "exact_4",
+      "matched": true,
+      "passed": true
+    },
+    {
+      "case": "mismatch_4",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "truncated_4",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "exact_5",
+      "matched": true,
+      "passed": true
+    },
+    {
+      "case": "mismatch_5",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "truncated_5",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "exact_6",
+      "matched": true,
+      "passed": true
+    },
+    {
+      "case": "mismatch_6",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "truncated_6",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "exact_7",
+      "matched": true,
+      "passed": true
+    },
+    {
+      "case": "mismatch_7",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "truncated_7",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "exact_8",
+      "matched": true,
+      "passed": true
+    },
+    {
+      "case": "mismatch_8",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "truncated_8",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "exact_9",
+      "matched": true,
+      "passed": true
+    },
+    {
+      "case": "mismatch_9",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "truncated_9",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "exact_10",
+      "matched": true,
+      "passed": true
+    },
+    {
+      "case": "mismatch_10",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "truncated_10",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "exact_11",
+      "matched": true,
+      "passed": true
+    },
+    {
+      "case": "mismatch_11",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "truncated_11",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "exact_12",
+      "matched": true,
+      "passed": true
+    },
+    {
+      "case": "mismatch_12",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "truncated_12",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "exact_13",
+      "matched": true,
+      "passed": true
+    },
+    {
+      "case": "mismatch_13",
+      "matched": false,
+      "passed": true
+    },
+    {
+      "case": "truncated_13",
+      "matched": false,
+      "passed": true
+    }
+  ],
+  "installed_helper_and_all_keys_targets_exact": true,
+  "scratch_registers_and_stack_restored": true,
+  "natural_hq_playthrough_verified": false
+}

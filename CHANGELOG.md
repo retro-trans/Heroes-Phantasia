@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.61 — 2026-10-13 (Gift spacing and field notices)
+
+- Adds the missing space before the highlighted Gift in Ryudock's teleportation dialogue in both protagonist branches. Keeps the words, color/dictionary controls, pages and authored scene/tail tracks.
+- Translates the HQ hidden-file discovery notice and the World Map Party Menu unlock notice. Preserves the discovery notice's player-name substitution and original event bytecode.
+- Reuses the existing notice helper's owned allocation for complete payload matching. Adds no loaded memory, and preserves the font and bubble geometry from 0.1.60.
+- Carries the name-width fixes for all three dialogue screenshots reported from 0.1.58; checks those references again in both branches. Creates a local test ISO with the matching 0.1.61 title stamp. Validation and remaining scope are recorded in `docs/DATABASE_NOTICES_061.md`.
+- Passes 3,840 notice instruction cases, 45 installed native notice cases, 84 installed native geometry cases, package readback and the full corpus guard. A fresh boot confirms the title version. Natural HQ scene playback remains unverified.
+
 ## 0.1.60 — 2026-10-13 (English pronunciation cleanup and name dialogue)
 
 - Removes 615 duplicate ASCII pronunciation readings from 543 references in 285 resources, including Argiano's Ryuho line in both protagonist branches. Preserves base words, other controls, authored scene/tail tracks and the 45 different readings reserved for review.

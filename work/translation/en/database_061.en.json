@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "rows": [
+    {
+      "id": "spacing_061_p101110",
+      "file": "phase/bin/p101110.bin",
+      "category": "dialogue_spacing",
+      "target": "{1C}Ryudock{0E}Now that we've found them,{11}let's return to where we started.{12}{10}I've almost recovered enough to use {05}133{16}03Gift{16}01{11}for spatial teleportation{11}again.{12}{0E}",
+      "status": "translated",
+      "notes": "Added one space before the highlighted Gift; all words, controls, pages and authored tracks retained."
+    },
+    {
+      "id": "spacing_061_p101111",
+      "file": "phase/bin/p101111.bin",
+      "category": "dialogue_spacing",
+      "target": "{1C}Ryudock{0E}Now that we've found them,{11}let's return to where we started.{12}{10}I've almost recovered enough to use {05}133{16}03Gift{16}01{11}for spatial teleportation{11}again.{12}{0E}",
+      "status": "translated",
+      "notes": "Added one space before the highlighted Gift; all words, controls, pages and authored tracks retained."
+    },
+    {
+      "id": "field_notice_061_discovery",
+      "file": "fld/event/d01.evt",
+      "offset": 72867,
+      "category": "field_notices",
+      "target": "{1A}2{01}1 found hidden{11}files in the database!{12}{0E}",
+      "status": "translated",
+      "notes": "Complete payload remap preserves event commands and semantic controls; English line breaks fit conservative native widths."
+    },
+    {
+      "id": "field_notice_061_party_unlock",
+      "file": "fld/event/d99.evt",
+      "offset": 26503,
+      "category": "field_notices",
+      "target": "{1A}5New Party Menu features{11}have been unlocked.{12}{0E}",
+      "status": "translated",
+      "notes": "Complete payload remap preserves event commands and semantic controls; English line breaks fit conservative native widths."
+    }
+  ]
+}

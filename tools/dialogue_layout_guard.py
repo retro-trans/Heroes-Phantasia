@@ -14,7 +14,7 @@ from rebuild_dialogue import parse
 from unpack_cpk import inventory, crilayla
 
 ROOT = Path(__file__).resolve().parents[1]
-EXCEPTIONS = ROOT / 'work/ui/dialogue/0.1.60/layout_exceptions.en.json'
+EXCEPTIONS = ROOT / 'work/ui/dialogue/0.1.61/layout_exceptions.en.json'
 PREFIXES = ('phase/bin/', 'fld/talk/', 'btl/res/', 'btl/skit/')
 # Native selector offsets 37E4/37EE/3800/381A are the saved surname,
 # given-name, epithet and other-name buffers (NUL excluded). Native width
