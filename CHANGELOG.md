@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.1.60 — 2026-10-13 (English pronunciation cleanup and name dialogue)
+
+- Removes 615 duplicate ASCII pronunciation readings from 543 references in 285 resources, including Argiano's Ryuho line in both protagonist branches. Preserves base words, other controls, authored scene/tail tracks and the 45 different readings reserved for review.
+- Carries forward the 239 name-dependent reflows from held 0.1.59, including the reported Shinobu thought page. Extends the mandatory guard to native 13-pixel whole-owner measurement and the saved name capacities; preserves custom input.
+- Prevents short fitted bubbles from crossing their native bevels by applying the paired corner-height minimum before either tail-fit route. Uses a 72-byte helper and 15 bytes of descriptor padding, with no loaded growth. Keeps the authored speaker endpoints and ray directions.
+- Creates local test build 0.1.60 with the matching title stamp. No GitHub release requested or created. Validation and remaining scope are recorded in `docs/NAME_DIALOGUE_060.md`.
+- Final checks pass 401 complete-owner width cases and 1,443 installed native geometry cases. Readback verifies both Ryuho lines, all selected nested assets and 4,900 unchanged archive entries. The 91 maximum-name risks and 127 unsupported layouts remain explicitly unverified.
+
+## 0.1.59 — 2026-10-13 (held name-dialogue candidate)
+
+- Rewraps 239 references in 164 resources using the native measurement applied to every page when one row inserts the player's name. Adds 180 page boundaries while preserving glyph order, substitutions and authored tracks.
+- Audits 515 previously unverified name owners using saved buffer capacities. Retains 91 explicit maximum-name risks and 127 unsupported layouts. Package readback and 139 width-instruction cases pass.
+- Held after expanded native geometry testing found a quantized fan overlap in a short bubble near the top edge. Superseded by 0.1.60; do not use this candidate.
+
 ## 0.1.58 — 2026-10-13 (both centered-notice font sizes)
 
 - Extends the elevator/notice fix to the native small-font branch. Adds the notice caller to the Latin-capable lookup guard while preserving the three earlier callers, native glyph fallback and 8-pixel destination size. Fits in the existing 128-byte code slot, with no loaded growth.

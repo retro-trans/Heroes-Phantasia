@@ -1,0 +1,41 @@
+{
+  "version": "0.1.59",
+  "iso_sha256": "77088fbf9675c05f42b2d30208be83cc115b59169eb019459c5be125071b1315",
+  "archive_sha256": "2b0056b8384016451b8765f70930940dd7680fb7c576fdad143b2bba1b101ef4",
+  "executable_sha256": "5e1af24667f807e2d22653ecfb99a86aeade342047dad0ad95c8837820e7eee4",
+  "executable_exact_to_tested_058": true,
+  "reflow_references": 239,
+  "resources_reflowed": 164,
+  "pages_in_reflowed_references": 458,
+  "native_measurement_unique_owners": 139,
+  "native_measurement_rows": 513,
+  "whole_owner_name_fallback_verified": true,
+  "all_four_name_selectors_first_and_last_rows_verified": true,
+  "authored_tracks_and_glyph_control_order_exact": true,
+  "changed_archive_entries": 165,
+  "unselected_archive_entries_exact": 5021,
+  "old_named_overflows_rejected": true,
+  "changed_name_capacity_rejected": true,
+  "changed_risk_fingerprint_rejected": true,
+  "retained_maximum_name_risks_unchanged": 91,
+  "all_nested_assets_exact": true,
+  "layout_guard": {
+    "schema_version": 1,
+    "resources_examined": 1265,
+    "indexed_references": 30145,
+    "english_body_references": 29936,
+    "counts": {
+      "fit": 29718,
+      "overflow": 91,
+      "unverified": 127
+    },
+    "scope": "All indexed phase, field, battle result and battle skit containers; shared whole-block width, every settled XY key, authored template or v10 ray clipping under zero rotation and unit runtime scale. Animated intermediate frames, transforms and natural playback are unverified.",
+    "full_game_visually_verified": false,
+    "guard_passed": true,
+    "exception_fingerprints_sha256": "8341ae94dbca0a1d637662aa480ab3f01b369e236322edf1d6ad715887cc5249",
+    "unchanged_unverified_references": 127,
+    "retained_maximum_name_risks": 91,
+    "all_layouts_verified": false
+  },
+  "natural_scene_playback_verified": false
+}

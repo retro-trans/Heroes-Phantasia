@@ -1,0 +1,8 @@
+{
+  "version": "0.1.59",
+  "status": "held",
+  "superseded_by": "0.1.60",
+  "reason": "Expanded installed native geometry found a quantized fan overlap for name_p313030_49_p0_k0_h169.0; paired native bevels crossed in a short top-clamped bubble.",
+  "reported_name_text_reflow_verified": true,
+  "natural_playback_verified": false
+}

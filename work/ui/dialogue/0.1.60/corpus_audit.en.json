@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "resources_examined": 1265,
+  "indexed_references": 30145,
+  "english_body_references": 29936,
+  "counts": {
+    "fit": 29718,
+    "overflow": 91,
+    "unverified": 127
+  },
+  "scope": "All indexed phase, field, battle result and battle skit containers; shared whole-block width, every settled XY key, authored template or v10 ray clipping under zero rotation and unit runtime scale. Animated intermediate frames, transforms and natural playback are unverified.",
+  "full_game_visually_verified": false,
+  "guard_passed": true,
+  "exception_fingerprints_sha256": "91ce9db68b21e781205eff7b55e683015c3cbd62128b7e8c662d79a8256889bc",
+  "unchanged_unverified_references": 127,
+  "retained_maximum_name_risks": 91,
+  "all_layouts_verified": false
+}

@@ -1,0 +1,60 @@
+{
+  "version": "0.1.60",
+  "name_geometry_cases": 874,
+  "earlier_geometry_cases": 569,
+  "total_native_geometry_cases": 1443,
+  "modeled_name_width_placement_cases": 5218,
+  "reported_shinobu_cases": 18,
+  "all_native_integer_fans_verified": true,
+  "all_registers_stack_manager_restored": true,
+  "minimum_corner_height": {
+    "version": "0.1.60",
+    "helper_rva": 616940,
+    "helper_bytes": 72,
+    "helper_sha256": "c1c3460f152dab75a16a7e25c0342b5223d38cd965b0563a75f29c437b2b8ad0",
+    "tail_fit_rva": 3034320,
+    "tail_fit_bytes": 732,
+    "tail_fit_sha256": "9c3957e85929d41124e9a0403acc5529a1b22e90371fb7e0022cad7a8d4190a8",
+    "minimum_height": "maximum of paired right/left corner cuts + 4px; applied before either tail-fit route",
+    "minimum_corner_heights": [
+      24.0,
+      34.0,
+      54.0,
+      22.5,
+      41.0,
+      45.0,
+      22.5,
+      41.0,
+      45.0,
+      22.0,
+      26.5,
+      40.0,
+      22.0,
+      26.5,
+      40.5
+    ],
+    "table_rva": 3045342,
+    "loaded_growth_bytes": 0,
+    "models": [
+      {
+        "base": 142622720,
+        "loaded_extents_exact": true,
+        "outside_mask_exact": true
+      },
+      {
+        "base": 143654912,
+        "loaded_extents_exact": true,
+        "outside_mask_exact": true
+      },
+      {
+        "base": 150990848,
+        "loaded_extents_exact": true,
+        "outside_mask_exact": true
+      }
+    ],
+    "native_instruction_verified": false,
+    "natural_story_playback_verified": false,
+    "authored_corner_coefficients_and_speaker_endpoints_unchanged": true
+  },
+  "natural_story_scene_verified": false
+}

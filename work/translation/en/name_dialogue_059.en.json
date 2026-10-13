@@ -1,0 +1,1918 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "rows": [
+    {
+      "id": "name_guard_059_f104010_0",
+      "file": "fld/talk/f104010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Sergeant Keroro{0E}Since our squad{11}and{12}{10}{01}1{11}became allies,{12}{10}today marks{11}exactly one week,{12}{10}sir!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p101070_9",
+      "file": "phase/bin/p101070.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}The Chief'll say, \"Some son{11}of {01}0 Hideo{0F}2Hideo{0F} you are!\"{11}and chew me out.{12}{10}Honestly, I wish he'd stop{11}bringing up my dad's name{11}every time he lectures me.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p101071_9",
+      "file": "phase/bin/p101071.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}The Chief'll say, \"Some{11}daughter of {01}0 Hideo{0F}2Hideo{0F}{11}you are!\" and chew me out...{12}{10}Honestly, I wish he'd stop{11}bringing up my dad's name{11}every time he lectures me.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p101080_0",
+      "file": "phase/bin/p101080.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}That's right.{11}{01}0{11}{01}1{12}{10}... I'm with{11}S.I.R.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p101081_0",
+      "file": "phase/bin/p101081.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}That's right.{11}{01}0{11}{01}1{12}{10}... I'm with{11}S.I.R.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p101140_15",
+      "file": "phase/bin/p101140.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1, you're an{11}expert with a spear, aren't{11}you?{12}{10}The Chief told me you won a{11}high school tournament.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p101140_23",
+      "file": "phase/bin/p101140.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Ryudock{0E}Listen well! You{11}insignificant grunts over{12}{10}there!{12}{10}{01}0{01}1{11}is right here!{12}{10}Who will have the honor of{11}facing them in their first{12}{10}battle!?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p101141_15",
+      "file": "phase/bin/p101141.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1, you're an{11}expert with a spear, aren't{11}you?{12}{10}The Chief told me you won a{11}high school tournament.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p101141_23",
+      "file": "phase/bin/p101141.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Ryudock{0E}Listen well! You{11}insignificant grunts over{12}{10}there!{12}{10}{01}0{01}1{11}is right here!{12}{10}Who will have the honor of{11}facing them in their first{12}{10}battle!?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p101150_5",
+      "file": "phase/bin/p101150.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Ryudock{0E}Yes. Combat magic devices{11}appear according to their{11}users' circumstances.{12}{10}{01}1, you're{11}not in danger now, so the{11}device has vanished.{12}{10}But don't worry. If you{11}concentrate hard enough, it{11}will appear immediately.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p101151_5",
+      "file": "phase/bin/p101151.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Ryudock{0E}Yes. Combat magic devices{11}appear according to their{11}users' circumstances.{12}{10}{01}1, you're{11}not in danger now, so the{11}device has vanished.{12}{10}But don't worry. If you{11}concentrate hard enough, it{11}will appear immediately.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p101160_4",
+      "file": "phase/bin/p101160.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1{12}{10}, this{12}{10}place...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p101180_22",
+      "file": "phase/bin/p101180.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}Let's go,{12}{10}{01}1{12}{10}!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p102010_7",
+      "file": "phase/bin/p102010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Gourry{0E}{01}1,{11}are you feeling{11}all right?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p102010_38",
+      "file": "phase/bin/p102010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Ryudock{0E}W-well then, let{11}us set off.{12}{10}I can't teleport{11}for a while, so{11}we'll have to{11}make the journey{11}on foot.{12}{10}Our princess is{11}waiting deep in{11}this forest for{11}you,{11}{01}1{11}, to arrive!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p102011_38",
+      "file": "phase/bin/p102011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Ryudock{0E}W-well then, let us set off.{12}{10}I can't teleport for a{11}while, so we'll have to make{11}the journey on foot.{12}{10}Our princess is waiting deep{11}in this forest for you,{11}{01}1 , to{11}arrive!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p102050_24",
+      "file": "phase/bin/p102050.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1,{12}{10}w-what should we{12}{10}do?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p102051_24",
+      "file": "phase/bin/p102051.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1,{12}{10}w-what should we{12}{10}do?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p102061_13",
+      "file": "phase/bin/p102061.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}Well, of course! This is{11}{01}1 we're{12}{10}talking about!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p103030_19",
+      "file": "phase/bin/p103030.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1, couldn't{11}you show them that huge{11}weapon of yours...?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p103031_19",
+      "file": "phase/bin/p103031.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1, couldn't{11}you show them that huge{12}{10}weapon of yours...?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p103070_33",
+      "file": "phase/bin/p103070.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Ryudock{0E}This is remarkable for your{11}first attempt.{12}{10}{01}1, when you{11}gain more levels,{12}{10}you'll be able to make{11}barriers that cover a wider{12}{10}area and last longer. That's{11}very reassuring!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p103070_40",
+      "file": "phase/bin/p103070.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Lina{0E}What an amazing man{11}{01}1's father{11}was!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p103071_33",
+      "file": "phase/bin/p103071.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Ryudock{0E}This is remarkable for your{11}first attempt.{12}{10}{01}1, when you{11}gain more levels,{12}{10}you'll be able to make{11}barriers that cover a wider{12}{10}area and last longer. That's{11}very reassuring!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p103071_40",
+      "file": "phase/bin/p103071.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Lina{0E}What an amazing man{11}{01}1's father{11}was!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p103080_15",
+      "file": "phase/bin/p103080.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Louie{0E}So that mysterious group is{11}from your world,{12}{10}{01}1?{12}{10}That sounds interesting.{11}Let's find them already!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p103081_15",
+      "file": "phase/bin/p103081.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Louie{0E}So that mysterious group is{11}from your world,{12}{10}{01}1?{12}{10}That sounds interesting.{11}Let's find them already!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p103090_1",
+      "file": "phase/bin/p103090.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Lina{0E}Are you from{11}{01}1's world?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p103091_1",
+      "file": "phase/bin/p103091.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Lina{0E}Are you from{11}{01}1's world?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p104050_9",
+      "file": "phase/bin/p104050.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}W-wait...{12}{10}{01}1{12}{10}...{12}{10}Everyone...!!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p104051_9",
+      "file": "phase/bin/p104051.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}W-wait...{12}{10}{01}1{12}{10}...{12}{10}Everyone...!!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p104060_31",
+      "file": "phase/bin/p104060.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}Wh-what...? Who are these{11}little people...?{11}{01}1...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p104061_31",
+      "file": "phase/bin/p104061.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}Wh-what...? Who are these{11}little people...?{11}{01}1...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p105060_3",
+      "file": "phase/bin/p105060.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Louie{0E}{01}1, it's{11}going to be a fierce battle,{11}so make sure you protect{11}Mitch.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p105060_13",
+      "file": "phase/bin/p105060.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mois{0E}Have you and{12}{10}{01}1 known each{12}{10}other a long time, Lina?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p105060_17",
+      "file": "phase/bin/p105060.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Lance Corporal Dororo{0E}Come to think of it...{11}{01}1, how did{11}you get to this world?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p105060_24",
+      "file": "phase/bin/p105060.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Sergeant Major Kururu{0E}Hey, {01}1,{11}where was the dimensional{11}rift on the Pekopon side?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p105061_3",
+      "file": "phase/bin/p105061.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Louie{0E}{01}1, it's{11}going to be a fierce battle,{11}so make sure you protect{11}Mitch.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p105061_13",
+      "file": "phase/bin/p105061.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mois{0E}Have you and{12}{10}{01}1 known each{12}{10}other a long time, Lina?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p105061_17",
+      "file": "phase/bin/p105061.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Lance Corporal Dororo{0E}Come to think of it...{11}{01}1, how did{12}{10}you get to this world?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p105061_24",
+      "file": "phase/bin/p105061.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Sergeant Major Kururu{0E}Hey, {01}1,{11}where was the dimensional{11}rift on the Pekopon side?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p105071_7",
+      "file": "phase/bin/p105071.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}I'm{12}{10}{01}0{12}{10}{01}1{12}{10}!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p206030_2",
+      "file": "phase/bin/p206030.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}I'm from S.I.R. My name is{11}{01}0{01}1.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p206030_49",
+      "file": "phase/bin/p206030.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Yomiko{0E}As for them actually{11}existing, well... {01}0,{12}{10}do you believe they really{11}exist?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p206031_2",
+      "file": "phase/bin/p206031.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}I'm from S.I.R. My name is{11}{01}0{01}1.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p206031_49",
+      "file": "phase/bin/p206031.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Yomiko{0E}As for them actually{11}existing, well... {01}0,{12}{10}do you believe they really{11}exist?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p206060_39",
+      "file": "phase/bin/p206060.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}I work for a private{11}investigation company. I'm{12}{10}{01}0{01}1.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p206061_39",
+      "file": "phase/bin/p206061.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}I work for a private{11}investigation company. I'm{12}{10}{01}0{01}1.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p206080_21",
+      "file": "phase/bin/p206080.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}I'm from S.I.R. My name is{11}{01}0{01}1.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p206081_21",
+      "file": "phase/bin/p206081.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}I'm from S.I.R. My name is{11}{01}0{01}1.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207040_2",
+      "file": "phase/bin/p207040.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}I'm here on behalf of the{11}academy's investors, and{11}I've been allowed to tour{11}the grounds. My name is{11}{01}1 Tanaka.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207041_2",
+      "file": "phase/bin/p207041.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}I'm here on behalf of the{11}academy's investors, and{11}I've been allowed to tour{12}{10}the grounds. My name is{11}{01}1 Tanaka.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207050_51",
+      "file": "phase/bin/p207050.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1, please{11}don't lose your temper!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207050_66",
+      "file": "phase/bin/p207050.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1, you{12}{10}aren't good at dealing with{12}{10}younger people.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207051_51",
+      "file": "phase/bin/p207051.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1, please{11}don't lose your temper!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207051_66",
+      "file": "phase/bin/p207051.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1, you{12}{10}aren't good at dealing with{12}{10}younger people.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207060_20",
+      "file": "phase/bin/p207060.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}H-Hello. I'm{11}{01}1 Tanaka.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207061_20",
+      "file": "phase/bin/p207061.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}H-Hello. I'm{11}{01}1 Tanaka.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207100_28",
+      "file": "phase/bin/p207100.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1! Are you{12}{10}going to fight her?!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207110_14",
+      "file": "phase/bin/p207110.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}A-are you sure about{12}{10}this, {01}1?!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207110_16",
+      "file": "phase/bin/p207110.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mai{0E}{01}0.{12}{10}..{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207111_16",
+      "file": "phase/bin/p207111.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mai{0E}{01}0.{12}{10}..{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207120_6",
+      "file": "phase/bin/p207120.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Nao{0E}They want me to give{11}{01}0{01}1 a{12}{10}good, thorough beating.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207121_6",
+      "file": "phase/bin/p207121.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Nao{0E}They want me to give{11}{01}0{01}1 a{11}good, thorough beating.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207130_20",
+      "file": "phase/bin/p207130.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}In return, please keep{11}{01}1's identity{11}a secret, too.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207131_5",
+      "file": "phase/bin/p207131.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mai{0E}{01}0,{11}are you all{11}right?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207131_20",
+      "file": "phase/bin/p207131.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}In return, please keep{11}{01}1's identity{11}a secret, too.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207140_3",
+      "file": "phase/bin/p207140.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Elian{0E}As for{11}{01}0{01}1,{12}{10}I've found them.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207140_11",
+      "file": "phase/bin/p207140.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Zigmarl{0E}{01}0{11}{01}1{12}{10}... So you made{11}it back here{12}{10}alive...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207141_3",
+      "file": "phase/bin/p207141.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Elian{0E}As for{11}{01}0{01}1,{12}{10}I've found them.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207141_11",
+      "file": "phase/bin/p207141.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Zigmarl{0E}{01}0{11}{01}1{12}{10}... So you made{11}it back here{12}{10}alive...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207150_12",
+      "file": "phase/bin/p207150.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mujo{0E}Still, he's quite an{11}interesting man, this{11}{01}0{01}1,{11}isn't he?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p207151_12",
+      "file": "phase/bin/p207151.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mujo{0E}Still, she's quite an{11}interesting woman, this{11}{01}0{01}1,{11}isn't she?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p208010_7",
+      "file": "phase/bin/p208010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1, your{11}report was properly{11}accepted, then.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p208011_7",
+      "file": "phase/bin/p208011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1, your{11}report was properly{11}accepted, then.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p208040_5",
+      "file": "phase/bin/p208040.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}N-no!! I'm{12}{10}{01}0{01}1.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p208040_49",
+      "file": "phase/bin/p208040.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}I'm with an investigation{11}firm called S.I.R. My name's{12}{10}{01}0{01}1.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p208041_49",
+      "file": "phase/bin/p208041.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}I'm with an investigation{11}firm called S.I.R. My name{12}{10}is{11}{01}0{01}1.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p208090_40",
+      "file": "phase/bin/p208090.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Lavie{0E}{01}1, what are{11}you and Mitch going to do{11}now?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p208091_40",
+      "file": "phase/bin/p208091.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Lavie{0E}{01}1, what are{11}you and Mitch going to do{11}now?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p209010_13",
+      "file": "phase/bin/p209010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}That's what I'd expect from{11}{01}2.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p209011_13",
+      "file": "phase/bin/p209011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}That's what I'd expect from{11}{01}2.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p209090_2",
+      "file": "phase/bin/p209090.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Natsuki{0E}I met{11}{01}0{01}1{12}{10}while I was out.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p209091_2",
+      "file": "phase/bin/p209091.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Natsuki{0E}I met{11}{01}0{01}1{12}{10}while I was out.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p210020_1",
+      "file": "phase/bin/p210020.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Yomiko{0E}So S.I.R.'s agents were{12}{10}you, {01}0, and Mitch,{11}just as I thought.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p210020_11",
+      "file": "phase/bin/p210020.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}David{0E}First,{11}{01}0,{11}Readman, and{12}{10}Makuhari will{11}infiltrate Fuuka{11}Academy.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p210021_1",
+      "file": "phase/bin/p210021.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Yomiko{0E}So S.I.R.'s{11}agents were{12}{10}you,{11}{01}0,{12}{10}and Mitch,{11}just as I{12}{10}thought.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p210021_11",
+      "file": "phase/bin/p210021.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}David{0E}First,{11}{01}0,{11}Readman, and{12}{10}Makuhari will{11}infiltrate Fuuka{11}Academy.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p210110_2",
+      "file": "phase/bin/p210110.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Natsuki{0E}You came with{11}{01}0 to the{11}council room{12}{10}earlier too... I{11}see. So that's{11}what was going{12}{10}on.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p210111_2",
+      "file": "phase/bin/p210111.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Natsuki{0E}You came with{11}{01}0 to the{11}council room{12}{10}earlier too... I{11}see. So that's{11}what was going{12}{10}on.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p211010_47",
+      "file": "phase/bin/p211010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}What about you,{11}{01}1? Will you{12}{10}be all right without me?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p211011_47",
+      "file": "phase/bin/p211011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}What about you,{11}{01}1? Will you{12}{10}be all right without me?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p211011_48",
+      "file": "phase/bin/p211011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}Oh my, who do you think I{11}am? I'm{12}{10}{01}2!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p211020_0",
+      "file": "phase/bin/p211020.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}I'm{11}{01}0{01}1.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p211021_0",
+      "file": "phase/bin/p211021.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}I'm{11}{01}0{01}1.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p211030_1",
+      "file": "phase/bin/p211030.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Asuka{0E}So{11}{01}0{01}1{12}{10}is with you too!{12}{10}Not only can I hunt Native{11}Alters, I can get my revenge{12}{10}too...!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p211030_13",
+      "file": "phase/bin/p211030.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Kazuma{0E}What's this,{11}{01}1? You've{12}{10}fought this guy before?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p211031_1",
+      "file": "phase/bin/p211031.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Asuka{0E}So{11}{01}0{01}1{12}{10}is with you too!{12}{10}Not only can I hunt Native{11}Alters, I can get my revenge{12}{10}too...!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p211031_13",
+      "file": "phase/bin/p211031.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Kazuma{0E}What's this,{11}{01}1? You've{12}{10}fought this guy before?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p211050_51",
+      "file": "phase/bin/p211050.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}What do I do,{11}{01}1?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p211051_51",
+      "file": "phase/bin/p211051.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}What do I do,{11}{01}1?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p211060_3",
+      "file": "phase/bin/p211060.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}I'm with S.I.R. My name is{11}{01}0{01}1.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p211061_3",
+      "file": "phase/bin/p211061.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}I'm with S.I.R. My name is{11}{01}0{01}1.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p211080_8",
+      "file": "phase/bin/p211080.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1... Why are{11}you with Kimishima and the{12}{10}others?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p211080_20",
+      "file": "phase/bin/p211080.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Hei{0E}You said your name was{11}{01}0.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p211081_8",
+      "file": "phase/bin/p211081.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1... Why are{11}you with Kimishima and the{12}{10}others?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p211081_20",
+      "file": "phase/bin/p211081.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Hei{0E}You said your name was{11}{01}0.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p212010_64",
+      "file": "phase/bin/p212010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Corporal Giroro{0E}Oh,{11}{01}0.{12}{10}It's{11}Giroro.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p212011_64",
+      "file": "phase/bin/p212011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Corporal Giroro{0E}Oh,{11}{01}0.{12}{10}It's{11}Giroro.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p212040_5",
+      "file": "phase/bin/p212040.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Corporal Giroro{0E}{01}0,{11}haven't you{11}told them{11}about us?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p212041_5",
+      "file": "phase/bin/p212041.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Corporal Giroro{0E}{01}0,{11}haven't you{11}told them{11}about us?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p313020_0",
+      "file": "phase/bin/p313020.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Saya{0E}So this{11}is... where{11}Hagi and{12}{10}{01}0{11}are being{11}held.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p313020_19",
+      "file": "phase/bin/p313020.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}I think it's the same thing{11}{01}1 and I{12}{10}...that {01}0 and I saw{11}firsthand in Adloaz.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p313021_0",
+      "file": "phase/bin/p313021.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Saya{0E}So this{11}is... where{11}Hagi and{12}{10}{01}0{11}are being{11}held.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p313021_19",
+      "file": "phase/bin/p313021.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}I think it's the same thing{11}{01}1 and I{12}{10}...that {01}0 and I saw{11}firsthand in Adloaz.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p313030_21",
+      "file": "phase/bin/p313030.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mai{0E}Of course. You're going to{12}{10}rescue Hagi and {01}0,{12}{10}right?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p313030_49",
+      "file": "phase/bin/p313030.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}Not even S.I.R. knows that{12}{10}{01}1 is{12}{10}involved in this matter.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p313031_21",
+      "file": "phase/bin/p313031.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mai{0E}Of course. You're going to{12}{10}rescue Hagi and {01}0,{12}{10}right?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p313031_49",
+      "file": "phase/bin/p313031.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}Not even S.I.R. knows that{12}{10}{01}1 is{12}{10}involved in this matter.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p313050_10",
+      "file": "phase/bin/p313050.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}I'm{11}{01}0{01}1.{12}{10}I'm an S.I.R. agent. And{11}this is Hagi.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p313051_10",
+      "file": "phase/bin/p313051.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}{01}1{0E}I'm{11}{01}0{01}1.{12}{10}I'm an S.I.R. agent. And{11}this is Hagi.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p314010_49",
+      "file": "phase/bin/p314010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Director Sawada{0E}{01}1, there's one{11}thing I need to tell you.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p314010_63",
+      "file": "phase/bin/p314010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1, they said{12}{10}any time works for them.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p314011_49",
+      "file": "phase/bin/p314011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Director Sawada{0E}{01}1, there's one{11}thing I need to tell you.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p314011_63",
+      "file": "phase/bin/p314011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1, they said{12}{10}any time works for them.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p314070_30",
+      "file": "phase/bin/p314070.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Saya{0E}{01}0, let's leave the{11}Phantom be...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p314071_30",
+      "file": "phase/bin/p314071.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Saya{0E}{01}0, let's leave the{11}Phantom be...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p314090_59",
+      "file": "phase/bin/p314090.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Corporal Giroro{0E}Natsuki... And{11}{01}1, too...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p314091_59",
+      "file": "phase/bin/p314091.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Corporal Giroro{0E}Natsuki... And{11}{01}1, too...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315010_30",
+      "file": "phase/bin/p315010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Gentleman{0E}If {01}0{11}keeps{11}achieving each{11}objective like{11}this...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315010_33",
+      "file": "phase/bin/p315010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Gentleman{0E}As I'd expect of Joel's{11}right-hand man...{12}{10}I'd like to meet this man{11}called Arvin.{12}{10}The quickest way is to use{11}{01}0 as an intermediary.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315010_66",
+      "file": "phase/bin/p315010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mai{0E}So this is{11}where{12}{10}{01}0{11}works.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315010_89",
+      "file": "phase/bin/p315010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Drake{0E}{01}0,{11}we'll be{11}carrying out{11}a joint{11}operation{11}with Red{11}Shield.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315011_30",
+      "file": "phase/bin/p315011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Gentleman{0E}If {01}0{11}keeps{11}achieving each{11}objective like{11}this...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315011_33",
+      "file": "phase/bin/p315011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Gentleman{0E}As I'd expect of Joel's{11}right-hand man...{12}{10}I'd like to meet this man{11}called Arvin.{12}{10}The quickest way is to use{11}{01}0 as an intermediary.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315011_66",
+      "file": "phase/bin/p315011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mai{0E}So this is{11}where{12}{10}{01}0{11}works.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315011_89",
+      "file": "phase/bin/p315011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Drake{0E}{01}0,{11}we'll be{11}carrying out a{11}joint operation{11}with Red{11}Shield.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315060_14",
+      "file": "phase/bin/p315060.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mois{0E}{01}1, what have{11}you been doing since then?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315060_21",
+      "file": "phase/bin/p315060.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Gourry{0E}{01}1, did you{11}bring them from your world?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315060_44",
+      "file": "phase/bin/p315060.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Zelgadis{0E}Like {01}1,{12}{10}they might have{12}{10}returned to their{12}{10}original world.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315061_14",
+      "file": "phase/bin/p315061.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mois{0E}{01}1, what have{11}you been doing since then?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315061_21",
+      "file": "phase/bin/p315061.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Gourry{0E}{01}1, did you{11}bring them from your world?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315061_44",
+      "file": "phase/bin/p315061.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Zelgadis{0E}Like {01}1,{12}{10}they might have{12}{10}returned to their{12}{10}original world.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315090_4",
+      "file": "phase/bin/p315090.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Princess Serish{0E}{01}0{11}{01}1{12}{10}... Th-thank{11}you very{12}{10}much...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315091_4",
+      "file": "phase/bin/p315091.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Princess Serish{0E}{01}0{11}{01}1{12}{10}... Th-thank{11}you very{12}{10}much...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315100_25",
+      "file": "phase/bin/p315100.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}While {01}1 is{11}struggling with Rain...{12}{10}I shall become the ruler of{11}the world they hope to{11}return to...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p315101_25",
+      "file": "phase/bin/p315101.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}While {01}1 is{11}struggling with Rain...{12}{10}I shall become the ruler of{11}the world they hope to{11}return to...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p316050_2",
+      "file": "phase/bin/p316050.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Lina{0E}They're the reinforcements{11}{01}1 brought{11}from their own world.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p316051_2",
+      "file": "phase/bin/p316051.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Lina{0E}They're the reinforcements{11}{01}1 brought{11}from their own world.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p316080_50",
+      "file": "phase/bin/p316080.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Louie{0E}Can we go to{11}{01}1 and{11}Keroro's world right now?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p316081_50",
+      "file": "phase/bin/p316081.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Louie{0E}Can we go to{11}{01}1 and{11}Keroro's world right now?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p316120_0",
+      "file": "phase/bin/p316120.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Ryudock{0E}Speaking of which,{12}{10}{01}1.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p316121_0",
+      "file": "phase/bin/p316121.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Ryudock{0E}Speaking of which,{12}{10}{01}1.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p317080_40",
+      "file": "phase/bin/p317080.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}Damn you,{11}{01}0{11}{01}1{12}{10}... You thwart{11}me at every{11}turn... You{12}{10}unforgivable{11}orphaned child{11}of a hero{0F}2hero{0F}...!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p317081_40",
+      "file": "phase/bin/p317081.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}Damn you,{11}{01}0{11}{01}1{12}{10}... You thwart{11}me at every{11}turn... You{12}{10}unforgivable{11}orphaned child{11}of a hero{0F}2hero{0F}...!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p318010_39",
+      "file": "phase/bin/p318010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Director Sawada{0E}By the way,{11}{01}1...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p318011_39",
+      "file": "phase/bin/p318011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Director Sawada{0E}By the way,{11}{01}1...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p320010_7",
+      "file": "phase/bin/p320010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Kimishima{0E}But apparently{12}{10}{01}0's dad was able{12}{10}to do that all by{12}{10}himself.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p320011_7",
+      "file": "phase/bin/p320011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Kimishima{0E}But apparently{12}{10}{01}0's dad was able{12}{10}to do that all by{12}{10}himself.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p321030_18",
+      "file": "phase/bin/p321030.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Ryuho{0E}{01}0 and the others{11}should have encountered them{12}{10}once.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p321031_18",
+      "file": "phase/bin/p321031.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Ryuho{0E}{01}0 and the others{11}should have encountered them{12}{10}once.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p321050_1",
+      "file": "phase/bin/p321050.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1 is{11}definitely going to scold{11}me...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p321051_1",
+      "file": "phase/bin/p321051.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1 is{11}definitely going to scold{11}me...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p321100_53",
+      "file": "phase/bin/p321100.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}If{11}{01}0{01}1{12}{10}sides with Mujo, that would{11}also make them our ally.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p321101_53",
+      "file": "phase/bin/p321101.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}If{11}{01}0{01}1{12}{10}sides with Mujo, that would{11}also make them our ally.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p322020_25",
+      "file": "phase/bin/p322020.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Red{0E}Is it true we'll invade{11}{01}0's world !?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p322021_25",
+      "file": "phase/bin/p322021.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Red{0E}Is it true we'll invade{11}{01}0's world !?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p322050_104",
+      "file": "phase/bin/p322050.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Sergeant Keroro{0E}Are you saying,{11}{01}1, that I{11}lack the aptitude for{11}command!?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p322050_108",
+      "file": "phase/bin/p322050.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Drake{0E}Sergeant! And{11}you, {01}0!{11}Get ready, now!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p322051_104",
+      "file": "phase/bin/p322051.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Sergeant Keroro{0E}Are you saying,{11}{01}1, that I{11}lack the aptitude for{11}command!?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p322051_108",
+      "file": "phase/bin/p322051.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Drake{0E}Sergeant! And{11}you, {01}0!{11}Get ready, now!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p324010_22",
+      "file": "phase/bin/p324010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}I suspect fighting the{11}people{12}{10}{01}0{01}1{11}brought along,{12}{10}or being exposed to the{11}immense power of those two{11}Alter users was the cause...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p324010_41",
+      "file": "phase/bin/p324010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}I'm also concerned about{11}{01}0{01}1{12}{10}and the others' movements.{12}{10}The more guards it has while{11}feeding, the better.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p324011_22",
+      "file": "phase/bin/p324011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}I suspect fighting the{11}people{12}{10}{01}0{01}1{11}brought along,{12}{10}or being exposed to the{11}immense power of those two{11}Alter users was the cause...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p324011_41",
+      "file": "phase/bin/p324011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}I'm also concerned about{11}{01}0{01}1{12}{10}and the others' movements.{12}{10}The more guards it has while{11}feeding, the better.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p324090_9",
+      "file": "phase/bin/p324090.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Aptrio{0E}{01}1, you can{12}{10}use barrier Gift, too, can't{12}{10}you!?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p324091_9",
+      "file": "phase/bin/p324091.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Aptrio{0E}{01}1, you can{12}{10}use barrier Gift, too, can't{12}{10}you!?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p324120_11",
+      "file": "phase/bin/p324120.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Aptrio{0E}At the time,{12}{10}I was fighting{11}{01}0{01}1{12}{10}!!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p324120_25",
+      "file": "phase/bin/p324120.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}Even{11}{01}0{01}1{11}interfered...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p324121_11",
+      "file": "phase/bin/p324121.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Aptrio{0E}At the time,{12}{10}I was fighting{11}{01}0{01}1{12}{10}!!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p324121_25",
+      "file": "phase/bin/p324121.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}Even{11}{01}0{01}1{11}interfered...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p324150_0",
+      "file": "phase/bin/p324150.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Princess Serish{0E}{01}1... You've{11}been fighting nonstop. Are{11}you feeling all right?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p324150_3",
+      "file": "phase/bin/p324150.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Orphen{0E}I'll admit {01}1{12}{10}is tough, but the toughest{12}{10}one among us is...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p324151_0",
+      "file": "phase/bin/p324151.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Princess Serish{0E}{01}1... You've{11}been fighting nonstop. Are{11}you feeling all right?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p324151_3",
+      "file": "phase/bin/p324151.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Orphen{0E}I'll admit {01}1{12}{10}is tough, but the toughest{12}{10}one among us is...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p325010_1",
+      "file": "phase/bin/p325010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Director Sawada{0E}{01}1! A client{11}has specifically requested{12}{10}you!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p325011_1",
+      "file": "phase/bin/p325011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Director Sawada{0E}{01}1! A client{11}has specifically requested{12}{10}you!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p327040_23",
+      "file": "phase/bin/p327040.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1{12}{10}, do your{12}{10}best!!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p328050_34",
+      "file": "phase/bin/p328050.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Hei{0E}I have a contract with{11}{01}0, after all...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p328051_34",
+      "file": "phase/bin/p328051.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Hei{0E}I have a contract with{11}{01}0, after all...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p329010_24",
+      "file": "phase/bin/p329010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Director Sawada{0E}Just what the hell is{11}{01}1 sneaking{11}around doing...?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p329011_24",
+      "file": "phase/bin/p329011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Director Sawada{0E}Just what the hell is{11}{01}1 sneaking{11}around doing...?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p329040_15",
+      "file": "phase/bin/p329040.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Zigmarl{0E}{01}0... That things{11}would turn out like this...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p329041_15",
+      "file": "phase/bin/p329041.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Zigmarl{0E}{01}0... That things{11}would turn out like this...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330010_50",
+      "file": "phase/bin/p330010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mikoto{0E}{01}1,{12}{10}can't you do something{12}{10}with that Gift of{12}{10}yours?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330010_65",
+      "file": "phase/bin/p330010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1 and I{11}used a route once{12}{10}before. Could we use it?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330010_74",
+      "file": "phase/bin/p330010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Gourry{0E}So that's why we had to walk{11}to that HOLD place where{11}{01}1 was from{11}Point Whatever!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330010_78",
+      "file": "phase/bin/p330010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Scheris{0E}We'd use the Gate{11}{01}1 came{11}through to travel between{12}{10}dimensions into the castle's{11}basement.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330010_119",
+      "file": "phase/bin/p330010.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Louie{0E}Well, talking isn't{11}{01}1's strong{11}suit.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330011_50",
+      "file": "phase/bin/p330011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mikoto{0E}{01}1,{12}{10}can't you do something{12}{10}with that Gift of{12}{10}yours?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330011_65",
+      "file": "phase/bin/p330011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1 and I{11}used a route once{12}{10}before. Could we use it?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330011_74",
+      "file": "phase/bin/p330011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Gourry{0E}So that's why we had to walk{11}to that HOLD place where{11}{01}1 was from{11}Point Whatever!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330011_78",
+      "file": "phase/bin/p330011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Scheris{0E}We'd use the Gate{11}{01}1 came{11}through to travel between{12}{10}dimensions into the castle's{11}basement.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330011_119",
+      "file": "phase/bin/p330011.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Louie{0E}Well, talking isn't{11}{01}1's strong{11}suit.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330030_13",
+      "file": "phase/bin/p330030.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Ryuho{0E}If a great wave{0F}2great wave{0F} of red mist{11}comes along the way, will{11}{01}1 handle it{11}by raising a barrier?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330031_13",
+      "file": "phase/bin/p330031.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Ryuho{0E}If a great wave{0F}2great wave{0F} of red mist{11}comes along the way, will{11}{01}1 handle it{11}by raising a barrier?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330040_2",
+      "file": "phase/bin/p330040.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Suou{0E}{01}1, how did{11}you end up coming here?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330040_9",
+      "file": "phase/bin/p330040.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Saya{0E}Then was it{11}pure{11}coincidence{12}{10}that{11}{01}0 was{11}transported{12}{10}here?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330040_18",
+      "file": "phase/bin/p330040.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Sergeant Major Kururu{0E}I detected a biological{11}cipher very similar to{11}{01}1's around{11}this Gate.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330040_25",
+      "file": "phase/bin/p330040.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Sergeant Major Kururu{0E}The biological cipher I{11}detected is ten years old.{12}{10}In other words, it isn't{11}{01}1's.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330041_2",
+      "file": "phase/bin/p330041.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Suou{0E}{01}1, how did{11}you end up coming here?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330041_9",
+      "file": "phase/bin/p330041.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Saya{0E}Then was it{11}pure{11}coincidence{12}{10}that{11}{01}0 was{11}transported{12}{10}here?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330041_18",
+      "file": "phase/bin/p330041.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Sergeant Major Kururu{0E}I detected a biological{11}cipher very similar to{11}{01}1's around{11}this Gate.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330041_25",
+      "file": "phase/bin/p330041.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Sergeant Major Kururu{0E}The biological cipher I{11}detected is ten years old.{12}{10}In other words, it isn't{11}{01}1's.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330061_28",
+      "file": "phase/bin/p330061.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Lina{0E}Let's go,{12}{10}{01}1{12}{10}...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330090_4",
+      "file": "phase/bin/p330090.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1, should we{12}{10}collect a reward too?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330091_4",
+      "file": "phase/bin/p330091.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Mitch{0E}{01}1, should we{12}{10}collect a reward too?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330120_63",
+      "file": "phase/bin/p330120.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Corporal Giroro{0E}{01}0, you{12}{10}did it!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330121_63",
+      "file": "phase/bin/p330121.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Corporal Giroro{0E}{01}0, you{12}{10}did it!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330130_11",
+      "file": "phase/bin/p330130.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}Without{11}{01}0{01}1{11}and the others...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330130_29",
+      "file": "phase/bin/p330130.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}I'll use every ability I{11}possess to force{12}{10}{01}0{01}1{11}to submit to me.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330130_31",
+      "file": "phase/bin/p330130.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}{01}0{01}1{11}and the others' power is now{11}indispensable.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330131_11",
+      "file": "phase/bin/p330131.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}Without{11}{01}0{01}1{11}and the others...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330131_29",
+      "file": "phase/bin/p330131.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}I'll use every ability I{11}possess to force{12}{10}{01}0{01}1{11}to submit to me.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330131_31",
+      "file": "phase/bin/p330131.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Arvin{0E}{01}0{01}1{11}and the others' power is now{11}indispensable.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330170_12",
+      "file": "phase/bin/p330170.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Elian{0E}Princess,{11}apparently{12}{10}{01}0 and{11}the others{12}{10}have defeated{11}Rain and{12}{10}Arvin.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330171_12",
+      "file": "phase/bin/p330171.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Elian{0E}Princess,{11}apparently{12}{10}{01}0 and{11}the others{12}{10}have defeated{11}Rain and{12}{10}Arvin.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330180_23",
+      "file": "phase/bin/p330180.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Hei{0E}They've found a gate from{11}{01}0's world to our{11}world as well.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330181_23",
+      "file": "phase/bin/p330181.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Hei{0E}They've found a gate from{11}{01}0's world to our{11}world as well.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330190_11",
+      "file": "phase/bin/p330190.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Ryudock{0E}Crack Enforce... But if you{11}give this up,{11}{01}1, your{11}Gift...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330190_20",
+      "file": "phase/bin/p330190.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Princess Serish{0E}{01}1, you and{11}the others... have done{11}something worth far more{11}than that.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330190_33",
+      "file": "phase/bin/p330190.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Scheris{0E}{01}0... While you've{11}still got the chance... Come{11}on...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330190_37",
+      "file": "phase/bin/p330190.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Princess Serish{0E}{01}1,{12}{10}is something{12}{10}wrong?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330191_11",
+      "file": "phase/bin/p330191.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Ryudock{0E}Crack Enforce... But if you{11}give this up,{11}{01}1, your{11}Gift...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330191_20",
+      "file": "phase/bin/p330191.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Princess Serish{0E}{01}1, you and{11}the others... have done{11}something worth far more{11}than that.{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330191_33",
+      "file": "phase/bin/p330191.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Scheris{0E}{01}0... While you've{11}still got the chance... Come{11}on...{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330191_37",
+      "file": "phase/bin/p330191.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Princess Serish{0E}{01}1,{12}{10}is something{12}{10}wrong?{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330200_4",
+      "file": "phase/bin/p330200.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Director Sawada{0E}{01}1! We've got{11}a client asking for you by{12}{10}name!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    },
+    {
+      "id": "name_guard_059_p330201_4",
+      "file": "phase/bin/p330201.bin",
+      "category": "name_substitution_dialogue_layout",
+      "target": "{1C}Director Sawada{0E}{01}1! We've got{11}a client asking for you by{12}{10}name!{12}{0E}",
+      "status": "translated",
+      "notes": "Whole-owner native width fallback and saved-name capacity bounds; substitutions, ruby and authored speaker anchor preserved."
+    }
+  ]
+}

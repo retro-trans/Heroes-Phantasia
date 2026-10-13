@@ -1,0 +1,1734 @@
+{
+  "version": "0.1.60",
+  "name_selector_limits": {
+    "0": 9,
+    "1": 17,
+    "2": 25,
+    "3": 15
+  },
+  "runtime_contract": [
+    {
+      "rva": 3031040,
+      "bytes": 524,
+      "sha256": "72506aefb9b2d208812e15132fc3a3bca8d4ced8c58468b9364a8f1b52200a43"
+    },
+    {
+      "rva": 24094960,
+      "bytes": 1064,
+      "sha256": "27b37e218fb9afa7d807ea9c65c2e914cd49e60c32c20d8c9881802069eb7e09"
+    },
+    {
+      "rva": 24096032,
+      "bytes": 1732,
+      "sha256": "4f2bd0b45b1aefe7253c4bb69200829ea67378704a508105dde79e95dea0d81a"
+    },
+    {
+      "rva": 3032000,
+      "bytes": 3648,
+      "sha256": "6437b584051a4603b819c7c33e81ea279cffca15b4e60db045b78e7eefbcad93"
+    },
+    {
+      "rva": 3035648,
+      "bytes": 1580,
+      "sha256": "d0858ce83ca780e02937d9191f6c55c40612341fc7c713f9befcf4fd96c6aa68"
+    },
+    {
+      "rva": 3044448,
+      "bytes": 912,
+      "sha256": "284c6b1aa3c1453e06d78c59ca96857e03d12ccdd07c7a91b0684e3a9de48a82"
+    },
+    {
+      "rva": 616800,
+      "bytes": 140,
+      "sha256": "2a55af952da6e1efd02c191b832ee85143aed2b2d3f8b114f76cbf2400d06a0d"
+    },
+    {
+      "rva": 975616,
+      "bytes": 4,
+      "sha256": "73b178c2f1627ac439e87a55147e648238f493d0e60c12833a77de713bd497b8"
+    },
+    {
+      "rva": 937668,
+      "bytes": 344,
+      "sha256": "686f4c5ec0b4ad5bb2b71df913549fb0a32b1788593d1f327e0fd8bd48d97964"
+    },
+    {
+      "rva": 938188,
+      "bytes": 272,
+      "sha256": "e4cadae245a090d34cb8fb19337a5c353935b5d13c5655c81fa60ad2b42b42c4"
+    },
+    {
+      "rva": 4580040,
+      "bytes": 74784,
+      "sha256": "e348156286d08efcbfa7906d26aae43232040c001a2bc308dbb3f0fb120f6aca"
+    },
+    {
+      "rva": 3043024,
+      "bytes": 128,
+      "sha256": "2406b75d849ccb60929ea88e4ef990e624d88a9f7104fda94e580e3a432167e5"
+    },
+    {
+      "rva": 962304,
+      "bytes": 324,
+      "sha256": "2a108741589ce1012ca0044c04705495ecf6836ca2080d4ee2c2d3567dbb8655"
+    },
+    {
+      "rva": 3049744,
+      "bytes": 216,
+      "sha256": "ea6ab368c6dbd79cd1c7c0fdc1cfb94289b1d559b547d9e4ea1477e1b24ca774"
+    },
+    {
+      "rva": 616940,
+      "bytes": 128,
+      "sha256": "89a410ae17a2a6ca4050ce3945ad9ae9100f6ebf6c4e3770ab47e9f5233b8bd3"
+    },
+    {
+      "rva": 937660,
+      "bytes": 4,
+      "sha256": "00b5700151e549d778d28e476a39271e47e8b089c3b6295b25fdf56ec503386c"
+    },
+    {
+      "rva": 937688,
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119"
+    },
+    {
+      "rva": 970300,
+      "bytes": 4,
+      "sha256": "198f69634735676067d679313cc1f2dbd9f9937e072f58f5cca93a808975d64f"
+    },
+    {
+      "rva": 937576,
+      "bytes": 4,
+      "sha256": "529baf7c6f177c950568a24b745820f84c3fae60be5c43641c96f3b868d2ccf0"
+    },
+    {
+      "rva": 937580,
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119"
+    }
+  ],
+  "scope": "Inherited unsupported/maximum-name risks only. Text changes in this ledger are exact duplicate ASCII ruby removal; no base text, names or geometry changes. Maximum-name risks remain explicitly unsafe at some permitted lengths.",
+  "records": [
+    {
+      "resource": "btl/res/r02901.bin",
+      "reference_index": 3,
+      "text_sha256": "c1ed3047c7d26adffd6e859f48d88d84d132f569b640bf445f645bff20d6f22b",
+      "geometry_sha256": "12a645b4ec293f7005860504347d24c7abc9aa901b90842d9576f3b8f922872b",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r02901.bin",
+      "reference_index": 4,
+      "text_sha256": "9d0dcc48553d3b49c5fb1605e00184043d37a53aa8720f706124757520828eda",
+      "geometry_sha256": "9e4753b56dba4d9111c0014e0c0c43178153dc03f2bbe892017c3bd05bc84875",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r02902.bin",
+      "reference_index": 3,
+      "text_sha256": "0f77027fd4338b0208c9357c03c0e028b01865eea97327e92de04a659a8a9ea1",
+      "geometry_sha256": "cc3b485292fe7c804ddbcdf56a5eb771a1fa4cb4c8e88576f8542cfc2716ce8b",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r02902.bin",
+      "reference_index": 4,
+      "text_sha256": "3cf7346c91b99908a7797fee412d6084fafa015322cddf7fb7409494799a880c",
+      "geometry_sha256": "cba62b825211d7875f28158579efc75d5af45cc6a4886f2c19305f901ba225cd",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r02903.bin",
+      "reference_index": 3,
+      "text_sha256": "a5d3edcb974b760d1c947464387a084708b71c1063e2db5ece9a642495db0302",
+      "geometry_sha256": "1a05d43bebd5f5b83075bba5d71f262993b00ecf985f2b2d6c84f95501936306",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r02903.bin",
+      "reference_index": 4,
+      "text_sha256": "4940f1ef230509d22463075ec79f077235d0842d9ef2f469025ebe95edbfd49d",
+      "geometry_sha256": "cba62b825211d7875f28158579efc75d5af45cc6a4886f2c19305f901ba225cd",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r02905.bin",
+      "reference_index": 3,
+      "text_sha256": "aef8fe17565ad6a10d340c8441ff46c291fe9010de2e1584a22ab307ee6a33bb",
+      "geometry_sha256": "684a65a7a847908716875259e571584d4b24d7e0d3c0deb04df813077ee2def2",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r02905.bin",
+      "reference_index": 4,
+      "text_sha256": "27fa7f5423492dcdcfcf096a5ff60d75834c8ce6d2cabdf1d3994b69cb5a2c1c",
+      "geometry_sha256": "b85ca2eb47e04bf84d07833636fbf0e68bef5b0e75dfbec791a2dd114d70fc72",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r02905.bin",
+      "reference_index": 6,
+      "text_sha256": "e2136c4e5b4eda66ae7ffc5c72f16a315837a441d998e735e527123f9f92bd2d",
+      "geometry_sha256": "0e093b63c58b5c8f0ab7ee0e1683f789ed3d94a764b11c65f1f536c5567aa97b",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r02906.bin",
+      "reference_index": 3,
+      "text_sha256": "1cc64f2b23dca82a03dc3ff8f6a7c896f7ca87da9a4c84053352459abce37c2c",
+      "geometry_sha256": "fa86f9ad3d47f69e25e1fefc3f27dcd5ffcdbffa52c22be17eb8e126d3bf574c",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r02906.bin",
+      "reference_index": 4,
+      "text_sha256": "7adb5eea2128ee564ee8f8edcbb318fef509684762cd46c31cea2db99f75ade4",
+      "geometry_sha256": "75ae7b41bfdb9b4947c01defdceea07d598415ad65b29a8e29883e0c9e43d8ff",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r02907.bin",
+      "reference_index": 3,
+      "text_sha256": "976334f1e29a515f7fe539acb187aa6d6326b299ab3c9ad4911503bb06e6e07c",
+      "geometry_sha256": "6a5607b1f84e13dc99517cc89142e5ee2d216978e841befd96349307c61dd3a1",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r02907.bin",
+      "reference_index": 4,
+      "text_sha256": "17c1877598224f83928654954fc60aeb727a8e027b8482c95080b573fd911d4f",
+      "geometry_sha256": "ba757f4855fa21c2611c5f6e075fdcd74f75b9fabcb8a191817516c519628409",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r02909.bin",
+      "reference_index": 3,
+      "text_sha256": "0829d1d2f2b80bccafcafb18c3e37cc69f4f5a5c5e2fcd9b993ae2d71de0f04e",
+      "geometry_sha256": "5831b9b2e793cc8f5360c375ee404c07172afba8a8f1e9a0518778e766a2dc3e",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r02909.bin",
+      "reference_index": 4,
+      "text_sha256": "f26b716f474152bc05af3afd23fd7c200095ea754e1abd8c4673f526427bf12f",
+      "geometry_sha256": "eae75eeae600892b72e419c053808de3f2df449c577111b6ebecc7b9fc6efa13",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r02911.bin",
+      "reference_index": 3,
+      "text_sha256": "8ef144c1ba6e5ca5a37c713e80759c173ee587e6e6bd971e3ba7d92eb3872ef5",
+      "geometry_sha256": "684a65a7a847908716875259e571584d4b24d7e0d3c0deb04df813077ee2def2",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r02911.bin",
+      "reference_index": 4,
+      "text_sha256": "822c38b650b1d3e1640a8d5c39b25533e802f7b7ff9535bffeb14d598844b5d3",
+      "geometry_sha256": "75ae7b41bfdb9b4947c01defdceea07d598415ad65b29a8e29883e0c9e43d8ff",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r03900.bin",
+      "reference_index": 3,
+      "text_sha256": "976f9a5bd3e887ed6beef5836f389ad7c62c0581abf7e346d91866a15b3fa991",
+      "geometry_sha256": "684a65a7a847908716875259e571584d4b24d7e0d3c0deb04df813077ee2def2",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r03900.bin",
+      "reference_index": 4,
+      "text_sha256": "94d127fdfe6ca145b8f20d8dd1a3cfe1c8b8e4de5c0c5fb2f94434420417e0e3",
+      "geometry_sha256": "25d264f134a3d02f08a26b5e595334d4b860caf6aafd526c3b7b766ed1fe5239",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r03900.bin",
+      "reference_index": 5,
+      "text_sha256": "1eb721882fdb454bdb7f15fc2f37e9089c1ab899db0a5add2dfb6f2a14766554",
+      "geometry_sha256": "344f8d33e0f996dca5770bb0a225eed2a9b6d51511974531bc0f1716a2aa948f",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r03901.bin",
+      "reference_index": 3,
+      "text_sha256": "406c56793e94ce2cae04a1dc8452aae8067e12e23dfb2804295ab9d0c0b43de4",
+      "geometry_sha256": "aee74a4e7966e47eaaabe63e146f2069aa03f965dace142084c6409e2edb0383",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r03901.bin",
+      "reference_index": 4,
+      "text_sha256": "9c5bf36f14304b72c3c41bd9f71d39cdccf0fb28ac4f87aa2e209243da40c3f1",
+      "geometry_sha256": "5aca7a5409dc75f7f59a46bf59880d409e252484d045531abb5b48473e2c5116",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r03903.bin",
+      "reference_index": 3,
+      "text_sha256": "2c25c65ae148d2f741aa3928ec066156aa7189cde1538f12217b59f707293205",
+      "geometry_sha256": "11f374a95e3e402c0c4c6b3c6f4092692768216b153a0e3eacbd01cf2ec70646",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r03903.bin",
+      "reference_index": 4,
+      "text_sha256": "c5bae159ab825874f42bfaaed8355f589e12c20088bccde4b3215d9d2dfe6bd7",
+      "geometry_sha256": "d711a93a25e469fefa13d72f689a00940f672ad80575cf1e3e377a34e1b808b4",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r03905.bin",
+      "reference_index": 3,
+      "text_sha256": "c5935ec77ae844ed3088f0c1c47a9cf0e5cec603c1ed715b6ce438013d33d982",
+      "geometry_sha256": "45a30b823496d64ffa71ceb5246d87160ff1930a53762c957d8a5c70ed801d85",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r03905.bin",
+      "reference_index": 4,
+      "text_sha256": "fbe9fd9ae19b3750426faa8f3577fd6e68eb7d7eae31ee9058a2ed79537e92b2",
+      "geometry_sha256": "696497128d43195daac51470d21e8fd571c13c2b998e8e42472eb7c4e5cb4276",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r03906.bin",
+      "reference_index": 3,
+      "text_sha256": "ed6d7fadd8e8a9247059380d074945e2543c26d1c0b97235ca67e91147acaf50",
+      "geometry_sha256": "26eb448ce7d9377d1ec8890bd8e895d79dcbdef7ef653586273d006fbf34380b",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r03906.bin",
+      "reference_index": 4,
+      "text_sha256": "f35e8f543a52c20ec67d2649cb72ead716d06b03820ab487124c88465cdc5779",
+      "geometry_sha256": "b38b86aea3143fadff9606a1c17651357c7cd9a89ac64056a0ee688f30018aca",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r04001.bin",
+      "reference_index": 0,
+      "text_sha256": "f01ef8e16f8bf7f831111638a0f0c9310226ec67a5f966daf1a6c270addfc970",
+      "geometry_sha256": "42a76c4b49bee06c16c7dbe5b9667fd0611fd4aa2ffec15415bc8aeffd98816a",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "btl/res/r04900.bin",
+      "reference_index": 3,
+      "text_sha256": "0d8febcadfcb485c2d10213a1e8444f8172b73abcfc78c3b930c798014f259d1",
+      "geometry_sha256": "26eb448ce7d9377d1ec8890bd8e895d79dcbdef7ef653586273d006fbf34380b",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r04900.bin",
+      "reference_index": 4,
+      "text_sha256": "b0732a46fac6f19834862d434bb83bd9459b50741f187a3c7feec1613363fb10",
+      "geometry_sha256": "aae0e9af28b3911f7b8cc154d28174f1f71a5d7bcdcfaf2a754d5ef40822c3fc",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r04901.bin",
+      "reference_index": 3,
+      "text_sha256": "4879ae1aae8055525f1e80b2bd236b40f7915206d8eaac88d8ff172168abd850",
+      "geometry_sha256": "70baeeeb6e95d7d44ac7e87d5d6a46e52a5dd7c3c31a9011aaeb4551ab37b0a0",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r04901.bin",
+      "reference_index": 4,
+      "text_sha256": "5fe88f992d88443334dbc14c14d69fe304dbd3927ad3553f2ceca370ed50f1fe",
+      "geometry_sha256": "87df3480dce042d4a1499906e038e208325f196ec95ae6d06a51f0aceabdd168",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r05004.bin",
+      "reference_index": 14,
+      "text_sha256": "df32e3b6afc116bfa77e60b0b644990275b4eec332714e4f74d8b147de19a215",
+      "geometry_sha256": "c6a79e03850bd6da6b85bff1ff538a007c8c5e6464b7e19467eec7f4ad59d642",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r05901.bin",
+      "reference_index": 3,
+      "text_sha256": "4a91c35477f7acbd2a2930594343887d30931add17a4da69393f58f0e5451b0b",
+      "geometry_sha256": "d627980517d44fb830a43a24624cc801f6965b59650f621a33d8ce866166c8ce",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r05901.bin",
+      "reference_index": 4,
+      "text_sha256": "a8f859ae80f8196bf77515aa898720335cfb647ca48d6b15177ffe66a04cb8b0",
+      "geometry_sha256": "4a8ff90b88371e44f1584a9f6ccf15d07d7c057d813c8bc11554341587a9a2b8",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r05901.bin",
+      "reference_index": 6,
+      "text_sha256": "dbe46450d0c59fc99f81160614dfd736ce24d4d8246edae71538aa4a9796386d",
+      "geometry_sha256": "b5d00c05ad143f01c18ae146680db412fd99950efb935d6a68935c1ad6ac641e",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r07900.bin",
+      "reference_index": 3,
+      "text_sha256": "f0ef60f05fca762073e23905451cc58e51363e28577cf1af229516c3615e4223",
+      "geometry_sha256": "c208062fb922e35df8e853bae5abc4e38400740797ce51cb1d6c0bf5d93056ee",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r07900.bin",
+      "reference_index": 4,
+      "text_sha256": "1bb15c389a6e7962b028c30347bf8d8d3ead1579742093a95e20dbd6b85a6307",
+      "geometry_sha256": "a37822022cc93bccfb99463fbab6ea802acce5ae4dcf75b27854dab3a2e7a454",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r07901.bin",
+      "reference_index": 3,
+      "text_sha256": "b623f091a1d7ac90b65c48cccba29b548e3b298f12d1778b0f557aa0a591ea44",
+      "geometry_sha256": "b51cd42486095cb1f5d049a678417e8b1f8c934d11b0ad89784edd219e3b12e9",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r07901.bin",
+      "reference_index": 4,
+      "text_sha256": "55f189ad3335dd4ea0c1333ac8a0bf266aa066bb7d61ddd2cbde75aeb65e25e7",
+      "geometry_sha256": "25d264f134a3d02f08a26b5e595334d4b860caf6aafd526c3b7b766ed1fe5239",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r07901.bin",
+      "reference_index": 5,
+      "text_sha256": "987c5cf33fd23ff916291cb8b17e3f65e78044087a05134b1a37dc3a5d9131af",
+      "geometry_sha256": "3aba685c43b816a32c7a40dd79c4886ca8c59a47a985b4a64ce0f7fda8b28446",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r07902.bin",
+      "reference_index": 3,
+      "text_sha256": "dd337cdd59a40c6fe361ef0ca8a495493008d5c78faf4e789f851d309fed3df9",
+      "geometry_sha256": "ae88d7ce5b0db1d144bcec113723b6bb43a55fa70d23b085a1720bf96ac37931",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r07902.bin",
+      "reference_index": 4,
+      "text_sha256": "b83d072c15d58a63a0937fb9750fc73837a356f61833012ce0feda08f8f8629a",
+      "geometry_sha256": "9c2d644db95aaca43e5537a68596821ff7d0d292e2df09ea2c9cffeb102d77f5",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r07903.bin",
+      "reference_index": 3,
+      "text_sha256": "69e2c8a3fce8b2848c1dcce831eae8e3d6161476f0dd5a9e137584fa351324af",
+      "geometry_sha256": "26eb448ce7d9377d1ec8890bd8e895d79dcbdef7ef653586273d006fbf34380b",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r07903.bin",
+      "reference_index": 4,
+      "text_sha256": "1efdb09607520969e2e2aedbec7f6cd73179f4ea2e4f250ddfc980201b604cf1",
+      "geometry_sha256": "c5b8087775a5978484f7ef9c37d61187cc90d8d68e052a619276476c8314299c",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r07903.bin",
+      "reference_index": 5,
+      "text_sha256": "cce93cab616a23115f0cfced19ec1b3f67f7be73e76a82dcab2911532e20ee08",
+      "geometry_sha256": "a6f0ca1d9eea7642ed65ddd47f669c7d7589523b2dd32c4ebc6f78c68a5f8c15",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r08900.bin",
+      "reference_index": 3,
+      "text_sha256": "1f13069ce1b8880104520ee888f4118d710ccaa538e5402e7630b3055bfe2e64",
+      "geometry_sha256": "684a65a7a847908716875259e571584d4b24d7e0d3c0deb04df813077ee2def2",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r08900.bin",
+      "reference_index": 4,
+      "text_sha256": "9cfec430927aad8b2f779806fda9384f15321854495b05d674ff4cc7396922d1",
+      "geometry_sha256": "5aca7a5409dc75f7f59a46bf59880d409e252484d045531abb5b48473e2c5116",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r09900.bin",
+      "reference_index": 3,
+      "text_sha256": "2a58b505f722c3861f69f7d04ed7cd669159f460d2071287096ac1a8b2ba321f",
+      "geometry_sha256": "dd0ff599b4578e02e364aa282f4e39da78e4bf49a4eee6a3e804da75b2b394df",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r09900.bin",
+      "reference_index": 4,
+      "text_sha256": "c429f5e8d4f8fec0086c60ac9ee96f876fa388ea92c499c32111e0ab957c795e",
+      "geometry_sha256": "c5b8087775a5978484f7ef9c37d61187cc90d8d68e052a619276476c8314299c",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r09900.bin",
+      "reference_index": 5,
+      "text_sha256": "55a2cb6b95f49a0082efeecb9531825f7f47da206298276aa6c86c5dadb3f3a3",
+      "geometry_sha256": "729dd9d4b362c1ae06faeaa772f5e2caa9fe022d3d958d9cdaf1e903cc32e02d",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r09901.bin",
+      "reference_index": 3,
+      "text_sha256": "4c6859cb51f9e273bb1d464f0a0e5bfd02576cbd0cfaa5091d61754898ff680d",
+      "geometry_sha256": "cd48cbc3db2bb52ef3cd40ceea791a1a86fe3793d4d11f667f454db6a072d34c",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r09901.bin",
+      "reference_index": 4,
+      "text_sha256": "06fa64b81be0c55ee6ac365d7a8628943a6639aca10b0a7b8ff4eb64df51eb3c",
+      "geometry_sha256": "eae75eeae600892b72e419c053808de3f2df449c577111b6ebecc7b9fc6efa13",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r09901.bin",
+      "reference_index": 5,
+      "text_sha256": "4f65846a4c9d034560d3e36ad0ade98fc963ffa877e4a50e6f223226157d72ec",
+      "geometry_sha256": "f22221b5a5cff702a401dd201efac6d599d81717968230ab7bf8afe0256138be",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r10900.bin",
+      "reference_index": 3,
+      "text_sha256": "c2db7310ce4b0462d5ef44057313579584405c9720ea35e26d1f098d9975ce51",
+      "geometry_sha256": "fd422439278cedc22d4b90de627070ba800f856a60b7da80e2f057475337f011",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r10900.bin",
+      "reference_index": 4,
+      "text_sha256": "96ece30b60df69b4c83e70dc4e8a5e20f1a1f335c755cf28fb454893d558110c",
+      "geometry_sha256": "3a9eb7115a5ad9b2700357b0a832105733caf17b65bfbceb31b51e063c387f70",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r10900.bin",
+      "reference_index": 6,
+      "text_sha256": "be8985228e2795e0b7689e18ad3abe34691ade16d36c3f6c260199538947c81f",
+      "geometry_sha256": "1ca403112812d6bc720de621bfecbf852f16a145ce9f0160e59aaa1779112331",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r10902.bin",
+      "reference_index": 3,
+      "text_sha256": "3d9796cb7958e1554eb55b7348872fc4dc9f88c44fba4acf97c130f75b52aaaf",
+      "geometry_sha256": "339aa778c8a2829bac78844127548e09fbc394561cfa893ba18734a613bf4ce9",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r10902.bin",
+      "reference_index": 4,
+      "text_sha256": "d2bd3f388419ed1ba9bffd9e176102702788497aa35254623e5ebe9e23ec1b8f",
+      "geometry_sha256": "e73ad17ad8820d250a47f709b19e9bb683e9bea10be1b1923ef2674b1531691b",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r10902.bin",
+      "reference_index": 6,
+      "text_sha256": "2a0021e85969d73f5f3da4d9a2bce92ee785147ef31fee8be2d2c92e41c1a939",
+      "geometry_sha256": "862f66d406cbfee8e159a71bcfc9a76d3f32d962f1d76fc4a573546b6783e40e",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r10903.bin",
+      "reference_index": 3,
+      "text_sha256": "5f5d5b2d10f19c1ac739014a04b6bbf3bbf2149a42e672bf2799ce598dac7595",
+      "geometry_sha256": "cd48cbc3db2bb52ef3cd40ceea791a1a86fe3793d4d11f667f454db6a072d34c",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r10903.bin",
+      "reference_index": 4,
+      "text_sha256": "32119ed16bd40fc799c8c2dfb4c66cfd41ddac4bd76e90f90b33acbfb07bc6cc",
+      "geometry_sha256": "9f8e5626cdecc7164057c402252c069341e5801e3506cf9765fa44169cad2cf8",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/res/r10903.bin",
+      "reference_index": 6,
+      "text_sha256": "c5316237dd6c675a62ec9d745421a24db9cca89c152e45c1076a29d94242b930",
+      "geometry_sha256": "d52f48bcdc5dc6454a73f5109d10512f00b4298099cfc7bf5a06f6d89de7fda1",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/skit/s101010.bin",
+      "reference_index": 1,
+      "text_sha256": "bd1590f40f8670e60879cd579a662de28eae927a55c5b4b02fa6bb0092a5a748",
+      "geometry_sha256": "92b6663eb73f91e980f05166ef6f17ac976b42c41831e319692ce42d3dca326f",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/skit/s101011.bin",
+      "reference_index": 1,
+      "text_sha256": "bd1590f40f8670e60879cd579a662de28eae927a55c5b4b02fa6bb0092a5a748",
+      "geometry_sha256": "92b6663eb73f91e980f05166ef6f17ac976b42c41831e319692ce42d3dca326f",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/skit/s999910.bin",
+      "reference_index": 20,
+      "text_sha256": "c5669715b6e3fe70f7bebbe26e0fadc65220db3fe6b61fd3933b10af14b79235",
+      "geometry_sha256": "19d47029b085a3be2bcff6b0df15e0b65f2fd2445058e21eb3720fd09439a728",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/skit/s999911.bin",
+      "reference_index": 20,
+      "text_sha256": "c5669715b6e3fe70f7bebbe26e0fadc65220db3fe6b61fd3933b10af14b79235",
+      "geometry_sha256": "19d47029b085a3be2bcff6b0df15e0b65f2fd2445058e21eb3720fd09439a728",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/skit/s999940.bin",
+      "reference_index": 9,
+      "text_sha256": "cdcda7bbe31fa0ea28db98952ba38f052bb93be0fa6844086ae221978da6c8be",
+      "geometry_sha256": "e468302b65b5859a30a1a4f0d739a85c7e9704079f6c074f7be220353c2ac6c5",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "btl/skit/s999941.bin",
+      "reference_index": 9,
+      "text_sha256": "cdcda7bbe31fa0ea28db98952ba38f052bb93be0fa6844086ae221978da6c8be",
+      "geometry_sha256": "e468302b65b5859a30a1a4f0d739a85c7e9704079f6c074f7be220353c2ac6c5",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "phase/bin/p101010.bin",
+      "reference_index": 6,
+      "text_sha256": "938fb2f8f3f607988503052a32a4176958adca4272c1ca305dc8c77d17ad9921",
+      "geometry_sha256": "f6f2b4f84c859080ef8ee413e6401dd893768032138a2b255e14c026d09d2e87",
+      "reason": "Reviewed Serish lip override; intermediate animation poses unverified"
+    },
+    {
+      "resource": "phase/bin/p101011.bin",
+      "reference_index": 6,
+      "text_sha256": "938fb2f8f3f607988503052a32a4176958adca4272c1ca305dc8c77d17ad9921",
+      "geometry_sha256": "f6f2b4f84c859080ef8ee413e6401dd893768032138a2b255e14c026d09d2e87",
+      "reason": "Reviewed Serish lip override; intermediate animation poses unverified"
+    },
+    {
+      "resource": "phase/bin/p101040.bin",
+      "reference_index": 10,
+      "text_sha256": "f7e7e4e7146079d9364d3b0364a7aacfe204aaed981b0e4ab1051648e417d9d3",
+      "geometry_sha256": "0be4279852020952a36714037468aa4e104038a15c8dfd7c9c87d362754c941d",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p101041.bin",
+      "reference_index": 10,
+      "text_sha256": "f7e7e4e7146079d9364d3b0364a7aacfe204aaed981b0e4ab1051648e417d9d3",
+      "geometry_sha256": "0be4279852020952a36714037468aa4e104038a15c8dfd7c9c87d362754c941d",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p101140.bin",
+      "reference_index": 3,
+      "text_sha256": "1104bc4c545e279cc7ec68ece4683a279701a24a0237c8816d81b07a68f117be",
+      "geometry_sha256": "d87874f231b395f4ac9bae2919ec9d835c48bce9d5bac327ea34ecdaaee90528",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p101141.bin",
+      "reference_index": 3,
+      "text_sha256": "1104bc4c545e279cc7ec68ece4683a279701a24a0237c8816d81b07a68f117be",
+      "geometry_sha256": "d87874f231b395f4ac9bae2919ec9d835c48bce9d5bac327ea34ecdaaee90528",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p102020.bin",
+      "reference_index": 5,
+      "text_sha256": "8271545854dd73bc5678ac3f428f9a0152b73c6e29bd462f6aad904a6791706f",
+      "geometry_sha256": "ef0ab6c4ffe9981a09224f5f413c87894519f842be028b4bc21697adf4bb5870",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p102021.bin",
+      "reference_index": 5,
+      "text_sha256": "8271545854dd73bc5678ac3f428f9a0152b73c6e29bd462f6aad904a6791706f",
+      "geometry_sha256": "d8388e26905aff14b56872cea38e8b9146e8339d0c2a222ad757920b185d5226",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p102030.bin",
+      "reference_index": 29,
+      "text_sha256": "750d9965d31845bce12876b8476728a17eb1d7068d39a699caff088b3992b507",
+      "geometry_sha256": "915da54b6d662bef2a3e98c39a9df2dcd2c71e821a81977b9aeaac30370373c7",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p102031.bin",
+      "reference_index": 29,
+      "text_sha256": "750d9965d31845bce12876b8476728a17eb1d7068d39a699caff088b3992b507",
+      "geometry_sha256": "4af2939fba52e1a4569e3978c8e7bba0e5077f8c25be40caca3e11366c6b9ec9",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p102040.bin",
+      "reference_index": 6,
+      "text_sha256": "336e982fee89a4bd7505ba6ff056f7c6bc3e86b29713f97ac4a82c4bddd8600a",
+      "geometry_sha256": "0482c9c1a44cbe41e18f61b9a5feed1cd69ae5c487b27567a8423c5c7b7e4475",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p102040.bin",
+      "reference_index": 10,
+      "text_sha256": "35aa881a484f263e80b800f8157f37836b2b81509c6df36268351eab56694a56",
+      "geometry_sha256": "a50c6e51b50458c8fcc7b8160ac34cb85e69af3a4900c77603d6f8dfef509ca3",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p102041.bin",
+      "reference_index": 6,
+      "text_sha256": "336e982fee89a4bd7505ba6ff056f7c6bc3e86b29713f97ac4a82c4bddd8600a",
+      "geometry_sha256": "0482c9c1a44cbe41e18f61b9a5feed1cd69ae5c487b27567a8423c5c7b7e4475",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p102041.bin",
+      "reference_index": 10,
+      "text_sha256": "35aa881a484f263e80b800f8157f37836b2b81509c6df36268351eab56694a56",
+      "geometry_sha256": "a50c6e51b50458c8fcc7b8160ac34cb85e69af3a4900c77603d6f8dfef509ca3",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p102050.bin",
+      "reference_index": 44,
+      "text_sha256": "21c1607fd9b651ec130a32d7784b7562e637dc099e292c64e3ea26909d19809c",
+      "geometry_sha256": "fa53d41d5e5cbbfa58c7f321e6a62ec1f15c6c01e4cf8ace970790f76d95f727",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p102051.bin",
+      "reference_index": 44,
+      "text_sha256": "21c1607fd9b651ec130a32d7784b7562e637dc099e292c64e3ea26909d19809c",
+      "geometry_sha256": "5fbb6ea53625f065e64e15c2f835e2cb1673132e3365c477a18a5fe56e9ca86a",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p102060.bin",
+      "reference_index": 6,
+      "text_sha256": "6e0be3e385acc58c9e62be507c32fb108a3fd1423796cc91f0fea717c1412139",
+      "geometry_sha256": "a703282e61ac6a7459395a47a06508652e8026e15de0c5f9be3f8e9a44f9c6ce",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p102061.bin",
+      "reference_index": 6,
+      "text_sha256": "6e0be3e385acc58c9e62be507c32fb108a3fd1423796cc91f0fea717c1412139",
+      "geometry_sha256": "a703282e61ac6a7459395a47a06508652e8026e15de0c5f9be3f8e9a44f9c6ce",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p102070.bin",
+      "reference_index": 11,
+      "text_sha256": "45379928f56770b62c93bc5c46d071e3b03e77e976b67dec18e01588b7d508d6",
+      "geometry_sha256": "ae7432192d8d1103124630d982eb3581bc93cf282b0c52798aae540ccf1eedf3",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "phase/bin/p102070.bin",
+      "reference_index": 32,
+      "text_sha256": "74a13acbea7f981693c294eb23611208c688223e777e29a5738d91d5480c6182",
+      "geometry_sha256": "7e8b8de7b3e8e34d3744e566fba3b6e55eb8afe0ad2173924c75bd3283f1abcb",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p102070.bin",
+      "reference_index": 74,
+      "text_sha256": "5ec6578830454434964b236e757aab111e82a10f8739d73e71fffffc1ab55d1c",
+      "geometry_sha256": "4a0450cf0dc5e26c627fc352aaf6aca3157d56d6f2f701cfcbda5c7e272462ef",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p102071.bin",
+      "reference_index": 11,
+      "text_sha256": "45379928f56770b62c93bc5c46d071e3b03e77e976b67dec18e01588b7d508d6",
+      "geometry_sha256": "5513b027a313241430835124b02383d4ecf7672d09ad7a6ba9a812567bd68c94",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "phase/bin/p102071.bin",
+      "reference_index": 32,
+      "text_sha256": "74a13acbea7f981693c294eb23611208c688223e777e29a5738d91d5480c6182",
+      "geometry_sha256": "384593864f77bec818e4b3cb40a7533f980877b79be7ccea9cb0d969106a683a",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p102071.bin",
+      "reference_index": 74,
+      "text_sha256": "5ec6578830454434964b236e757aab111e82a10f8739d73e71fffffc1ab55d1c",
+      "geometry_sha256": "50888a4e8438e4a05dbc96c160b0bbbca623c77d7de6fde85562ae62172decae",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p103010.bin",
+      "reference_index": 0,
+      "text_sha256": "b074381639e4865043ff936eb960f128998c50c8a2cb1b4d1f647d1610a4717b",
+      "geometry_sha256": "6c0b5b0873da2df4bba5c2b084060b05f9174ffc6b86a2b2705b7593a4730de4",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p103011.bin",
+      "reference_index": 0,
+      "text_sha256": "b074381639e4865043ff936eb960f128998c50c8a2cb1b4d1f647d1610a4717b",
+      "geometry_sha256": "6c0b5b0873da2df4bba5c2b084060b05f9174ffc6b86a2b2705b7593a4730de4",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p207070.bin",
+      "reference_index": 48,
+      "text_sha256": "89e839070c87ef0f3f20a32ae876b36df98390d87f609012510422c6d9b2c773",
+      "geometry_sha256": "7cccf8006a0fa949a9024ad649f7cd181517cc7072f8c58dfdb96ad595045d92",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p207071.bin",
+      "reference_index": 48,
+      "text_sha256": "89e839070c87ef0f3f20a32ae876b36df98390d87f609012510422c6d9b2c773",
+      "geometry_sha256": "7cccf8006a0fa949a9024ad649f7cd181517cc7072f8c58dfdb96ad595045d92",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p207130.bin",
+      "reference_index": 58,
+      "text_sha256": "0a1bebcb28a04ce572151ca8e62d6f824a71209acc4631e9dc18845cc38f4294",
+      "geometry_sha256": "be074eb00af33fae1798d18362266f97949d5de509dfc52a70482f2cc7fc45db",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p207131.bin",
+      "reference_index": 58,
+      "text_sha256": "0a1bebcb28a04ce572151ca8e62d6f824a71209acc4631e9dc18845cc38f4294",
+      "geometry_sha256": "be074eb00af33fae1798d18362266f97949d5de509dfc52a70482f2cc7fc45db",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p207150.bin",
+      "reference_index": 30,
+      "text_sha256": "207ce097e3ccdc335c23d973a6553fb3b5939e115ce990df91b5cd2f519da722",
+      "geometry_sha256": "2b5a820ef9dcddd7cd1240dd7cb06d6047be2ab15556ecc9cd34ea089cac2204",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p207151.bin",
+      "reference_index": 30,
+      "text_sha256": "207ce097e3ccdc335c23d973a6553fb3b5939e115ce990df91b5cd2f519da722",
+      "geometry_sha256": "2b5a820ef9dcddd7cd1240dd7cb06d6047be2ab15556ecc9cd34ea089cac2204",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p208040.bin",
+      "reference_index": 63,
+      "text_sha256": "2ab6b851cc2794b9800ae960b409e252168a08e2b4df2f66ae7d4dff1ffb503e",
+      "geometry_sha256": "29164d63ff8afe7552bd88a4460abe5e1f3c99873ad7378697ab6a356ed04838",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p208041.bin",
+      "reference_index": 63,
+      "text_sha256": "2ab6b851cc2794b9800ae960b409e252168a08e2b4df2f66ae7d4dff1ffb503e",
+      "geometry_sha256": "29164d63ff8afe7552bd88a4460abe5e1f3c99873ad7378697ab6a356ed04838",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p212010.bin",
+      "reference_index": 86,
+      "text_sha256": "1e14d89d4c441c945a463b9b295694740eb328939af9a42453108dfc31f3f40f",
+      "geometry_sha256": "c3eb4d2477ba83ad7b881dd4a7ef16ec21bb9bfbda6243d19e1eae02c33fde69",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p212011.bin",
+      "reference_index": 86,
+      "text_sha256": "1e14d89d4c441c945a463b9b295694740eb328939af9a42453108dfc31f3f40f",
+      "geometry_sha256": "7ab5e01b0494b36ff6ff1cb5ed6114a840791865703f4c86ac12fab55086d4a2",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p316020.bin",
+      "reference_index": 29,
+      "text_sha256": "4e8c2b623c0ac68e2c8085c9c8118c60a076f45d5903fd21ebf7162dce04a234",
+      "geometry_sha256": "b38e7c07427b49ed544f3a5ce828b908e1717fe6a9821dc39e635f755685f92d",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "phase/bin/p316021.bin",
+      "reference_index": 29,
+      "text_sha256": "4e8c2b623c0ac68e2c8085c9c8118c60a076f45d5903fd21ebf7162dce04a234",
+      "geometry_sha256": "b38e7c07427b49ed544f3a5ce828b908e1717fe6a9821dc39e635f755685f92d",
+      "reason": "Dynamic names, native glyphs or unsupported controls"
+    },
+    {
+      "resource": "phase/bin/p316080.bin",
+      "reference_index": 4,
+      "text_sha256": "cb701cbce58bf001c1b224d89635b355a1c3115616d73f563f5a3168467e71cb",
+      "geometry_sha256": "ce89b27956010e1fa58291d670fcbf473df9cd447550151000b0b7004b82608e",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p316080.bin",
+      "reference_index": 80,
+      "text_sha256": "4964ca7be69d99644fd1290b23d9e4ca2f1184f1321f5d07521ff9377dbe540f",
+      "geometry_sha256": "8caeb1eca2bbea6317ff7412c0e52d77a4883b0eb06ac9e3ec100724dd93f055",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p316081.bin",
+      "reference_index": 4,
+      "text_sha256": "cb701cbce58bf001c1b224d89635b355a1c3115616d73f563f5a3168467e71cb",
+      "geometry_sha256": "ce89b27956010e1fa58291d670fcbf473df9cd447550151000b0b7004b82608e",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p316081.bin",
+      "reference_index": 80,
+      "text_sha256": "4964ca7be69d99644fd1290b23d9e4ca2f1184f1321f5d07521ff9377dbe540f",
+      "geometry_sha256": "8caeb1eca2bbea6317ff7412c0e52d77a4883b0eb06ac9e3ec100724dd93f055",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p317030.bin",
+      "reference_index": 93,
+      "text_sha256": "2c5f2ce1798d31db6b5af77128e3f7c7c0a5d65fdeb0fda23fce9818f542bf74",
+      "geometry_sha256": "07c7809f25c969ba133b709c8f7e93ccd5ef059935252ad65fe793ddc1d31fff",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p317030.bin",
+      "reference_index": 101,
+      "text_sha256": "62a0f9303de678dbf1d2ca9f604b0e1e94d3de74a3b9535440df750ad8c5cd31",
+      "geometry_sha256": "c30f24f5675693e83040292eb58f57173904acd045af74000ee85c5538e3ace3",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p317031.bin",
+      "reference_index": 93,
+      "text_sha256": "2c5f2ce1798d31db6b5af77128e3f7c7c0a5d65fdeb0fda23fce9818f542bf74",
+      "geometry_sha256": "07c7809f25c969ba133b709c8f7e93ccd5ef059935252ad65fe793ddc1d31fff",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p317031.bin",
+      "reference_index": 101,
+      "text_sha256": "62a0f9303de678dbf1d2ca9f604b0e1e94d3de74a3b9535440df750ad8c5cd31",
+      "geometry_sha256": "c30f24f5675693e83040292eb58f57173904acd045af74000ee85c5538e3ace3",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p317060.bin",
+      "reference_index": 0,
+      "text_sha256": "c077a9897905bdfa2ae98f00ce461003227e7199556f45e282d3839efede4779",
+      "geometry_sha256": "af0f9a19f449211a9ef00683a0c4fe7a944a56f2a18b25a27d8612a5b9b406fd",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p317061.bin",
+      "reference_index": 0,
+      "text_sha256": "c077a9897905bdfa2ae98f00ce461003227e7199556f45e282d3839efede4779",
+      "geometry_sha256": "af0f9a19f449211a9ef00683a0c4fe7a944a56f2a18b25a27d8612a5b9b406fd",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p321070.bin",
+      "reference_index": 28,
+      "text_sha256": "ca25dd45de69c6db0e7fcff116ecb40800010c7edcad5045957404108bc45ad3",
+      "geometry_sha256": "a1c3a8e1c5584cd08553764d25feb2efa41dbcffec7e661238949239ba203d3a",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p321071.bin",
+      "reference_index": 28,
+      "text_sha256": "ca25dd45de69c6db0e7fcff116ecb40800010c7edcad5045957404108bc45ad3",
+      "geometry_sha256": "a1c3a8e1c5584cd08553764d25feb2efa41dbcffec7e661238949239ba203d3a",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p324040.bin",
+      "reference_index": 58,
+      "text_sha256": "a6c3e62d94bb7e37ad3ed1fe1d40191df79e39410f15685778ab8865c5f2ade3",
+      "geometry_sha256": "7fd2bc4d18db0252b07e97ec51ede79b8f71d32d5aef4f2f119aa270960a00ad",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p324041.bin",
+      "reference_index": 58,
+      "text_sha256": "a6c3e62d94bb7e37ad3ed1fe1d40191df79e39410f15685778ab8865c5f2ade3",
+      "geometry_sha256": "7fd2bc4d18db0252b07e97ec51ede79b8f71d32d5aef4f2f119aa270960a00ad",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p326110.bin",
+      "reference_index": 5,
+      "text_sha256": "1950715b4f3ffe2f5456320a0d36803e71c619fdd4771d63e5c020f70054bcd4",
+      "geometry_sha256": "fa839c39b2003d3d253c84290d55498109d1741c5d6e4ffde3a1a0c3bc3e1ca8",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p326110.bin",
+      "reference_index": 12,
+      "text_sha256": "1950715b4f3ffe2f5456320a0d36803e71c619fdd4771d63e5c020f70054bcd4",
+      "geometry_sha256": "49e71d35fa948b6a542ca63426d3535b711adaa5f1b673bd28c70ae921e33d9e",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p326111.bin",
+      "reference_index": 5,
+      "text_sha256": "1950715b4f3ffe2f5456320a0d36803e71c619fdd4771d63e5c020f70054bcd4",
+      "geometry_sha256": "fa839c39b2003d3d253c84290d55498109d1741c5d6e4ffde3a1a0c3bc3e1ca8",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p326111.bin",
+      "reference_index": 12,
+      "text_sha256": "1950715b4f3ffe2f5456320a0d36803e71c619fdd4771d63e5c020f70054bcd4",
+      "geometry_sha256": "49e71d35fa948b6a542ca63426d3535b711adaa5f1b673bd28c70ae921e33d9e",
+      "reason": "Non-bubble or missing geometry tracks"
+    },
+    {
+      "resource": "phase/bin/p331010.bin",
+      "reference_index": 22,
+      "text_sha256": "c584ae0555aad8d28059c068f2e0aa7c851f4683cdc5eb1ddc507ed33ebee900",
+      "geometry_sha256": "a676219e904748f281c1e08061ff30b30d0192ea9528e062c22f81ba469d2e0e",
+      "reason": "Non-bubble or missing geometry tracks"
+    }
+  ],
+  "retained_maximum_name_risks": [
+    {
+      "resource": "fld/talk/f102070.bin",
+      "reference_index": 1,
+      "text_sha256": "5abe2148ae180255b10af52f7e08d8b83120ce0225ca3df6059037e7d759b886",
+      "geometry_sha256": "ac36fa167ff5634113c141c4ecb99afbe67b35484883ab1ae8a4e6b961540028",
+      "parent_maximum_width": 260.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "fld/talk/f315070.bin",
+      "reference_index": 0,
+      "text_sha256": "9f5f309c80605fb74713cdf586b0cac7ee64b4b68fb74893fc93549d90e21554",
+      "geometry_sha256": "9052bedb1220874c41dac4f0afac0601412ceb581da57b5a56c836552950d500",
+      "parent_maximum_width": 260.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "fld/talk/f509180.bin",
+      "reference_index": 0,
+      "text_sha256": "51916397d949ec345841fa0d0ca0201d296b2595b5b09e79608b529de5797e51",
+      "geometry_sha256": "dc732f00e32f03f6a984921dfb8c8a3f139a7a821776add7c0920d7839765878",
+      "parent_maximum_width": 390.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "fld/talk/f509180.bin",
+      "reference_index": 3,
+      "text_sha256": "29abe631d918f464279566acadf4e4c9bf50a930f10bb0d2a3af11d8c268edc2",
+      "geometry_sha256": "ea3f3d480659c4b7b530e60b7d68e3c519e13492c06bd3c7fec09d736bdc6a39",
+      "parent_maximum_width": 377.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "fld/talk/f509181.bin",
+      "reference_index": 1,
+      "text_sha256": "a121c37ca9ba82f66169a7466ce6dd78a226d958d210fdd946ea6fcf7bbed911",
+      "geometry_sha256": "41f29eef17e0b700442fabde8cb653f97e18ce7e39fc551ed36b429bbe6f9e19",
+      "parent_maximum_width": 390.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "fld/talk/f509181.bin",
+      "reference_index": 2,
+      "text_sha256": "432af5136396814b381d743f4e33b9a5af12d8a57dc0f7f062dfa41409d41c3e",
+      "geometry_sha256": "ba9aef19f2c0bf84846ae6471e6e8eb12875634cfa014a4a95668a5796e77d32",
+      "parent_maximum_width": 286.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p101120.bin",
+      "reference_index": 20,
+      "text_sha256": "a2d0de7c26fdd3f946468be277bb68c48aaf90be0e813bf4c2a56615702c833c",
+      "geometry_sha256": "e57b9097067168098262fb86fe5c5b0931029b933d0c720422750e6580e50ad4",
+      "parent_maximum_width": 260.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p101121.bin",
+      "reference_index": 20,
+      "text_sha256": "a2d0de7c26fdd3f946468be277bb68c48aaf90be0e813bf4c2a56615702c833c",
+      "geometry_sha256": "e57b9097067168098262fb86fe5c5b0931029b933d0c720422750e6580e50ad4",
+      "parent_maximum_width": 260.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p101140.bin",
+      "reference_index": 6,
+      "text_sha256": "cbae0b7b93522dd48bc6808b8d3e4c54985d85121da8d43f95d4db75ba76e11b",
+      "geometry_sha256": "cbaf21b3329a119e58e179295493ee9b6c71c81e615038b3df363df4147f7437",
+      "parent_maximum_width": 234.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p101141.bin",
+      "reference_index": 6,
+      "text_sha256": "cbae0b7b93522dd48bc6808b8d3e4c54985d85121da8d43f95d4db75ba76e11b",
+      "geometry_sha256": "cbaf21b3329a119e58e179295493ee9b6c71c81e615038b3df363df4147f7437",
+      "parent_maximum_width": 234.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p101150.bin",
+      "reference_index": 8,
+      "text_sha256": "9d38a12b525945407333205c44eea8f062192c475861d776b0b1ae7cca06fa37",
+      "geometry_sha256": "0b6363e998209e1d1baa1fc8fe11d76daa3b41704b1be1d10a490a27bdc791d9",
+      "parent_maximum_width": 429.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p101151.bin",
+      "reference_index": 8,
+      "text_sha256": "9d38a12b525945407333205c44eea8f062192c475861d776b0b1ae7cca06fa37",
+      "geometry_sha256": "0b6363e998209e1d1baa1fc8fe11d76daa3b41704b1be1d10a490a27bdc791d9",
+      "parent_maximum_width": 429.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p102011.bin",
+      "reference_index": 7,
+      "text_sha256": "d036ec7ff121732d8f7eea5639fe91059a3d16828edd99221a1264852fea3b91",
+      "geometry_sha256": "75e9a70c05ec2c7dccb24e11509de8ddb5dccf8e411e98a5100b138397460b90",
+      "parent_maximum_width": 338.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p102050.bin",
+      "reference_index": 57,
+      "text_sha256": "c234c945e2e0985ad62d1e98dbd22f11e02a4acc3826490a9d5cca8d1e15f30a",
+      "geometry_sha256": "3e76ef3329e3d39e6bbd9bd179668541b459401b424cb65bed6f5b241cc78121",
+      "parent_maximum_width": 234.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p102051.bin",
+      "reference_index": 57,
+      "text_sha256": "c234c945e2e0985ad62d1e98dbd22f11e02a4acc3826490a9d5cca8d1e15f30a",
+      "geometry_sha256": "9a4f062bd69e2839ed9f76d4e8d7dcc550c82a057cdfb7db1572aa1a5a302a4e",
+      "parent_maximum_width": 234.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p102060.bin",
+      "reference_index": 13,
+      "text_sha256": "90f209bfd28c9585b6f84195b2a2297b7b3e1210e3f6c3d4bed6e84ff4b13be2",
+      "geometry_sha256": "bbe5a432f3cbc2f6eab74bded105b3b758fe4827ce3836deec57512b4f9f1e5f",
+      "parent_maximum_width": 325.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p102090.bin",
+      "reference_index": 0,
+      "text_sha256": "1b7d2224eaf2dd680a888d19691682f78cb4ed4e2ba6a82fdc4190bc5f2389f8",
+      "geometry_sha256": "24cf4072983019786d8255ed21a822e463a317fb378d31cd2b90dd5c044fef78",
+      "parent_maximum_width": 234.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p102091.bin",
+      "reference_index": 0,
+      "text_sha256": "1b7d2224eaf2dd680a888d19691682f78cb4ed4e2ba6a82fdc4190bc5f2389f8",
+      "geometry_sha256": "24cf4072983019786d8255ed21a822e463a317fb378d31cd2b90dd5c044fef78",
+      "parent_maximum_width": 234.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p103030.bin",
+      "reference_index": 11,
+      "text_sha256": "6ee150909a46e02b99c696349ab1c6c9cf44acc657cfd044a3a0481bf2973c47",
+      "geometry_sha256": "44898f271aa1d5a3a8453ce10327ff92796d7a45ed0dcfbb900964177c2e7a05",
+      "parent_maximum_width": 286.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p103031.bin",
+      "reference_index": 11,
+      "text_sha256": "6ee150909a46e02b99c696349ab1c6c9cf44acc657cfd044a3a0481bf2973c47",
+      "geometry_sha256": "9a9028aacf91a3f7c92d4dcfc35e3db8cdb41b11960b1ea73985dbcb55e56014",
+      "parent_maximum_width": 286.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p103070.bin",
+      "reference_index": 44,
+      "text_sha256": "e48368f79dfc86c2d2e41392ce9e47e7d4b4b2533dd498978741633768e1c4cb",
+      "geometry_sha256": "ec859303089316e9c75085bcd0f9487d19c32eb67b2385b8c8e58a4f1ba4eb89",
+      "parent_maximum_width": 650.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p103071.bin",
+      "reference_index": 44,
+      "text_sha256": "e48368f79dfc86c2d2e41392ce9e47e7d4b4b2533dd498978741633768e1c4cb",
+      "geometry_sha256": "99c15cf56fbe3a53129459904d4dfd363594f3f447288b5569ca9556a9f62535",
+      "parent_maximum_width": 650.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p103110.bin",
+      "reference_index": 57,
+      "text_sha256": "03133197a41bbd6724f2e4ac18092ef4696c9a71c092d559592006dd86df5dd5",
+      "geometry_sha256": "012b01e2207256638f7b13f2a9b687f1c9550652612824f77deccb6551ab8ae4",
+      "parent_maximum_width": 507.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p103111.bin",
+      "reference_index": 57,
+      "text_sha256": "03133197a41bbd6724f2e4ac18092ef4696c9a71c092d559592006dd86df5dd5",
+      "geometry_sha256": "66a5275e74957e911785d31e8853d452d08acfe8e12708034da935c5ce79f972",
+      "parent_maximum_width": 507.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p104070.bin",
+      "reference_index": 26,
+      "text_sha256": "b76300cad3c4b86906b96d75bbe6aab89e760493910ca34babac91ac4044ea59",
+      "geometry_sha256": "ae163f27764464f78171c3e2f9d712d99a674a9e12450f55c31f42506872fdd8",
+      "parent_maximum_width": 234.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p104070.bin",
+      "reference_index": 29,
+      "text_sha256": "329f49686acf9c4498f9945facd36925353af88d23f09d7e5b737b66479b641a",
+      "geometry_sha256": "39df9ecd6c07c206e39bb5e3fc056b313df4b1841dac169d93524b207b00aa24",
+      "parent_maximum_width": 377.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p104071.bin",
+      "reference_index": 26,
+      "text_sha256": "b76300cad3c4b86906b96d75bbe6aab89e760493910ca34babac91ac4044ea59",
+      "geometry_sha256": "ae163f27764464f78171c3e2f9d712d99a674a9e12450f55c31f42506872fdd8",
+      "parent_maximum_width": 234.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p104071.bin",
+      "reference_index": 29,
+      "text_sha256": "329f49686acf9c4498f9945facd36925353af88d23f09d7e5b737b66479b641a",
+      "geometry_sha256": "39df9ecd6c07c206e39bb5e3fc056b313df4b1841dac169d93524b207b00aa24",
+      "parent_maximum_width": 377.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p206020.bin",
+      "reference_index": 10,
+      "text_sha256": "ab134561a05a45cff98da9293f924bc9f5bff3edcd69d0c892f063c28d50d827",
+      "geometry_sha256": "611f1fd5a79b957769b842db0f714756086a15ed76eb54b7f0c13d4aa250189a",
+      "parent_maximum_width": 247.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p206021.bin",
+      "reference_index": 10,
+      "text_sha256": "ab134561a05a45cff98da9293f924bc9f5bff3edcd69d0c892f063c28d50d827",
+      "geometry_sha256": "8247ba3bf055c1e46c5c221a0351fea45d57d4e7125148e1e43f2246741950be",
+      "parent_maximum_width": 247.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p206050.bin",
+      "reference_index": 19,
+      "text_sha256": "090f804a9899fda92e03bba21a605d4ce4ef634cb6f8d183463be113a013c282",
+      "geometry_sha256": "04b523d603db3efccded938616d001720ab9409e076fce46d636e558884d1f46",
+      "parent_maximum_width": 260.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p207010.bin",
+      "reference_index": 39,
+      "text_sha256": "ea4e626e876c168b624d7faa2c9a906b41ecc231d7041ce96f4d6b6d617f2df8",
+      "geometry_sha256": "4312780bbadaf3d02b62c7bfee235eb471ab2ea1e40a3879cd7a05ba9c54f8a3",
+      "parent_maximum_width": 390.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p208010.bin",
+      "reference_index": 33,
+      "text_sha256": "b4cb9459b197507d0bd5dd5d6513d0eb1adbf0e563c4de08cd9de2e054a79a24",
+      "geometry_sha256": "fc613a462af6663c8db489fd0f5fec64ad30d24af863b1ed6256115853a28fa7",
+      "parent_maximum_width": 455.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p208011.bin",
+      "reference_index": 33,
+      "text_sha256": "b4cb9459b197507d0bd5dd5d6513d0eb1adbf0e563c4de08cd9de2e054a79a24",
+      "geometry_sha256": "2dd4654c1eb2a182d43a3fa3c95d3473acc58c94e090ae019f07e7bb1e26bb27",
+      "parent_maximum_width": 455.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p208041.bin",
+      "reference_index": 5,
+      "text_sha256": "c22c17dc8f32ea3537a70ed0125cfaa8c7ba9b24e25c408e71bb0586e0e91029",
+      "geometry_sha256": "d0b468e33fe2653081e81c82f390963084e614ef0f361fcf4299a09e7b6137fc",
+      "parent_maximum_width": 403.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p208050.bin",
+      "reference_index": 24,
+      "text_sha256": "8010d6e7ba1460358a635e8fbab992f0af20ba2a130e17450b150d0e9b60cee1",
+      "geometry_sha256": "25447a29f0c90eeef906f1b4e47f65dad5fd075949ed9796c2235434733e15e8",
+      "parent_maximum_width": 234.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p208051.bin",
+      "reference_index": 24,
+      "text_sha256": "8010d6e7ba1460358a635e8fbab992f0af20ba2a130e17450b150d0e9b60cee1",
+      "geometry_sha256": "25447a29f0c90eeef906f1b4e47f65dad5fd075949ed9796c2235434733e15e8",
+      "parent_maximum_width": 234.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p208060.bin",
+      "reference_index": 5,
+      "text_sha256": "2894f59becf4d4eddb6c6121fbdb7befb23d65536dd539eab776660dce3793f4",
+      "geometry_sha256": "8a022e1f60496cdcd7f943438702fddf7363f22a99a1ea59997eed3dc6d7d88f",
+      "parent_maximum_width": 351.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p208061.bin",
+      "reference_index": 5,
+      "text_sha256": "2894f59becf4d4eddb6c6121fbdb7befb23d65536dd539eab776660dce3793f4",
+      "geometry_sha256": "8a022e1f60496cdcd7f943438702fddf7363f22a99a1ea59997eed3dc6d7d88f",
+      "parent_maximum_width": 351.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p208080.bin",
+      "reference_index": 27,
+      "text_sha256": "f674e651f104db4377c1dc2eb2fb9b805ee666a67973dbd2b2c6ac40ed4e4f7e",
+      "geometry_sha256": "b9fcf8fc46e9df64bbbb3599567a1ad35dd876c4844a7078d1a7dee7be03862f",
+      "parent_maximum_width": 351.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p208080.bin",
+      "reference_index": 31,
+      "text_sha256": "fc3c5616b7bb5b64d96098892e69641f385cff3b622e907302fe15074ac16676",
+      "geometry_sha256": "de15f95781514d1ac3b81f74903ca88879993a9e112537335d170eac7f958402",
+      "parent_maximum_width": 325.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p208081.bin",
+      "reference_index": 28,
+      "text_sha256": "f674e651f104db4377c1dc2eb2fb9b805ee666a67973dbd2b2c6ac40ed4e4f7e",
+      "geometry_sha256": "8c5a1dba87caa4a19c66230bb30c0128d397b533e641f94adc833d812bc0c9c4",
+      "parent_maximum_width": 351.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p208081.bin",
+      "reference_index": 32,
+      "text_sha256": "fc3c5616b7bb5b64d96098892e69641f385cff3b622e907302fe15074ac16676",
+      "geometry_sha256": "ae0dd31ff67b109a5c4dc34219cd1be557baf7c22e3a600dc108a55b2e90ac80",
+      "parent_maximum_width": 325.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p209070.bin",
+      "reference_index": 28,
+      "text_sha256": "ee6b57426683844f55ef02a257512b2db1ee794407dec922947759cbe6a12871",
+      "geometry_sha256": "1c0009368b7b6fe97e2141258b982c444ee27c58007fbd96f9e83f812fb070df",
+      "parent_maximum_width": 494.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p209071.bin",
+      "reference_index": 28,
+      "text_sha256": "ee6b57426683844f55ef02a257512b2db1ee794407dec922947759cbe6a12871",
+      "geometry_sha256": "426725e2cd988fed8956a90c4bba51e00dff710b86854fd62fedf8ab4f0b0a1a",
+      "parent_maximum_width": 494.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p210071.bin",
+      "reference_index": 45,
+      "text_sha256": "f187f3b0f1951ae53bc6dd53126bebcc2428cf1a2cd8a2c8c5e54343e2da1381",
+      "geometry_sha256": "f1ba07cf1a5465f9e49e58e82c163690f6475cc4fd80568ab38706d10e1d09a5",
+      "parent_maximum_width": 156.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p211010.bin",
+      "reference_index": 48,
+      "text_sha256": "85f74831cc8d0de3c91065b82f28d95c01b74435c52418d206877e2fe88d147c",
+      "geometry_sha256": "cd62d93abe0a787c04cffa990e26dc555f934bf98fde02a58050110723dc8cfa",
+      "parent_maximum_width": 390.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p211020.bin",
+      "reference_index": 41,
+      "text_sha256": "beaf33491697ad200b0f2095e7941b8bd5df9df8afb199bcc9fa5d6e0e1b6382",
+      "geometry_sha256": "6cfcbb3dcb66dd306cd7dee4241d4e8fe2df7430afeb4e6a43597d6e88182886",
+      "parent_maximum_width": 390.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p211020.bin",
+      "reference_index": 46,
+      "text_sha256": "cac9b7fbe5d0bd34cc72e4c84a3beaa774357c9b6df42886f16968a6ad543e39",
+      "geometry_sha256": "e76c78b8dd6130a65d11aff9af2523ace37d4ae9cf0ee01a3022b71edd180c5a",
+      "parent_maximum_width": 494.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p211021.bin",
+      "reference_index": 41,
+      "text_sha256": "beaf33491697ad200b0f2095e7941b8bd5df9df8afb199bcc9fa5d6e0e1b6382",
+      "geometry_sha256": "6cfcbb3dcb66dd306cd7dee4241d4e8fe2df7430afeb4e6a43597d6e88182886",
+      "parent_maximum_width": 390.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p211021.bin",
+      "reference_index": 46,
+      "text_sha256": "cac9b7fbe5d0bd34cc72e4c84a3beaa774357c9b6df42886f16968a6ad543e39",
+      "geometry_sha256": "e76c78b8dd6130a65d11aff9af2523ace37d4ae9cf0ee01a3022b71edd180c5a",
+      "parent_maximum_width": 494.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p211060.bin",
+      "reference_index": 12,
+      "text_sha256": "7e7a1e396e8d34969e89f9d630afa57d5199d1da16ec46d7bee4afbf4d02842c",
+      "geometry_sha256": "80e88163e06661c498394b64a155d8fb707e380d56e12ed7086013a8765ffdf9",
+      "parent_maximum_width": 546.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p211061.bin",
+      "reference_index": 12,
+      "text_sha256": "7e7a1e396e8d34969e89f9d630afa57d5199d1da16ec46d7bee4afbf4d02842c",
+      "geometry_sha256": "80e88163e06661c498394b64a155d8fb707e380d56e12ed7086013a8765ffdf9",
+      "parent_maximum_width": 546.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p211070.bin",
+      "reference_index": 53,
+      "text_sha256": "c234c945e2e0985ad62d1e98dbd22f11e02a4acc3826490a9d5cca8d1e15f30a",
+      "geometry_sha256": "cd40b671ca5399afea786147ef3735596deb78553bb4804bb2dd526c9614fa51",
+      "parent_maximum_width": 234.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p212020.bin",
+      "reference_index": 18,
+      "text_sha256": "9a55b0521619af5a3b85e09b39bd7d1b5ec513f011a29caafa1ac5d9ec2cea57",
+      "geometry_sha256": "b1f48d3bb7598dfe5eacc20a04409ca1e5dc8a8857f92bf173999a5ce91bb1f0",
+      "parent_maximum_width": 429.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p212020.bin",
+      "reference_index": 38,
+      "text_sha256": "c4728abd4e5aaf758af0db135902d44bfa8308aa5201886a12917d2424c46243",
+      "geometry_sha256": "3e536d2ca0456aae36b9378b98bced25ae14a601c14f01c0ee35c230a9cd2334",
+      "parent_maximum_width": 416.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p212021.bin",
+      "reference_index": 18,
+      "text_sha256": "9a55b0521619af5a3b85e09b39bd7d1b5ec513f011a29caafa1ac5d9ec2cea57",
+      "geometry_sha256": "b1f48d3bb7598dfe5eacc20a04409ca1e5dc8a8857f92bf173999a5ce91bb1f0",
+      "parent_maximum_width": 429.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p212021.bin",
+      "reference_index": 38,
+      "text_sha256": "c4728abd4e5aaf758af0db135902d44bfa8308aa5201886a12917d2424c46243",
+      "geometry_sha256": "a4dbe87bd3e669a65603a9e80bc535b4f9096471ba9f58a784aeb7407f058a48",
+      "parent_maximum_width": 416.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p212080.bin",
+      "reference_index": 48,
+      "text_sha256": "1c0534ee13f69e87dd3c5f2f5ddbb449d37d7835e040c251aeae902915c76586",
+      "geometry_sha256": "641b50e610a1c793b5f8d24d261126f36b8508250940d162ee88ae3495111e15",
+      "parent_maximum_width": 247.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p212081.bin",
+      "reference_index": 47,
+      "text_sha256": "1c0534ee13f69e87dd3c5f2f5ddbb449d37d7835e040c251aeae902915c76586",
+      "geometry_sha256": "0cacbe176697cce46d47c447a8d41803efb8c2acc3f474d9645b8c96f6f287c7",
+      "parent_maximum_width": 247.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p313030.bin",
+      "reference_index": 41,
+      "text_sha256": "a129ca183346bd57ac71a9fead382581d55d3a6c87e4a40a3eb21aac9559e996",
+      "geometry_sha256": "5bccfeba6e325180b3e4f2323e3333b0a2902dc82b81feee2c32227997976368",
+      "parent_maximum_width": 585.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p313031.bin",
+      "reference_index": 41,
+      "text_sha256": "a129ca183346bd57ac71a9fead382581d55d3a6c87e4a40a3eb21aac9559e996",
+      "geometry_sha256": "5bccfeba6e325180b3e4f2323e3333b0a2902dc82b81feee2c32227997976368",
+      "parent_maximum_width": 585.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p313100.bin",
+      "reference_index": 41,
+      "text_sha256": "4a1478137372a1e2a19a20a0347cde858b980bffa14029d3d3baa4dc855bccb9",
+      "geometry_sha256": "2895d1234e01eb916a0b28f5f0dbfc6c4b7e1b15d448e91d5cc83b7b0111b180",
+      "parent_maximum_width": 377.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p313101.bin",
+      "reference_index": 41,
+      "text_sha256": "4a1478137372a1e2a19a20a0347cde858b980bffa14029d3d3baa4dc855bccb9",
+      "geometry_sha256": "3f4937b7f23497e79110f9fbfee662298e71ef4015e3e3e5d8989bcc228f374d",
+      "parent_maximum_width": 377.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p315010.bin",
+      "reference_index": 17,
+      "text_sha256": "c60f60fbf3af01acdc3a62182ad269dcc348ef72b26cba1162308258b4fe50da",
+      "geometry_sha256": "4132adc3f2d23d74b144c4a22ee1e798e3d358807e9f038ca3bab02d04bd73b0",
+      "parent_maximum_width": 390.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p315010.bin",
+      "reference_index": 19,
+      "text_sha256": "5fa8fb534c525ef2830499c59182e92047ebd417d3a22d0cefd38ab5ec025fc5",
+      "geometry_sha256": "12d5436a06514743c5135e345ceb038dc910cce18bd95b130eb90706e3206fd6",
+      "parent_maximum_width": 611.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p315011.bin",
+      "reference_index": 17,
+      "text_sha256": "c60f60fbf3af01acdc3a62182ad269dcc348ef72b26cba1162308258b4fe50da",
+      "geometry_sha256": "4132adc3f2d23d74b144c4a22ee1e798e3d358807e9f038ca3bab02d04bd73b0",
+      "parent_maximum_width": 390.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p315011.bin",
+      "reference_index": 19,
+      "text_sha256": "ea89c5521a46a2462d1ebe19af1d56714d5c514c628273920329d7f68e2080c5",
+      "geometry_sha256": "12d5436a06514743c5135e345ceb038dc910cce18bd95b130eb90706e3206fd6",
+      "parent_maximum_width": 611.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p315080.bin",
+      "reference_index": 12,
+      "text_sha256": "6daf1f309c8ed666660faf79d536bee83ae2720129c5bab6f99588f83fd67bc2",
+      "geometry_sha256": "eae7c330332d7b345350385f82694aa240afe213a94a9de429a1f4007236142c",
+      "parent_maximum_width": 611.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p315081.bin",
+      "reference_index": 12,
+      "text_sha256": "6daf1f309c8ed666660faf79d536bee83ae2720129c5bab6f99588f83fd67bc2",
+      "geometry_sha256": "eae7c330332d7b345350385f82694aa240afe213a94a9de429a1f4007236142c",
+      "parent_maximum_width": 611.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p316050.bin",
+      "reference_index": 23,
+      "text_sha256": "31d89a924767f2788efd038663694aff040131ab744d4b9cf140b72da8d641c0",
+      "geometry_sha256": "03b13c41aaa4e6370799771980213ff5a233ffb8d641814d7b472c7a7ba667e3",
+      "parent_maximum_width": 299.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p316051.bin",
+      "reference_index": 23,
+      "text_sha256": "31d89a924767f2788efd038663694aff040131ab744d4b9cf140b72da8d641c0",
+      "geometry_sha256": "2a18ea3f16b923799afbb92e75eb4fb178013f63086b4e84e1bae0067ce2c4e2",
+      "parent_maximum_width": 299.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p316090.bin",
+      "reference_index": 53,
+      "text_sha256": "e4978d2b26bcc1dbf66f5ea8c2ac4c59d4c743678f553204baf3724f760f69d9",
+      "geometry_sha256": "a87c069b1556abeded38dd9b8c0e5edb5f44c99a746b4de8665bc5179b3d937e",
+      "parent_maximum_width": 286.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p316091.bin",
+      "reference_index": 53,
+      "text_sha256": "e4978d2b26bcc1dbf66f5ea8c2ac4c59d4c743678f553204baf3724f760f69d9",
+      "geometry_sha256": "a85504f6a5af2f68f064e03aedac008b467ed59bd74fc450fc7af61634d95b49",
+      "parent_maximum_width": 286.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p321060.bin",
+      "reference_index": 24,
+      "text_sha256": "c234c945e2e0985ad62d1e98dbd22f11e02a4acc3826490a9d5cca8d1e15f30a",
+      "geometry_sha256": "5a67723eba5b056cc2731681a0db43df1639b00c70409ec99025933e26618b03",
+      "parent_maximum_width": 234.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p321061.bin",
+      "reference_index": 24,
+      "text_sha256": "c234c945e2e0985ad62d1e98dbd22f11e02a4acc3826490a9d5cca8d1e15f30a",
+      "geometry_sha256": "5a67723eba5b056cc2731681a0db43df1639b00c70409ec99025933e26618b03",
+      "parent_maximum_width": 234.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p322050.bin",
+      "reference_index": 111,
+      "text_sha256": "bd7fbadf4d2e27c77b86aecfa479f76724445e09eb0fdb7876f24a021dcc391f",
+      "geometry_sha256": "bbb3c4feaf774542ec1edde57a92023a1d018c00252a0bc7ec4d2a00ff434d8c",
+      "parent_maximum_width": 351.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p322051.bin",
+      "reference_index": 111,
+      "text_sha256": "bd7fbadf4d2e27c77b86aecfa479f76724445e09eb0fdb7876f24a021dcc391f",
+      "geometry_sha256": "bbb3c4feaf774542ec1edde57a92023a1d018c00252a0bc7ec4d2a00ff434d8c",
+      "parent_maximum_width": 351.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p328050.bin",
+      "reference_index": 81,
+      "text_sha256": "a7b7e2c21255ccc03dab32fb80a2c51ae8bf9e14f74dabd58ff8f5e5de7abf97",
+      "geometry_sha256": "7ab4aedf9f5248893b2b3072c006e36b52b92e5cc555fe9470ec6a41778787ea",
+      "parent_maximum_width": 260.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p330010.bin",
+      "reference_index": 0,
+      "text_sha256": "4c4972227a38cef3466468cd1f71b0a6e3e3707ee2b9e1a3198da54e3d45d68d",
+      "geometry_sha256": "b22abd8c73820082943ffcf4878b1601f07b867863201eba23984a8b75b540f2",
+      "parent_maximum_width": 455.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p330010.bin",
+      "reference_index": 88,
+      "text_sha256": "01977c889880bc3491e6e10ad7f23faee6bffd307061a10f4f2a191d3cf4b20d",
+      "geometry_sha256": "2fb8e9ce4f60166288d94674ce731a15af122032f5e1d719697ead3fa3531676",
+      "parent_maximum_width": 572.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p330011.bin",
+      "reference_index": 0,
+      "text_sha256": "4c4972227a38cef3466468cd1f71b0a6e3e3707ee2b9e1a3198da54e3d45d68d",
+      "geometry_sha256": "b22abd8c73820082943ffcf4878b1601f07b867863201eba23984a8b75b540f2",
+      "parent_maximum_width": 455.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p330011.bin",
+      "reference_index": 88,
+      "text_sha256": "01977c889880bc3491e6e10ad7f23faee6bffd307061a10f4f2a191d3cf4b20d",
+      "geometry_sha256": "2fb8e9ce4f60166288d94674ce731a15af122032f5e1d719697ead3fa3531676",
+      "parent_maximum_width": 572.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p330080.bin",
+      "reference_index": 3,
+      "text_sha256": "a3a2548d75e1143d1b00179c7738ccb658eae7810a7a5d283e406c973c1a8e5b",
+      "geometry_sha256": "bf16510ca20400cec5a6552b904de7b714c0b699dbd25d323062e5bb4f45d568",
+      "parent_maximum_width": 260.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p330081.bin",
+      "reference_index": 3,
+      "text_sha256": "a3a2548d75e1143d1b00179c7738ccb658eae7810a7a5d283e406c973c1a8e5b",
+      "geometry_sha256": "bf16510ca20400cec5a6552b904de7b714c0b699dbd25d323062e5bb4f45d568",
+      "parent_maximum_width": 260.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p330150.bin",
+      "reference_index": 36,
+      "text_sha256": "fac9ed033c51a1340213d2169116494b794abce10147ab833130fa30a86e87a5",
+      "geometry_sha256": "11f5a807c2dfb48b1bd69a40382a95065756314df4a172701e8b39e8826610ce",
+      "parent_maximum_width": 520.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p330151.bin",
+      "reference_index": 36,
+      "text_sha256": "fac9ed033c51a1340213d2169116494b794abce10147ab833130fa30a86e87a5",
+      "geometry_sha256": "11f5a807c2dfb48b1bd69a40382a95065756314df4a172701e8b39e8826610ce",
+      "parent_maximum_width": 520.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p330180.bin",
+      "reference_index": 42,
+      "text_sha256": "a6abb6368047260b5eb7de9f53156e842e19d3a73ed872bd531de18db9468a6c",
+      "geometry_sha256": "46f87dbaae5ac99c6a3fc9c64f288e183268a793b18cbea910e878a45130df86",
+      "parent_maximum_width": 455.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p330180.bin",
+      "reference_index": 50,
+      "text_sha256": "d81013b3afefe98071c20510164eb449aa81b639405a05712854828472f73d52",
+      "geometry_sha256": "b99b15d7b9b9e394e831232f68f7c38e68a0dfd5119b9184a5fc2b85b3a5fdab",
+      "parent_maximum_width": 338.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p330181.bin",
+      "reference_index": 42,
+      "text_sha256": "a6abb6368047260b5eb7de9f53156e842e19d3a73ed872bd531de18db9468a6c",
+      "geometry_sha256": "46f87dbaae5ac99c6a3fc9c64f288e183268a793b18cbea910e878a45130df86",
+      "parent_maximum_width": 455.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    },
+    {
+      "resource": "phase/bin/p330181.bin",
+      "reference_index": 50,
+      "text_sha256": "d81013b3afefe98071c20510164eb449aa81b639405a05712854828472f73d52",
+      "geometry_sha256": "b99b15d7b9b9e394e831232f68f7c38e68a0dfd5119b9184a5fc2b85b3a5fdab",
+      "parent_maximum_width": 338.0,
+      "measurement_policy": "native_13px_with_bounded_names"
+    }
+  ],
+  "duplicate_only_exception_updates": 3
+}
