@@ -1,0 +1,30 @@
+{
+  "version": "0.1.58",
+  "source_version": "0.1.53",
+  "original_archive_sha256": "ac1328545a2969bb54e3529c6ab27a33c07bb1ba1feae0e30608013c83778d12",
+  "references_reflowed": 4606,
+  "resources_reflowed": 729,
+  "extra_pages": 3673,
+  "original_model_overflow_count": 4588,
+  "conservative_additional_reflows": 18,
+  "words_and_native_tracks_preserved": true,
+  "prose_preparation_version": "0.1.55",
+  "english_queue": "work/translation/en/dialogue_guard_055.en.json",
+  "guard": {
+    "schema_version": 1,
+    "resources_examined": 1265,
+    "indexed_references": 30145,
+    "english_body_references": 29936,
+    "counts": {
+      "fit": 29294,
+      "overflow": 0,
+      "unverified": 642
+    },
+    "scope": "All indexed phase, field, battle result and battle skit containers; shared whole-block width, every settled XY key, authored template or v10 ray clipping under zero rotation and unit runtime scale. Animated intermediate frames, transforms and natural playback are unverified.",
+    "full_game_visually_verified": false,
+    "guard_passed": true,
+    "exception_fingerprints_sha256": "2e5dd72dbda00b63a72ac462704a84f838e17c72671ae9d4753b24a2af5b6144",
+    "unchanged_unverified_references": 642
+  },
+  "native_playback_verified": false
+}

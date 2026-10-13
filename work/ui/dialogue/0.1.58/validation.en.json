@@ -1,0 +1,37 @@
+{
+  "version": "0.1.58",
+  "iso_sha256": "5f939caaf680d20aa9a535bf46654035a88be749a12eaa09005fa401a6db89fd",
+  "archive_sha256": "da94e518fd7347fdfb6dad4d6c5369c427dd8ae9154056eac9ee910bb37e4bd4",
+  "executable_sha256": "5e1af24667f807e2d22653ecfb99a86aeade342047dad0ad95c8837820e7eee4",
+  "reflow_references": 4606,
+  "resources_reflowed": 729,
+  "pages_in_reflowed_references": 8702,
+  "native_measurement_unique_owners": 2542,
+  "native_measurement_rows": 7528,
+  "all_native_parent_maxima_verified": true,
+  "authored_tracks_and_glyphs_exact": true,
+  "changed_archive_entries": 730,
+  "unselected_archive_entries_exact": 4456,
+  "old_corpus_rejected": true,
+  "later_page_shared_width_regression_rejected": true,
+  "changed_unverified_input_rejected": true,
+  "changed_native_template_catalog_rejected": true,
+  "all_nested_assets_exact": true,
+  "layout_guard": {
+    "schema_version": 1,
+    "resources_examined": 1265,
+    "indexed_references": 30145,
+    "english_body_references": 29936,
+    "counts": {
+      "fit": 29294,
+      "overflow": 0,
+      "unverified": 642
+    },
+    "scope": "All indexed phase, field, battle result and battle skit containers; shared whole-block width, every settled XY key, authored template or v10 ray clipping under zero rotation and unit runtime scale. Animated intermediate frames, transforms and natural playback are unverified.",
+    "full_game_visually_verified": false,
+    "guard_passed": true,
+    "exception_fingerprints_sha256": "2e5dd72dbda00b63a72ac462704a84f838e17c72671ae9d4753b24a2af5b6144",
+    "unchanged_unverified_references": 642
+  },
+  "natural_scene_playback_verified": false
+}

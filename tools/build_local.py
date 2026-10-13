@@ -418,6 +418,12 @@ def main():
         raise ValueError('Inherited executable changed')
     if args.archive is None and cpk_sha != base['dialogue_cpk_sha256']:
         raise ValueError('Inherited archive changed')
+    # From .54 onward a local build cannot bypass the installed-corpus check
+    # by omitting a preparation report. Recalculate against the actual inputs.
+    dialogue_layout_guard = None
+    if tuple(map(int, version.split('.'))) >= (0, 1, 54):
+        from dialogue_layout_guard import enforce
+        dialogue_layout_guard = enforce(cpk, executable)
     if sha(ISO) != ISO_SHA:
         raise ValueError('Original ISO changed')
     # Plan using an existing source-sized placeholder, then substitute the
@@ -448,6 +454,8 @@ def main():
         outputs.append(dict(path=name, source=str(source), offset=offset, size=length, sha256=digest))
     iso_patches[16 * 2048 + 80] = struct.pack('<I', iso_end // 2048) + struct.pack('>I', iso_end // 2048)
     info = copy.deepcopy(base)
+    if dialogue_layout_guard is not None:
+        info['dialogue_layout_guard'] = dialogue_layout_guard
     # Every build starts from the original ISO, so inherited movie installation
     # does not carry over unless explicitly supplied and verified again.
     info.pop('prologue_movie_translation_coverage',None)

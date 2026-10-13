@@ -1,0 +1,116 @@
+{
+  "version": "0.1.58",
+  "executable_sha256": "5e1af24667f807e2d22653ecfb99a86aeade342047dad0ad95c8837820e7eee4",
+  "quantized_hub": {
+    "main_bytes": 392,
+    "spare_bytes": 88,
+    "candidate_math_bytes": 172,
+    "quantized_tail_cone": true,
+    "native_integer_fan_checked": true,
+    "border_banks_rendered_as_strip": true,
+    "vertices_and_tail_endpoints_unchanged": true,
+    "version": "0.1.56",
+    "source_version": "0.1.55",
+    "hub_rva": 3035256,
+    "spare_rva": 616800,
+    "main_sha256": "645d724e79be208cdcf9f014b17c6010949ff8265e04f485360098b31ff6258b",
+    "spare_sha256": "b129cdee5064f4a37b7bcf9326adcaf5583d2466e0400df432971e39401fe661",
+    "continuation_rva": 24097652,
+    "loaded_growth_bytes": 0,
+    "models": [
+      {
+        "base": 142622720,
+        "loaded_extents_exact": true,
+        "outside_mask_exact": true
+      },
+      {
+        "base": 143654912,
+        "loaded_extents_exact": true,
+        "outside_mask_exact": true
+      },
+      {
+        "base": 150990848,
+        "loaded_extents_exact": true,
+        "outside_mask_exact": true
+      }
+    ],
+    "native_instruction_verified": false,
+    "natural_story_playback_verified": false
+  },
+  "centered_notice_route": {
+    "version": "0.1.57",
+    "helper_rva": 616888,
+    "helper_bytes": 52,
+    "helper_sha256": "1fce5de840b992a2938ee5ed8a790c9805c74faaef383c04b1ed57c9f96ce481",
+    "call_site": 975616,
+    "original_renderer": 960280,
+    "latin_renderer": 959580,
+    "callers": [
+      975616
+    ],
+    "models": [
+      {
+        "base": 142622720,
+        "route_cases": 260,
+        "outside_mask_exact": true,
+        "loaded_extents_exact": true
+      },
+      {
+        "base": 143654912,
+        "route_cases": 260,
+        "outside_mask_exact": true,
+        "loaded_extents_exact": true
+      },
+      {
+        "base": 150990848,
+        "route_cases": 260,
+        "outside_mask_exact": true,
+        "loaded_extents_exact": true
+      }
+    ],
+    "loaded_growth_bytes": 0,
+    "native_glyph_path_preserved": true,
+    "natural_elevator_playback_verified": false
+  },
+  "natural_playback_verified": false,
+  "centered_notice_small_font": {
+    "version": "0.1.58",
+    "helper_rva": 3043024,
+    "helper_bytes": 128,
+    "helper_sha256": "2406b75d849ccb60929ea88e4ef990e624d88a9f7104fda94e580e3a432167e5",
+    "new_return_gate": 975624,
+    "original_return_gates": [
+      975920,
+      975876,
+      975536
+    ],
+    "destination_size_and_native_glyph_path_preserved": true,
+    "models": [
+      {
+        "base": 142622720,
+        "cases": 2600,
+        "all_original_callers_preserved": true,
+        "outside_mask_exact": true,
+        "loaded_extents_exact": true
+      },
+      {
+        "base": 143654912,
+        "cases": 2600,
+        "all_original_callers_preserved": true,
+        "outside_mask_exact": true,
+        "loaded_extents_exact": true
+      },
+      {
+        "base": 150990848,
+        "cases": 2600,
+        "all_original_callers_preserved": true,
+        "outside_mask_exact": true,
+        "loaded_extents_exact": true
+      }
+    ],
+    "loaded_growth_bytes": 0,
+    "natural_elevator_playback_verified": false
+  },
+  "installed_native_regression": "work/ui/dialogue/0.1.58/elevator_native.en.json",
+  "installed_geometry_regression": "work/ui/dialogue/0.1.58/native_geometry.en.json"
+}

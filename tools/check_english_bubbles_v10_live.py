@@ -184,6 +184,9 @@ def main():
                 write(d,base+rva,bytes(memories[seg][off:off+size]))
             for rva in (0xe4ebc,0xe4ed8,0xece3c,0xe4e68,0xe4e6c):
                 old=d.read(base+rva,4);replaced.append((base+rva,old));write(d,base+rva,bytes(memories[0][rva:rva+4]))
+            if 'quantized_hub_056' in prep:
+                q=prep['quantized_hub_056'];rva,size=q['spare_rva'],q['spare_bytes']
+                old=d.read(base+rva,size);replaced.append((base+rva,old));write(d,base+rva,bytes(memories[0][rva:rva+size]))
             repair=prep['serish_tail_patch'];rva=repair['repair_rva'];size=repair['repair_bytes']
             old=d.read(base+rva,size);replaced.append((base+rva,old));write(d,base+rva,bytes(memories[0][rva:rva+size]))
         start=regs['sp']-8192;oldmem=d.read(start,8192)
@@ -308,7 +311,7 @@ def main():
                         raise ValueError(name+': name introduction flipped above the native anchor')
             else:
                 if (cx,cy)!=(x,y)or list(struct.unpack_from('<4f',value,0x304))!=t['speaker_offset']+t['text_offset']:
-                    raise ValueError(name+': fallback text offsets differ')
+                    raise ValueError(name+': fallback text offsets differ '+str(dict(actual_center=[cx,cy],expected_center=[x,y],actual_offsets=list(struct.unpack_from('<4f',value,0x304)),expected_offsets=t['speaker_offset']+t['text_offset'],marker=struct.unpack_from('<I',value,0x5c)[0],halfwidth=halfwidth,shape=shape,lines=lines)))
                 for points,expected in zip(body,[t['outline'],*t['banks']]):
                     if any(abs(a-b)>1e-4 for pair,goal in zip(points,expected)for a,b in zip(pair,goal)):raise ValueError(name+': fallback geometry differs')
             cases.append(dict(case=name,shape=shape,selected=supported,visible_lines=lines,center=[cx,cy],text_center_x=text_cx,passed=True,
@@ -339,9 +342,18 @@ def main():
             restore_registers(d,out)
             if supported:
                 hub=list(struct.unpack_from('<2f',value,0xe8));world=[[p[0]+cx,p[1]+cy]for p in body[0]]
-                fan_check(world,hub,name)
+                if not prep.get('quantized_hub_056',{}).get('native_integer_fan_checked'):
+                    fan_check(world,hub,name)
+                else:
+                    # GE vertices and the fan hub are actually truncated by
+                    # the native draw path. A hub chosen for that integer
+                    # cone need not belong to the unrendered float contour.
+                    cases[-1]['unrendered_float_fan_area_error']=sum(abs(area(hub,a,b))for a,b in zip(world,world[1:]+world[:1]))-abs(signed(world))
                 # E4F68..E4FB8 converts all GE positions by truncation.
                 fan_check([[math.trunc(v)for v in p]for p in world],[math.trunc(v)for v in hub],name+' quantized',1e-3)
+                if prep.get('quantized_hub_056',{}).get('native_integer_fan_checked'):
+                    cases[-1]['native_integer_fan_verified']=True
+                    cases[-1]['border_strip_uses_no_hub']=True
                 cases[-1]['fan_origin']=hub;cases[-1]['fan_fill_matches_contour']=True
                 if any(body[n][tip]!=body[0][tip]for n in (1,2)):raise ValueError(name+': split rail endpoint')
                 cases[-1]['single_shared_tip']=True

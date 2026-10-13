@@ -1,0 +1,1633 @@
+{
+  "version": "0.1.58",
+  "loaded_build": "0.1.58",
+  "loaded_iso_sha256": "5f939caaf680d20aa9a535bf46654035a88be749a12eaa09005fa401a6db89fd",
+  "candidate_sha256": "5e1af24667f807e2d22653ecfb99a86aeade342047dad0ad95c8837820e7eee4",
+  "installed_candidate": true,
+  "module_base": 142622720,
+  "cases": [
+    {
+      "font_size": 4,
+      "glyph": 32,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 33,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 34,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 35,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 36,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 37,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 38,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 39,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 40,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 41,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 42,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 43,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 44,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 45,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 46,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 47,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 48,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 49,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 50,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 51,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 52,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 53,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 54,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 55,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 56,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 57,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 58,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 59,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 60,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 61,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 62,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 63,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 64,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 65,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 66,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 67,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 68,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 69,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 70,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 71,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 72,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 73,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 74,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 75,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 76,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 77,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 78,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 79,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 80,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 81,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 82,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 83,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 84,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 85,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 86,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 87,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 88,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 89,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 90,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 91,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 92,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 93,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 94,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 95,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 96,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 97,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 98,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 99,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 100,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 101,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 102,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 103,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 104,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 105,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 106,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 107,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 108,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 109,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 110,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 111,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 112,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 113,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 114,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 115,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 116,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 117,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 118,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 119,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 120,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 121,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 122,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 123,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 124,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 125,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 126,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 128,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 129,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 130,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 33440,
+      "latin": false,
+      "full_native_draw_completed": false,
+      "native_fallback_entry_preserved": true,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 127,
+      "latin": false,
+      "full_native_draw_completed": false,
+      "native_fallback_entry_preserved": true,
+      "passed": true
+    },
+    {
+      "font_size": 4,
+      "glyph": 31,
+      "latin": false,
+      "full_native_draw_completed": false,
+      "native_fallback_entry_preserved": true,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 32,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 33,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 34,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 35,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 36,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 37,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 38,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 39,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 40,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 41,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 42,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 43,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 44,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 45,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 46,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 47,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 48,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 49,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 50,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 51,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 52,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 53,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 54,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 55,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 56,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 57,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 58,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 59,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 60,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 61,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 62,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 63,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 64,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 65,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 66,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 67,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 68,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 69,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 70,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 71,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 72,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 73,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 74,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 75,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 76,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 77,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 78,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 79,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 80,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 81,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 82,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 83,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 84,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 85,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 86,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 87,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 88,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 89,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 90,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 91,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 92,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 93,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 94,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 95,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 96,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 97,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 98,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 99,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 100,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 101,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 102,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 103,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 104,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 105,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 106,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 107,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 108,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 109,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 110,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 111,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 112,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 113,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 114,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 115,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 116,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 117,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 118,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 119,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 120,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 121,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 122,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 123,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 124,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 125,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 126,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 128,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 129,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 130,
+      "latin": true,
+      "full_native_draw_completed": true,
+      "native_fallback_entry_preserved": false,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 33440,
+      "latin": false,
+      "full_native_draw_completed": false,
+      "native_fallback_entry_preserved": true,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 127,
+      "latin": false,
+      "full_native_draw_completed": false,
+      "native_fallback_entry_preserved": true,
+      "passed": true
+    },
+    {
+      "font_size": 8,
+      "glyph": 31,
+      "latin": false,
+      "full_native_draw_completed": false,
+      "native_fallback_entry_preserved": true,
+      "passed": true
+    }
+  ],
+  "legacy_elevator_letter_enters_failing_font_search": true,
+  "legacy_font_descriptor_at_checkpoint": 0,
+  "unsafe_legacy_lookup_not_executed": true,
+  "all_native_Latin_glyph_draws_and_ABI_verified": true,
+  "native_glyph_fallback_entry_verified": true,
+  "natural_elevator_playback_verified": false,
+  "scope": "Real mode-two dispatch branch, individual native glyph calls (unrelated engine getter skipped), explicit legacy-entry regression; natural event/scene sequence not exercised."
+}

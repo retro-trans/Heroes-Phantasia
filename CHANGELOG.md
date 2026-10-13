@@ -1,5 +1,33 @@
 # Changelog
 
+## 0.1.58 — 2026-10-13 (both centered-notice font sizes)
+
+- Extends the elevator/notice fix to the native small-font branch. Adds the notice caller to the Latin-capable lookup guard while preserving the three earlier callers, native glyph fallback and 8-pixel destination size. Fits in the existing 128-byte code slot, with no loaded growth.
+- Checks 2,600 emitted-instruction cases at each of three load bases. Native notice testing covers 202 cases across both sizes, including 196 complete English glyph draws. Retains the whole-owner overflow fixes and mandatory build guard; pins both font-size routes and the native bubble catalog. Natural elevator event playback remains unverified.
+- Creates local test build 0.1.58 with the matching title stamp. No GitHub release requested or created. Details and scope are in `docs/DIALOGUE_LAYOUT_GUARD_058.md`.
+
+## 0.1.57 — 2026-10-13 (centered-notice crash and dialogue guard)
+
+- Fixes the missing Latin route in the shared mode-two notice renderer implicated by the reported 0.1.52 elevator crash. The single typed caller now sends supported English glyphs to the installed Latin font before the native font-table search; native glyphs retain their original path. Uses 52 bytes of reviewed unused storage, with no loaded-memory growth.
+- Retains the complete 0.1.56 dialogue reflows, quantized fan correction and mandatory whole-owner fit guard. Pins the new renderer route in the guard's reviewed runtime contract. Local candidate only; no GitHub release requested or created.
+
+## 0.1.56 — 2026-10-13 (validated dialogue geometry)
+
+- Corrects fan-origin selection using the actual raster-truncated tail rails. Native border banks are rendered as a triangle strip and do not share the fan origin. Preserves all vertices, authored tail endpoints, font metrics and loaded memory extents.
+- Corrects the static fit model's descriptor half-pixel units and initial-height behavior. All 625 selected installed native geometry cases pass; package readback verifies 4,606 reflows, 729 resources and 2,542 native whole-owner width cases. The refined model identifies 4,588 original overflow risks; 18 additional conservative reflows are retained. Final corpus: 29,294 modeled fits, zero modeled overflow, 642 explicitly unverified references.
+- Fresh startup verifies the 0.1.56 title stamp. The subsequent elevator report is handled in 0.1.57/0.1.58. Scope and gameplay limits are in `docs/DIALOGUE_LAYOUT_GUARD_058.md`.
+
+## 0.1.55 — 2026-10-13 (whole-block dialogue fit and build guard)
+
+- Fixes the repeated Zigmarl overflow and 4,605 other indexed English dialogue references using the installed renderer's maximum width across all pages. Rewraps 729 resources with identical glyphs and control order, preserving authored scene/tail tracks, executable and font. Adds pause/page boundaries where required by existing geometry.
+- Makes the corpus fit guard mandatory in the current local builder. Blocks modeled overflow, new/changed unverified inputs and changes to the pinned font/geometry contract. Audits 29,936 English body references: 29,294 statically fit; 642 unchanged layouts remain explicitly unverified.
+- Creates a separate local test candidate with the 0.1.55 title stamp. No GitHub release requested or created.
+- Held during broader native validation after a raster-rounding fan overlap was detected. Superseded by 0.1.56; do not use the held candidate.
+
+## 0.1.54 — 2026-10-13 (rejected internal dialogue preparation)
+
+- Initial whole-block reflow and guard preparation. Validation caught an overlap with the exact-text Serish lip landmark guard. The candidate was retained locally for diagnosis and rejected; 0.1.55 preserves that reviewed line and records its intermediate poses as unverified.
+
 ## 0.1.53 — 2026-10-13 (field dialogue fit, quest chapters and Kogoro)
 
 - Fixes 68 overflowing English field-dialogue records with measured word-preserving reflow and existing wider tailless styles, including both reported HOLD soldier boxes. Preserves unrelated dialogue/animation; one long student message gains an extra page. Records five unmodified dynamic-name layouts for further review.
