@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "repo": "retro-trans/Heroes-Phantasia",
+  "tag": "v0.1.61",
+  "release_url": "https://github.com/retro-trans/Heroes-Phantasia/releases/tag/untagged-cd3bf5b56068690390ce",
+  "release_id": 411577534,
+  "author": "binhlt0402",
+  "draft": true,
+  "source_commit": "9e487664b8200679bd4d4e40b37ee2055a412fde",
+  "public_source_commit_verified": true,
+  "tag_source_commit_verified": false,
+  "all_uploaded_asset_hashes_and_sizes_match": true,
+  "assets": [
+    {
+      "name": "BUILD-MANIFEST.json",
+      "bytes": 1405,
+      "sha256": "d726c5c52f2781052d738e8fc3a75e0d43c9bbd235c34089ba14facb1f8cc3f8",
+      "url": "https://github.com/retro-trans/Heroes-Phantasia/releases/download/untagged-cd3bf5b56068690390ce/BUILD-MANIFEST.json"
+    },
+    {
+      "name": "Heroes-Phantasia-English-0.1.50-to-0.1.61.xdelta",
+      "bytes": 13911253,
+      "sha256": "ee2ce07d78e602fc1ed1971e5c924188f72abbef43ab1530e129094ea7e0dda7",
+      "url": "https://github.com/retro-trans/Heroes-Phantasia/releases/download/untagged-cd3bf5b56068690390ce/Heroes-Phantasia-English-0.1.50-to-0.1.61.xdelta"
+    },
+    {
+      "name": "Heroes-Phantasia-English-0.1.61.xdelta",
+      "bytes": 405658911,
+      "sha256": "fc9dde31de83f9bd92b937339156cc1213dcb818ce5cd1ef58de77f1444db9ff",
+      "url": "https://github.com/retro-trans/Heroes-Phantasia/releases/download/untagged-cd3bf5b56068690390ce/Heroes-Phantasia-English-0.1.61.xdelta"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 392,
+      "sha256": "0e8aa8c23bdceb9149a23af67246cd0841064513319e6baf035237cf28ecd486",
+      "url": "https://github.com/retro-trans/Heroes-Phantasia/releases/download/untagged-cd3bf5b56068690390ce/SHA256SUMS.txt"
+    },
+    {
+      "name": "VALIDATION.json",
+      "bytes": 532,
+      "sha256": "69c323676a16312670eab17713da1f80006193286b46243c2d3818e4dac37eb3",
+      "url": "https://github.com/retro-trans/Heroes-Phantasia/releases/download/untagged-cd3bf5b56068690390ce/VALIDATION.json"
+    }
+  ]
+}

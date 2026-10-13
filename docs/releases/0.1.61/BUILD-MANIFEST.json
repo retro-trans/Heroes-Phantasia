@@ -1,0 +1,38 @@
+{
+  "game_id": "heroes-phantasia",
+  "game_name": "Heroes Phantasia",
+  "platform": "PSP",
+  "version": "0.1.61",
+  "source_commit": "9e487664b8200679bd4d4e40b37ee2055a412fde",
+  "schema_version": 1,
+  "patches": [
+    {
+      "patch": "Heroes-Phantasia-English-0.1.61.xdelta",
+      "edition": "English",
+      "language": "en",
+      "source_version": "original",
+      "source_format": "iso",
+      "target_format": "iso",
+      "source_sha256": "2c3583f377cdaa9132d349a0039d7f6ffe21cac093476c7746705e8af2b03b40",
+      "source_bytes": 1415020544,
+      "target_sha256": "154eba01e36a83d9dac00ae8f5d93d8473e7c5310a398b7942a83c68f2fc5674",
+      "target_bytes": 2868887552,
+      "patch_sha256": "fc9dde31de83f9bd92b937339156cc1213dcb818ce5cd1ef58de77f1444db9ff",
+      "patch_bytes": 405658911
+    },
+    {
+      "patch": "Heroes-Phantasia-English-0.1.50-to-0.1.61.xdelta",
+      "edition": "English",
+      "language": "en",
+      "source_version": "0.1.50",
+      "source_format": "iso",
+      "target_format": "iso",
+      "source_sha256": "fa420a494942817a7498615716b8b43bbc5ff4a817abb3cdb4354a90e89df8b8",
+      "source_bytes": 2647455744,
+      "target_sha256": "154eba01e36a83d9dac00ae8f5d93d8473e7c5310a398b7942a83c68f2fc5674",
+      "target_bytes": 2868887552,
+      "patch_sha256": "ee2ce07d78e602fc1ed1971e5c924188f72abbef43ab1530e129094ea7e0dda7",
+      "patch_bytes": 13911253
+    }
+  ]
+}

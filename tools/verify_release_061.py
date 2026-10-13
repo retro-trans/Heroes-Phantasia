@@ -27,6 +27,11 @@ def routes(catalog=None):
         if c.plan(source,'0.1.61').target.id!=target.id:raise ValueError('Explicit target differs')
         checked.append(dict(source_version=row['source_version'],patch=row['patch'],one_step=True,patch_integrity_matches=True))
     if not matches(target,{'sha256':TARGET_SHA},m['patches'][0]['target_bytes']) or c.plan(target,'Latest').edges:raise ValueError('Current target no-op differs')
+    earlier=c.nodes[('heroes-phantasia','English','en','0.1.45')]
+    upgrade=c.plan(earlier,'Latest')
+    if upgrade.target.id!=target.id or len(upgrade.edges)!=2:raise ValueError('Published .45 upgrade route differs')
+    checked.append(dict(source_version='0.1.45',via_version='0.1.50',two_steps=True,
+                        patches=[edge.asset.name for edge in upgrade.edges]))
     if any(matches(n,{'sha256':'0'*64},1415020544)for n in c.nodes.values()):raise ValueError('Unknown image accepted')
     return dict(schema_version=1,repo=REPO,tag=TAG,catalog='public'if catalog else'candidate',catalog_sha256=sha(catalog)if catalog else None,routes=checked,current_version_no_op=True,unknown_hash_rejected=True,source_commit=m['source_commit'])
 

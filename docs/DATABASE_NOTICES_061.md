@@ -52,3 +52,7 @@ limitations; this build does not claim that every dialogue in the game is safe.
 Public release 0.1.61 was explicitly requested on 2026-10-13. The release uses
 this exact reviewed ISO; packaging and publication evidence is recorded under
 `docs/releases/0.1.61/`.
+
+Published as `v0.1.61` with both patch round trips and all uploaded digests
+verified. The public Retro Trans catalog includes the exact canonical manifest;
+original and 0.1.50 direct routes and the 0.1.45 intermediate route pass.

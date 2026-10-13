@@ -1,0 +1,4 @@
+d726c5c52f2781052d738e8fc3a75e0d43c9bbd235c34089ba14facb1f8cc3f8  BUILD-MANIFEST.json
+ee2ce07d78e602fc1ed1971e5c924188f72abbef43ab1530e129094ea7e0dda7  Heroes-Phantasia-English-0.1.50-to-0.1.61.xdelta
+fc9dde31de83f9bd92b937339156cc1213dcb818ce5cd1ef58de77f1444db9ff  Heroes-Phantasia-English-0.1.61.xdelta
+69c323676a16312670eab17713da1f80006193286b46243c2d3818e4dac37eb3  VALIDATION.json

@@ -10,6 +10,8 @@
 
 - Public release 0.1.61 explicitly authorized on 2026-10-13. Packages the reviewed ISO with full original-disc and published-0.1.50 upgrade routes through the pinned Retro Trans Tools packager. Release notes cover all changes since public 0.1.50; patch and publication evidence is under `docs/releases/0.1.61/`.
 
+- Publishes `v0.1.61` as Latest through `binhlt0402`. Both patches reproduce the exact reviewed ISO and all five uploaded asset SHA-256 digests/sizes match. Retro Trans catalog refresh run `38387342331` succeeds; public original/.50 direct routes, the .45 intermediate route, current-version no-op and unknown-hash rejection pass.
+
 ## 0.1.60 — 2026-10-13 (English pronunciation cleanup and name dialogue)
 
 - Removes 615 duplicate ASCII pronunciation readings from 543 references in 285 resources, including Argiano's Ryuho line in both protagonist branches. Preserves base words, other controls, authored scene/tail tracks and the 45 different readings reserved for review.
