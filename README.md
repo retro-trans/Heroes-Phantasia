@@ -6,7 +6,7 @@ English fan translation of the PSP game *Heroes Phantasia* (ULJS-00456). The pat
 
 Use the latest [Retro Trans](https://github.com/retro-trans/retro-trans-tools/releases/latest) for automatic patching:
 
-1. Open **Automatic**, click **Refresh catalog**, and browse to your original Japanese ISO.
+1. Open **Automatic**, click **Refresh catalog**, and browse to your original Japanese ISO or the published 0.1.50 English ISO.
 2. Select **Heroes Phantasia**, English edition.
 3. Leave **Target** on **Latest**, choose a new output filename, and apply the patch. Retro Trans downloads the matching patch and verifies the result.
 
@@ -17,16 +17,16 @@ For manual patching:
 1. Dump your own Japanese disc to an ISO. The full patch accepts this exact image:
    - `Heroes Phantasia (Japan).iso`, **1,415,020,544 bytes**
    - SHA-256 `2c3583f377cdaa9132d349a0039d7f6ffe21cac093476c7746705e8af2b03b40`
-2. Download `Heroes-Phantasia-English-0.1.50.xdelta` from [Releases](https://github.com/retro-trans/Heroes-Phantasia/releases/latest).
+2. Download `Heroes-Phantasia-English-0.1.61.xdelta` from [Releases](https://github.com/retro-trans/Heroes-Phantasia/releases/latest).
 3. Apply it with xdelta3 or [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher):
 
    ```text
-   xdelta3 -d -s "Heroes Phantasia (Japan).iso" Heroes-Phantasia-English-0.1.50.xdelta "Heroes Phantasia English 0.1.50.iso"
+   xdelta3 -d -s "Heroes Phantasia (Japan).iso" Heroes-Phantasia-English-0.1.61.xdelta "Heroes Phantasia English 0.1.61.iso"
    ```
 
-4. Check the output against `BUILD-MANIFEST.json`, then boot it in PPSSPP. Version 0.1.50 produces **2,647,455,744 bytes**, SHA-256 `fa420a494942817a7498615716b8b43bbc5ff4a817abb3cdb4354a90e89df8b8`.
+4. Check the output against `BUILD-MANIFEST.json`, then boot it in PPSSPP. Version 0.1.61 produces **2,868,887,552 bytes**, SHA-256 `154eba01e36a83d9dac00ae8f5d93d8473e7c5310a398b7942a83c68f2fc5674`.
 
-The larger output contains appended translation resources. The release provides a full patch from the original Japanese ISO and `Heroes-Phantasia-English-0.1.45-to-0.1.50.xdelta` for the exact published 0.1.45 ISO. Retro Trans selects the matching route automatically. Both patches produce the same image; other local candidates are not supported upgrade inputs.
+The larger output contains appended translation resources. The release provides a full patch from the original Japanese ISO and `Heroes-Phantasia-English-0.1.50-to-0.1.61.xdelta` for the exact published 0.1.50 ISO. Retro Trans selects the matching route automatically. Both patches produce the same image; other local candidates are not supported upgrade inputs.
 
 ## Check the translation
 

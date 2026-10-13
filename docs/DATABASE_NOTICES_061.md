@@ -49,4 +49,6 @@ ISO; 5,183 unselected archive TOC rows remain exact. The fresh title capture
 confirms 0.1.61 above the project credit.
 The inherited 91 name-layout risks and 127 unsupported layouts remain explicit
 limitations; this build does not claim that every dialogue in the game is safe.
-No GitHub release is authorized or created for this local build.
+Public release 0.1.61 was explicitly requested on 2026-10-13. The release uses
+this exact reviewed ISO; packaging and publication evidence is recorded under
+`docs/releases/0.1.61/`.

@@ -8,6 +8,8 @@
 - Carries the name-width fixes for all three dialogue screenshots reported from 0.1.58; checks those references again in both branches. Creates a local test ISO with the matching 0.1.61 title stamp. Validation and remaining scope are recorded in `docs/DATABASE_NOTICES_061.md`.
 - Passes 3,840 notice instruction cases, 45 installed native notice cases, 84 installed native geometry cases, package readback and the full corpus guard. A fresh boot confirms the title version. Natural HQ scene playback remains unverified.
 
+- Public release 0.1.61 explicitly authorized on 2026-10-13. Packages the reviewed ISO with full original-disc and published-0.1.50 upgrade routes through the pinned Retro Trans Tools packager. Release notes cover all changes since public 0.1.50; patch and publication evidence is under `docs/releases/0.1.61/`.
+
 ## 0.1.60 — 2026-10-13 (English pronunciation cleanup and name dialogue)
 
 - Removes 615 duplicate ASCII pronunciation readings from 543 references in 285 resources, including Argiano's Ryuho line in both protagonist branches. Preserves base words, other controls, authored scene/tail tracks and the 45 different readings reserved for review.
