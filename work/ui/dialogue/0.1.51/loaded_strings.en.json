@@ -1,0 +1,108 @@
+{
+  "version": "0.1.51",
+  "labels": [
+    {
+      "native_table": 0,
+      "native_index": 0,
+      "target": "Cheer",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "native_table": 0,
+      "native_index": 1,
+      "target": "Items",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "native_table": 0,
+      "native_index": 2,
+      "target": "Brave",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "native_table": 0,
+      "native_index": 4,
+      "target": "Members",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "native_table": 0,
+      "native_index": 48,
+      "target": "Actions",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "native_table": 0,
+      "native_index": 176,
+      "target": "Switch Menu",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "native_table": 1,
+      "native_index": 51,
+      "target": "Cheer on allies{11}to restore lost HP.{0E}",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "native_table": 1,
+      "native_index": 52,
+      "target": "Allocate Brave Points{11}to strengthen characters.{0E}",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "native_table": 1,
+      "native_index": 53,
+      "target": "Configure attack actions.{0E}",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "native_table": 1,
+      "native_index": 54,
+      "target": "Equip accessories.{0E}",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "native_table": 1,
+      "native_index": 55,
+      "target": "Arrange battle members.{0E}",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "native_table": 1,
+      "native_index": 56,
+      "target": "Choose amulets.{0E}",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "native_table": 1,
+      "native_index": 70,
+      "target": "{1A}2{17}2Overcharge type selection unlocked.{11}{17}2Change it on the Actions screen.{0E}",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "native_table": 1,
+      "native_index": 71,
+      "target": "{1A}5{17}2Gourry's smithing skill improved.{0E}",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "native_table": 1,
+      "native_index": 72,
+      "target": "'s{11}{17}2new Chain Action has been unlocked.{0E}",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "native_table": 1,
+      "native_index": 73,
+      "target": " obtained!{0E}",
+      "complete_loaded_target_exact": true
+    },
+    {
+      "native_table": 1,
+      "native_index": 74,
+      "target": "{1A}5{17}2Photo set as the background.{0E}",
+      "complete_loaded_target_exact": true
+    }
+  ],
+  "natural_gameplay_verified": false
+}

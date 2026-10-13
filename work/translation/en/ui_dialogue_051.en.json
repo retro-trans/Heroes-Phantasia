@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "rows": [
+    {
+      "id": "ui_051_0_0",
+      "category": "party_menu_ui",
+      "target": "Cheer",
+      "status": "installed_static_verified",
+      "native_index": 0
+    },
+    {
+      "id": "ui_051_0_1",
+      "category": "party_menu_ui",
+      "target": "Items",
+      "status": "installed_static_verified",
+      "native_index": 1
+    },
+    {
+      "id": "ui_051_0_2",
+      "category": "party_menu_ui",
+      "target": "Brave",
+      "status": "installed_static_verified",
+      "native_index": 2
+    },
+    {
+      "id": "ui_051_0_4",
+      "category": "party_menu_ui",
+      "target": "Members",
+      "status": "installed_static_verified",
+      "native_index": 4
+    },
+    {
+      "id": "ui_051_0_48",
+      "category": "party_menu_ui",
+      "target": "Actions",
+      "status": "installed_static_verified",
+      "native_index": 48
+    },
+    {
+      "id": "ui_051_0_176",
+      "category": "party_menu_ui",
+      "target": "Switch Menu",
+      "status": "installed_static_verified",
+      "native_index": 176
+    },
+    {
+      "id": "ui_051_1_51",
+      "category": "party_menu_ui",
+      "target": "Cheer on allies{11}to restore lost HP.{0E}",
+      "status": "installed_static_verified",
+      "native_index": 51
+    },
+    {
+      "id": "ui_051_1_52",
+      "category": "party_menu_ui",
+      "target": "Allocate Brave Points{11}to strengthen characters.{0E}",
+      "status": "installed_static_verified",
+      "native_index": 52
+    },
+    {
+      "id": "ui_051_1_53",
+      "category": "party_menu_ui",
+      "target": "Configure attack actions.{0E}",
+      "status": "installed_static_verified",
+      "native_index": 53
+    },
+    {
+      "id": "ui_051_1_54",
+      "category": "party_menu_ui",
+      "target": "Equip accessories.{0E}",
+      "status": "installed_static_verified",
+      "native_index": 54
+    },
+    {
+      "id": "ui_051_1_55",
+      "category": "party_menu_ui",
+      "target": "Arrange battle members.{0E}",
+      "status": "installed_static_verified",
+      "native_index": 55
+    },
+    {
+      "id": "ui_051_1_56",
+      "category": "party_menu_ui",
+      "target": "Choose amulets.{0E}",
+      "status": "installed_static_verified",
+      "native_index": 56
+    },
+    {
+      "id": "ui_051_1_70",
+      "category": "battle_result_ui",
+      "target": "{1A}2{17}2Overcharge type selection unlocked.{11}{17}2Change it on the Actions screen.{0E}",
+      "status": "installed_static_verified",
+      "native_index": 70
+    },
+    {
+      "id": "ui_051_1_71",
+      "category": "battle_result_ui",
+      "target": "{1A}5{17}2Gourry's smithing skill improved.{0E}",
+      "status": "installed_static_verified",
+      "native_index": 71
+    },
+    {
+      "id": "ui_051_1_72",
+      "category": "battle_result_ui",
+      "target": "'s{11}{17}2new Chain Action has been unlocked.{0E}",
+      "status": "installed_static_verified",
+      "native_index": 72
+    },
+    {
+      "id": "ui_051_1_73",
+      "category": "battle_result_ui",
+      "target": " obtained!{0E}",
+      "status": "installed_static_verified",
+      "native_index": 73
+    },
+    {
+      "id": "ui_051_1_74",
+      "category": "battle_result_ui",
+      "target": "{1A}5{17}2Photo set as the background.{0E}",
+      "status": "installed_static_verified",
+      "native_index": 74
+    }
+  ]
+}

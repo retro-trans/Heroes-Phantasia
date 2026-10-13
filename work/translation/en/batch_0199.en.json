@@ -589,8 +589,9 @@
       "byte_length": 40,
       "encoding": "cp932",
       "category": "battle_dialogue",
-      "target": "{1C}Gourry{0E}With the Sword of Light, I'm as strong as a hundred men!{12}{0E}",
+      "target": "{1C}Gourry{0E}With the Sword of Light,{11}I'm as strong as{11}a hundred men!{12}{0E}",
       "status": "draft",
+      "notes": "0.1.51 scoped profile/dialogue reflow; stored player names and original Kogoro speaker anchor retained. Natural playback pending.",
       "context": "Standalone R.O.D and Slayers battle text/voice resources read completely, plus eight preceding and twenty-four following queue rows. These remarks are trigger-dependent, not a continuous conversation. Canonical names protected; unnamed opponents remain unspecified. All written vocalizations retained. No runtime fit claim.",
       "decisions": "Complete battle resource and adjacent queue read; opponent/trigger not runtime verified. Full spoken English, no byte budget; controls and raw source suffix retained. Runtime width and voice timing pending. Hundred-men idiom retained; no game numerical strength multiplier claimed."
     },

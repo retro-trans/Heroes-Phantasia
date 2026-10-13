@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.51 — 2026-10-13 (profile cards, dialogue and party/result text)
+
+- Repairs both protagonist profile sequences with short pages and authored tailless styles. Rewraps Kogoro's introduction while preserving his original tail anchor and accepts bounded Latin pronunciation spans 1–9. Wraps Gourry's Sword of Light line in an existing three-line jagged bubble and moves its two position keys together to fit the screen.
+- Translates six shared party labels, their six help messages and the shared Menu image heading. Translates five adjacent battle-result notices, including the separate Chain Action message that remained Japanese in public 0.1.50. Keeps style selectors, numeric costs, player input and result logic intact, with no loaded-memory growth.
+- Creates a separate local test build with the 0.1.51 title stamp. Validation and gameplay limits are recorded in `docs/UI_DIALOGUE_051.md`. No GitHub release requested or created for this build.
+- Final checks pass 229 installed native geometry cases, all 17 new loaded strings, nine profile/jagged text-fit and screen-edge models, and exact nested assets. The other 5,181 archive entries remain unchanged relative to 0.1.50; natural scene playback and maximum-length custom-name layouts remain unverified.
+
 ## 0.1.50 — 2026-10-12 (HQ exit confirmation)
 
 - Repairs the blank "Go to the World Map?" question when leaving headquarters. Its translated string was intact, but the legacy question renderer discarded single-byte English glyphs. All 26 callers of that plain confirmation path now select the existing English VWF renderer for printable Latin text; Japanese and leading-control inputs retain their original path.

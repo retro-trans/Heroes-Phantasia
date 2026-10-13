@@ -1,0 +1,29 @@
+{
+  "resource": "resident/ALLResidentNML.bin",
+  "texture_offset": 318960,
+  "rectangle": [
+    0,
+    160,
+    40,
+    16
+  ],
+  "target": "Menu",
+  "font_native_pixels": 13,
+  "text_boxes": [
+    {
+      "text": "Menu",
+      "box": [
+        5,
+        2,
+        29,
+        10
+      ],
+      "ink_height": 9
+    }
+  ],
+  "input_sha256": "b17aaf43ecfed61cafe8d632c3355879fe34e3f7d2016f8690693c4bfbd2f1c0",
+  "output_sha256": "650af937d12e808c4d52fbfd32a182c8c0e79a050a3ba2c1e7586c866831c892",
+  "outside_rectangle_pixel_exact": true,
+  "palette_uv_and_dimensions_exact": true,
+  "natural_display_verified": false
+}

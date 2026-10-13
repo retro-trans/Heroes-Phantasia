@@ -1,0 +1,361 @@
+{
+  "version": "0.1.51",
+  "records": [
+    {
+      "resource": "phase/bin/p101020.bin",
+      "reference_index": 7,
+      "shape": 112,
+      "pages": [
+        {
+          "lines": [
+            "Watari",
+            "Shinobu",
+            "Age 24"
+          ],
+          "advances": [
+            78,
+            91,
+            78
+          ],
+          "mode": "native13px conservative fallback",
+          "white_interior_fit": true
+        }
+      ],
+      "settled_outline_bounds": [
+        9.0,
+        53.0,
+        206.0,
+        136.0
+      ],
+      "outline_in_viewport": true,
+      "left_aligned_parent_width_fit": true
+    },
+    {
+      "resource": "phase/bin/p101020.bin",
+      "reference_index": 8,
+      "shape": 112,
+      "pages": [
+        {
+          "lines": [
+            "This young",
+            "agent works",
+            "for S.I.R.,"
+          ],
+          "advances": [
+            130,
+            143,
+            143
+          ],
+          "mode": "native13px conservative fallback",
+          "white_interior_fit": true
+        },
+        {
+          "lines": [
+            "a private",
+            "investigation",
+            "agency."
+          ],
+          "advances": [
+            117,
+            169,
+            91
+          ],
+          "mode": "native13px conservative fallback",
+          "white_interior_fit": true
+        },
+        {
+          "lines": [
+            "Also known as",
+            "S.I.R. Ace."
+          ],
+          "advances": [
+            169,
+            143
+          ],
+          "mode": "native13px conservative fallback",
+          "white_interior_fit": true
+        }
+      ],
+      "settled_outline_bounds": [
+        264.0,
+        129.0,
+        461.0,
+        212.0
+      ],
+      "outline_in_viewport": true,
+      "left_aligned_parent_width_fit": true
+    },
+    {
+      "resource": "phase/bin/p101020.bin",
+      "reference_index": 10,
+      "shape": 132,
+      "pages": [
+        {
+          "lines": [
+            "Michie Sawada",
+            "Age 17"
+          ],
+          "advances": [
+            97,
+            45
+          ],
+          "mode": "VWF",
+          "white_interior_fit": true
+        }
+      ],
+      "settled_outline_bounds": [
+        129.0,
+        162.0,
+        359.0,
+        220.0
+      ],
+      "outline_in_viewport": true,
+      "left_aligned_parent_width_fit": true
+    },
+    {
+      "resource": "phase/bin/p101020.bin",
+      "reference_index": 11,
+      "shape": 142,
+      "pages": [
+        {
+          "lines": [
+            "This provisional",
+            "S.I.R. member",
+            "serves as"
+          ],
+          "advances": [
+            208,
+            169,
+            117
+          ],
+          "mode": "native13px conservative fallback",
+          "white_interior_fit": true
+        },
+        {
+          "lines": [
+            "Shinobu's",
+            "assistant."
+          ],
+          "advances": [
+            117,
+            130
+          ],
+          "mode": "native13px conservative fallback",
+          "white_interior_fit": true
+        },
+        {
+          "lines": [
+            "Nickname: Mitch."
+          ],
+          "advances": [
+            208
+          ],
+          "mode": "native13px conservative fallback",
+          "white_interior_fit": true
+        }
+      ],
+      "settled_outline_bounds": [
+        227.0,
+        56.0,
+        465.0,
+        139.0
+      ],
+      "outline_in_viewport": true,
+      "left_aligned_parent_width_fit": true
+    },
+    {
+      "resource": "phase/bin/p101021.bin",
+      "reference_index": 7,
+      "shape": 112,
+      "pages": [
+        {
+          "lines": [
+            "Watari",
+            "Shinobu",
+            "Age 24"
+          ],
+          "advances": [
+            78,
+            91,
+            78
+          ],
+          "mode": "native13px conservative fallback",
+          "white_interior_fit": true
+        }
+      ],
+      "settled_outline_bounds": [
+        9.0,
+        53.0,
+        206.0,
+        136.0
+      ],
+      "outline_in_viewport": true,
+      "left_aligned_parent_width_fit": true
+    },
+    {
+      "resource": "phase/bin/p101021.bin",
+      "reference_index": 8,
+      "shape": 112,
+      "pages": [
+        {
+          "lines": [
+            "This young",
+            "agent works",
+            "for S.I.R.,"
+          ],
+          "advances": [
+            130,
+            143,
+            143
+          ],
+          "mode": "native13px conservative fallback",
+          "white_interior_fit": true
+        },
+        {
+          "lines": [
+            "a private",
+            "investigation",
+            "agency."
+          ],
+          "advances": [
+            117,
+            169,
+            91
+          ],
+          "mode": "native13px conservative fallback",
+          "white_interior_fit": true
+        },
+        {
+          "lines": [
+            "Also known as",
+            "S.I.R. Ace."
+          ],
+          "advances": [
+            169,
+            143
+          ],
+          "mode": "native13px conservative fallback",
+          "white_interior_fit": true
+        }
+      ],
+      "settled_outline_bounds": [
+        264.0,
+        129.0,
+        461.0,
+        212.0
+      ],
+      "outline_in_viewport": true,
+      "left_aligned_parent_width_fit": true
+    },
+    {
+      "resource": "phase/bin/p101021.bin",
+      "reference_index": 10,
+      "shape": 132,
+      "pages": [
+        {
+          "lines": [
+            "Michie Sawada",
+            "Age 17"
+          ],
+          "advances": [
+            97,
+            45
+          ],
+          "mode": "VWF",
+          "white_interior_fit": true
+        }
+      ],
+      "settled_outline_bounds": [
+        129.0,
+        162.0,
+        359.0,
+        220.0
+      ],
+      "outline_in_viewport": true,
+      "left_aligned_parent_width_fit": true
+    },
+    {
+      "resource": "phase/bin/p101021.bin",
+      "reference_index": 11,
+      "shape": 142,
+      "pages": [
+        {
+          "lines": [
+            "This provisional",
+            "S.I.R. member",
+            "serves as"
+          ],
+          "advances": [
+            208,
+            169,
+            117
+          ],
+          "mode": "native13px conservative fallback",
+          "white_interior_fit": true
+        },
+        {
+          "lines": [
+            "Shinobu's",
+            "assistant."
+          ],
+          "advances": [
+            117,
+            130
+          ],
+          "mode": "native13px conservative fallback",
+          "white_interior_fit": true
+        },
+        {
+          "lines": [
+            "Nickname: Mitch."
+          ],
+          "advances": [
+            208
+          ],
+          "mode": "native13px conservative fallback",
+          "white_interior_fit": true
+        }
+      ],
+      "settled_outline_bounds": [
+        227.0,
+        56.0,
+        465.0,
+        139.0
+      ],
+      "outline_in_viewport": true,
+      "left_aligned_parent_width_fit": true
+    },
+    {
+      "resource": "btl/res/r05002.bin",
+      "reference_index": 7,
+      "shape": 141,
+      "pages": [
+        {
+          "lines": [
+            "With the Sword of Light,",
+            "I'm as strong as",
+            "a hundred men!"
+          ],
+          "advances": [
+            154,
+            102,
+            101
+          ],
+          "mode": "VWF",
+          "white_interior_fit": true
+        }
+      ],
+      "settled_outline_bounds": [
+        9.0,
+        120.0,
+        309.0,
+        243.0
+      ],
+      "outline_in_viewport": true,
+      "left_aligned_parent_width_fit": true
+    }
+  ],
+  "custom_names_preserved": true,
+  "max_length_custom_names_layout_verified": false,
+  "natural_gameplay_verified": false
+}

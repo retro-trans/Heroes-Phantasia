@@ -1,0 +1,17 @@
+{
+  "version": "0.1.51",
+  "iso_sha256": "05e5f896457de3a30b2b0d610f65087b3347dfe6a034f8df90ec2f7c094d05c6",
+  "executable_sha256": "cee7f5479f2e4b69ab554240dbc9736a7b84d090f21a08f88d91aa82ff218aa7",
+  "capture_sha256": "2c6058d3962e317f58011417a11c5144c5ef3f2e02b6a2c1205ffe90b9035841",
+  "screen_dimensions": [
+    480,
+    272
+  ],
+  "method": "Unmodified native display import framebuffer,RGB5551",
+  "fresh_boot": true,
+  "displayed_version_and_credit_verified": true,
+  "visually_reviewed": true,
+  "mean_stamp_channel_error": 1.9682539682539681,
+  "max_stamp_channel_error": 9,
+  "natural_reported_scene_playback_verified": false
+}

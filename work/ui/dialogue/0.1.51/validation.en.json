@@ -1,0 +1,19 @@
+{
+  "version": "0.1.51",
+  "iso_sha256": "05e5f896457de3a30b2b0d610f65087b3347dfe6a034f8df90ec2f7c094d05c6",
+  "executable_sha256": "cee7f5479f2e4b69ab554240dbc9736a7b84d090f21a08f88d91aa82ff218aa7",
+  "archive_sha256": "dea945b90d3bc20d010ad27037dc9e23db58e2c55aff8d206d1f0f11ef5741bd",
+  "changed_archive_rows": [
+    "btl/res/r05002.bin",
+    "menu/TitleMenu_Data.bin",
+    "phase/bin/p101020.bin",
+    "phase/bin/p101021.bin",
+    "resident/ALLResidentNML.bin"
+  ],
+  "unselected_archive_rows_exact": 5181,
+  "nested_selected_assets_exact": true,
+  "default_name_style_fit_records": 9,
+  "loaded_growth_bytes": 0,
+  "natural_gameplay_verified": false,
+  "full_game_verified": false
+}
